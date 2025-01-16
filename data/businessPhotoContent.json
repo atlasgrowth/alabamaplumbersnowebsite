@@ -1194,6 +1194,108 @@
           "reason": "This image conveys the company's eco-friendly approach and respect for the environment, which can be a compelling aspect to feature in the About Us section."
         }
       ]
+    },
+    "condo-care": {
+      "businessName": "Condo Care",
+      "processedImages": 7,
+      "totalTokens": 13137,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPtBZj3a4Lvkgl1JB0nWWdM3YCtSDzndbz76FeR=w2048-h2048-k-no",
+          "description": "An array of color swatches and a brush, representing the expertise in selecting the perfect color palette for any project.",
+          "callToAction": "Elevate your space with our professional color consultation services. Book now and transform your vision into reality."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO0wUaaCe4yHHX9Us5oT-RJjcxzRsXoUb4bk2I3=w2048-h2048-k-no",
+          "description": "Skilled technicians working on an electrical panel, showcasing the company's proficiency in electrical services.",
+          "callToAction": "Ensure the safety and efficiency of your electrical systems. Schedule an inspection with our certified electricians today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNKqUfcMEBPgjBJXow7EUd7bPbJ0-2uJxeHOvDw=w2048-h2048-k-no",
+          "description": "A plumbing repair in progress, highlighting the company's expertise in addressing plumbing issues promptly and effectively.",
+          "callToAction": "Don't let plumbing problems disrupt your daily routine. Our experienced plumbers are just a call away for reliable solutions."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMzkcYRiM3sOv1VQ6jzt0_68uHH4pwtMUK44Wjd=w2048-h2048-k-no",
+          "description": "A Condo Care service vehicle, showcasing the company's commitment to providing prompt and professional assistance.",
+          "reason": "This image demonstrates the company's dedication to serving the community and being readily available for any plumbing, electrical, or maintenance needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPFbXUuDvBgg_zRNqgMWDJmge97z87c13sY9Zr6=w2048-h2048-k-no",
+          "description": "A damaged boardwalk leading to beachfront properties, illustrating the need for timely maintenance and repair services.",
+          "reason": "This image highlights the company's expertise in addressing structural issues and ensuring the safety and longevity of residential and commercial properties."
+        }
+      ]
+    },
+    "cochran-brothers-plumbing-and-gas": {
+      "businessName": "Cochran Brothers Plumbing and Gas",
+      "processedImages": 12,
+      "totalTokens": 28388,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPfn9Ocm7MZbjWhkEKdRs5lE2T7jhf4sOh_4isP=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of our plumbers in residential plumbing services. It features a picturesque lakeside property with a mini excavator in the foreground, working on installing or repairing underground piping.",
+          "callToAction": "Upgrade your home's plumbing system with our professional residential plumbing services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPcMgeRZlnJa77t_qWP_MKVnD0ANCUJt8YD7Nqu=w2048-h2048-k-no",
+          "description": "This image highlights our expertise in landscaping and outdoor plumbing projects. It shows a well-manicured lawn with a trench dug for installing new piping or drainage systems.",
+          "callToAction": "Enhance your outdoor living spaces with our professional landscaping and irrigation services. Get a free quote today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM6tj6AJclCDKUy6xBjn3TEUmY9y9jqNNNNkXMr=w2048-h2048-k-no",
+          "description": "This image showcases our expertise in commercial and industrial plumbing projects. It features a large-scale excavation site with heavy machinery and piping installations.",
+          "callToAction": "Trust our experienced team for all your commercial and industrial plumbing needs. Contact us for a comprehensive project evaluation."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOMhdYh3w4pssRX6f9Q-VYCTUPY9WxD-Sbo8cj3=w2048-h2048-k-no",
+          "description": "This image showcases the skill and dedication of our plumbers. It depicts two professionals working in a confined space, demonstrating their commitment to tackling challenging plumbing tasks.",
+          "reason": "This image effectively highlights the expertise and professionalism of our team, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOJWGlZLzy6U3EoqR_LssSaosU2r5zmq6GAr-wn=w2048-h2048-k-no",
+          "description": "This image showcases the attention to detail and quality workmanship our team provides. It features a well-organized basement with a newly installed water heater and piping system.",
+          "reason": "This image demonstrates our commitment to delivering high-quality plumbing solutions, making it a great addition to the About Us section."
+        }
+      ]
+    },
+    "on-point-plumbing": {
+      "businessName": "On Point Plumbing",
+      "processedImages": 8,
+      "totalTokens": 17470,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNCfnwm26LpQhcl-x3kxFxFyyRb9n7uPS4cQSyK=w2048-h2048-k-no",
+          "description": "A modern and efficient tankless water heater installation, showcasing the company's expertise in providing reliable and energy-saving solutions for hot water needs.",
+          "callToAction": "Upgrade to a high-efficiency tankless water heater and save on your energy bills. Contact us today for a free consultation!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNtmBk11EH2Xt5lpaBbOu-of3wMvd0gcq5b0iF3=w2048-h2048-k-no",
+          "description": "A team of skilled professionals working on a sewer line repair project, demonstrating the company's commitment to addressing complex plumbing issues with precision and efficiency.",
+          "callToAction": "Experiencing sewer or drain problems? Our experts are equipped to handle any plumbing challenge. Schedule your service now!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNKn5IERyqWh1Xi8RIpeWK045EJ0ci-rmkW803Z=w2048-h2048-k-no",
+          "description": "A well-branded service van, showcasing the company's professional image and readiness to serve residential and commercial clients with top-notch plumbing services.",
+          "callToAction": "Trust the experts at On Point Plumbing for all your plumbing needs. Call us today for prompt and reliable service!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMsjuQsXbd_8TYm-6SCytoIzmV_oKJKbT8R5bsz=w2048-h2048-k-no",
+          "description": "A team member working on a new construction project, highlighting the company's capability to handle plumbing installations for residential and commercial buildings.",
+          "reasonForAboutUs": "This image showcases the company's expertise in new construction projects, demonstrating their ability to handle plumbing installations from the ground up."
+        },
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fi3mht3gRBdvaD-KMC8bxw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=14.254425&pitch=0&thumbfov=100",
+          "description": "An exterior shot of a residential property, showcasing the company's commitment to serving homeowners with top-quality plumbing services.",
+          "reasonForAboutUs": "This image represents the company's dedication to providing exceptional plumbing services to residential customers, fostering trust and reliability."
+        }
+      ]
     }
   }
 }
