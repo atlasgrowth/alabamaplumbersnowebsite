@@ -2522,6 +2522,108 @@
           "whyItWorks": "By showcasing our residential plumbing expertise, this image resonates with homeowners seeking trustworthy and skilled professionals to handle their plumbing needs, effectively positioning the company as a reliable choice."
         }
       ]
+    },
+    "mel-s-restoration-remodeling": {
+      "businessName": "Mel's Restoration & Remodeling",
+      "processedImages": 12,
+      "totalTokens": 21833,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPFqAoMrzJpxMt8oQf-SQreZjXlk84u3wBdznxr=w2048-h2048-k-no",
+          "description": "A beautifully designed and remodeled kitchen with white cabinets, a light blue island, and modern pendant lighting, showcasing the company's expertise in kitchen renovations.",
+          "callToAction": "Transform your kitchen into a stunning and functional space with our expert design and remodeling services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOQkTqIB-QqVZ8K0PScXP4sIB2XM5e52ww6FXmD=w2048-h2048-k-no",
+          "description": "A cozy and inviting living room with a fireplace, plush sofas, and tasteful decor, highlighting the company's ability to create warm and welcoming living spaces.",
+          "callToAction": "Elevate your living room's style and comfort with our professional remodeling and design services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP5UHW1eYehMhYUHO0bIg1MgST2Tst7o6dRNWFx=w2048-h2048-k-no",
+          "description": "A luxurious and modern bathroom with a sleek vanity, a large mirror, and a stylish chevron-patterned shower curtain, demonstrating the company's skill in bathroom renovations.",
+          "callToAction": "Indulge in a spa-like experience with our expert bathroom remodeling services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOoWdv02zdppCbgmPZkD8PaMV51ya2Ldl4SJ2hg=w2048-h2048-k-no",
+          "description": "A work-in-progress shot of a residential renovation project, showcasing the company's ability to handle various stages of the remodeling process.",
+          "whyItWorks": "This image highlights the company's hands-on approach and commitment to delivering high-quality results throughout the entire renovation process."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMlmVZS4TdKtZmgNuasCgaHbrlC3CjDKTXPrWgT=w2048-h2048-k-no",
+          "description": "An exterior shot of a charming residential property with a well-maintained lawn and a driveway leading to the house, showcasing the company's expertise in exterior renovations and landscaping.",
+          "whyItWorks": "This image demonstrates the company's capability to enhance the curb appeal and overall aesthetic of a property, making it an excellent choice for the About Us section."
+        }
+      ]
+    },
+    "e-e-renovations": {
+      "businessName": "E & E Renovations",
+      "processedImages": 12,
+      "totalTokens": 26621,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPetkuN40aWgXSqmreN95AzSiqzJjlzF6eHkdIa=w2048-h2048-k-no",
+          "description": "A well-maintained residential property with a fresh coat of paint, manicured lawn, and a welcoming front entrance, showcasing the high-quality exterior renovation services provided.",
+          "callToAction": "Transform your home's curb appeal with our expert exterior renovation services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOUhdmeTW3MNc_gWbnGw_IQPCOrZJr-9Z9lntb_=w2048-h2048-k-no",
+          "description": "A modern and stylish kitchen with white cabinets, stainless steel appliances, and a tiled backsplash, highlighting the company's expertise in kitchen remodeling and design.",
+          "callToAction": "Elevate your cooking experience with a stunning kitchen renovation. Schedule a consultation to discuss your dream kitchen today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM2gJfoYJ_ZcaoJcfewdwrK2gdiu0vIZI0J-H15=w2048-h2048-k-no",
+          "description": "A luxurious bathroom with a spacious walk-in shower, elegant tiling, and modern fixtures, demonstrating the company's ability to create spa-like bathroom retreats.",
+          "callToAction": "Indulge in the ultimate relaxation with our custom bathroom renovation services. Book a free design consultation now."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh3.googleusercontent.com/p/AF1QipPNk74TFWWP2poe8k1aw0TdzMuHPDrkHOM8blga=w2048-h2048-k-no",
+          "description": "A skilled worker carefully laying flooring, showcasing the company's attention to detail and commitment to quality craftsmanship.",
+          "reason": "This image highlights the company's expertise and dedication to delivering top-notch workmanship, which is essential for building trust with potential clients."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOFnp_oUwRDAAHM-Q1q0GOoflhv4ElP_bmJYZ-3=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a renovation project in progress, with tools and materials neatly organized, demonstrating the company's professionalism and organizational skills.",
+          "reason": "This image provides a glimpse into the company's work process, showcasing their professionalism and ability to manage complex renovation projects efficiently."
+        }
+      ]
+    },
+    "a-revolution-llc": {
+      "businessName": "A Revolution LLC",
+      "processedImages": 12,
+      "totalTokens": 28365,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOtIXzWSNxZvkkJAa5uKmcV5YEYP-U2HFwtGv0=w2048-h2048-k-no",
+          "description": "This image showcases a cozy and inviting living area with rustic decor elements, including a wood-paneled accent wall, a ceiling fan, and a framed poster. The space exudes warmth and character.",
+          "callToAction": "Elevate your living space with our expert plumbing solutions for a comfortable and functional home."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOMVw-sQwIc1EH2Ud43CnfVw04Fro4_zrB7zig=w2048-h2048-k-no",
+          "description": "This image displays a modern and well-equipped kitchen with dark cabinetry, granite countertops, and stainless steel appliances. The space is organized and functional, reflecting the attention to detail in our work.",
+          "callToAction": "Transform your kitchen with our top-notch plumbing services for a stylish and efficient cooking environment."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO-plg37LsdqZ7kAbnqxUWWml_Q-h8dSmZFuuQ=w2048-h2048-k-no",
+          "description": "This image captures a welcoming front porch with a cozy bench, potted plants, and decorative elements. The attention to detail in the outdoor living space showcases our commitment to creating comfortable and inviting spaces.",
+          "callToAction": "Enhance your home's curb appeal and outdoor living areas with our professional plumbing expertise."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM9nRAM8frM7y4k4ESyrLI_7BFVsn3xku_6s5g=w2048-h2048-k-no",
+          "description": "This image showcases a modern and functional kitchen with sleek cabinetry, granite countertops, and a stylish sink and faucet. It demonstrates our ability to create beautiful and practical plumbing solutions.",
+          "reason": "This image highlights our expertise in kitchen plumbing installations, showcasing our attention to detail and commitment to delivering high-quality work."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMr3xjUrqoB51Z1HfHZye8SQfnx3MCU2UhIRbg=w2048-h2048-k-no",
+          "description": "This image displays a well-designed bathroom with a stone accent wall, a modern vanity, and a spacious shower area. It exemplifies our skills in creating luxurious and functional bathroom spaces.",
+          "reason": "This image showcases our capabilities in bathroom remodeling and plumbing installations, demonstrating our ability to transform spaces into stylish and comfortable environments."
+        }
+      ]
     }
   }
 }
