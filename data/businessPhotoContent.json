@@ -2112,6 +2112,76 @@
           "reason": "This image showcases the company's professionalism and expertise in executing plumbing projects with precision, using industry-standard materials and techniques."
         }
       ]
+    },
+    "triple-b-plumbing-llc": {
+      "businessName": "Triple B Plumbing, LLC.",
+      "processedImages": 10,
+      "totalTokens": 6687,
+      "heroSection": {
+        "mainImage": {
+          "index": "https://lh5.googleusercontent.com/p/AF1QipNwDB6G3dKV0GObiaPvphD4-4tIKUAPhDbE9GNa=w2048-h2048-k-no",
+          "description": "An organized collection of plumbing materials and tools, including pipes, fittings, and wrenches, representing the company's professional expertise and readiness to tackle any plumbing project.",
+          "callToAction": "Trust the experts at Triple B Plumbing for all your commercial and residential plumbing needs."
+        },
+        "supportingImages": [
+          {
+            "index": "https://lh5.googleusercontent.com/p/AF1QipM-b2QGWbx9ivLTGZ6XJX9gdeLCoBOlua1mFNKn=w2048-h2048-k-no",
+            "description": "A close-up view of plumbing blueprints and fittings, showcasing the company's attention to detail and commitment to following industry standards and best practices.",
+            "callToAction": "Rely on Triple B Plumbing for meticulously planned and executed plumbing solutions."
+          },
+          {
+            "index": "https://lh5.googleusercontent.com/p/AF1QipPCvjrvnTcAIWFSLnMMxXdSeoUpNKdJ94nyxxKJ=w2048-h2048-k-no",
+            "description": "Plumbing tools and fittings arranged on a blueprint, symbolizing the company's comprehensive approach to plumbing projects, combining technical knowledge with practical expertise.",
+            "callToAction": "Experience seamless plumbing services with Triple B Plumbing's skilled technicians and advanced tools."
+          }
+        ]
+      },
+      "aboutUsSection": [
+        {
+          "index": "https://lh5.googleusercontent.com/p/AF1QipPgzbt7jKsHbQr9PoqONPaZQtAd0xkexTDmxGvC=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a plumbing installation in progress, demonstrating the company's hands-on expertise and commitment to delivering high-quality workmanship.",
+          "reason": "This image effectively showcases Triple B Plumbing's capabilities and attention to detail, making it an ideal choice for the About Us section."
+        },
+        {
+          "index": "https://lh5.googleusercontent.com/p/AF1QipNCBlK4MIjAeG2F6n6-5wRDSRRuRpFy3l6zyrOd=w2048-h2048-k-no",
+          "description": "A close-up of a plumber's hands working on a plumbing fixture, highlighting the company's skilled professionals and their dedication to providing top-notch plumbing services.",
+          "reason": "This image puts the focus on the company's skilled technicians, emphasizing their expertise and commitment to quality work, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "cox-plumbing-solutions": {
+      "businessName": "Cox Plumbing Solutions",
+      "processedImages": 12,
+      "totalTokens": 28071,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO-G0B6rjk7aofCB0tQWSGWW0f4NGv6GcNgleK1=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of our plumbers in residential plumbing work. It depicts a freshly dug trench with new pipes being installed, highlighting our ability to handle underground plumbing projects efficiently.",
+          "callToAction": "Upgrade your home's plumbing system with our reliable and professional services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOq2j_Y7ZxAz3vY2uSzsq6M4rSMLFdoJ6gIgEqQ=w2048-h2048-k-no",
+          "description": "This stunning image captures the beauty of a well-designed outdoor living space, complete with a picturesque deck overlooking a serene lake. It showcases our ability to seamlessly integrate plumbing systems into luxurious outdoor environments.",
+          "callToAction": "Elevate your outdoor living experience with our expert plumbing solutions. Get in touch to bring your dream outdoor space to life."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOkI3oinvxVBV5PiSuHblq5qvjz6nS59R-1Ue3O=w2048-h2048-k-no",
+          "description": "This powerful image showcases our expertise in commercial plumbing projects. It depicts a construction site with our team working diligently to install plumbing systems for new buildings, highlighting our capability to handle large-scale projects efficiently.",
+          "callToAction": "Trust our experienced team to handle all your commercial plumbing needs. Contact us for reliable and efficient solutions."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOzv2unVLN1gXdsKGeQfxWb76vyqNOzZ8a6R2fM=w2048-h2048-k-no",
+          "description": "This image showcases the intricate network of pipes and fittings that make up a plumbing system, highlighting the complexity of our work and our expertise in handling such installations.",
+          "reason": "This image effectively demonstrates the breadth of our plumbing capabilities, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNagGHp1ZWmA-9Xw9iAFnptn-nri9sDtiBbqMZS=w2048-h2048-k-no",
+          "description": "This image depicts a well-organized and clean mechanical room, showcasing our attention to detail and commitment to delivering professional and tidy work.",
+          "reason": "By showcasing our commitment to quality workmanship, this image instills confidence in potential clients and makes it a suitable choice for the About Us section."
+        }
+      ]
     }
   }
 }
