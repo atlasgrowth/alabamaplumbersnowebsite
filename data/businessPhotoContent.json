@@ -2352,6 +2352,142 @@
           "reason": "The logo and branding effectively communicate the company's identity and specialization, allowing customers to quickly recognize their area of expertise."
         }
       ]
+    },
+    "marble-city-plumbing-llc": {
+      "businessName": "Marble City Plumbing, LLC",
+      "processedImages": 9,
+      "totalTokens": 22473,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNwMNDRkvwqdjYD_25kiXavLvmEvt8iP3V67K4=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of Marble City Plumbing in residential plumbing services. It captures a professional technician installing a new water heater system, complete with copper piping and an expansion tank, ensuring efficient and reliable hot water supply for the homeowner.",
+          "callToAction": "Upgrade your home's water heater with our expert installation services for improved energy efficiency and endless hot water."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNgf0vLwFLl0sQnpbtn55ai9y1UAcA3DfK-Yn8=w2048-h2048-k-no",
+          "description": "This image highlights Marble City Plumbing's proficiency in underground utility work. It depicts a technician carefully excavating a trench and laying new pipes, ensuring proper installation and adherence to safety standards for reliable water and sewer line connections.",
+          "callToAction": "Trust our experienced team to handle your underground plumbing needs, from sewer line replacements to water main installations, with precision and expertise."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPT1PJiyih-meHIvqKuBqVxrR5429V6Ir0FjiQ=w2048-h2048-k-no",
+          "description": "This image showcases Marble City Plumbing's commitment to using top-quality materials and equipment. It features a selection of brand-new copper fittings and piping components, ensuring durable and long-lasting plumbing solutions for their clients.",
+          "callToAction": "Experience the difference of our superior plumbing materials and expert craftsmanship for a reliable and lasting solution."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP3lVvLyom0Ljy1ErdHOoCxrsyxIFaj7bJPkHA=w2048-h2048-k-no",
+          "description": "This image demonstrates Marble City Plumbing's attention to detail and commitment to quality workmanship. It shows a technician carefully inspecting and testing a plumbing fixture, ensuring proper installation and functionality before completing the job.",
+          "reason": "This image works well for the About Us section as it showcases the company's dedication to delivering high-quality services and their meticulous approach to every project."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMZL11J1QaA7W9_WPQYjYHcMy60lJ3eHy6OAwc=w2048-h2048-k-no",
+          "description": "This image highlights Marble City Plumbing's expertise in both residential and commercial plumbing services. It features a technician working on a water heater installation in a compact utility closet, showcasing their ability to tackle projects in various settings and environments.",
+          "reason": "This image is suitable for the About Us section as it demonstrates the company's versatility in handling diverse plumbing projects, from small residential jobs to larger commercial installations."
+        }
+      ]
+    },
+    "jay-s-home-improvement": {
+      "businessName": "Jay's Home Improvement",
+      "processedImages": 12,
+      "totalTokens": 23099,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOEkmNJ_OUqXjU7i9Hs0mDgnIyMkKtE64sWjcxG=w2048-h2048-k-no",
+          "description": "This image showcases a modern and well-constructed pergola over a patio area, providing shade and enhancing the outdoor living space.",
+          "callToAction": "Transform your outdoor space with our expert pergola installation services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO3k_9PraxRrKfRa-C422Vl8LIvnMW-ON93JvDu=w2048-h2048-k-no",
+          "description": "This image displays a beautifully landscaped backyard with a spacious wooden deck, creating a serene and inviting outdoor environment.",
+          "callToAction": "Elevate your backyard oasis with our top-quality deck construction and landscaping services. Get in touch for a free quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNtK54kjCv0kDKrm7l76bD7G_nPF8DaEvfSobDF=w2048-h2048-k-no",
+          "description": "This image highlights a stylish and functional sunroom addition, seamlessly blending indoor and outdoor living spaces.",
+          "callToAction": "Expand your living area with our custom sunroom design and construction services. Reach out now to discuss your dream project."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMfGXFJgTODQ9BP8Ldv5_Lu9L6z102fsfr6hHO1=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in exterior home renovations, with a ladder and materials neatly organized for a professional job.",
+          "reason": "This image demonstrates the company's commitment to quality workmanship and attention to detail, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOGoaZxAQ8HhrE65NiPI0ZXESQNLlSbn92pefgw=w2048-h2048-k-no",
+          "description": "This image displays the company's ability to handle complex interior remodeling projects, with framing and construction materials in progress.",
+          "reason": "This image highlights the company's versatility and experience in tackling various types of home improvement projects, making it a good fit for the About Us section."
+        }
+      ]
+    },
+    "mamas-boy-plumbing-and-septic-llc": {
+      "businessName": "Mamas Boy Plumbing and Septic LLC",
+      "processedImages": 12,
+      "totalTokens": 29965,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOczbvkh111vHxg3L5KX3XWc0oTm17_TUFnWkCn=w2048-h2048-k-no",
+          "description": "An exterior view of a residential property under construction, showcasing the plumbing infrastructure being installed.",
+          "callToAction": "Trust our experts for reliable and efficient plumbing solutions during your construction project."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO2eJAeRvchOhjbb8ACgzAPE2drCY0w0J5JmUNl=w2048-h2048-k-no",
+          "description": "A close-up view of a plumbing fixture and piping system, highlighting the attention to detail and quality workmanship.",
+          "callToAction": "Experience top-notch craftsmanship and precision in every plumbing installation we undertake."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNChfiHQ8j1rxmQ9YbnNpQKvVlBCsKS2KK9nQ0Q=w2048-h2048-k-no",
+          "description": "A professional plumber working on a residential plumbing repair, demonstrating the company's commitment to exceptional service.",
+          "callToAction": "Don't let plumbing issues disrupt your daily routine. Call us for prompt and reliable repairs."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPMcHqhoKDXhNa1eo74vqazMVx_nSXGDFIYzarS=w2048-h2048-k-no",
+          "description": "A well-organized plumbing workspace, showcasing the company's professionalism and attention to detail.",
+          "reason": "This image highlights the company's commitment to maintaining a clean and organized work environment, reflecting their professionalism and dedication to quality."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMU-mEQne76NEGblxOJU9V7oODR5pbXdS5W_hOt=w2048-h2048-k-no",
+          "description": "A close-up view of a plumbing fixture and piping system, demonstrating the company's expertise in complex installations.",
+          "reason": "This image showcases the company's technical capabilities and expertise in handling intricate plumbing projects, instilling confidence in their skills and experience."
+        }
+      ]
+    },
+    "b-b-torch-regulator-and-repair-service-llc": {
+      "businessName": "B & B Torch Regulator and Repair Service LLC",
+      "processedImages": 4,
+      "totalTokens": 6057,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNcUJ0A1DfZwUqNCuQUVsxvnpq21xL7dwo_B-kc=w2048-h2048-k-no",
+          "description": "A neon sign showcasing the company name 'B & B Torch and Regulator Repair Service LLC', along with contact information and the owner's name.",
+          "callToAction": "For all your torch and regulator repair needs, call the experts at B & B Torch and Regulator Repair Service LLC today!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM8hSX8Hnojsy2QVN2v_tJ3JBHtGKK_Eg3Lgc1q=w2048-h2048-k-no",
+          "description": "An American flag with a unique design, symbolizing the company's patriotism and commitment to quality service.",
+          "callToAction": "Trust the American-made quality and expertise of B & B Torch and Regulator Repair Service LLC for your repair needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNlpd2bmY6sMcS1-GrwbkBBGk1rojEXbGL5ddp8=w2048-h2048-k-no",
+          "description": "The company's logo and service offerings, prominently displayed in bold red text.",
+          "callToAction": "Experience the reliable and professional 'Torch and Regulator Repair Service' from B & B. Contact us now!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JJH4kKFtvAU2x_z9tfktCQ&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=27.939924&pitch=0&thumbfov=100",
+          "description": "A scenic road winding through a wooded area, potentially leading to the company's location.",
+          "relevance": "This image could showcase the company's accessibility and convenient location for customers in the area."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM8hSX8Hnojsy2QVN2v_tJ3JBHtGKK_Eg3Lgc1q=w2048-h2048-k-no",
+          "description": "An American flag with a unique design, symbolizing the company's patriotism and commitment to quality service.",
+          "relevance": "The American flag image represents the company's values of quality, reliability, and dedication to serving its customers with pride."
+        }
+      ]
     }
   }
 }
