@@ -1568,6 +1568,108 @@
           "reason": "This image gives potential customers a glimpse into the company's resources and capabilities, instilling confidence in their ability to tackle any plumbing challenge."
         }
       ]
+    },
+    "t-l-plumbing-llc": {
+      "businessName": "T&L Plumbing LLC",
+      "processedImages": 12,
+      "totalTokens": 29151,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMzbPEtcpj64BKRss5DCBpeOhd2VsGXJo6JF8wZ=w2048-h2048-k-no",
+          "description": "An overhead view of a large construction site, showcasing the intricate network of pipes and ductwork being installed in the ceiling. The image highlights the complexity and scale of commercial plumbing projects undertaken by the company.",
+          "callToAction": "Trust our expertise for your large-scale commercial plumbing needs. Contact us today for a consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNwMynjqnHlDuDSJizM7JmgTYwGQSrLeKF6qAOR=w2048-h2048-k-no",
+          "description": "A close-up shot of a plumbing installation in progress, with pipes being laid out and connected in a trench. This image demonstrates the company's attention to detail and commitment to quality workmanship.",
+          "callToAction": "Ensure your plumbing installation is done right the first time. Hire our skilled professionals for your next project."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPKmFZ_Emi1_p0mzlH66V6OjH9yPeM8C2nqhNd6=w2048-h2048-k-no",
+          "description": "A van with the company's logo and contact information, parked at a job site. This image conveys the company's professionalism and readiness to serve customers at their locations.",
+          "callToAction": "Need a reliable plumbing service at your doorstep? Call us, and our team will be there promptly."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMWyZ04--T9OTK7Dm53z6adalNh3QulI3uRGM9l=w2048-h2048-k-no",
+          "description": "A detailed view of the company's skilled technicians working on a complex plumbing system installation. This image showcases the company's expertise and commitment to tackling challenging projects.",
+          "whyItWorks": "This image demonstrates the company's technical capabilities and highlights the experience and professionalism of its team, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOPVTqkJZmT8LSuuC_SSDZFK7Os1OUHaCJQtAGw=w2048-h2048-k-no",
+          "description": "An overhead shot of the company's technicians working on a residential plumbing project, with various tools and materials visible. This image conveys the company's ability to handle both commercial and residential plumbing needs.",
+          "whyItWorks": "By showcasing the company's work in a residential setting, this image helps potential customers understand the breadth of services offered, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "champion-plumbing-and-remodeling": {
+      "businessName": "Champion Plumbing And Remodeling",
+      "processedImages": 12,
+      "totalTokens": 28811,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGfhx74lfHZfqBXUgameyBGF8BabwM7-0ILc0h=w2048-h2048-k-no",
+          "description": "This image showcases the exterior of a residential property with a freshly installed water line. The bright sunlight and clear blue sky create an inviting atmosphere, while the neatly laid pipes and tools in the foreground demonstrate the professionalism and attention to detail of the plumbing work.",
+          "callToAction": "Upgrade your home's plumbing with our expert installation services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPxIVAC1xE61ZbYJ6r73i7U4NxUYBqnQhx_9-w4=w2048-h2048-k-no",
+          "description": "This image highlights the sleek and modern design of a newly renovated bathroom. The freestanding bathtub, large window, and stylish tiling exude luxury and comfort, showcasing the company's ability to deliver high-end bathroom remodeling projects.",
+          "callToAction": "Transform your bathroom into a personal oasis with our top-notch remodeling services. Schedule a consultation now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOYNVbYfguL69zPvFItYjhziqYrqRCQuyWugqY2=w2048-h2048-k-no",
+          "description": "This image presents a beautifully designed entryway with intricate wallpaper, elegant lighting, and a stunning arched window. It exemplifies the company's expertise in creating visually appealing and functional spaces through their remodeling services.",
+          "callToAction": "Elevate the style and functionality of your home with our expert remodeling services. Contact us to get started."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNFCKMKwecYVGLvJF-N7jk-6M4Suumuui4_EF2r=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in installing and maintaining water heater systems. The Halo water heater and the neatly organized piping demonstrate their professionalism and attention to detail in plumbing installations.",
+          "reason": "This image effectively highlights the company's capabilities in providing reliable and efficient plumbing solutions, making it a suitable choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOQkiFkNbqHCvZz1B6cjTYnp15aSq9fCKEf4Y1k=w2048-h2048-k-no",
+          "description": "This image captures the company's team at work, installing new plumbing lines in a residential setting. The organized tools and materials, along with the skilled worker, showcase the company's commitment to quality workmanship and attention to detail.",
+          "reason": "This behind-the-scenes image gives potential customers a glimpse into the company's professionalism and dedication to their craft, making it an excellent addition to the About Us section."
+        }
+      ]
+    },
+    "banks-environmental-and-drain-cleaning": {
+      "businessName": "Banks Environmental and Drain Cleaning",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNNVEPwj5F8csGfiNdJKg-kgb80lYTv3cWl_S8D=w2048-h2048-k-no",
+          "description": "A professional excavation project showcasing the installation of large drainage pipes in a residential area. The image captures the scale and complexity of the work involved.",
+          "callToAction": "Upgrade your property's drainage system with our expert installation services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNAt9Ftn-xJ7BnoRDQjqe7_HRGlPVbhcHhfNHe2=w2048-h2048-k-no",
+          "description": "A skilled worker carefully inspecting and preparing a drainage manhole for installation, ensuring proper alignment and functionality.",
+          "callToAction": "Trust our experienced technicians to handle every aspect of your drainage project with precision and care. Get a quote now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNr50jkET5Dof-VmRHJJbwO51B8E3YtRBlUwpQP=w2048-h2048-k-no",
+          "description": "A picturesque scene of a newly installed drainage system seamlessly integrated into a natural woodland setting, showcasing the company's commitment to environmental sustainability.",
+          "callToAction": "Enhance your property's drainage while preserving its natural beauty. Explore our eco-friendly solutions today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNZO1IcwPStZmy-m3mGu0YGA6tI5mW5jh1v9NsD=w2048-h2048-k-no",
+          "description": "A team member carefully laying a concrete walkway, demonstrating the company's attention to detail and commitment to quality workmanship.",
+          "relevance": "This image highlights the company's expertise in various aspects of outdoor construction and landscaping, showcasing their versatility and professionalism."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO7LtbqXxU_ro1dwHt0a23nLtxqEwLZ_uwCmD9P=w2048-h2048-k-no",
+          "description": "A skilled technician performing maintenance on a drainage system, ensuring its continued efficiency and longevity.",
+          "relevance": "This image showcases the company's dedication to providing comprehensive services, including ongoing maintenance and support, ensuring customer satisfaction long after the initial installation."
+        }
+      ]
     }
   }
 }
