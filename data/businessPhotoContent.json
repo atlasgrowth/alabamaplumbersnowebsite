@@ -1398,6 +1398,108 @@
           "reason": "While unconventional, this image showcases the company's resourcefulness and commitment to getting the job done, even in unexpected situations, making it a unique and memorable choice for the About Us section."
         }
       ]
+    },
+    "boxcar-the-handyman": {
+      "businessName": "boxcar the handyman",
+      "processedImages": 12,
+      "totalTokens": 27014,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNjcSxcMEkJuHmBD3IFWv9HYpu43WkmOisGbCLO=w2048-h2048-k-no",
+          "description": "This image showcases a newly constructed sunroom addition with a vaulted glass ceiling, providing an elegant and inviting living space that seamlessly blends indoor and outdoor environments.",
+          "callToAction": "Elevate your home with our expert sunroom and patio enclosure services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMqF-zzwHS9I4pPDea9QqpeVSbLeZZffBiOpnYv=w2048-h2048-k-no",
+          "description": "A beautifully crafted wooden deck with railings, offering a spacious outdoor living area perfect for entertaining or simply enjoying the outdoors in comfort and style.",
+          "callToAction": "Transform your backyard into an oasis with our custom deck building services. Get a free quote now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPv9U0DvIETnLXYFBUttSbPVN5L-fKrknx1K-KZ=w2048-h2048-k-no",
+          "description": "A well-lit and inviting wooden walkway leading to a residential property, showcasing our attention to detail and commitment to creating functional and aesthetically pleasing outdoor spaces.",
+          "callToAction": "Enhance your home's curb appeal with our professional walkway and landscape lighting services. Schedule a consultation today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP3SYlgZFmI8MIbKFOsncupGwRjHSv7ClaBAPvN=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in kitchen remodeling, featuring a modern and sleek design with high-quality cabinetry and appliances.",
+          "reason": "This image demonstrates the company's capabilities in delivering top-notch kitchen renovation services, highlighting their attention to detail and commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMXyy1ZZT4J04fzv_eg20zFWXCr9PsF0lK00Fb2=w2048-h2048-k-no",
+          "description": "A panoramic view of a beautifully constructed outdoor living space, complete with a covered patio, seating area, and landscaping, showcasing the company's ability to create functional and visually appealing outdoor environments.",
+          "reason": "This image effectively showcases the company's versatility in outdoor living space design and construction, making it an excellent choice for the About Us section to highlight their diverse range of services."
+        }
+      ]
+    },
+    "homeworx": {
+      "businessName": "Homeworx",
+      "processedImages": 12,
+      "totalTokens": 29968,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPwgkIHJtE2Fl05EbK8V99Qla-2WNDxTmdroMU4=w2048-h2048-k-no",
+          "description": "This image showcases a stunning lakefront property with a breathtaking view of the water and surrounding homes. The large windows and open floor plan create a bright and inviting living space.",
+          "callToAction": "Elevate your living experience with our expert window installation and home renovation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPS7tsJD1fbIp6llrcHB0XTcw3AP5zj37jhycOy=w2048-h2048-k-no",
+          "description": "This before-and-after comparison highlights the remarkable transformation of a dated ranch-style home into a modern and inviting retreat. The exterior renovation has given the property a fresh, contemporary look.",
+          "callToAction": "Unlock the full potential of your home with our comprehensive renovation solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOOHYVVDqdtGG9i1Ckt_Pfzw6-R78GERqI8S0C-=w2048-h2048-k-no",
+          "description": "This image captures the progress of an extensive home renovation project. The brick exterior and new metal roof demonstrate the attention to detail and quality craftsmanship provided by the company.",
+          "callToAction": "Trust our experienced team to bring your dream home to life with our expert renovation services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPATk5sHDW3Kpcjy407n0mV-thvKBfVyw4TvKyK=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in exterior home improvements. The newly installed wooden fence adds privacy and enhances the curb appeal of the property.",
+          "reasonForAboutUs": "This image demonstrates the company's ability to provide high-quality exterior renovations and enhancements, highlighting their attention to detail and commitment to customer satisfaction."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMbxk2P671zQZNt2qNpKaqpbmOKg1bbWMCmfQlk=w2048-h2048-k-no",
+          "description": "This before-and-after comparison showcases the company's skill in transforming outdated bathrooms into modern, functional spaces. The new tiled shower and updated fixtures create a luxurious and inviting atmosphere.",
+          "reasonForAboutUs": "This image highlights the company's proficiency in bathroom renovations, showcasing their ability to create beautiful and functional spaces that meet the client's needs and exceed their expectations."
+        }
+      ]
+    },
+    "septic-solutions": {
+      "businessName": "Septic Solutions",
+      "processedImages": 12,
+      "totalTokens": 25551,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMXKOTwaqoI0a4TiaK6Q5HCj3u87h36OPDBwLUi=w2048-h2048-k-no",
+          "description": "An excavator from Septic Solutions digs a trench for a new septic system installation, showcasing the company's expertise in underground utility work.",
+          "callToAction": "Trust the professionals at Septic Solutions for all your septic system needs - from installation to maintenance and repairs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPzORjoAMIlL97CBmCZtndZQjt2QUaEgZ9eISqp=w2048-h2048-k-no",
+          "description": "A Septic Solutions crew works efficiently to lay perforated piping for a new septic drain field, demonstrating their commitment to quality workmanship.",
+          "callToAction": "Ensure your septic system is installed correctly the first time. Contact Septic Solutions for reliable and long-lasting solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN2dv6HQU0OJ-YKBBCMV-uJ_zh86iNkTuSX-WJX=w2048-h2048-k-no",
+          "description": "A Septic Solutions excavator carefully positions a septic tank, highlighting the company's attention to detail and precision in every project.",
+          "callToAction": "Don't compromise on your septic system. Choose Septic Solutions for expert installations that meet all local regulations and codes."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPBCPH_srgDIdrnm-_OJj_CSWvOQ0hY6Kcmi2do=w2048-h2048-k-no",
+          "description": "A panoramic view of a Septic Solutions worksite, showcasing the company's ability to handle large-scale projects with efficiency and organization.",
+          "reason": "This image demonstrates the company's professionalism, attention to detail, and capacity to take on complex septic system installations or replacements."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPIbTHEHSzk1t-Owmf91gwJiYBkxQOEqOKphYME=w2048-h2048-k-no",
+          "description": "A Septic Solutions crew carefully backfills and grades a newly installed septic system, ensuring proper drainage and a seamless finish.",
+          "reason": "This image highlights the company's commitment to quality workmanship and attention to detail, even in the final stages of a project."
+        }
+      ]
     }
   }
 }
