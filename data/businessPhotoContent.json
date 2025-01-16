@@ -1806,6 +1806,142 @@
           "reason": "This image showcases the company's commitment to providing top-notch service and their ability to handle a wide range of plumbing and electrical repairs, making it a great addition to the About Us section."
         }
       ]
+    },
+    "vest-plumbing": {
+      "businessName": "Vest Plumbing",
+      "processedImages": 9,
+      "totalTokens": 20849,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNRziIp7gwLt1DfqGS6v3bf4Uju6HbHfuEzSvfv=w2048-h2048-k-no",
+          "description": "This image showcases the company's fleet of well-equipped service vehicles, demonstrating their readiness to handle any plumbing job efficiently.",
+          "callToAction": "Trust our experienced team and reliable fleet for all your plumbing needs. Call now for prompt service!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMcUgPDFkg1GE1qpG7q_c5AcFlZxfSY6uCwDzm8=w2048-h2048-k-no",
+          "description": "The image captures the company's skilled technicians at work, digging and preparing the ground for a new plumbing installation, highlighting their expertise in handling complex projects.",
+          "callToAction": "Rely on our skilled technicians for seamless plumbing installations. Contact us today for a free consultation!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPlDxWSkwqfhaVLwPU5qg8ogZNlUemeHVQXs28R=w2048-h2048-k-no",
+          "description": "This striking image showcases the company's commitment to quality workmanship, with a beautifully tiled shower enclosure featuring modern fixtures and finishes.",
+          "callToAction": "Elevate your bathroom with our exceptional craftsmanship. Schedule a consultation for your dream renovation!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMp692His4AFN1AVMceV7JVgkDDKVTD8ez5FMfY=w2048-h2048-k-no",
+          "description": "This image depicts the company's heavy machinery and equipment, demonstrating their capability to handle large-scale and challenging plumbing projects.",
+          "reason": "It highlights the company's resources and expertise, instilling confidence in their ability to tackle complex jobs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNn5pporCDKWPpyPnKZssncs0_WPR7Oq-8Qwjew=w2048-h2048-k-no",
+          "description": "The image showcases a stunning bathroom renovation, featuring a freestanding bathtub and large windows, reflecting the company's commitment to delivering high-quality and visually appealing results.",
+          "reason": "It showcases the company's attention to detail and their ability to create beautiful and functional living spaces, reflecting their craftsmanship and design expertise."
+        }
+      ]
+    },
+    "pipemasters-plumbing": {
+      "businessName": "PipeMasters Plumbing",
+      "processedImages": 12,
+      "totalTokens": 24624,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMwZzY7g7SULZ5EFRp4aSPsHNobfC8g25SDfUEh=w2048-h2048-k-no",
+          "description": "An excavator on a construction site, digging and preparing the ground for new infrastructure or building foundations.",
+          "callToAction": "Trust PipeMasters Plumbing for all your commercial and residential excavation needs. Contact us today for a free quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPTxOeuABqiujioHZIabnlMIaApNJNBhkQZl1OP=w2048-h2048-k-no",
+          "description": "A beautifully constructed outdoor kitchen area with a grill, smokers, and ample counter space, showcasing PipeMasters Plumbing's expertise in outdoor living installations.",
+          "callToAction": "Elevate your outdoor living experience with a custom-built kitchen or entertainment area by PipeMasters Plumbing. Call now to discuss your dream project."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN_v04GC9UkbcQefrCV5m1WdFPknCBpBOzW0QmD=w2048-h2048-k-no",
+          "description": "A luxurious freestanding bathtub in a modern bathroom setting, with a large window overlooking a backyard playground, highlighting PipeMasters Plumbing's skill in high-end bathroom remodeling.",
+          "callToAction": "Indulge in the ultimate relaxation with a stunning bathroom renovation by PipeMasters Plumbing. Schedule a consultation to bring your dream bathroom to life."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOgFs-yD90cuNO_M8L1bt_Rwws1AVAznBnKrJzn=w2048-h2048-k-no",
+          "description": "A construction site with a portable office, materials, and equipment, showcasing PipeMasters Plumbing's ability to handle large-scale projects.",
+          "reason": "This image demonstrates the company's capabilities in managing and executing complex construction projects, instilling confidence in their professionalism and expertise."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMyyojhEQzslArtQSf2lS7YlN1i-DbVUWnGIuPN=w2048-h2048-k-no",
+          "description": "A close-up view of a corroded pipe section, highlighting PipeMasters Plumbing's expertise in identifying and addressing plumbing issues.",
+          "reason": "This image showcases the company's attention to detail and commitment to resolving even the most challenging plumbing problems, emphasizing their technical knowledge and experience."
+        }
+      ]
+    },
+    "affordable-backflow-testing-services": {
+      "businessName": "Affordable Backflow Testing Services",
+      "processedImages": 6,
+      "totalTokens": 13358,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN6NumIhVV3pldhPMka87S6RfudQQ_sS4IzmIBZ=w2048-h2048-k-no",
+          "description": "This image showcases the intricate plumbing system of a residential or commercial property, featuring an array of valves, gauges, and pipes neatly organized. It highlights the complexity of modern plumbing installations and the expertise required to maintain and service them.",
+          "callToAction": "Ensure the safety and efficiency of your plumbing system with our professional backflow testing services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO3WYaeXEFQisMcOUEEocW8DihLj2I6WEFZOe9v=w2048-h2048-k-no",
+          "description": "This image captures the outdoor plumbing infrastructure, with pipes and valves partially buried underground. It represents the unseen yet crucial components that require regular maintenance and inspection to prevent potential hazards or system failures.",
+          "callToAction": "Protect your property and comply with regulations by scheduling a comprehensive backflow testing service today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNlRnv1uFi3YimfLcRsXboiFAxCCGQ-Vt0b2-q9=w2048-h2048-k-no",
+          "description": "This image depicts a close-up view of a plumbing system's components, including valves, fittings, and a pressure gauge. It showcases the attention to detail and precision required in plumbing work, emphasizing the importance of professional expertise.",
+          "callToAction": "Trust our experienced technicians to ensure your plumbing system meets the highest standards of safety and performance."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPZaG-Gw3anuNnuEUOsosIL5CGCs7ibjHa0lyDA=w2048-h2048-k-no",
+          "description": "This image shows the exterior of the Affordable Backflow Testing Services office, presenting a professional and well-maintained appearance. It demonstrates the company's commitment to providing reliable and trustworthy services.",
+          "reason": "This image works well for the About Us section as it introduces the company's physical location and conveys a sense of professionalism and reliability."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPG0du7U2rVBTTqD3B9phZOllyl_ZFxq0iO4rIU=w2048-h2048-k-no",
+          "description": "This image captures a technician working on a plumbing project, showcasing the hands-on expertise and dedication of the Affordable Backflow Testing Services team. It highlights the company's commitment to delivering high-quality workmanship.",
+          "reason": "This image is suitable for the About Us section as it showcases the company's skilled workforce and their ability to handle complex plumbing tasks, instilling confidence in potential customers."
+        }
+      ]
+    },
+    "preston-s-plumbing-and-drain-cleaning-service": {
+      "businessName": "Preston's Plumbing and Drain Cleaning Service",
+      "processedImages": 12,
+      "totalTokens": 11423,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN5yVlOR5rM5B-Ae4TP5Ah0PAKEzHh6bgQkiy1P=w2048-h2048-k-no",
+          "description": "A professional plumbing van from Preston's Plumbing and Drain Cleaning Service parked in front of a residential home, showcasing their availability for on-site service calls.",
+          "callToAction": "Trust the experts at Preston's Plumbing for all your residential plumbing and drain cleaning needs. Call now for prompt and reliable service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO_0XfYw_LD2a7e-xWw6Yx5fARrNnwSXtNNzJJG=w2048-h2048-k-no",
+          "description": "A skilled technician from Preston's Plumbing using specialized equipment to locate and clear a clogged drain line, demonstrating their expertise in drain cleaning services.",
+          "callToAction": "Don't let clogged drains disrupt your daily routine. Call Preston's Plumbing for fast and effective drain cleaning solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMLdx4025pRyWv6Y6yPG1qi_ujAP8c7q9uVXCbk=w2048-h2048-k-no",
+          "description": "A friendly and experienced technician from Preston's Plumbing, showcasing the company's commitment to professional and personalized service.",
+          "callToAction": "Experience the difference with Preston's Plumbing. Our skilled technicians are dedicated to providing top-notch plumbing solutions tailored to your needs."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipObP_-43_frkQXcvih1LVU2YUnxyGCSZW5v1XrG=w2048-h2048-k-no",
+          "description": "A Preston's Plumbing technician working diligently to install new plumbing pipes, showcasing their expertise in residential and commercial plumbing installations.",
+          "reason": "This image highlights the company's capabilities in handling complex plumbing projects, demonstrating their professionalism and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNB7IqmZTr3fKofTQz26DOYRl0RWFT9iL34Rnqb=w2048-h2048-k-no",
+          "description": "A Preston's Plumbing van and technician working on a residential plumbing project, showcasing their commitment to providing reliable and efficient service.",
+          "reason": "This image showcases the company's on-site service capabilities and their dedication to meeting the plumbing needs of residential customers."
+        }
+      ]
     }
   }
 }
