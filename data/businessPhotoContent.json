@@ -3338,6 +3338,108 @@
           "whyItWorks": "Including this image in the About Us section highlights the company's prioritization of safety and adherence to industry standards, instilling confidence in potential customers about the professionalism and reliability of the company's services."
         }
       ]
+    },
+    "all-in-one-plumbing-drain-co": {
+      "businessName": "All In One Plumbing & Drain Co.",
+      "processedImages": 12,
+      "totalTokens": 28307,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMoSudRdcl8APhzUjOB1XqraffZNiGWd0nU5m7g=w2048-h2048-k-no",
+          "description": "A newly installed shower enclosure with a sleek and modern design, showcasing the high-quality workmanship and attention to detail provided by the company.",
+          "callToAction": "Upgrade your bathroom with our expert installation services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPQQOPBmOzguzcDOkxOxoLbp6_Zs4AiQTtIf_A6=w2048-h2048-k-no",
+          "description": "A professional plumber working on a residential plumbing project, demonstrating the company's commitment to providing reliable and efficient service.",
+          "callToAction": "Don't let plumbing issues disrupt your daily routine. Our 24/7 emergency services have you covered. Call now!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNoOW0U23q5-N7ITEs7iWekw7Dk6zl34Rr5kc6w=w2048-h2048-k-no",
+          "description": "A glimpse of the company's expertise in underground plumbing work, with a focus on quality materials and adherence to industry standards.",
+          "callToAction": "Trust our experienced team for all your new construction and plumbing installation needs. Get a free quote today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOPO2UmxZhrijNC1x9TGaX7bDuXS0dQr_JpoHJc=w2048-h2048-k-no",
+          "description": "A professional plumber working on a residential plumbing project, showcasing the company's commitment to quality workmanship and customer satisfaction.",
+          "reason": "This image demonstrates the company's capabilities in handling residential plumbing projects, highlighting their professionalism and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNZDSNlobEZ07gL2JQmxseWB-hulYoigLHKlotr=w2048-h2048-k-no",
+          "description": "A well-organized and clean plumbing service vehicle, reflecting the company's commitment to professionalism and preparedness for any job.",
+          "reason": "This image showcases the company's dedication to providing top-notch service by ensuring their technicians are equipped with the necessary tools and supplies to handle any plumbing task efficiently."
+        }
+      ]
+    },
+    "lance-of-all-trades": {
+      "businessName": "Lance of All Trades",
+      "processedImages": 12,
+      "totalTokens": 13345,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP9d6I7m1FK459V_aa9hefbk4XcVrEltZEKL5MW=w2048-h2048-k-no",
+          "description": "A professional plumber working on a residential plumbing project, showcasing the company's expertise in providing reliable and efficient plumbing services.",
+          "callToAction": "Trust our skilled technicians to handle all your plumbing needs with precision and care."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMmG2ILChjX8W940XoOhj5iOL8x1sI7ENs_dCKe=w2048-h2048-k-no",
+          "description": "A scenic view of a well-maintained residential property, highlighting the company's commitment to delivering high-quality work that enhances the overall aesthetic of the client's home.",
+          "callToAction": "Enhance the beauty and functionality of your home with our top-notch plumbing solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNdH1MIFEfPiD4V7tKsGFsJcY-kotPM4lviu71N=w2048-h2048-k-no",
+          "description": "A skilled plumber performing maintenance work, demonstrating the company's dedication to providing comprehensive plumbing services to ensure the longevity and optimal performance of your plumbing systems.",
+          "callToAction": "Protect your investment with our preventative maintenance services, ensuring your plumbing systems operate smoothly for years to come."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOMUrpkxRLhH-ReYAII1tlDjvdOJQxXDZZniTfk=w2048-h2048-k-no",
+          "description": "A cozy and inviting residential interior, showcasing the company's ability to seamlessly integrate plumbing solutions into any living space while maintaining a comfortable and aesthetically pleasing environment.",
+          "reason": "This image highlights the company's commitment to delivering high-quality work that enhances the overall living experience for their clients."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP8cGw-rXadDroQHyTtQ6ZtJqxW458z_tyLxc67=w2048-h2048-k-no",
+          "description": "A well-organized workspace with essential tools and equipment, reflecting the company's professionalism, attention to detail, and dedication to providing efficient and reliable plumbing services.",
+          "reason": "This image demonstrates the company's expertise, preparedness, and commitment to delivering top-notch plumbing solutions to their clients."
+        }
+      ]
+    },
+    "rooter-pros-llc": {
+      "businessName": "Rooter Pros LLC",
+      "processedImages": 12,
+      "totalTokens": 27876,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPM1ujhpnC3_N-orEPqUfOiNf5W0ByL5QTk95aO=w2048-h2048-k-no",
+          "description": "An image showcasing the company's expertise in sewer line repair and maintenance. It depicts a professional technician working on a sewer pipe, with the company's logo prominently displayed.",
+          "callToAction": "Protect your home from sewer backups and costly repairs. Call Rooter Pros LLC today for reliable sewer line services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPyhn4CIeXy9Uosh6rw3neRSu2FOTpUkwttIuV_=w2048-h2048-k-no",
+          "description": "A photo highlighting the company's water heater installation and repair services. It shows a technician working on a water heater in a well-organized mechanical room.",
+          "callToAction": "Ensure a steady supply of hot water for your home or business. Trust Rooter Pros LLC for professional water heater services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM6QNxXOhi_qzgOpBeF0QKSJhDtra0-jH4QY4o3=w2048-h2048-k-no",
+          "description": "An image demonstrating the company's expertise in septic system installation and maintenance. It features a technician working on a septic tank in a residential setting.",
+          "callToAction": "Protect your property and the environment with reliable septic system services from Rooter Pros LLC."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOfO6EtnC4Q1hNIy-GCRf8Xe-nvSgHx23ge1fF3=w2048-h2048-k-no",
+          "description": "A photo showcasing the company's commitment to using state-of-the-art equipment and techniques. It depicts a technician operating a compact excavator for underground utility work.",
+          "whyItWorks": "This image demonstrates Rooter Pros LLC's investment in advanced tools and machinery, highlighting their ability to tackle complex projects efficiently and effectively."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPdqXuzDtV2z6dJw0--c1c0ns7eB2m8NkX10rN_=w2048-h2048-k-no",
+          "description": "An image showcasing the company's attention to detail and commitment to quality workmanship. It shows a technician carefully working on a plumbing fixture, ensuring a proper installation.",
+          "whyItWorks": "This photo highlights Rooter Pros LLC's dedication to delivering high-quality services and their meticulous approach to every job, instilling confidence in potential customers."
+        }
+      ]
     }
   }
 }
