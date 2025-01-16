@@ -480,7 +480,7 @@
       "PrimaryColor": "#4e66a3",
       "SecondaryColor": "#7094b4"
     },
-    "strickland-plumbing-&-maintenance": {
+    "strickland-plumbing-and-maintenance": {
       "query": "plumber, 35111, Mc Calla, AL, US",
       "name": "Strickland Plumbing & Maintenance",
       "name_for_emails": "Strickland Plumbing And Maintenance",
@@ -1557,8 +1557,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#000000",
-      "SecondaryColor": "#FFFFFF"
+      "PrimaryColor": "#ac242c",
+      "SecondaryColor": "#7e1a20"
     },
     "barnett-plumbing-llc": {
       "query": "plumber, 35617, Cloverdale, AL, US",
@@ -1677,8 +1677,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "morrison-plumbing": {
       "query": "plumber, 35078, Harpersville, AL, US",
@@ -1797,8 +1797,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#68a4c4",
-      "SecondaryColor": "#707888"
+      "PrimaryColor": "#1974a9",
+      "SecondaryColor": "#707a8d"
     },
     "h2o-worx": {
       "query": "plumber, 35078, Harpersville, AL, US",
@@ -1917,10 +1917,10 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
-    "leak-pros-of-al-&-ga": {
+    "leak-pros-of-al-and-ga": {
       "query": "plumber, 36261, Edwardsville, AL, US",
       "name": "Leak Pros of Al & Ga",
       "name_for_emails": "Leak Pros Of Al And Ga",
@@ -2037,8 +2037,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "harris-county-plumbing": {
       "query": "plumber, 36274, Roanoke, AL, US",
@@ -2157,8 +2157,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#427fbc",
-      "SecondaryColor": "#92adca"
+      "PrimaryColor": "#116eb5",
+      "SecondaryColor": "#547db0"
     },
     "kelly-c-williams-plumbing-inc": {
       "query": "plumber, 36851, Cottonton, AL, US",
@@ -2277,8 +2277,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "central-fire-protection": {
       "query": "plumber, 35061, Dolomite, AL, US",
@@ -2397,10 +2397,10 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
-    "sims-plumbing-&-air": {
+    "sims-plumbing-and-air": {
       "query": "plumber, 35979, Higdon, AL, US",
       "name": "Sims plumbing & air",
       "name_for_emails": "Sims Plumbing And Air",
@@ -2517,8 +2517,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#fc5a5a",
-      "SecondaryColor": "#960202"
+      "PrimaryColor": "#0606fc",
+      "SecondaryColor": "#7c7c7c"
     },
     "tracy-duncan-plumbing": {
       "query": "plumber, 35577, Natural Bridge, AL, US",
@@ -2637,8 +2637,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#ac4e4e",
-      "SecondaryColor": "#917057"
+      "PrimaryColor": "#c70505",
+      "SecondaryColor": "#8a7b78"
     },
     "stephen-seibert-plumbing-llc": {
       "query": "plumber, 35602, Decatur, AL, US",
@@ -2757,10 +2757,10 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#8d7171",
-      "SecondaryColor": "#ac5858"
+      "PrimaryColor": "#d62c1c",
+      "SecondaryColor": "#a45c54"
     },
-    "rediworx-drain-&-sewer-cleaning": {
+    "rediworx-drain-and-sewer-cleaning": {
       "query": "plumber, 36441, Flomaton, AL, US",
       "name": "RediWorx Drain & Sewer Cleaning",
       "name_for_emails": "Rediworx Drain And Sewer Cleaning",
@@ -2877,8 +2877,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#8c5c1c",
-      "SecondaryColor": "#8a8a8a"
+      "PrimaryColor": "#f39c0c",
+      "SecondaryColor": "#848c8c"
     },
     "terrapin-creek-plumbing-and-septic-service-llc": {
       "query": "plumber, 36263, Graham, AL, US",
@@ -2997,8 +2997,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#c49434",
-      "SecondaryColor": "#9c705c"
+      "PrimaryColor": "#edcf43",
+      "SecondaryColor": "#ae9a5c"
     },
     "dorsey-plumbing-llc": {
       "query": "plumber, 36801, Opelika, AL, US",
@@ -3117,8 +3117,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#7f7f7f",
-      "SecondaryColor": "#949292"
+      "PrimaryColor": "#877777",
+      "SecondaryColor": "#777777"
     },
     "affordable-backflow-testing-services": {
       "query": "plumber, 35232, Birmingham, AL, US",
@@ -3237,8 +3237,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "north-alabama-drain-cleaningetc-llc": {
       "query": "plumber, 35617, Cloverdale, AL, US",
@@ -3357,8 +3357,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#8a7a74",
-      "SecondaryColor": "#7a7a82"
+      "PrimaryColor": "#86787a",
+      "SecondaryColor": "#817d82"
     },
     "reliable-usa-plumbing": {
       "query": "plumber, 36555, Magnolia Springs, AL, US",
@@ -3477,8 +3477,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#cc3444",
-      "SecondaryColor": "#5c6c94"
+      "PrimaryColor": "#c41d34",
+      "SecondaryColor": "#656d94"
     },
     "reliable-usa-plumbers": {
       "query": "plumber, 36581, Sunflower, AL, US",
@@ -3597,8 +3597,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#c2202c",
-      "SecondaryColor": "#646c94"
+      "PrimaryColor": "#c41c34",
+      "SecondaryColor": "#636694"
     },
     "performance-plumbing-inc": {
       "query": "plumber, 35560, Goodsprings, AL, US",
@@ -3718,7 +3718,7 @@
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
       "PrimaryColor": "#7f7f7f",
-      "SecondaryColor": "#7c7c7c"
+      "SecondaryColor": "#7f7f7f"
     },
     "4g-plumbing-and-drain-cleaning": {
       "query": "plumber, 36271, Ohatchee, AL, US",
@@ -3837,8 +3837,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#7c4e34",
-      "SecondaryColor": "#946454"
+      "PrimaryColor": "#8c4c2c",
+      "SecondaryColor": "#957264"
     },
     "condo-care": {
       "query": "plumber, 36555, Magnolia Springs, AL, US",
@@ -3957,8 +3957,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "wise-plumbing-and-gas-llc": {
       "query": "plumber, 35603, Decatur, AL, US",
@@ -4078,7 +4078,7 @@
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
       "PrimaryColor": "#24a4a4",
-      "SecondaryColor": "#54a49d"
+      "SecondaryColor": "#549f9c"
     },
     "plumbworks-llc": {
       "query": "plumber, 35078, Harpersville, AL, US",
@@ -4197,8 +4197,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#d0b690",
-      "SecondaryColor": "#948a7c"
+      "PrimaryColor": "#ccb18e",
+      "SecondaryColor": "#a48c6c"
     },
     "dns-plumbing-llc": {
       "query": "plumber, 36547, Gulf Shores, AL, US",
@@ -4317,8 +4317,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#09749c",
-      "SecondaryColor": "#74a4bc"
+      "PrimaryColor": "#0b74a4",
+      "SecondaryColor": "#548ca4"
     },
     "alpha-plumbers-inc": {
       "query": "plumber, 36556, Malcolm, AL, US",
@@ -4437,10 +4437,10 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#d44c54",
-      "SecondaryColor": "#b65f5a"
+      "PrimaryColor": "#da2e2b",
+      "SecondaryColor": "#b97573"
     },
-    "waterworks-plumbing-&-drain-llc": {
+    "waterworks-plumbing-and-drain-llc": {
       "query": "plumber, 36568, Saint Elmo, AL, US",
       "name": "WaterWorks Plumbing & Drain LLC",
       "name_for_emails": "Waterworks Plumbing And Drain",
@@ -4557,8 +4557,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "professional-plumbing-and-drain": {
       "query": "plumber, 36572, Satsuma, AL, US",
@@ -4677,10 +4677,10 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#7cc13d",
-      "SecondaryColor": "#7e7e7e"
+      "PrimaryColor": "#9ccc6b",
+      "SecondaryColor": "#7c7c7c"
     },
-    "pike's-plumbing-&-gas": {
+    "pike's-plumbing-and-gas": {
       "query": "plumber, 35013, Allgood, AL, US",
       "name": "Pike's Plumbing & Gas",
       "name_for_emails": "Pikes Plumbing And Gas",
@@ -4797,8 +4797,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#f80405",
-      "SecondaryColor": "#960203"
+      "PrimaryColor": "#fa0404",
+      "SecondaryColor": "#4a4aa4"
     },
     "wolf-plumbing-services": {
       "query": "plumber, 35579, Oakman, AL, US",
@@ -4917,8 +4917,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "dixie-services-llc": {
       "query": "plumber, 36441, Flomaton, AL, US",
@@ -5037,8 +5037,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#2c94ac",
-      "SecondaryColor": "#64bcbc"
+      "PrimaryColor": "#0c7ca4",
+      "SecondaryColor": "#4d99ad"
     },
     "veteran's-plumbing": {
       "query": "plumber, 36201, Anniston, AL, US",
@@ -5157,10 +5157,10 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
-    "crowes-trenching-&-plumbing": {
+    "crowes-trenching-and-plumbing": {
       "query": "plumber, 36276, Wadley, AL, US",
       "name": "Crowes trenching & plumbing",
       "name_for_emails": "Crowes Trenching And Plumbing",
@@ -5277,8 +5277,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#e8e020",
-      "SecondaryColor": "#a88850"
+      "PrimaryColor": "#fcec04",
+      "SecondaryColor": "#a4ac7c"
     },
     "queen-home-improvement-llc": {
       "query": "plumber, 35984, Mentone, AL, US",
@@ -5397,8 +5397,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "cats-plumbing": {
       "query": "plumber, 35958, Bryant, AL, US",
@@ -5517,8 +5517,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#068cd6",
-      "SecondaryColor": "#046194"
+      "PrimaryColor": "#09aced",
+      "SecondaryColor": "#74a4bc"
     },
     "vest-plumbing": {
       "query": "plumber, 35577, Natural Bridge, AL, US",
@@ -5637,8 +5637,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "yarbrough's-general-contractors": {
       "query": "plumber, 35584, Sipsey, AL, US",
@@ -5757,8 +5757,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#3c64b4",
-      "SecondaryColor": "#a47454"
+      "PrimaryColor": "#1a5ac0",
+      "SecondaryColor": "#ad7d54"
     },
     "marble-city-plumbing-llc": {
       "query": "plumber, 35587, Townley, AL, US",
@@ -5877,8 +5877,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": null,
-      "SecondaryColor": null
+      "PrimaryColor": "#4474e4",
+      "SecondaryColor": "#133585"
     },
     "lke-plumbing": {
       "query": "plumber, 35621, Eva, AL, US",
@@ -5997,9 +5997,9 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "PrimaryColor": "#c43a3a",
-      "SecondaryColor": "#752323"
+      "PrimaryColor": "#e8787e",
+      "SecondaryColor": "#82161c"
     }
   },
-  "forceUpdateTimestamp": "1737016585.3078992"
+  "forceUpdateTimestamp": "1737017276.6041276"
 }
