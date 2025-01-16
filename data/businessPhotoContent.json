@@ -4358,6 +4358,142 @@
           "reason": "This image conveys the company's credibility, longevity, and dedication to serving the local area with reliable plumbing services."
         }
       ]
+    },
+    "mcr-plumbing-and-drain": {
+      "businessName": "MCR Plumbing and Drain",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPoVr5K24h1luO2SO59xIuHT4a8D98TEGxWvAQh=w2048-h2048-k-no",
+          "description": "A plumber working on a residential plumbing project, digging a trench and laying pipes in the yard.",
+          "callToAction": "Trusted Experts for All Your Plumbing Needs. Call MCR Plumbing & Drain Today!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNA2ta24wUIUDeEgHF7ShHhnkaPKUXjie5scblc=w2048-h2048-k-no",
+          "description": "A plumber working on a bathroom renovation, using specialized tools to install or repair plumbing fixtures.",
+          "callToAction": "Upgrade Your Bathroom with Our Professional Plumbing Services. Contact Us Now!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOrAWNmruzORzebfUZLAnPz_h6sD044AmiBSPsr=w2048-h2048-k-no",
+          "description": "A close-up view of a modern, high-efficiency tankless water heater installed by MCR Plumbing & Drain.",
+          "callToAction": "Save Energy and Money with Our Tankless Water Heater Installation Services. Get a Free Quote!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOG-0SQI_8V8TT4o880C51ugGNT8Z-jZYGvs_Ey=w2048-h2048-k-no",
+          "description": "A technician working on a complex heating system, showcasing the company's expertise in handling intricate HVAC installations.",
+          "reason": "This image demonstrates MCR Plumbing & Drain's capabilities in handling advanced heating and cooling systems, highlighting their technical expertise."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNzRUnODtd-vJy-4JPm-aYDsP0jP6J-SRSenWOZ=w2048-h2048-k-no",
+          "description": "A plumber working on a sewer line repair, using specialized equipment to locate and fix underground pipe issues.",
+          "reason": "This image showcases the company's ability to handle challenging sewer line repairs, emphasizing their commitment to resolving even the most complex plumbing problems."
+        }
+      ]
+    },
+    "all-out-plumbers-llc": {
+      "businessName": "All Out Plumbers LLC",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMJABpEhoII9LSj1h6oNK1gn43YtzvSg8KGc4Kv=w2048-h2048-k-no",
+          "description": "This aerial view showcases the intricate layout of a residential plumbing system installation. The vibrant red soil contrasts with the white pipes, creating a visually striking composition that highlights the complexity and artistry involved in modern plumbing work.",
+          "callToAction": "Elevate your home with our expert plumbing solutions. Contact us today for a seamless installation tailored to your needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPXgojn-qkKs3VvKxkcDrrp63mUy6O2_DAgxNUi=w2048-h2048-k-no",
+          "description": "This close-up image captures the precision and attention to detail required in plumbing work. The perfectly aligned pipes and fittings demonstrate the company's commitment to quality craftsmanship and adherence to industry standards.",
+          "callToAction": "Trust our skilled technicians to handle your plumbing needs with meticulous care and expertise. Schedule your service now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM1gyKnGgIBJOSWA93pyiDwqrDXIuIiwSgSoizJ=w2048-h2048-k-no",
+          "description": "This image showcases the company's ability to tackle large-scale plumbing projects. The extensive network of pipes and fittings, coupled with the heavy machinery in the background, conveys a sense of professionalism and capability to handle even the most demanding jobs.",
+          "callToAction": "Embark on your next major plumbing project with confidence. Our team has the experience and resources to deliver outstanding results."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNuWc6ih9tHS_QFrU6BrOpOmKFi9q9-bUMsgLVw=w2048-h2048-k-no",
+          "description": "This interior shot highlights the company's attention to detail and commitment to quality workmanship. The neatly organized pipes and fittings demonstrate their expertise in residential plumbing installations.",
+          "reason": "This image effectively showcases the company's capabilities in residential plumbing work, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP5BgQ-884HIlcdTNHZ-KPOzbz9k7rU1oF_QZdI=w2048-h2048-k-no",
+          "description": "This behind-the-scenes look into a construction site reveals the company's proficiency in handling complex plumbing installations. The intricate network of pipes and fittings showcases their ability to tackle challenging projects with precision and skill.",
+          "reason": "By showcasing their expertise in handling intricate plumbing systems, this image effectively conveys the company's capabilities and commitment to excellence, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "strickland-plumbing-maintenance": {
+      "businessName": "Strickland Plumbing & Maintenance",
+      "processedImages": 5,
+      "totalTokens": 3385,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOFkzjDhy_1qrg0o59cOZoYTAvptn2vo0ZGE7Yf=w2048-h2048-k-no",
+          "description": "A skilled technician's hands working on repairing or maintaining plumbing fixtures, showcasing the company's expertise in plumbing services.",
+          "callToAction": "Don't let plumbing issues disrupt your day. Call Strickland Plumbing & Maintenance for prompt and reliable solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMDIlu42N9JdBWSEULz9vCSXxWfXT7gVLw9LfUo=w2048-h2048-k-no",
+          "description": "Two experienced technicians collaborating to install or repair a toilet, demonstrating the company's commitment to teamwork and professionalism.",
+          "callToAction": "Trust the experts at Strickland Plumbing & Maintenance to handle all your residential and commercial plumbing needs with care and efficiency."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP3oLVAr0lJWqwGqIuRIeqh205-GXzFnrBA4w__=w2048-h2048-k-no",
+          "description": "A row of large industrial pipes, representing the company's capability to handle projects of any scale, from residential to commercial and industrial.",
+          "callToAction": "Whether it's a minor leak or a major plumbing overhaul, Strickland Plumbing & Maintenance has the expertise and resources to get the job done right."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN3MGQpc3SjCXW-Rx9kqcQoDgI52Wkn8Km9iJqn=w2048-h2048-k-no",
+          "description": "A technician's hand reaching into the inner workings of a water heater, showcasing the company's ability to diagnose and repair complex plumbing systems.",
+          "reason": "This image highlights the company's technical expertise and commitment to resolving even the most challenging plumbing issues, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOn0kHgqm-juZXOs08rgT-xCr9ccsvrowTr6ACT=w2048-h2048-k-no",
+          "description": "A frozen toilet bowl, illustrating the company's experience in handling emergency plumbing situations and the importance of prompt service.",
+          "reason": "This image demonstrates the company's readiness to tackle urgent plumbing problems, which is a valuable aspect to highlight in the About Us section, reassuring potential customers of their reliability."
+        }
+      ]
+    },
+    "boydstun-plumbing-llc": {
+      "businessName": "Boydstun Plumbing LLC",
+      "processedImages": 5,
+      "totalTokens": 3626,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOFGVAY1HE1rZckyDMRbxeUUOlm2xPZBrWA1W0v=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of our plumbing professionals in underground utility work. It depicts a freshly excavated trench, revealing the intricate network of pipes and utilities that lie beneath the surface.",
+          "callToAction": "Trust our experienced team to handle all your underground plumbing and utility needs with precision and care."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO2HVEMs7CXHntlbnNvhrtbgcu_MlBBhfBU1q4x=w2048-h2048-k-no",
+          "description": "Our skilled technicians are adept at navigating tight spaces and performing intricate plumbing work. This image highlights their attention to detail and commitment to delivering top-quality service.",
+          "callToAction": "Don't compromise on quality. Let our experts handle your most challenging plumbing projects with professionalism and expertise."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNP6PS0Etyx8qDZfU4_eFMldCuxXXeSKi-x_GFf=w2048-h2048-k-no",
+          "description": "This image showcases our capability to handle large-scale plumbing installations and replacements. The water heaters displayed represent our commitment to providing reliable and efficient solutions for your home or business.",
+          "callToAction": "Upgrade to energy-efficient water heaters and enjoy reliable hot water supply with our professional installation services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNpDtNgF50F20pNBxFlSNksVRY7gwGDQRrS9mCo=w2048-h2048-k-no",
+          "description": "This image highlights the attention to detail and craftsmanship our technicians bring to every job. The intricate network of pipes and fittings showcases our expertise in plumbing system design and installation.",
+          "reason": "This image effectively demonstrates our company's capabilities in handling complex plumbing projects, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMt0anLl6HZGCvyw8hABFbIwhmaaLCOHx-yfk-_=w2048-h2048-k-no",
+          "description": "Our technicians are highly skilled and trained to diagnose and repair plumbing issues efficiently. This image captures their professionalism and commitment to providing top-notch service.",
+          "reason": "By showcasing our technicians' expertise and dedication, this image instills confidence in potential customers about the quality of our services, making it a great fit for the About Us section."
+        }
+      ]
     }
   }
 }
