@@ -3848,6 +3848,108 @@
           "whyAboutUs": "This image showcases the company's dedication to delivering high-quality workmanship and attention to detail, even in the smallest elements of a project, instilling confidence in their ability to exceed client expectations."
         }
       ]
+    },
+    "a-b-septic-tank-services": {
+      "businessName": "A & B Septic Tank Services",
+      "processedImages": 12,
+      "totalTokens": 29960,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMsS-8mRxXvd2ZZQPMHFAnNaYNedY5qBTmfjPXG=w2048-h2048-k-no",
+          "description": "A professional septic tank installation crew at work, digging a trench and laying perforated drainage pipes in the ground to facilitate proper sewage dispersal.",
+          "callToAction": "Ensure your septic system is installed right with our expert team. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNZqCfzWtwv7oak-wrCXboVUGrDC5mFKYxV5Rzh=w2048-h2048-k-no",
+          "description": "An aerial view of a residential septic system installation project, showcasing the extensive network of drainage pipes being laid in preparation for a new septic tank.",
+          "callToAction": "Trust our experienced crew to handle your septic system installation from start to finish. Get a quote now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNEeI6o7loE7XsYOdc3k9uPw4yDxv8bQkJIYVJT=w2048-h2048-k-no",
+          "description": "A septic tank service truck parked outside a residential property, ready to provide professional maintenance or repair services for the home's septic system.",
+          "callToAction": "Keep your septic system running smoothly with our reliable maintenance and repair services. Schedule an appointment today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMZoLJvk0rgg5IWgDBP5QcakjP5fSPnzJmybxqf=w2048-h2048-k-no",
+          "description": "A collection of concrete septic tank lids and other components, demonstrating the company's expertise in handling various septic system materials and equipment.",
+          "reason": "This image showcases the company's familiarity with the essential components of septic systems, highlighting their capability to handle any aspect of installation, maintenance, or repair."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPkx05ZP9IWI0hURxaadEn7d5oKjUJnN2pC8hm9=w2048-h2048-k-no",
+          "description": "A close-up view of a septic tank access point, with a specialized tool being used to inspect or service the system, exemplifying the company's attention to detail and professionalism.",
+          "reason": "This image portrays the company's commitment to thorough and meticulous service, ensuring that every aspect of a septic system is properly inspected and maintained."
+        }
+      ]
+    },
+    "peck-plumbing": {
+      "businessName": "Peck Plumbing",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPy-2DrzXsaQ5CL51z3vx0fqNKv4mujQR7bRMoq=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of Peck Plumbing in underground plumbing installations. It depicts a construction site with a network of pipes and drainage systems being meticulously laid out, demonstrating the company's proficiency in handling complex plumbing projects.",
+          "callToAction": "Trust Peck Plumbing for your underground plumbing needs. Our skilled professionals ensure a seamless and efficient installation process."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPYb73E5mgqyvR8brNHArTm9oVzJaF6Xf1Tl8UA=w2048-h2048-k-no",
+          "description": "This image highlights the versatility of Peck Plumbing in handling both residential and commercial projects. It shows a team of workers diligently working on a plumbing installation at a construction site, showcasing the company's ability to tackle projects of various scales.",
+          "callToAction": "Rely on Peck Plumbing for all your plumbing needs, whether residential or commercial. Our experienced team delivers top-notch solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP_2xnhJqxZv8bTqI-clcI0ioOvNI9-eLZe2LFy=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of Peck Plumbing in bathroom renovations and installations. It features a modern and stylish bathroom setup with high-quality fixtures and finishes, demonstrating the company's commitment to delivering exceptional results.",
+          "callToAction": "Elevate your bathroom with Peck Plumbing. Our skilled professionals ensure a seamless and luxurious transformation."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP0pFJe_BtkdmF1NJeI2iy8V_iFbXTVIcNmLDSh=w2048-h2048-k-no",
+          "description": "This image showcases the attention to detail and craftsmanship of Peck Plumbing. It features a well-organized plumbing system with neatly arranged pipes and fittings, highlighting the company's commitment to quality workmanship and professionalism.",
+          "reason": "This image effectively demonstrates the company's capabilities in delivering precise and high-quality plumbing installations, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMkrslWYwR0sr1wXKc6m5s-_FTuj9LFrFATebT1=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of Peck Plumbing in water heater installations and maintenance. It features two modern water heaters with intricate piping systems, highlighting the company's proficiency in handling complex plumbing systems.",
+          "reason": "By showcasing their expertise in water heater installations, this image effectively conveys Peck Plumbing's comprehensive range of services, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "bailey-son-s-heating-cooling-and-plumbing": {
+      "businessName": "Bailey & Son\u2019s Heating, Cooling, and Plumbing",
+      "processedImages": 10,
+      "totalTokens": 17168,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP4M-jnEsBpaI5XPlRqFlj99D6gbrwz7XsEWgXj=w2048-h2048-k-no",
+          "description": "A professional logo design featuring a stylized letter 'B' with a flame motif, representing the company's expertise in heating and cooling services.",
+          "callToAction": "For all your heating and cooling needs, trust the professionals at Bailey & Sons. Contact us today for reliable and efficient solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP6qHrKkhR7bND0u-OVyn1c4relo_lwTrBMnwUq=w2048-h2048-k-no",
+          "description": "A close-up view of the company's logo, showcasing the sleek and modern design with a blue and orange color scheme.",
+          "callToAction": "Experience the difference with Bailey & Sons. Our team of experts is dedicated to providing top-notch heating, cooling, and plumbing services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNeSSVkSMK4VmHv4RptzsLFloACoBmVxcZKUbFs=w2048-h2048-k-no",
+          "description": "An exterior view of the company's facility, featuring a well-maintained building and a parking area, conveying professionalism and accessibility.",
+          "callToAction": "Visit our state-of-the-art facility and experience the Bailey & Sons difference. Schedule your appointment today for exceptional service."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNcDlVUibuulJ_R__EqQquqckCiw2do0bpuxZ4Y=w2048-h2048-k-no",
+          "description": "A close-up view of a water heater installation, showcasing the company's expertise in plumbing services.",
+          "reason": "This image demonstrates Bailey & Sons' capabilities in handling complex plumbing projects, highlighting their attention to detail and commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPV2IdSxz5_qRdT2HcTouJaXVoQo25ypfyaKYwJ=w2048-h2048-k-no",
+          "description": "An interior shot of a residential area under construction, with exposed pipes and ductwork, representing the company's involvement in new construction projects.",
+          "reason": "This image showcases Bailey & Sons' ability to handle both residential and commercial projects, including new construction, emphasizing their versatility and experience in the industry."
+        }
+      ]
     }
   }
 }
