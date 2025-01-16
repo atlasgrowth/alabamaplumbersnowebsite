@@ -1942,6 +1942,74 @@
           "reason": "This image showcases the company's on-site service capabilities and their dedication to meeting the plumbing needs of residential customers."
         }
       ]
+    },
+    "jnl-plumbing-and-drain-cleaning-llc": {
+      "businessName": "JNL Plumbing and drain cleaning LLC",
+      "processedImages": 12,
+      "totalTokens": 27891,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMsTuSiA92qXqz2zXYrvav_m0KJjFCJuA6D771C=w2048-h2048-k-no",
+          "description": "A professional plumbing setup showcasing the expertise and tools required for water heater maintenance and repair.",
+          "callToAction": "Trust our experienced technicians to keep your water heater running efficiently and safely. Schedule your service today!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNDXHytpas8nAGr1mNQzmwRw0Kwf4kuHUMTAL7t=w2048-h2048-k-no",
+          "description": "A skilled technician working on a bathroom plumbing project, demonstrating our commitment to quality workmanship.",
+          "callToAction": "Upgrade your bathroom with our top-notch plumbing services. Contact us for a free estimate!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNrPAiOM8YWlvM86JQSJ5q-9qNKnhP4KZ9_MmJH=w2048-h2048-k-no",
+          "description": "A comprehensive plumbing installation in progress, highlighting our ability to handle complex projects.",
+          "callToAction": "Renovating your home? Let our experts handle all your plumbing needs with precision and care."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOxfje4X9R_tel6MJJxAkaovIWdUNxJUfY2yhBZ=w2048-h2048-k-no",
+          "description": "A technician working on a challenging drain cleaning job, showcasing our expertise in tackling tough clogs.",
+          "whyAboutUs": "This image demonstrates our commitment to resolving even the most stubborn plumbing issues, highlighting our problem-solving skills and dedication to customer satisfaction."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP4LdmHYnOYqxm7ZIg4dLXdMK9iavNE2CObviYt=w2048-h2048-k-no",
+          "description": "A well-organized plumbing setup in an attic, showcasing our attention to detail and professionalism.",
+          "whyAboutUs": "This image portrays our ability to work in confined spaces and our commitment to maintaining a clean and organized work environment, reflecting our professionalism and respect for our clients' properties."
+        }
+      ]
+    },
+    "one-way-plumbing-llc": {
+      "businessName": "One Way Plumbing LLC",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMc8BdRx7S44Duo2IlZcUvBoACOl3mLCWNSu3f2=w2048-h2048-k-no",
+          "description": "This image showcases a luxurious bathroom remodel with a freestanding bathtub, double vanities, and a large skylight, highlighting the company's expertise in high-end bathroom renovations.",
+          "callToAction": "Elevate your bathroom to a spa-like oasis. Contact us for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNZGKZV8z5mjRxVdjxJZ1u22YXIv51IZpBo6Qn_=w2048-h2048-k-no",
+          "description": "This image displays a modern and stylish powder room with a vessel sink, dark cabinetry, and marble accents, demonstrating the company's ability to create stunning small bathroom designs.",
+          "callToAction": "Transform your powder room into a chic and functional space. Schedule a consultation today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPxuxfl6m4jUDj9qDJ0zltsdJNgeIlzaTohHOcB=w2048-h2048-k-no",
+          "description": "This image showcases a sleek and contemporary bathroom with a freestanding tub, marble tile, and gold fixtures, highlighting the company's skill in executing modern and luxurious bathroom designs.",
+          "callToAction": "Indulge in the ultimate luxury bathroom experience. Contact us for a free quote."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMm9w2RwkPTA7sL2eRvBGOr_kGY4raLzvh8XvyY=w2048-h2048-k-no",
+          "description": "This image displays the company's expertise in handling complex plumbing installations, showcasing their ability to work in tight spaces and navigate challenging situations.",
+          "reason": "This image demonstrates the company's technical capabilities and problem-solving skills, which are essential for building trust with potential clients."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO9fnhlzqDAbTfK7Jhn4KJyCk1y8AW54DH8BjPG=w2048-h2048-k-no",
+          "description": "This image captures the company's attention to detail and commitment to quality workmanship, as evidenced by the precise plumbing work and the use of high-quality materials.",
+          "reason": "This image highlights the company's dedication to delivering exceptional results, which is crucial for establishing their reputation and credibility in the industry."
+        }
+      ]
     }
   }
 }
