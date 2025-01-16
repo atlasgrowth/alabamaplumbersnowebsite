@@ -4188,6 +4188,74 @@
           "reason": "This image showcases the company's expertise in drain cleaning and maintenance, which is a crucial service for residential and commercial clients."
         }
       ]
+    },
+    "stephen-seibert-plumbing-llc": {
+      "businessName": "Stephen Seibert Plumbing, LLC",
+      "processedImages": 4,
+      "totalTokens": 5308,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOFIGQVC8wiZ96brc4xNt3fU3U4YLpjaBc0kFqR=w2048-h2048-k-no",
+          "description": "A smiling couple standing in front of a rustic barn surrounded by lush greenery, conveying a warm and welcoming atmosphere.",
+          "callToAction": "Experience top-notch plumbing services with a personal touch. Call us today for all your residential or commercial needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNXEJ-64BYRYLtOOEpk1KN4Rv6nSQ8tkcDnnmiQ=w2048-h2048-k-no",
+          "description": "A modern and stylishly designed bathroom with a walk-in shower, showcasing the company's expertise in bathroom renovations.",
+          "callToAction": "Upgrade your bathroom with our skilled craftsmanship and attention to detail. Contact us for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM04J3Jl8qVuNztg7MjkNu9dIetMsIJ7XvQRv88=w2048-h2048-k-no",
+          "description": "A sleek and functional double vanity with ample storage space, highlighting the company's ability to create functional and aesthetically pleasing bathroom designs.",
+          "callToAction": "Transform your bathroom into a luxurious oasis with our custom vanity solutions. Get a free quote today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNi2kFsa7OpuNt83Je61rXxR2_zk8SZykRB9Xua=w2048-h2048-k-no",
+          "description": "The company's professional logo and contact information, showcasing their commitment to quality service and accessibility.",
+          "reason": "This image effectively introduces the company and its services, making it a suitable choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOFIGQVC8wiZ96brc4xNt3fU3U4YLpjaBc0kFqR=w2048-h2048-k-no",
+          "description": "A smiling couple standing in front of a rustic barn surrounded by lush greenery, conveying a warm and welcoming atmosphere.",
+          "reason": "This image humanizes the company by featuring the owners, creating a personal connection with potential customers and highlighting the company's approachable nature."
+        }
+      ]
+    },
+    "southernn-solutions-llc": {
+      "businessName": "Southernn Solutions LLC",
+      "processedImages": 12,
+      "totalTokens": 11312,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPLAvu_hMjBYHbnKJQTteTDnQzAYXep0u5dTxsA=w2048-h2048-k-no",
+          "description": "A heavy-duty excavator operates on a rural worksite, digging and moving earth to prepare the ground for construction or landscaping. The powerful machinery showcases the company's ability to handle large-scale projects efficiently.",
+          "callToAction": "Trust our experienced team to tackle your most challenging excavation and site preparation needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMpLuL2njtv4a75PUyzbfTLdCWBTIpTO_G2EFdf=w2048-h2048-k-no",
+          "description": "A tracked skid steer loader works on a field, leaving trails in the dirt as it moves materials and shapes the terrain. This image highlights the company's versatility in handling various outdoor projects.",
+          "callToAction": "Let us transform your outdoor spaces with our comprehensive land clearing and grading services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO2quhcC6ascN4Mp0fE2yrwWA1qFSQCo_dlfmEf=w2048-h2048-k-no",
+          "description": "A bucket truck with an extended boom arm stands ready for action on a grassy field, demonstrating the company's capability to provide aerial services and access hard-to-reach areas.",
+          "callToAction": "Rely on our skilled professionals and state-of-the-art equipment for all your overhead utility and tree trimming requirements."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMW_OJl1_P0DCuQ_5q3bIreDKtJ7KXaEr1t570O=w2048-h2048-k-no",
+          "description": "A logging truck carries a load of freshly cut logs through a wooded area, showcasing the company's expertise in forestry operations and timber harvesting.",
+          "reason": "This image effectively highlights the company's experience in the forestry industry, demonstrating their ability to handle large-scale logging projects while respecting the natural environment."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOHKuCID7rn9mhQ8b3aIWSqONHqr7IctxGfjQHX=w2048-h2048-k-no",
+          "description": "A residential construction site features a newly installed septic system with drainage pipes running through freshly graded soil, illustrating the company's proficiency in underground utility installations.",
+          "reason": "This image showcases the company's capabilities in providing essential residential services, such as septic system installations and site preparation, making it an excellent choice for the About Us section."
+        }
+      ]
     }
   }
 }
