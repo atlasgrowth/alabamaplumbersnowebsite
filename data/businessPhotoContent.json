@@ -4800,6 +4800,108 @@
           "reasonForAboutUs": "This image effectively conveys the company's attention to detail and their commitment to delivering well-planned and organized plumbing solutions, which is essential for building trust with potential clients."
         }
       ]
+    },
+    "reliable-usa-plumbers": {
+      "businessName": "Reliable USA Plumbers",
+      "processedImages": 5,
+      "totalTokens": 10285,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNLg_YAotGr2K-vFzhAEA1dlziEaqF4Z5SginA8=w2048-h2048-k-no",
+          "description": "A professional truck from Reliable USA Home Services, showcasing their branding and readiness to serve customers' home needs in a timely manner.",
+          "callToAction": "Trust the reliable experts for all your home service needs. Call now for prompt, professional assistance."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPaIByvkp3bxN3kU4kKr-v8bmkI7yI65sclfYoQ=w2048-h2048-k-no",
+          "description": "A Reliable USA Home Services truck parked at their facility, demonstrating their fleet and operational capabilities.",
+          "callToAction": "Experience unmatched service with our fully-equipped team. Schedule your appointment today for top-notch home services."
+        },
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MzQl8_orD47RehZ7nq2ihw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=104.9544&pitch=0&thumbfov=100",
+          "description": "An exterior view of a residential property, highlighting the potential scope of Reliable USA Home Services' offerings.",
+          "callToAction": "Enhance your home's comfort and value with our comprehensive range of services. Contact us for a free consultation."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOVdtdS53nJIGdbt5RhSfBi9Pq3QdtB2JhVxSg_=w2048-h2048-k-no",
+          "description": "An interior shot showcasing the organization and preparedness of Reliable USA Home Services' workspace, with materials neatly stacked and ready for use.",
+          "reason": "This image demonstrates the company's professionalism, attention to detail, and readiness to tackle any home service project efficiently."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPZAtJP32YNvYcUHm4dvxpEA2ojAOINBagEtZCN=w2048-h2048-k-no",
+          "description": "The Reliable USA Home Services logo, representing their brand identity and commitment to delivering reliable home services across the USA.",
+          "reason": "The company's logo effectively communicates their brand promise and nationwide reach, instilling confidence in potential customers."
+        }
+      ]
+    },
+    "dixie-services": {
+      "businessName": "Dixie Services",
+      "processedImages": 8,
+      "totalTokens": 18352,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOfzAwzyWVPnZYzmineWBAbqNX1UG-eU5qTIvuq=w2048-h2048-k-no",
+          "description": "This image showcases the impressive scale and scope of a major plumbing project undertaken by Dixie Services. It depicts a large industrial facility with extensive trenching and piping work in progress, demonstrating the company's ability to handle complex and sizable installations.",
+          "callToAction": "Trust Dixie Services for your most demanding commercial and industrial plumbing needs. Contact us today for a consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOSnaIweBeTFW1JjhUFuGqSOqxAEtN5kBDfbU4k=w2048-h2048-k-no",
+          "description": "This image highlights the attention to detail and quality workmanship that Dixie Services brings to every project. It shows a well-organized and neatly executed piping system installation, reflecting the company's commitment to excellence and professionalism.",
+          "callToAction": "Experience the Dixie Services difference. Our skilled technicians deliver flawless plumbing solutions tailored to your specific requirements."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM9fTpvyJmsvhRb-IAWG9vLnx0eMoklLGvWd1Ss=w2048-h2048-k-no",
+          "description": "This image captures the scale and complexity of a major plumbing project undertaken by Dixie Services. It showcases the company's ability to handle large-scale commercial and industrial installations with precision and efficiency.",
+          "callToAction": "Trust the experts at Dixie Services to tackle your most challenging plumbing projects. Contact us for a free consultation and quote."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPmvSsUTWNhxERpK43HT_W2d-vWimt6Dgkl5gDm=w2048-h2048-k-no",
+          "description": "This image showcases the meticulous attention to detail and craftsmanship that Dixie Services brings to every project. It depicts a well-organized and neatly executed piping system installation, reflecting the company's commitment to quality and professionalism.",
+          "reason": "This image effectively demonstrates the company's capabilities in executing complex plumbing installations with precision and attention to detail, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMQIO06_94WuTda7ug8H_byMryQ6475vaVVDNHo=w2048-h2048-k-no",
+          "description": "This image provides a glimpse into the behind-the-scenes work involved in a plumbing project by Dixie Services. It shows the careful planning and preparation required, with piping materials and equipment neatly organized, reflecting the company's commitment to efficiency and organization.",
+          "reason": "This image offers insight into the company's methodical approach and preparation process, showcasing their professionalism and dedication to delivering high-quality results, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "water-damage-services-huntsville": {
+      "businessName": "Water Damage Services Huntsville",
+      "processedImages": 12,
+      "totalTokens": 15525,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPlGPTHpAtNf-wHO23DpDThAbOBPxUngoXa3pfN=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in water damage restoration services. It depicts a living room filled with professional drying equipment, including air movers and dehumidifiers, strategically placed to efficiently dry out the area after a water incident.",
+          "callToAction": "Don't let water damage ruin your home. Call us now for fast and effective water removal and drying services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPD5oCrO_5uHw2QWZ8n_xWSoiS6kPL0jF0CpgaS=w2048-h2048-k-no",
+          "description": "This image highlights the company's ability to handle water damage in historic or unique properties. It shows their team working diligently to dry out a room with exposed wooden beams and brick walls, demonstrating their care and attention to detail in preserving the integrity of such structures.",
+          "callToAction": "Protect your historic property from water damage. Our experts use specialized techniques to restore your space safely."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOOy5X5j9fwJ6s9iBwq-C8meSVrppRSMLbb3F4V=w2048-h2048-k-no",
+          "description": "This powerful image showcases the company's expertise in dealing with severe water damage situations. It depicts their team working tirelessly to dry out a heavily damaged room, using industrial-grade equipment and following proper safety protocols.",
+          "callToAction": "Don't let severe water damage overwhelm you. Our experienced team has the skills and equipment to tackle even the toughest jobs."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMgBqTpZXSl58v8HO9mq4cioABEoVABpckhJIH_=w2048-h2048-k-no",
+          "description": "This image showcases the company's commitment to professionalism and attention to detail. It depicts their team meticulously working on a water damage restoration project, using specialized equipment and following industry best practices.",
+          "reason": "This image works well for the About Us section as it demonstrates the company's expertise, dedication, and adherence to high standards, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPpYIZDC2mqHgsOXrqh4NAFy1GEJI7BaWEw5OaP=w2048-h2048-k-no",
+          "description": "This image highlights the company's ability to handle water damage in various settings, including residential kitchens. It shows their team efficiently drying out a kitchen area, using specialized equipment and techniques to ensure a thorough and effective restoration process.",
+          "reason": "This image is suitable for the About Us section as it showcases the company's versatility in handling water damage in different environments, including high-value areas like kitchens, demonstrating their trustworthiness and capability."
+        }
+      ]
     }
   }
 }
