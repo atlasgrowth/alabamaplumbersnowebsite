@@ -2828,6 +2828,108 @@
           "whyItWorks": "This image demonstrates the company's dedication to delivering top-notch services, with a focus on precision and attention to detail, which are essential for the proper functioning of septic systems."
         }
       ]
+    },
+    "morrison-plumbing": {
+      "businessName": "Morrison Plumbing",
+      "processedImages": 5,
+      "totalTokens": 2590,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMy9TrW0qZYPLkVU5o1_nMV0gwnrDf0ftjMFuzp=w2048-h2048-k-no",
+          "description": "A professional plumber working on a residential plumbing fixture, showcasing the company's expertise in providing reliable plumbing services for homes.",
+          "callToAction": "Trust our experienced team for all your residential plumbing needs. Contact us today for prompt and efficient service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPcY10wpyXu5kXMn66y9n8Wlr84If53f4VxEAi9=w2048-h2048-k-no",
+          "description": "A skilled technician diligently repairing plumbing components under a sink, highlighting the company's commitment to delivering quality workmanship.",
+          "callToAction": "Don't let plumbing issues disrupt your daily routine. Our experts are ready to resolve any residential or commercial plumbing challenge."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNTiTIwYqKljrtwb2ROgrRm0fKqUO-kPParPwCI=w2048-h2048-k-no",
+          "description": "A knowledgeable staff member carefully inspecting plumbing supplies, ensuring the company uses top-quality products for every job.",
+          "callToAction": "Rely on our team of professionals to handle your plumbing projects with expertise and attention to detail."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOCMyarKZMqmpE_0LRw0LIRNJFTyH_1unH5QhGm=w2048-h2048-k-no",
+          "description": "A friendly and skilled plumber working on a water heater installation, showcasing the company's ability to handle a wide range of plumbing tasks.",
+          "reason": "This image demonstrates the company's professionalism and expertise in tackling various plumbing projects, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMhkdjWweM9kQn7N6IfMVSCmGazXYrDNaySXvej=w2048-h2048-k-no",
+          "description": "A close-up of a plumber's hands working on a plumbing fixture, highlighting the company's attention to detail and commitment to quality workmanship.",
+          "reason": "This image showcases the company's skilled technicians and their dedication to providing top-notch plumbing services, making it an excellent choice for the About Us section."
+        }
+      ]
+    },
+    "bishop-s-plumbing-services": {
+      "businessName": "Bishop\u2019s Plumbing & Services",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNd98XPU54FoGWJR6us7Kny2EIzM_blvCz5qpeh=w2048-h2048-k-no",
+          "description": "A stunning panoramic view of a lush green forest valley surrounded by mountains, captured during a vibrant sunset. The warm colors and natural beauty create a serene and inviting atmosphere.",
+          "callToAction": "Experience the tranquility of nature with Bishop's Plumbing & Services. Contact us for your plumbing needs in a serene environment."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPjY5lg2LtWLHFzh6aAZpvWPOpPWY0aCXqTozhs=w2048-h2048-k-no",
+          "description": "A cozy and inviting living room area with a fireplace, comfortable seating, and a stunning view of the ocean through large windows. The room exudes a relaxing and luxurious ambiance.",
+          "callToAction": "Elevate your living experience with Bishop's Plumbing & Services. Let us enhance the comfort and luxury of your home."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOuNm0axQNQ-E4o1QaHL7_OaazL4gnaGu0-uZ0j=w2048-h2048-k-no",
+          "description": "A luxurious and modern bathroom with marble tiles, a freestanding bathtub, and a walk-in shower. The sleek design and attention to detail create a spa-like atmosphere.",
+          "callToAction": "Indulge in the ultimate bathroom experience with Bishop's Plumbing & Services. Contact us to transform your space into a personal oasis."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMVBmCPUjXHR4IKGBXBE98kS0bQbiZ7rMKOd2Cc=w2048-h2048-k-no",
+          "description": "A well-organized and efficient laundry room with a modern washing machine, cabinets, and a folding counter. The clean lines and thoughtful design showcase the company's attention to detail and commitment to functional spaces.",
+          "reason": "This image demonstrates Bishop's Plumbing & Services' expertise in creating practical and efficient utility areas, highlighting their capabilities in designing functional spaces."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMdwnuiytNKDJrIrH0XZN5zT6vKQ0_3ENksCWHL=w2048-h2048-k-no",
+          "description": "A sleek and modern kitchen with a well-stocked bar area, featuring a variety of liquors and a framed artwork depicting a sailfish. The stylish design and attention to detail showcase the company's ability to create personalized and visually appealing spaces.",
+          "reason": "This image showcases Bishop's Plumbing & Services' ability to incorporate unique design elements and personal touches into their projects, reflecting their commitment to creating tailored and visually appealing spaces for their clients."
+        }
+      ]
+    },
+    "veteran-s-plumbing": {
+      "businessName": "Veteran's Plumbing",
+      "processedImages": 8,
+      "totalTokens": 19976,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOyX6WAGD4mXp5WNmer2-natTVwzaNcGijF-mwR=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in residential plumbing services. It depicts a professional-grade faucet installed in a modern kitchen sink, with water flowing smoothly, highlighting the quality of their workmanship.",
+          "callToAction": "Upgrade your kitchen with our top-notch faucet installation services. Contact us today for a free quote!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOt4yPFTzrRb64vYY5S9GL6a_lX64t4JFbRvRIP=w2048-h2048-k-no",
+          "description": "This image demonstrates the company's proficiency in handling complex plumbing projects. It features a sleek and stylish kitchen sink with a high-end faucet, reflecting the attention to detail and craftsmanship the company brings to every job.",
+          "callToAction": "Elevate your kitchen's style and functionality with our expert sink and faucet installation services. Schedule a consultation now!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP9d8xHS1o0bom6tlaITPvvxaFnfh6JVVuAIBsF=w2048-h2048-k-no",
+          "description": "This powerful image showcases the company's ability to tackle challenging plumbing issues. It depicts a professional-grade plumbing setup under a kitchen sink, highlighting their expertise in ensuring efficient and reliable water flow throughout the home.",
+          "callToAction": "Don't let plumbing problems disrupt your daily routine. Trust our skilled technicians to resolve any issue quickly and effectively. Call us now!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO9NUTDmc0RvyhSqGwDMQhleuH8ox2e10QzxB4m=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in water heater installation and maintenance. It depicts a modern, energy-efficient water heater unit, demonstrating their commitment to providing reliable and sustainable plumbing solutions.",
+          "reason": "This image effectively highlights the company's capabilities in handling essential plumbing systems, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN14vp2c4zuEN99z7Oc_iL65Uk6gDH-wKlbvbYn=w2048-h2048-k-no",
+          "description": "This image demonstrates the company's ability to handle complex outdoor plumbing projects. It shows a professional-grade pipe installation, buried underground, highlighting their expertise in ensuring proper drainage and water flow for residential and commercial properties.",
+          "reason": "This image showcases the company's versatility in tackling various plumbing challenges, making it a suitable choice for the About Us section to showcase their range of services."
+        }
+      ]
     }
   }
 }
