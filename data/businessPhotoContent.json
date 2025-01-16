@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "generated": "1737040142.7771525",
+    "model": "claude-3-sonnet-20240229",
+    "totalBusinesses": 5
+  },
+  "businessPhotoContent": {
+    "queen-home-improvement-llc": {
+      "businessName": "Queen Home Improvement LLC",
+      "heroSection": {
+        "mainImage": {
+          "url": "image1.jpg",
+          "description": "A beautifully renovated kitchen with modern white cabinets, granite countertops, and stainless steel appliances, showcasing the high-quality workmanship and attention to detail.",
+          "callToAction": "Transform Your Kitchen Dreams into Reality with Queen Home Improvement"
+        },
+        "supportingImages": [
+          {
+            "url": "image2.jpg",
+            "description": "The exterior of a home with a newly constructed covered porch, featuring elegant columns and a welcoming entryway, highlighting the company's expertise in exterior renovations and additions.",
+            "callToAction": "Elevate Your Home's Curb Appeal with Our Exceptional Exterior Remodeling Services"
+          },
+          {
+            "url": "image3.jpg",
+            "description": "A luxurious bathroom renovation with a spacious walk-in shower, featuring intricate tile work and modern fixtures, showcasing the company's ability to create spa-like retreats within the home.",
+            "callToAction": "Indulge in the Ultimate Bathroom Oasis with Queen Home Improvement's Skilled Craftsmanship"
+          }
+        ]
+      },
+      "aboutUsImages": [
+        {
+          "url": "image4.jpg",
+          "description": "A team of skilled professionals working on a construction site, demonstrating the company's commitment to quality workmanship and attention to detail.",
+          "usage": "This image showcases the company's team of experienced professionals, highlighting their expertise and dedication to delivering exceptional results."
+        },
+        {
+          "url": "image5.jpg",
+          "description": "A before-and-after comparison of a room renovation, showcasing the company's ability to transform spaces and bring clients' visions to life.",
+          "usage": "This image effectively illustrates the company's capability to take on challenging projects and deliver stunning transformations, making it an ideal choice for the About Us section."
+        }
+      ]
+    }
+  }
+}
