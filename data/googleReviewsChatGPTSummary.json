@@ -1,7 +1,7 @@
 {
   "fussell-plumbing": {
     "ownerName": "Alex",
-    "ownerConfidence": 80,
+    "ownerConfidence": 85,
     "servicesMentioned": [
       "water heaters",
       "repairs",
@@ -22,9 +22,9 @@
       "drain pipe",
       "pressure control valve",
       "draining kitchen sink",
+      "hot water heater",
       "bathtub faucets",
-      "leak",
-      "plumbing"
+      "leak"
     ],
     "firstReviewDate": "2017-12-29",
     "last30": 0,
@@ -34,16 +34,15 @@
     "last365": 5
   },
   "salser-plumbing-and-septic-service-llc": {
-    "ownerName": "Clay",
+    "ownerName": "Brandon",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "fix the issue",
-      "sump pump",
-      "float replacement",
+      "sump pump repair",
       "toilet repair",
       "line backing up",
       "tank pumping",
-      "filtration system installation"
+      "filtration system installation",
+      "leak repair"
     ],
     "firstReviewDate": "2018-10-16",
     "last30": 0,
@@ -68,19 +67,17 @@
     "last365": 3
   },
   "strickland-plumbing-and-maintenance": {
-    "ownerName": "David Strickland",
+    "ownerName": "David",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "installing commodes",
-      "faucet replacement",
-      "toilet repairs",
-      "water leak",
+      "commodes installation",
+      "faucets replacement",
+      "water leak repair",
       "hot water heater replacement",
-      "new toilet installation",
+      "toilet installation",
       "kitchen sink faucet installation",
       "gas tankless hot water heater installation",
-      "home projects",
-      "new sink installation"
+      "sink installation"
     ],
     "firstReviewDate": "2018-08-28",
     "last30": 1,
@@ -91,9 +88,8 @@
   },
   "reese-plumbing-llc": {
     "ownerName": "Josh",
-    "ownerConfidence": 80,
+    "ownerConfidence": 93,
     "servicesMentioned": [
-      "plumbing",
       "leak repair",
       "water lines rerouting",
       "pipe replacement",
@@ -107,10 +103,10 @@
     "last365": 14
   },
   "alabama-water-heater": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
+    "ownerName": "Jarrett",
+    "ownerConfidence": 20,
     "servicesMentioned": [
-      "water heater"
+      "hot water heater replacement"
     ],
     "firstReviewDate": "2021-12-02",
     "last30": 0,
@@ -124,7 +120,7 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "hot water heater",
-      "outside faucets"
+      "faucets"
     ],
     "firstReviewDate": "2024-04-23",
     "last30": 0,
@@ -138,7 +134,7 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "plumbing issues",
-      "repair shower",
+      "repairing my shower",
       "leaking pipe",
       "future plumbing",
       "outside water line break",
@@ -166,11 +162,9 @@
   },
   "ace-plumbing-solutions": {
     "ownerName": "Austin",
-    "ownerConfidence": 90,
+    "ownerConfidence": 80,
     "servicesMentioned": [
-      "plumbing",
-      "garbage disposal",
-      "leak repair"
+      "plumbing"
     ],
     "firstReviewDate": "2024-09-15",
     "last30": 7,
@@ -207,12 +201,13 @@
     "ownerName": "Lisa",
     "ownerConfidence": 80,
     "servicesMentioned": [
+      "water leak",
+      "frozen pipes",
+      "hydrant replacement",
+      "toilet repair",
+      "water pump repair",
       "leak repair",
-      "water heater",
-      "frost proof hydrant",
-      "drain cleaning",
-      "faucet replacement",
-      "plumbing replacement"
+      "faucet installation"
     ],
     "firstReviewDate": "2018-09-26",
     "last30": 0,
@@ -261,8 +256,8 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "service call",
-      "fixing my kitchen sink",
-      "water main repair"
+      "water main repair",
+      "kitchen sink repair"
     ],
     "firstReviewDate": "2016-06-04",
     "last30": 0,
@@ -275,7 +270,7 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "leaking faucet repair"
+      "leak repair"
     ],
     "firstReviewDate": "2014-07-26",
     "last30": 0,
@@ -300,14 +295,13 @@
   },
   "sims-plumbing-and-air": {
     "ownerName": "Anthony",
-    "ownerConfidence": 80,
+    "ownerConfidence": 100,
     "servicesMentioned": [
       "plumbing repairs",
       "water heater",
-      "air conditioner",
-      "shower",
-      "drain",
-      "shampoo bowls"
+      "shower repair",
+      "drain clearing",
+      "air conditioner"
     ],
     "firstReviewDate": "2019-08-23",
     "last30": 0,
@@ -319,7 +313,10 @@
   "tracy-duncan-plumbing": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "emergency",
+      "repair"
+    ],
     "firstReviewDate": "2016-08-27",
     "last30": 0,
     "last60": 1,
@@ -346,8 +343,7 @@
     "ownerName": "Lance",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "drains cleaned",
-      "emergency job"
+      "drain cleaning"
     ],
     "firstReviewDate": "2021-07-02",
     "last30": 0,
@@ -360,15 +356,13 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "tank",
-      "plumbing",
-      "septic system",
-      "leak",
-      "drain unclogged",
-      "sewer line",
-      "shower head install",
-      "field line",
-      "septic issues"
+      "septic system cleaning",
+      "leak repair",
+      "drain unclogging",
+      "sewer line repair",
+      "field line installation",
+      "shower installation",
+      "tankless water heater installation"
     ],
     "firstReviewDate": "2018-06-13",
     "last30": 2,
@@ -458,12 +452,13 @@
   },
   "condo-care": {
     "ownerName": "Dan",
-    "ownerConfidence": 90,
+    "ownerConfidence": 80,
     "servicesMentioned": [
       "cleaning",
-      "dishwasher repair",
+      "fixing leak",
       "maintenance",
-      "leak repair",
+      "repairing dishwasher",
+      "repairing sliding glass door",
       "appliance repair"
     ],
     "firstReviewDate": "2016-12-27",
@@ -478,7 +473,6 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "bathroom faucet",
-      "communication",
       "handicap toilet",
       "water main"
     ],
@@ -494,8 +488,10 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "main water line repair",
-      "new plumbing work",
-      "maintenance and repair work"
+      "inspection",
+      "maintenance",
+      "repair work",
+      "home remodel projects"
     ],
     "firstReviewDate": "2022-11-18",
     "last30": 1,
@@ -534,9 +530,8 @@
       "water heater",
       "leak repair",
       "re-piping",
-      "sink fix",
       "toilet drain",
-      "emergency water loss"
+      "shower head"
     ],
     "firstReviewDate": "2024-04-01",
     "last30": 2,
@@ -547,7 +542,7 @@
   },
   "professional-plumbing-and-drain": {
     "ownerName": "Jerry",
-    "ownerConfidence": 40,
+    "ownerConfidence": 33,
     "servicesMentioned": [],
     "firstReviewDate": "2023-06-18",
     "last30": 0,
@@ -563,11 +558,9 @@
       "water heater",
       "sewer",
       "kitchen faucet",
-      "polybutylene lines",
-      "shut off valves",
-      "water filter system",
+      "undercounter water filter",
       "dish washer line",
-      "pinhole in pex line",
+      "pinhole in a piece of pex line",
       "pressure regulator"
     ],
     "firstReviewDate": "2018-04-24",
@@ -582,8 +575,7 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "unclogged my toilet",
-      "whole house replumb",
-      "deteriorated copper lines"
+      "replumb due to deteriorated copper lines"
     ],
     "firstReviewDate": "2017-08-23",
     "last30": 1,
@@ -624,9 +616,8 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "unclogging",
-      "running another line",
-      "removing old faucet",
-      "installing new faucet"
+      "running line",
+      "installing faucet"
     ],
     "firstReviewDate": "2021-07-14",
     "last30": 0,
@@ -649,9 +640,7 @@
   "cats-plumbing": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [
-      "plumbing"
-    ],
+    "servicesMentioned": [],
     "firstReviewDate": "2016-06-29",
     "last30": 0,
     "last60": 0,
@@ -661,12 +650,13 @@
   },
   "vest-plumbing": {
     "ownerName": "Alex",
-    "ownerConfidence": 85,
+    "ownerConfidence": 80,
     "servicesMentioned": [
       "plumbing",
       "leak repair",
       "water heater replacement",
-      "installation"
+      "bathroom plumbing",
+      "outdoor water leak"
     ],
     "firstReviewDate": "2020-09-28",
     "last30": 0,
@@ -691,10 +681,10 @@
     "ownerConfidence": 100,
     "servicesMentioned": [
       "repairs",
-      "drain plugged",
       "slab leak",
+      "plumbing issue",
       "busted pipe",
-      "leak"
+      "drain plugged"
     ],
     "firstReviewDate": "2022-11-21",
     "last30": 0,
@@ -709,7 +699,7 @@
     "servicesMentioned": [
       "repair",
       "emergency",
-      "clean up"
+      "plumbing"
     ],
     "firstReviewDate": "2024-05-10",
     "last30": 0,
@@ -748,8 +738,10 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "plumbing",
-      "rerouting kitchen sink",
-      "washing machine drain"
+      "rerouting",
+      "drain",
+      "sink",
+      "washing machine"
     ],
     "firstReviewDate": "2016-10-10",
     "last30": 0,
@@ -774,11 +766,11 @@
   },
   "unstoppable-drain-and-company": {
     "ownerName": "Johnny",
-    "ownerConfidence": 100,
+    "ownerConfidence": 80,
     "servicesMentioned": [
-      "plumbing",
       "unstopping drains",
-      "replacing tub and sink valves and pipes"
+      "replacing tub and sink valves and pipes",
+      "drain cleaning"
     ],
     "firstReviewDate": "2023-04-21",
     "last30": 0,
@@ -813,8 +805,8 @@
     "ownerName": "Randal Collier",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "home repairs",
-      "painting"
+      "house painting",
+      "home repairs"
     ],
     "firstReviewDate": "2024-06-01",
     "last30": 0,
@@ -860,10 +852,10 @@
     "ownerName": "Cody",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "septic tank clean out",
-      "pumping",
-      "troubleshooting",
-      "root removal"
+      "septic tank service",
+      "clean out",
+      "pumped",
+      "roots removal"
     ],
     "firstReviewDate": "2016-03-11",
     "last30": 0,
@@ -877,9 +869,7 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "leak repair",
-      "plumbing",
-      "drains replaced",
-      "shower installation"
+      "plumbing"
     ],
     "firstReviewDate": "2023-09-11",
     "last30": 0,
@@ -893,15 +883,14 @@
     "ownerConfidence": 90,
     "servicesMentioned": [
       "pipe fix",
-      "vanity installation",
+      "bathroom vanity installation",
       "leak repair",
       "re-plumbing",
       "disposal installation",
-      "Dishwasher installation",
-      "faucets replacement",
-      "waterlines re-routing",
+      "dishwasher installation",
+      "waterlines rerouting",
       "gas lines",
-      "drain unclogging"
+      "clogged drain"
     ],
     "firstReviewDate": "2020-01-28",
     "last30": 0,
@@ -923,14 +912,13 @@
   },
   "evans-plumbing-and-drain-service-inc": {
     "ownerName": "Aaron",
-    "ownerConfidence": 80,
+    "ownerConfidence": 60,
     "servicesMentioned": [
       "RV Leak",
+      "plumbing",
       "well cap",
-      "leak in water heart",
       "kitchen leak",
-      "sewer line",
-      "pipe"
+      "sewer line"
     ],
     "firstReviewDate": "2014-12-15",
     "last30": 0,
@@ -957,9 +945,8 @@
     "ownerName": "TJ",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "expansion tank",
       "gas log fireplace",
-      "plumbing"
+      "expansion tank"
     ],
     "firstReviewDate": "2024-12-27",
     "last30": 6,
@@ -999,12 +986,12 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "leak repair",
-      "water heater",
-      "sewer line issue",
-      "pressure reducing valve",
-      "gas line",
-      "main drain line",
-      "water feed line"
+      "faucet replacement",
+      "water heater repair",
+      "water heater replacement",
+      "pipe repair",
+      "drain cleaning",
+      "sewer line repair"
     ],
     "firstReviewDate": "2017-03-13",
     "last30": 2,
@@ -1015,12 +1002,13 @@
   },
   "little's-plumbing-and-pro-services": {
     "ownerName": "Brenden",
-    "ownerConfidence": 80,
+    "ownerConfidence": 90,
     "servicesMentioned": [
       "leak repair",
       "sink installation",
-      "pipe repair",
-      "faucet repair"
+      "water pipe fix",
+      "faucet repair",
+      "emergency plumbing"
     ],
     "firstReviewDate": "2022-09-12",
     "last30": 0,
@@ -1081,8 +1069,9 @@
     "servicesMentioned": [
       "plumbing leak",
       "unclogged drain",
-      "pipes cleaned",
-      "leak repair"
+      "main line unstoped",
+      "leaks in bathroom",
+      "pipe cleaning"
     ],
     "firstReviewDate": "2013-09-09",
     "last30": 0,
@@ -1095,11 +1084,11 @@
     "ownerName": "Kobe & Meg Kayden",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "remodeled bathroom",
-      "deck repair",
+      "remodeled our bathroom",
+      "repaired our deck",
       "tree removal",
-      "rebuild closet",
-      "graded drive way"
+      "rebuilt a closet",
+      "graded me a new drive way"
     ],
     "firstReviewDate": "2021-10-05",
     "last30": 0,
@@ -1110,13 +1099,13 @@
   },
   "harrisons-plumbing": {
     "ownerName": "Mark",
-    "ownerConfidence": 85,
+    "ownerConfidence": 90,
     "servicesMentioned": [
       "hot water heater installation",
       "leak repair",
+      "plumbing",
       "pipe repair",
-      "toilet repair",
-      "septic line cleaning",
+      "septic lines cleaning",
       "pressure regulator installation"
     ],
     "firstReviewDate": "2023-06-11",
@@ -1157,7 +1146,10 @@
   "sloan-plumbing-and-drain-service": {
     "ownerName": "Nick",
     "ownerConfidence": 80,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "plumbing",
+      "drain service"
+    ],
     "firstReviewDate": "2022-03-09",
     "last30": 0,
     "last60": 0,
@@ -1173,7 +1165,7 @@
       "re-piped",
       "icemaker",
       "shower fixtures",
-      "emergency"
+      "leak repair"
     ],
     "firstReviewDate": "2023-04-11",
     "last30": 0,
@@ -1185,7 +1177,9 @@
   "jack's-sewer-and-plumbing-services": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "plumber"
+    ],
     "firstReviewDate": "2017-04-26",
     "last30": 0,
     "last60": 0,
@@ -1195,7 +1189,7 @@
   },
   "tri-state-land-clearing": {
     "ownerName": "Chris",
-    "ownerConfidence": 33,
+    "ownerConfidence": 20,
     "servicesMentioned": [
       "land work",
       "driveway repair"
@@ -1222,8 +1216,9 @@
     "ownerName": "James",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "plumbing services",
-      "leak repair"
+      "plumbing",
+      "leak repair",
+      "water damage"
     ],
     "firstReviewDate": "2024-08-04",
     "last30": 0,
@@ -1270,12 +1265,13 @@
   },
   "pipers-plumbing": {
     "ownerName": "Robby",
-    "ownerConfidence": 85,
+    "ownerConfidence": 90,
     "servicesMentioned": [
-      "water pipe repair",
-      "water line installation",
       "leak repair",
-      "tankless water heater installation"
+      "water heater",
+      "water pipe",
+      "toilet repair",
+      "water line"
     ],
     "firstReviewDate": "2023-06-22",
     "last30": 1,
@@ -1309,8 +1305,8 @@
     "last365": 0
   },
   "accurate-heating-and-air-conditioning": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
+    "ownerName": "Garrett",
+    "ownerConfidence": 20,
     "servicesMentioned": [
       "air conditioner",
       "plumbing"
@@ -1342,7 +1338,7 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "sink unclog"
+      "unclogged my sink"
     ],
     "firstReviewDate": "2020-05-22",
     "last30": 0,
@@ -1355,10 +1351,10 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "faucet change",
-      "leak repair",
-      "garbage disposal replacement",
-      "fireplace fixing"
+      "changing out my faucet",
+      "fixing the leak under my kitchen sink",
+      "replacing a garbage disposal",
+      "fixing a fireplace"
     ],
     "firstReviewDate": "2019-06-14",
     "last30": 0,
@@ -1394,13 +1390,12 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "leak repair",
-      "pipe burst",
       "water heater",
-      "toilet",
-      "electric problem",
-      "bathroom remodel",
-      "sewer issue",
-      "shower valve"
+      "plumbing",
+      "electrical work",
+      "pipe burst",
+      "toilet replacement",
+      "bathroom remodel"
     ],
     "firstReviewDate": "2015-10-22",
     "last30": 4,
@@ -1489,12 +1484,13 @@
   },
   "h-and-c-plumbing-llc": {
     "ownerName": "Andrew",
-    "ownerConfidence": 80,
+    "ownerConfidence": 90,
     "servicesMentioned": [
-      "Flange replacement",
-      "water heater replacement",
+      "Flange",
+      "water heater",
       "leak repair",
-      "remodeling"
+      "remodel",
+      "plumbing"
     ],
     "firstReviewDate": "2020-05-25",
     "last30": 0,
@@ -1505,13 +1501,12 @@
   },
   "budget-rooter-and-plumbing": {
     "ownerName": "Amin",
-    "ownerConfidence": 90,
+    "ownerConfidence": 80,
     "servicesMentioned": [
       "water main leak",
       "water heater",
-      "sewage line",
-      "leak",
-      "valve"
+      "sewage line problem",
+      "leak repair"
     ],
     "firstReviewDate": "2016-02-25",
     "last30": 0,
@@ -1524,9 +1519,9 @@
     "ownerName": "Nick",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "plumbing",
       "hot water line break",
-      "tankless water heater installation"
+      "tankless water heater installation",
+      "plumbing"
     ],
     "firstReviewDate": "2017-04-06",
     "last30": 0,
@@ -1539,12 +1534,12 @@
     "ownerName": "Adidas",
     "ownerConfidence": 80,
     "servicesMentioned": [
+      "water pressure regulator",
       "water heater",
       "leak repair",
-      "plumbing",
-      "water pressure regulator",
-      "water line",
-      "shower fixture"
+      "plumbing repairs",
+      "toilet",
+      "bathroom remodel"
     ],
     "firstReviewDate": "2016-12-05",
     "last30": 0,
@@ -1570,7 +1565,8 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "plumbing"
+      "plumbing",
+      "pipe repair"
     ],
     "firstReviewDate": "2023-08-12",
     "last30": 1,
@@ -1583,11 +1579,12 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "gas logs start",
-      "hot water heater replace",
+      "gas logs",
+      "hot water heater",
       "faucet",
+      "emergency issue",
       "septic system",
-      "waterline repair"
+      "waterline"
     ],
     "firstReviewDate": "2019-10-28",
     "last30": 0,
@@ -1600,12 +1597,10 @@
     "ownerName": "Scott",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "sewer-type odor detection",
-      "smoke test",
-      "leak repair",
-      "plumbing",
+      "sewer odor detection",
       "septic tank inspection",
-      "waterhammering"
+      "water leak repair",
+      "plumbing"
     ],
     "firstReviewDate": "2018-12-05",
     "last30": 0,
@@ -1616,7 +1611,7 @@
   },
   "hall's-plumbing-services": {
     "ownerName": "Randy",
-    "ownerConfidence": 85,
+    "ownerConfidence": 80,
     "servicesMentioned": [
       "outside faucet repair",
       "water heater replacement",
@@ -1634,8 +1629,9 @@
     "ownerName": "Austin",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "updates",
-      "leak repair"
+      "plumbing",
+      "leak repair",
+      "updates"
     ],
     "firstReviewDate": "2024-10-17",
     "last30": 0,
@@ -1645,19 +1641,21 @@
     "last365": 3
   },
   "one-way-plumbing-llc": {
-    "ownerName": "Jose",
-    "ownerConfidence": 20,
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
     "servicesMentioned": [
       "plumbing",
       "replacing showers",
+      "renovation",
       "installing toilets",
-      "bathroom",
+      "bathroom faucets",
       "kitchen faucets",
       "water heater",
       "tankless water heater",
+      "garage conversion",
       "leaky faucet",
-      "shower",
-      "pressure regulator"
+      "shower repair",
+      "pressure regulator installation"
     ],
     "firstReviewDate": "2023-09-28",
     "last30": 0,
@@ -1684,9 +1682,8 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "water heater",
-      "pipes",
+      "pipe",
       "bathtub faucet",
-      "bathtub",
       "leaky sprayer"
     ],
     "firstReviewDate": "2019-04-10",
@@ -1725,8 +1722,10 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "tub replacement",
-      "leak repair",
-      "sewage pump replacement"
+      "water leak repair",
+      "shower/tab valve replacement",
+      "sewage pump diagnostics and replacement",
+      "pipe repair"
     ],
     "firstReviewDate": "2024-07-18",
     "last30": 0,
@@ -1740,10 +1739,11 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "leak repair",
-      "valve change",
-      "shower head repair",
+      "water heater",
+      "valve replacement",
       "pipe repair",
-      "water heater replacement"
+      "dripping repair",
+      "shutoff valve"
     ],
     "firstReviewDate": "2021-08-03",
     "last30": 0,
@@ -1754,12 +1754,12 @@
   },
   "veteran-plumbing-llc": {
     "ownerName": "Nick",
-    "ownerConfidence": 100,
+    "ownerConfidence": 90,
     "servicesMentioned": [
       "pipe repair",
       "water line replacement",
-      "leak repair",
       "water heater replacement",
+      "leak repair",
       "plumbing installation"
     ],
     "firstReviewDate": "2020-07-24",
@@ -1787,8 +1787,8 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "leak repair",
-      "tank replacement"
+      "toilet repair",
+      "leak repair"
     ],
     "firstReviewDate": "2018-04-26",
     "last30": 0,
@@ -1802,10 +1802,10 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "clogged lines",
-      "gas stove",
-      "leaky pipe repair",
+      "gas stove installation",
+      "pipe repair",
       "shower valve leak",
-      "water leak"
+      "leak detection"
     ],
     "firstReviewDate": "2022-11-14",
     "last30": 0,
@@ -1841,10 +1841,11 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "supply line replaced",
-      "leaking gas water heater",
-      "installed water heater",
+      "gas water heater",
+      "leak repair",
       "shower repair",
-      "unclogged drain"
+      "water heater",
+      "drain unclog"
     ],
     "firstReviewDate": "2016-04-07",
     "last30": 0,
@@ -1920,12 +1921,13 @@
   },
   "git'er-done-plumbing": {
     "ownerName": "David",
-    "ownerConfidence": 85,
+    "ownerConfidence": 100,
     "servicesMentioned": [
       "install",
       "remodel",
-      "draining issue",
-      "water heater installation"
+      "drain issue",
+      "water heater installation",
+      "shower repair"
     ],
     "firstReviewDate": "2017-03-04",
     "last30": 0,
@@ -1939,7 +1941,7 @@
     "ownerConfidence": 0,
     "servicesMentioned": [
       "pump septic tank",
-      "plumbing service"
+      "plumbing"
     ],
     "firstReviewDate": "2017-06-07",
     "last30": 0,
@@ -1972,12 +1974,12 @@
   },
   "vaughn\u2019s-superior-plumbing-llc": {
     "ownerName": "Justin",
-    "ownerConfidence": 90,
+    "ownerConfidence": 100,
     "servicesMentioned": [
-      "plumbing needs",
+      "plumbing",
       "sewage pipe",
-      "clogged drain",
-      "leak in front yard"
+      "leak",
+      "clogged drain"
     ],
     "firstReviewDate": "2024-07-22",
     "last30": 1,
@@ -1988,14 +1990,19 @@
   },
   "champion-plumbing-and-remodeling": {
     "ownerName": "Patrick",
-    "ownerConfidence": 90,
+    "ownerConfidence": 80,
     "servicesMentioned": [
-      "hot water line",
-      "plumbing leak",
-      "site prep and grading",
-      "water line break",
-      "sink and faucet",
-      "hot water heater",
+      "hot water line repair",
+      "cold water line repair",
+      "site prep",
+      "grading",
+      "plumbing leak repair",
+      "sink installation",
+      "faucet installation",
+      "plumbing repair",
+      "water line repair",
+      "hot water heater installation",
+      "shutoff valve installation",
       "septic back up"
     ],
     "firstReviewDate": "2021-03-01",
@@ -2009,13 +2016,10 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "installed kitchen sink and faucet",
-      "replaced under-the-sink drains",
-      "replaced faucet",
-      "repair a stopped main sewer line",
-      "drain pipe",
-      "installed a new garbage disposal",
-      "drain was stopped up"
+      "sink and faucet installation",
+      "drain repair",
+      "sewer line repair",
+      "garbage disposal installation"
     ],
     "firstReviewDate": "2017-09-19",
     "last30": 0,
@@ -2048,13 +2052,17 @@
   },
   "glory-plumbing-and-drain-cleaning-services-llc": {
     "ownerName": "Antwon",
-    "ownerConfidence": 100,
+    "ownerConfidence": 90,
     "servicesMentioned": [
       "water leak",
       "faucets",
-      "plumbing install",
       "emergency plumbing service",
-      "broken toilet and flange repair"
+      "remodel bathroom",
+      "water pressure",
+      "pipe bust",
+      "toilet and flange repair",
+      "kitchen sink clogging",
+      "service line replacement"
     ],
     "firstReviewDate": "2021-07-15",
     "last30": 0,
@@ -2067,7 +2075,7 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "front porch",
+      "front porch redo",
       "enclosed screened area"
     ],
     "firstReviewDate": "2024-07-16",
@@ -2092,7 +2100,6 @@
     "ownerName": "Jesse Burks",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "customer service",
       "new construction",
       "renovations",
       "plumbing",
@@ -2122,8 +2129,8 @@
     "ownerName": "Derrick",
     "ownerConfidence": 80,
     "servicesMentioned": [
-      "water heater",
-      "plumbing"
+      "plumbing",
+      "water heater"
     ],
     "firstReviewDate": "2018-08-30",
     "last30": 0,
@@ -2148,11 +2155,12 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "painting",
-      "cabinet refacing",
+      "kitchen cabinets refacing",
       "flooring installation",
+      "home repairs",
       "electrical",
       "plumbing",
-      "step building"
+      "steps construction"
     ],
     "firstReviewDate": "2017-09-11",
     "last30": 0,
@@ -2167,11 +2175,10 @@
     "servicesMentioned": [
       "water heater",
       "leak repair",
-      "dishwasher",
-      "plumbing",
-      "sewer pipe",
-      "toilet",
-      "sink"
+      "plumbing problem",
+      "dishwasher installation",
+      "sewer pipe repair",
+      "pipe cleaning"
     ],
     "firstReviewDate": "2021-12-27",
     "last30": 0,
@@ -2184,7 +2191,7 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [
-      "plumbing"
+      "plumbing work"
     ],
     "firstReviewDate": "2022-02-22",
     "last30": 0,
@@ -2209,13 +2216,14 @@
     "ownerConfidence": 80,
     "servicesMentioned": [
       "home repairs",
+      "handyman",
       "rotten wood",
       "painting",
       "plumbing",
-      "pipes replacement",
+      "pipe replacement",
       "electrical",
       "roofing",
-      "deck finishing",
+      "deck finish",
       "water leak",
       "bathroom add on"
     ],
@@ -2227,9 +2235,15 @@
     "last365": 6
   },
   "one-call-services-inc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Seth",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing",
+      "leak repair",
+      "water heater",
+      "septic tank",
+      "drain unclogging"
+    ],
     "firstReviewDate": "2017-12-01",
     "last30": 0,
     "last60": 0,
@@ -2238,9 +2252,20 @@
     "last365": 2
   },
   "innovative-plumbing-solutions-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Tristan",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "water heater",
+      "shower",
+      "leak repair",
+      "sewer pump",
+      "faucet",
+      "sewer drain line",
+      "sewage ejector pump",
+      "toilet tank refill devices",
+      "septic and water pipe",
+      "HVAC"
+    ],
     "firstReviewDate": "2020-06-08",
     "last30": 0,
     "last60": 0,
@@ -2262,7 +2287,9 @@
   "sands-hvacandmore-llc": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "towing"
+    ],
     "firstReviewDate": "2019-01-12",
     "last30": 0,
     "last60": 0,
@@ -2284,7 +2311,13 @@
   "bob's-handyman-service": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "remodel",
+      "vinyl work",
+      "built a porch",
+      "painting",
+      "shutters"
+    ],
     "firstReviewDate": "2021-08-13",
     "last30": 0,
     "last60": 0,
@@ -2293,9 +2326,17 @@
     "last365": 0
   },
   "flippo-restoration-and-maintenance--llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Nathan",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "plumbing",
+      "repair",
+      "maintenance",
+      "emergency service",
+      "leak repair",
+      "bathroom renovation",
+      "water remediation"
+    ],
     "firstReviewDate": "2020-09-09",
     "last30": 1,
     "last60": 1,
@@ -2306,7 +2347,9 @@
   "g-and-s-plumbing-and-electric": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "leak detection"
+    ],
     "firstReviewDate": "2020-12-08",
     "last30": 0,
     "last60": 0,
@@ -2315,9 +2358,12 @@
     "last365": 0
   },
   "deep-south-plumbing-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Jesse",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "water heater",
+      "leak repair"
+    ],
     "firstReviewDate": "2019-11-17",
     "last30": 0,
     "last60": 0,
@@ -2326,9 +2372,16 @@
     "last365": 3
   },
   "jnl-plumbing-and-drain-cleaning-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Josh",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water running",
+      "busted main line",
+      "leaking spicket",
+      "outside water hose line",
+      "emergency repair",
+      "kitchen drain cleaning"
+    ],
     "firstReviewDate": "2020-02-22",
     "last30": 0,
     "last60": 0,
@@ -2350,7 +2403,10 @@
   "jay's-plumbing-and-handyman-service": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "plumbing",
+      "refrigerator hook up"
+    ],
     "firstReviewDate": "2022-04-24",
     "last30": 0,
     "last60": 0,
@@ -2359,9 +2415,14 @@
     "last365": 0
   },
   "boxcar-the-handyman": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Chris Seals",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "electrician",
+      "kitchen cabinets",
+      "poach columns installation",
+      "tv mounting"
+    ],
     "firstReviewDate": "2021-03-20",
     "last30": 0,
     "last60": 0,
@@ -2373,7 +2434,7 @@
     "ownerName": "Unknown",
     "ownerConfidence": 0,
     "servicesMentioned": [],
-    "firstReviewDate": "2023-07-31",
+    "firstReviewDate": "2023-07-29",
     "last30": 5,
     "last60": 6,
     "last90": 6,
@@ -2392,9 +2453,21 @@
     "last365": 0
   },
   "mamas-boy-plumbing-and-septic-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Cody",
+    "ownerConfidence": 95,
+    "servicesMentioned": [
+      "plumbing",
+      "septic",
+      "pipes",
+      "leak repair",
+      "water heater",
+      "water filtration system",
+      "water line",
+      "hot water pipe",
+      "drain",
+      "sink & tub",
+      "toilet clog"
+    ],
     "firstReviewDate": "2019-07-07",
     "last30": 0,
     "last60": 0,
@@ -2403,9 +2476,15 @@
     "last365": 0
   },
   "hatcher-plumbing": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Sims",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "drain system",
+      "vent system",
+      "water supply system",
+      "PEX",
+      "fixtures"
+    ],
     "firstReviewDate": "2020-02-05",
     "last30": 0,
     "last60": 0,
@@ -2414,9 +2493,20 @@
     "last365": 0
   },
   "hobbs-plumbing-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Blake",
+    "ownerConfidence": 85,
+    "servicesMentioned": [
+      "gas line issue",
+      "plumbing work",
+      "cartridge replaced",
+      "toilet fixed",
+      "leak repair",
+      "pipe burst",
+      "drainage pipe",
+      "replaced pressure reducing valve",
+      "faucet replacement",
+      "galvanized pipes replacement"
+    ],
     "firstReviewDate": "2017-12-13",
     "last30": 1,
     "last60": 1,
@@ -2425,9 +2515,17 @@
     "last365": 8
   },
   "cox-plumbing-solutions": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Rex",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "toilets and showers",
+      "leak repair",
+      "water heater",
+      "water supply pipe",
+      "bathroom sink",
+      "clog removal",
+      "dryer"
+    ],
     "firstReviewDate": "2019-08-12",
     "last30": 0,
     "last60": 0,
@@ -2447,9 +2545,15 @@
     "last365": 13
   },
   "shamrock-home-repairs": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Raymond",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "roofing",
+      "deck building",
+      "renovations",
+      "ceiling fan installation",
+      "moving heavy furniture"
+    ],
     "firstReviewDate": "2020-08-06",
     "last30": 0,
     "last60": 0,
@@ -2458,9 +2562,22 @@
     "last365": 0
   },
   "anything-plumbing": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Jarrett",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "water heater",
+      "leak repair",
+      "plumbing needs",
+      "pressure regulator",
+      "garbage disposal",
+      "shower cartridges",
+      "water pressure regulator",
+      "shower valve",
+      "hot water heater",
+      "water line",
+      "tub faucet",
+      "water leak"
+    ],
     "firstReviewDate": "2016-10-12",
     "last30": 3,
     "last60": 3,
@@ -2469,9 +2586,16 @@
     "last365": 8
   },
   "charles-pickle-septic-service": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Justin",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic",
+      "water",
+      "pad",
+      "gravel driveway",
+      "drain problem",
+      "plumbing"
+    ],
     "firstReviewDate": "2016-09-29",
     "last30": 0,
     "last60": 0,
@@ -2480,9 +2604,15 @@
     "last365": 5
   },
   "stain-plumbing-and-construction-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Christian",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "toilet repair",
+      "plumbing",
+      "septic system replacement",
+      "septic system repair",
+      "water pressure repair"
+    ],
     "firstReviewDate": "2019-03-20",
     "last30": 0,
     "last60": 0,
@@ -2515,7 +2645,13 @@
   "tillman-plumbing-and-gas": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "gas stove",
+      "water heater",
+      "expansion tank",
+      "thermostat installation",
+      "gas insert"
+    ],
     "firstReviewDate": "2018-08-11",
     "last30": 0,
     "last60": 0,
@@ -2548,7 +2684,11 @@
   "plumbplus-company": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "drain clean out",
+      "unclogged shampoo bowl pipes",
+      "reinstalled"
+    ],
     "firstReviewDate": "2024-02-17",
     "last30": 0,
     "last60": 0,
@@ -2557,9 +2697,14 @@
     "last365": 1
   },
   "angelplumbing": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Larry",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "repair",
+      "quote",
+      "plumbing emergency",
+      "plumbing needs"
+    ],
     "firstReviewDate": "2017-06-06",
     "last30": 0,
     "last60": 0,
@@ -2590,9 +2735,14 @@
     "last365": 0
   },
   "worley's-plumbing-and-drain-cleaning": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Dustin",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing",
+      "leak",
+      "drain cleaning",
+      "repair"
+    ],
     "firstReviewDate": "2016-09-17",
     "last30": 0,
     "last60": 0,
@@ -2601,9 +2751,16 @@
     "last365": 4
   },
   "ski\u2019s-plumbing": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Jeremy",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "drain problem",
+      "low water pressure",
+      "leak",
+      "unclog a drain",
+      "busted water main"
+    ],
     "firstReviewDate": "2020-07-13",
     "last30": 0,
     "last60": 0,
@@ -2645,9 +2802,13 @@
     "last365": 0
   },
   "bates-plumbing-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Andrew",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "plumbing service",
+      "sink"
+    ],
     "firstReviewDate": "2019-01-08",
     "last30": 0,
     "last60": 0,
@@ -2658,7 +2819,15 @@
   "jc-plumbing-and-drain": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "blockage",
+      "sewer line",
+      "vanity",
+      "faucets",
+      "glass shower door",
+      "electrical",
+      "plumbing"
+    ],
     "firstReviewDate": "2023-05-05",
     "last30": 0,
     "last60": 0,
@@ -2667,9 +2836,14 @@
     "last365": 0
   },
   "quick-drain-plumbers": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Zach",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "slab leak",
+      "water line leak",
+      "water heater replacement",
+      "valve replacement"
+    ],
     "firstReviewDate": "2022-01-19",
     "last30": 0,
     "last60": 0,
@@ -2678,9 +2852,16 @@
     "last365": 1
   },
   "goforth-enterprises": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Daniel",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "hot water faucet repair",
+      "tankless hot water heater installation",
+      "leak repair",
+      "toilet installation",
+      "pressure regulator replacement",
+      "main shut off replacement"
+    ],
     "firstReviewDate": "2020-07-13",
     "last30": 0,
     "last60": 0,
@@ -2691,7 +2872,9 @@
   "d-and-c-plumbing": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "drain"
+    ],
     "firstReviewDate": "2022-11-17",
     "last30": 0,
     "last60": 0,
@@ -2724,7 +2907,9 @@
   "aaa-plumbing": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "leaking faucets repair"
+    ],
     "firstReviewDate": "2024-09-17",
     "last30": 0,
     "last60": 0,
@@ -2735,7 +2920,9 @@
   "alpha-omega-plumbing-llc": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "24 hour emergency service"
+    ],
     "firstReviewDate": "2018-07-10",
     "last30": 0,
     "last60": 0,
@@ -2766,9 +2953,17 @@
     "last365": 0
   },
   "jon-barnes-plumbing": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "David Whitehead",
+    "ownerConfidence": 20,
+    "servicesMentioned": [
+      "water lines",
+      "faucet placement",
+      "pipe laying",
+      "water heater",
+      "toilet flange",
+      "water pressure",
+      "gas leak"
+    ],
     "firstReviewDate": "2019-05-04",
     "last30": 0,
     "last60": 0,
@@ -2788,9 +2983,20 @@
     "last365": 0
   },
   "reynolds-plumbing-and-gas": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Ryan",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "gas piping",
+      "gas appliance installs",
+      "kitchen sink",
+      "bathroom sink",
+      "water heater",
+      "fireplace",
+      "tankless water heater",
+      "washing machine drain",
+      "washer",
+      "fridge water connection"
+    ],
     "firstReviewDate": "2024-06-12",
     "last30": 1,
     "last60": 5,
@@ -2821,9 +3027,13 @@
     "last365": 1
   },
   "graham-plumbing-repair": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Josh",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing repair",
+      "hot water line leak",
+      "washing machine install"
+    ],
     "firstReviewDate": "2022-06-18",
     "last30": 3,
     "last60": 3,
@@ -2845,7 +3055,11 @@
   "stewart-plumbing-llc": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "pipe repair",
+      "new construction",
+      "repair and maintenance"
+    ],
     "firstReviewDate": "2017-06-22",
     "last30": 0,
     "last60": 0,
@@ -2909,9 +3123,15 @@
     "last365": 0
   },
   "express-rooter-plumbing": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Douglas",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "sewer blockage",
+      "drain snaking",
+      "leak repair",
+      "septic grinder pump",
+      "plumbing"
+    ],
     "firstReviewDate": "2018-07-06",
     "last30": 5,
     "last60": 9,
@@ -2920,9 +3140,14 @@
     "last365": 46
   },
   "ala-ten-plumbing-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Davy",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "well pump",
+      "dishwasher installation",
+      "leak repair",
+      "faucet issues"
+    ],
     "firstReviewDate": "2024-07-24",
     "last30": 0,
     "last60": 0,
@@ -2953,9 +3178,23 @@
     "last365": 0
   },
   "cherokee-services-plumbing-co": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Derrick",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "water pressure problem",
+      "hot water shut-off valve",
+      "repairs",
+      "hot water heater",
+      "sink",
+      "plumbing problem",
+      "bathroom shower faucet",
+      "water problem",
+      "pipe issue",
+      "p-trap",
+      "water line",
+      "toilet",
+      "water heater"
+    ],
     "firstReviewDate": "2018-08-21",
     "last30": 0,
     "last60": 0,
@@ -2977,13 +3216,21 @@
   "central-alabama-plumbing": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "hot water heater",
+      "unclogged toilet",
+      "water reducing valve",
+      "drain",
+      "regulator",
+      "pex waterline",
+      "water pressure"
+    ],
     "firstReviewDate": "2024-11-23",
-    "last30": 5,
-    "last60": 10,
-    "last90": 10,
-    "last180": 10,
-    "last365": 10
+    "last30": 4,
+    "last60": 9,
+    "last90": 9,
+    "last180": 9,
+    "last365": 9
   },
   "all-south-plumbing": {
     "ownerName": "Unknown",
@@ -3008,9 +3255,20 @@
     "last365": 1
   },
   "faith-plumbing-services": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Mark",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "pressure regulator line",
+      "clogged pipe",
+      "shower cartridge",
+      "shower head",
+      "kitchen faucets",
+      "main drain",
+      "garbage disposal",
+      "waterline break",
+      "leak"
+    ],
     "firstReviewDate": "2018-02-19",
     "last30": 0,
     "last60": 0,
@@ -3054,7 +3312,9 @@
   "swan-plumbing": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "Plumbing"
+    ],
     "firstReviewDate": "2018-01-18",
     "last30": 0,
     "last60": 1,
@@ -3065,7 +3325,9 @@
   "a-plus-roto-rooter": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "sewer cleaning"
+    ],
     "firstReviewDate": "2020-09-30",
     "last30": 0,
     "last60": 0,
@@ -3098,7 +3360,11 @@
   "alms-pump-service-inc": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "pump replacement",
+      "pump repair",
+      "well repair"
+    ],
     "firstReviewDate": "2020-09-28",
     "last30": 0,
     "last60": 0,
@@ -3142,7 +3408,13 @@
   "nfinity-services": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "ceiling service",
+      "plumbing",
+      "electrical",
+      "air conditioning",
+      "maintenance"
+    ],
     "firstReviewDate": "2023-06-21",
     "last30": 0,
     "last60": 0,
@@ -3162,9 +3434,19 @@
     "last365": 0
   },
   "the-construction-artists": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Mike",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "dishwasher installation",
+      "floodlights installation",
+      "trampoline assembly",
+      "child\u2019s play set assembly",
+      "porch swings assembly",
+      "hardware installation",
+      "shower heads installation",
+      "monthly walk throughs of vacant properties",
+      "photo reports"
+    ],
     "firstReviewDate": "2021-01-27",
     "last30": 0,
     "last60": 0,
@@ -3175,7 +3457,9 @@
   "homeworx": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "fence"
+    ],
     "firstReviewDate": "2022-02-20",
     "last30": 0,
     "last60": 0,
@@ -3195,9 +3479,12 @@
     "last365": 0
   },
   "shoals-creek-home-improvements": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Keith Agee",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "shed assembly",
+      "home improvement"
+    ],
     "firstReviewDate": "2024-06-27",
     "last30": 0,
     "last60": 0,
@@ -3219,7 +3506,13 @@
   "jay's-home-improvement": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "plumbing",
+      "water damage repair",
+      "home renovation",
+      "remodeling",
+      "fence building"
+    ],
     "firstReviewDate": "2021-01-05",
     "last30": 0,
     "last60": 0,
@@ -3274,7 +3567,9 @@
   "b-and-b-torch-regulator-and-repair-service-llc": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "welding equipment repair"
+    ],
     "firstReviewDate": "2019-04-12",
     "last30": 0,
     "last60": 0,
@@ -3283,9 +3578,13 @@
     "last365": 0
   },
   "m-and-m-pumping-and-septic-repair": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Mr. Ed",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "pump",
+      "septic tank",
+      "Tank Risers"
+    ],
     "firstReviewDate": "2018-02-24",
     "last30": 0,
     "last60": 0,
@@ -3296,7 +3595,9 @@
   "alabama-septic-service": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "septic tank cleaning"
+    ],
     "firstReviewDate": "2023-03-03",
     "last30": 0,
     "last60": 0,
@@ -3307,7 +3608,9 @@
   "right-a-way-rooter": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "Field line service"
+    ],
     "firstReviewDate": "2019-09-05",
     "last30": 0,
     "last60": 0,
@@ -3316,9 +3619,14 @@
     "last365": 0
   },
   "payton's-septic-services": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Mr. Payton",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "pump tank",
+      "inspection",
+      "repair work",
+      "cleaning"
+    ],
     "firstReviewDate": "2023-06-05",
     "last30": 0,
     "last60": 1,
@@ -3327,9 +3635,13 @@
     "last365": 2
   },
   "weiss-lake-septic-pumpers-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Dillon",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic tank cleaning",
+      "quick repair",
+      "septic needs"
+    ],
     "firstReviewDate": "2021-12-30",
     "last30": 0,
     "last60": 0,
@@ -3338,9 +3650,14 @@
     "last365": 5
   },
   "royal-flush-septic-tank-pumping-company": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Mike",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic tank service",
+      "drain field issues",
+      "inspection",
+      "cleaning"
+    ],
     "firstReviewDate": "2016-03-04",
     "last30": 0,
     "last60": 1,
@@ -3349,9 +3666,14 @@
     "last365": 5
   },
   "harper's-environmental-septic-services": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Tony",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic services",
+      "septic tank cleaning",
+      "septic system pumped and inspected",
+      "septic tank inspected"
+    ],
     "firstReviewDate": "2015-10-29",
     "last30": 0,
     "last60": 0,
@@ -3360,9 +3682,15 @@
     "last365": 0
   },
   "a-j's-septic-services-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Jeremy",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "pump service",
+      "septic tank",
+      "drainage pipe",
+      "field lines",
+      "repair"
+    ],
     "firstReviewDate": "2017-12-18",
     "last30": 1,
     "last60": 1,
@@ -3371,9 +3699,16 @@
     "last365": 3
   },
   "affordable-septic-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Jason",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic tank",
+      "field lines",
+      "inspection",
+      "pump out",
+      "septic inspection",
+      "fixed system"
+    ],
     "firstReviewDate": "2020-04-07",
     "last30": 0,
     "last60": 0,
@@ -3382,10 +3717,14 @@
     "last365": 1
   },
   "pickle-septic-tank-and-plumbing": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
-    "firstReviewDate": "2017-06-15",
+    "ownerName": "Pat",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic system",
+      "plumbing",
+      "pump replacement"
+    ],
+    "firstReviewDate": "2016-09-20",
     "last30": 0,
     "last60": 1,
     "last90": 2,
@@ -3393,9 +3732,15 @@
     "last365": 8
   },
   "lawrence-septic-service": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Sterling",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic tank emptying",
+      "septic tank installation",
+      "septic tank cleaning",
+      "septic tank inspection",
+      "emergency service"
+    ],
     "firstReviewDate": "2020-07-07",
     "last30": 1,
     "last60": 2,
@@ -3406,7 +3751,9 @@
   "royal-flush": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "septic tank"
+    ],
     "firstReviewDate": "2021-05-04",
     "last30": 0,
     "last60": 0,
@@ -3415,9 +3762,13 @@
     "last365": 0
   },
   "crimes-septic-tank-pumping": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Ronnie",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic tank pumping",
+      "septic services",
+      "septic needs"
+    ],
     "firstReviewDate": "2017-04-17",
     "last30": 0,
     "last60": 0,
@@ -3426,9 +3777,17 @@
     "last365": 1
   },
   "bskc-soil-and-septic-services-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Sandy",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic cleaning",
+      "inspection",
+      "field line inspection",
+      "pump out",
+      "septic tank pumping",
+      "installing septic tank systems",
+      "emergency service"
+    ],
     "firstReviewDate": "2017-03-01",
     "last30": 1,
     "last60": 1,
@@ -3448,9 +3807,16 @@
     "last365": 20
   },
   "3rd-generation-septic": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Shawn",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "septic tank pumping",
+      "septic inspection",
+      "septic system repair",
+      "septic field lines repair",
+      "septic tank cleaning",
+      "septic tank replacement"
+    ],
     "firstReviewDate": "2020-05-15",
     "last30": 7,
     "last60": 7,
@@ -3459,9 +3825,14 @@
     "last365": 30
   },
   "walker-septic-and-drain": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Kris",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "field lines",
+      "plumbing",
+      "hot water heater",
+      "water line"
+    ],
     "firstReviewDate": "2024-01-07",
     "last30": 0,
     "last60": 0,
@@ -3481,9 +3852,13 @@
     "last365": 1
   },
   "septic-solutions": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Johnny",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic tank installation",
+      "sewer lines",
+      "water line installation"
+    ],
     "firstReviewDate": "2022-08-05",
     "last30": 0,
     "last60": 0,
@@ -3492,9 +3867,16 @@
     "last365": 3
   },
   "wynn-construction-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Chris",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic system",
+      "land cleared",
+      "concrete posts",
+      "arched cabin",
+      "septic installs",
+      "septic repairs"
+    ],
     "firstReviewDate": "2023-09-20",
     "last30": 0,
     "last60": 0,
@@ -3538,7 +3920,10 @@
   "pickle-plumbing-and-septic-tank-service": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "septic service",
+      "drain cleaning"
+    ],
     "firstReviewDate": "2017-06-14",
     "last30": 0,
     "last60": 0,
@@ -3547,9 +3932,17 @@
     "last365": 0
   },
   "dale's-septic-service-inc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Dale",
+    "ownerConfidence": 45,
+    "servicesMentioned": [
+      "pump",
+      "septic tank",
+      "cleaned",
+      "repairs",
+      "risers",
+      "diagnose",
+      "break in the line"
+    ],
     "firstReviewDate": "2017-11-23",
     "last30": 0,
     "last60": 0,
@@ -3571,7 +3964,17 @@
   "richard-restoration": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "restoring",
+      "remodeling",
+      "insurance claim",
+      "leak repair",
+      "water damage",
+      "flooded",
+      "painting walls",
+      "sheet rock repair",
+      "flooring installation"
+    ],
     "firstReviewDate": "2023-04-14",
     "last30": 0,
     "last60": 0,
@@ -3593,7 +3996,12 @@
   "mel's-restoration-and-remodeling": {
     "ownerName": "Unknown",
     "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "servicesMentioned": [
+      "restoration",
+      "remodeling",
+      "painting",
+      "repairs"
+    ],
     "firstReviewDate": "2017-02-18",
     "last30": 0,
     "last60": 0,
@@ -3602,9 +4010,13 @@
     "last365": 0
   },
   "floodshield-restoration-and-disaster-relief-llc": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
+    "ownerName": "Gunner",
+    "ownerConfidence": 33,
+    "servicesMentioned": [
+      "mitigation",
+      "dealing with insurance",
+      "restored carpets"
+    ],
     "firstReviewDate": "2022-10-24",
     "last30": 0,
     "last60": 0,
@@ -3612,5 +4024,5 @@
     "last180": 0,
     "last365": 0
   },
-  "forceUpdateTimestamp": "1737021499.8154895"
+  "forceUpdateTimestamp": "1737024521.7386274"
 }
