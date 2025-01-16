@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "1737046836.3587008",
+    "generated": "1737047393.3489487",
     "model": "claude-3-sonnet-20240229",
     "totalBusinesses": 5,
     "maxPhotosPerBusiness": 12,
@@ -17,31 +17,31 @@
       "totalTokens": 29964,
       "heroSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNAI0eWPrK24G9dUnGtcIZ-p2J9IypZUmlhuanS=w2048-h2048-k-no",
-          "description": "A modern and stylish bathroom shower with sleek black fixtures and gray tiled walls, showcasing expert tile installation and plumbing work.",
-          "callToAction": "Elevate your bathroom with our luxurious shower installations. Contact us today for a free consultation."
-        },
-        {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMTlfkLuDUGx1gY1lTrOesuPzOkeGGs9bcNecLB=w2048-h2048-k-no",
-          "description": "A beautifully designed marble-tiled shower with a rainfall showerhead and elegant fixtures, highlighting our attention to detail and high-end craftsmanship.",
-          "callToAction": "Transform your bathroom into a spa-like oasis with our custom shower designs. Schedule a consultation now."
-        },
-        {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXzxKyXiOHrus4c4vQGuG827G54VqYesuuplJw=w2048-h2048-k-no",
-          "description": "A sleek and modern bathroom vanity with a marble countertop and stylish faucet, demonstrating our expertise in bathroom remodeling and plumbing installations.",
-          "callToAction": "Upgrade your bathroom with our stunning vanity and plumbing solutions. Get a free quote today."
+          "description": "This image showcases a modern bathroom vanity with a sleek black faucet and marble countertop, exuding elegance and sophistication.",
+          "callToAction": "Elevate your bathroom with our luxurious faucet and countertop installations. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOPZ5Q4y7Z9Q9_CrbJbHprqm124wcynboDIHtj0=w2048-h2048-k-no",
+          "description": "A beautifully tiled shower enclosure with a rainfall showerhead and a handheld sprayer, offering a spa-like experience in the comfort of your home.",
+          "callToAction": "Transform your shower into a personal oasis. Our expert team can design and install your dream shower system."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNf0Qm-Bm8rTCDotEtCZ5znU9GZsUD8QMPjLLwS=w2048-h2048-k-no",
+          "description": "This image showcases a sleek and modern bathroom with a marble-tiled shower enclosure, featuring a minimalist yet stylish design.",
+          "callToAction": "Upgrade your bathroom with our high-quality tile installations and create a timeless, luxurious space."
         }
       ],
       "aboutUsSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXrz3AhSN7UXlm1S-ihb8G5ALqOfJQQmhQ3vMY=w2048-h2048-k-no",
-          "description": "A behind-the-scenes look at our skilled plumbers working on a residential plumbing system, showcasing our commitment to quality workmanship and attention to detail.",
-          "reason": "This image highlights our team's expertise and professionalism, instilling confidence in potential clients about our capabilities."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNoo6m4-VxeOiXiY7Zqhqr3c3ndt6kzL_ve9mcy=w2048-h2048-k-no",
+          "description": "This image displays the plumbing infrastructure behind the scenes, showcasing the company's expertise in handling complex installations and repairs.",
+          "relevance": "It demonstrates the company's capabilities in tackling intricate plumbing projects, ensuring quality workmanship and attention to detail."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPbHswCDGlBVyjt79zSV-0Bmb9pL051bFu_KJq2=w2048-h2048-k-no",
-          "description": "A close-up of our plumbing tools and equipment, demonstrating our use of high-quality materials and cutting-edge technology to ensure efficient and reliable service.",
-          "reason": "This image showcases our commitment to using the best tools and techniques, assuring clients that we prioritize quality and stay up-to-date with industry advancements."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM0YzF29ebOai_YZqeDZ9GhFrMJzoEP0V9_3KzT=w2048-h2048-k-no",
+          "description": "A close-up view of plumbing fixtures and pipes, highlighting the company's proficiency in handling various plumbing components and systems.",
+          "relevance": "This image showcases the company's in-depth knowledge and experience in plumbing installations, repairs, and maintenance."
         }
       ]
     },
@@ -52,30 +52,64 @@
       "heroSection": [
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGZS8UhkqSUP8i4bhvN8InqYKvKhHQrlrbRcqi=w2048-h2048-k-no",
-          "description": "A beautifully renovated home exterior featuring a covered porch with elegant columns, brick accents, and a welcoming red front door.",
-          "callToAction": "Enhance your home's curb appeal with our expert exterior renovation services. Contact us today for a free consultation."
+          "description": "A beautifully renovated home exterior featuring a covered porch with columns, brick accents, and a welcoming red front door.",
+          "callToAction": "Elevate your home's curb appeal with our expert exterior remodeling services."
         },
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPOT37QOb5Dkx3di_oh5kiTxUU3wSY4lwf-iCbr=w2048-h2048-k-no",
-          "description": "A modern, open-concept kitchen with sleek white cabinets, granite countertops, and stainless steel appliances, showcasing our high-quality kitchen remodeling work.",
-          "callToAction": "Transform your kitchen into a stylish and functional space with our top-notch remodeling services. Get a free quote now."
+          "description": "A modern kitchen remodel showcasing sleek white cabinets, granite countertops, and stainless steel appliances.",
+          "callToAction": "Transform your kitchen into a stylish and functional space with our kitchen remodeling expertise."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOWvCe-_N4ppO-njOJgTj7cc2MVrqmBbuRNthaC=w2048-h2048-k-no",
-          "description": "A cozy living room with hardwood floors, neutral tones, and large windows, demonstrating our ability to create inviting and comfortable living spaces.",
-          "callToAction": "Elevate your living space with our expert interior renovation services. Contact us to schedule a consultation."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOEjlyvJ3_wcvKTe9Yr3cLj6ZnvHV5DAUR-iIBs=w2048-h2048-k-no",
+          "description": "A cozy living room with hardwood floors, neutral tones, and large windows allowing natural light to flood in.",
+          "callToAction": "Create your dream living space with our skilled interior remodeling and design services."
         }
       ],
       "aboutUsSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPciPVsxHviz-q4Qm1XrWqeV5mLJdC-91UQrNfJ=w2048-h2048-k-no",
-          "description": "A modern bathroom with a glass-enclosed shower, mosaic tile accents, and a large window, highlighting our expertise in bathroom remodeling.",
-          "relevance": "This image showcases our attention to detail and ability to create luxurious and functional bathroom spaces, demonstrating our company's capabilities."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM5wvOKR9VPNpFWTiJ12ycpnIyyFi3KRvDKWARd=w2048-h2048-k-no",
+          "description": "A detached garage or storage building with a clean white exterior and a gravel driveway.",
+          "reasonForAboutUs": "This image showcases the company's ability to handle exterior construction projects, demonstrating their versatility and attention to detail."
         },
         {
-          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GyTHRG69jM5OVeQjI9ayqw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=288.23886&pitch=0&thumbfov=100",
-          "description": "An exterior shot of a modest residential property, indicating our experience in working on various types of homes, from small renovations to complete overhauls.",
-          "relevance": "This image represents our versatility and commitment to serving clients with diverse needs and budgets, making us a reliable choice for any home improvement project."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOWvCe-_N4ppO-njOJgTj7cc2MVrqmBbuRNthaC=w2048-h2048-k-no",
+          "description": "A modest residential property with an older home, a car parked outside, and a grassy yard surrounded by trees.",
+          "reasonForAboutUs": "This image highlights the company's expertise in working on various types of residential properties, from renovations to new construction, catering to diverse client needs."
+        }
+      ]
+    },
+    "top-notch-maintenance-services": {
+      "businessName": "Top Notch Maintenance Services",
+      "processedImages": 12,
+      "totalTokens": 15658,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNA-I-bzzLBeKNLkQYzUJLbXjcn6Sf2nx6zyX90=w2048-h2048-k-no",
+          "description": "A serene wooden bridge spanning a tranquil creek, surrounded by lush greenery and trees, providing a peaceful and inviting atmosphere.",
+          "callToAction": "Elevate your outdoor living space with our expertly crafted decks and bridges. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMeVLjCH7JHZDOZhDPdotgVl8sflWARxKMjmOqX=w2048-h2048-k-no",
+          "description": "A professional deck construction in progress, showcasing the expertise and attention to detail of our skilled team.",
+          "callToAction": "Transform your backyard into an outdoor oasis with our custom deck designs. Schedule a consultation now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMjBdjxG83Xn0EENIunmWXHNl-A9pSLydlAul0w=w2048-h2048-k-no",
+          "description": "A stunning pool deck and stairs, expertly crafted with high-quality materials, offering a luxurious and functional outdoor living space.",
+          "callToAction": "Upgrade your poolside experience with our premium pool decks and outdoor living areas. Get a free quote today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOZiDNbZ1-cg9XgZCnUC4nW1ONTcuaa_8z6QpH1=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at our skilled team meticulously constructing a wooden deck, demonstrating our commitment to quality craftsmanship.",
+          "reason": "This image showcases our team's expertise and attention to detail, highlighting our dedication to delivering exceptional results for our clients."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOR9OqMj9WQapoy_QzzX1E3mCS5ElCQRTLFjmSu=w2048-h2048-k-no",
+          "description": "A well-maintained and beautifully landscaped backyard with a cozy deck, exemplifying the transformative power of our services.",
+          "reason": "This image illustrates the potential outcome of our services, showcasing our ability to create stunning outdoor living spaces that enhance the overall aesthetic and functionality of a property."
         }
       ]
     },
@@ -86,30 +120,30 @@
       "heroSection": [
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPSshCt7P5DBXDu9jyh65KM9I_KcIIjVZjOyK3Z=w2048-h2048-k-no",
-          "description": "This image showcases a beautifully remodeled bathroom with a sleek, modern design. The marble-tiled walk-in shower with a glass enclosure and black hardware accents creates a luxurious and spa-like ambiance.",
-          "callToAction": "Elevate your bathroom to a luxurious oasis with our expert remodeling services."
+          "description": "This image showcases a beautifully remodeled bathroom with a sleek, modern design. The marble-tiled walk-in shower with a glass enclosure and black hardware exudes luxury and elegance.",
+          "callToAction": "Elevate your bathroom with our expert remodeling services. Contact us today for a stunning transformation."
         },
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOv7WO2-XWEhYKzkPCTjo1oV0Y9-6fsvYU3ONvc=w2048-h2048-k-no",
-          "description": "This image highlights a stunning bathroom vanity with a granite countertop and a framed mirror, complemented by elegant lighting fixtures. The crisp white cabinetry and clean lines exude a timeless and sophisticated style.",
-          "callToAction": "Transform your bathroom into a stylish and functional space with our custom vanity designs."
+          "description": "This image highlights a stylish and functional bathroom vanity with a granite countertop and ample storage space. The framed mirror and lighting fixtures add a touch of sophistication.",
+          "callToAction": "Upgrade your bathroom with our custom vanity solutions. Reach out to us for a free consultation."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPR649n2BtmZ8UegDqWpYmz72N1LMMBAnPLM4uK=w2048-h2048-k-no",
-          "description": "This image showcases a breathtaking master bathroom with a freestanding bathtub as the centerpiece. The marble tile flooring, decorative window treatments, and elegant fixtures create a serene and inviting atmosphere.",
-          "callToAction": "Indulge in the ultimate relaxation experience with our luxurious bathroom remodeling services."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOl9ktMsiR21NG76w7zH3vRzOlS68Xw1WKj2uDE=w2048-h2048-k-no",
+          "description": "This image showcases a modern and spacious bathroom with a large walk-in shower and a double vanity. The clean lines and neutral color palette create a serene and inviting atmosphere.",
+          "callToAction": "Transform your bathroom into a personal oasis with our comprehensive remodeling services. Get in touch for a free quote."
         }
       ],
       "aboutUsSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPW97kQ_BqmAnvNI126DQuZluQhzwtpVwlH0w_s=w2048-h2048-k-no",
-          "description": "This image captures the exterior of a residential property undergoing a remodeling project. The scaffolding and construction materials demonstrate the company's expertise in handling large-scale renovations.",
-          "whyItWorks": "This image effectively showcases the company's capabilities in tackling comprehensive remodeling projects, instilling confidence in their ability to handle complex and extensive renovations."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPR649n2BtmZ8UegDqWpYmz72N1LMMBAnPLM4uK=w2048-h2048-k-no",
+          "description": "This image showcases the expertise and attention to detail of the PLUS Remodels team. The intricate tile work and custom cabinetry demonstrate their craftsmanship and ability to execute complex projects.",
+          "reason": "This image effectively highlights the company's capabilities in delivering high-quality and intricate remodeling work, making it suitable for the About Us section."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOl9ktMsiR21NG76w7zH3vRzOlS68Xw1WKj2uDE=w2048-h2048-k-no",
-          "description": "This image depicts a well-organized and clean construction site, with various tools and materials neatly arranged. It reflects the company's commitment to maintaining a professional and efficient work environment.",
-          "whyItWorks": "This image highlights the company's attention to detail and professionalism, demonstrating their dedication to delivering high-quality workmanship and maintaining a safe and organized job site."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNQZ-g4WnvTUy6UvZlBeoPZRFuFOnohIlefd_9n=w2048-h2048-k-no",
+          "description": "This image captures the exterior of a residential property undergoing a remodeling project by PLUS Remodels. The scaffolding and construction materials showcase the company's ability to handle large-scale projects.",
+          "reason": "This image showcases the company's capacity to take on extensive remodeling projects, making it a suitable choice for the About Us section to demonstrate their range of services."
         }
       ]
     }
