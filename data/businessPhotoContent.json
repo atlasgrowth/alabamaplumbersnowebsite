@@ -310,6 +310,108 @@
           "reason": "This image demonstrates the company's versatility and capability to handle both functional and aesthetic aspects of bathroom renovations, appealing to customers seeking luxury and style."
         }
       ]
+    },
+    "a-c-e-plumbing-solutions": {
+      "businessName": "A.C.E. Plumbing Solutions",
+      "processedImages": 5,
+      "totalTokens": 8472,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPCJ4bRPBpZ_iTuqGrQN65ONybR5PlQ3bN47i9p=w2048-h2048-k-no",
+          "description": "A sleek and modern logo design featuring a stylized faucet icon, representing the company's plumbing solutions expertise.",
+          "callToAction": "Trusted Plumbing Experts. Contact Us Today for All Your Plumbing Needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNrDpAY_Oj90ySO6fsk6IoONqsQYJe1KJdbS-53=w2048-h2048-k-no",
+          "description": "A branded cap showcasing the company's name and services, symbolizing professionalism and attention to detail.",
+          "callToAction": "Experience Our Reliable and Efficient Plumbing Solutions. Call Now!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHGYsk4JhzuxcueRMLgHFiSSkgl1UK1J4hzjZH=w2048-h2048-k-no",
+          "description": "A close-up of a severely corroded pipe, highlighting the importance of timely plumbing maintenance and repairs.",
+          "callToAction": "Don't Let Plumbing Issues Escalate. Our Experts Are Ready to Help. Schedule Service Now!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPU2Su0hvA64f7tlB8eUOBqqea0RY7b5BecfwZv=w2048-h2048-k-no",
+          "description": "A professional business card showcasing the company's branding, contact information, and the owner's name.",
+          "reason": "This image demonstrates the company's commitment to professionalism and transparency, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNhgSNxj1GyHI7WLQl_08JrYWnC9lD95ACbV10w=w2048-h2048-k-no",
+          "description": "A clean and minimalist logo design featuring crossed plumbing tools, representing the company's expertise and craftsmanship.",
+          "reason": "The logo effectively communicates the company's core services and values, allowing customers to quickly identify the business and its offerings."
+        }
+      ]
+    },
+    "do-it-all-plumbing-heating-and-cooling-llc": {
+      "businessName": "Do It All Plumbing Heating and Cooling LLC",
+      "processedImages": 12,
+      "totalTokens": 29965,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPB40Q8Kq4yIbiHXdfWQgpPMnKdUWIet7skXp7-=w2048-h2048-k-no",
+          "description": "A professional plumber digging a trench and laying pipes for underground utility lines, showcasing the company's expertise in excavation and installation services.",
+          "callToAction": "Trust our experienced team for reliable underground utility installations."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNMv6TPd3ezFP3wMgdlWwhMqCrZqf-sxXQnFE1C=w2048-h2048-k-no",
+          "description": "A newly installed water heater with copper piping, demonstrating the company's proficiency in plumbing and water heating system replacements.",
+          "callToAction": "Upgrade to a high-efficiency water heater and save on your energy bills."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOKpIZt897csukuJ5edNBpym7lVU2lD8FB8kxUY=w2048-h2048-k-no",
+          "description": "A well-organized electrical panel with color-coded wiring, highlighting the company's attention to detail and commitment to safety in electrical work.",
+          "callToAction": "Ensure your home's electrical system is up to code with our professional services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNjoZC_1d_y7X13GEkVG-lG-MNeCjmxujyrVK_a=w2048-h2048-k-no",
+          "description": "A construction site with heavy machinery and excavated trenches, showcasing the company's capability to handle large-scale commercial and residential projects.",
+          "reason": "This image demonstrates the company's expertise in handling complex and demanding projects, instilling confidence in their abilities."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPMnEo1_A7ImC0Mc9gzpcFBmuSGDDUFa2TYd-_v=w2048-h2048-k-no",
+          "description": "A close-up view of a plumbing installation under a sink, highlighting the company's attention to detail and commitment to quality workmanship.",
+          "reason": "This image showcases the company's professionalism and dedication to delivering top-notch plumbing services, emphasizing their commitment to customer satisfaction."
+        }
+      ]
+    },
+    "plumbworks-llc": {
+      "businessName": "PlumbWorks LLC",
+      "processedImages": 8,
+      "totalTokens": 8774,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOCf4UtVQ_6C81hjJ3luUtuk9kwjPXvTqRIbfIC=w2048-h2048-k-no",
+          "description": "A skilled plumber wearing protective gear is working on installing or repairing pipes on a construction site, demonstrating the company's expertise in handling complex plumbing projects.",
+          "callToAction": "Trust our experienced professionals for all your commercial and residential plumbing needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO0xn8_UAztoeinNCCffhPLPpyqoOml2TseG-ro=w2048-h2048-k-no",
+          "description": "A close-up view of a plumber's hands working on repairing or maintaining plumbing fixtures, showcasing the company's attention to detail and commitment to quality workmanship.",
+          "callToAction": "Don't let plumbing issues disrupt your daily routine. Call us for prompt and reliable service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN607v1oYH_bl39yXGInRJlTExVCFDc93ukiZWW=w2048-h2048-k-no",
+          "description": "A modern and efficient tankless water heater installation, highlighting the company's ability to provide energy-efficient and sustainable plumbing solutions.",
+          "callToAction": "Upgrade to a high-efficiency water heater and start saving on your utility bills today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM0KtcPSuZKH5I0tH8dURmlim8jl1T7RE1yA0S4=w2048-h2048-k-no",
+          "description": "The company's professional logo and branding, showcasing their commitment to quality and professionalism.",
+          "reason": "This image effectively represents the company's brand identity and conveys a sense of professionalism and reliability."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOwS0xxlIUYOQPOs2Fi-m9hCGiS3h9bPP9CpDfR=w2048-h2048-k-no",
+          "description": "A business card for PlumbWorks LLC, providing contact information and highlighting the company's licensed and insured status.",
+          "reason": "This image demonstrates the company's credibility and legitimacy, reassuring potential customers of their professional services."
+        }
+      ]
     }
   }
 }
