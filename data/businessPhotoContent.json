@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "1737042238.2949579",
+    "generated": "1737042378.9561346",
     "model": "claude-3-sonnet-20240229",
     "totalBusinesses": 5,
     "maxPhotosPerBusiness": 12,
@@ -10,5 +10,108 @@
       "targetTokensPerImage": 2500
     }
   },
-  "businessPhotoContent": {}
+  "businessPhotoContent": {
+    "southern-shores-plumbing-services": {
+      "businessName": "Southern Shores Plumbing Services",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNAI0eWPrK24G9dUnGtcIZ-p2J9IypZUmlhuanS=w2048-h2048-k-no",
+          "description": "A modern bathroom with sleek white tiles and a black rainfall showerhead, showcasing a stylish and minimalist design.",
+          "callToAction": "Elevate your bathroom with our expert design and installation services for a luxurious spa-like experience."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXrz3AhSN7UXlm1S-ihb8G5ALqOfJQQmhQ3vMY=w2048-h2048-k-no",
+          "description": "A close-up of a marble countertop with a black faucet, highlighting the attention to detail and high-quality materials used in our projects.",
+          "callToAction": "Transform your bathroom or kitchen with our top-notch plumbing fixtures and elegant finishes."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNf0Qm-Bm8rTCDotEtCZ5znU9GZsUD8QMPjLLwS=w2048-h2048-k-no",
+          "description": "A modern walk-in shower with marble tiles and a sleek glass enclosure, demonstrating our ability to create stunning and functional shower spaces.",
+          "callToAction": "Upgrade your shower with our custom tile work and glass enclosures for a spa-inspired retreat."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPbHswCDGlBVyjt79zSV-0Bmb9pL051bFu_KJq2=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at the plumbing infrastructure, showcasing our expertise in handling complex installations and adhering to industry standards.",
+          "reason": "This image demonstrates the company's technical capabilities and commitment to quality workmanship, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNoo6m4-VxeOiXiY7Zqhqr3c3ndt6kzL_ve9mcy=w2048-h2048-k-no",
+          "description": "A close-up of plumbing fixtures and valves, highlighting the attention to detail and precision required in our line of work.",
+          "reason": "This image showcases the company's professionalism and expertise in handling intricate plumbing components, making it a good fit for the About Us section."
+        }
+      ]
+    },
+    "queen-home-improvement-llc": {
+      "businessName": "Queen Home Improvement LLC",
+      "processedImages": 8,
+      "totalTokens": 17769,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGZS8UhkqSUP8i4bhvN8InqYKvKhHQrlrbRcqi=w2048-h2048-k-no",
+          "description": "A beautifully crafted front porch with a covered entryway, showcasing the company's expertise in exterior home improvement projects.",
+          "callToAction": "Enhance your home's curb appeal with our professional porch and entryway renovation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPOT37QOb5Dkx3di_oh5kiTxUU3wSY4lwf-iCbr=w2048-h2048-k-no",
+          "description": "A modern and stylish kitchen remodel with sleek cabinetry, granite countertops, and high-end appliances, demonstrating the company's ability to transform kitchens into functional and visually appealing spaces.",
+          "callToAction": "Upgrade your kitchen with our top-notch remodeling services for a space that combines style and functionality."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOWvCe-_N4ppO-njOJgTj7cc2MVrqmBbuRNthaC=w2048-h2048-k-no",
+          "description": "A cozy living room with newly installed hardwood flooring, showcasing the company's skill in flooring installation and interior home renovations.",
+          "callToAction": "Elevate the look and feel of your living spaces with our professional flooring installation and interior renovation services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPciPVsxHviz-q4Qm1XrWqeV5mLJdC-91UQrNfJ=w2048-h2048-k-no",
+          "description": "A modern bathroom renovation with a spacious walk-in shower, featuring the company's expertise in bathroom remodeling and attention to detail.",
+          "whyForAboutUs": "This image showcases the company's ability to transform bathrooms into luxurious and functional spaces, highlighting their commitment to quality workmanship and customer satisfaction."
+        },
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GyTHRG69jM5OVeQjI9ayqw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=288.23886&pitch=0&thumbfov=100",
+          "description": "An exterior shot of a residential property, showcasing the company's diverse range of services, from exterior renovations to landscaping.",
+          "whyForAboutUs": "This image demonstrates the company's versatility and capability to handle various home improvement projects, both interior and exterior, making them a one-stop solution for homeowners."
+        }
+      ]
+    },
+    "plus-remodels-llc": {
+      "businessName": "PLUS Remodels, LLC",
+      "processedImages": 12,
+      "totalTokens": 29539,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPSshCt7P5DBXDu9jyh65KM9I_KcIIjVZjOyK3Z=w2048-h2048-k-no",
+          "description": "This image showcases a beautifully remodeled bathroom with a sleek, modern design. The marble-tiled walk-in shower with a glass enclosure and black hardware exudes elegance and luxury.",
+          "callToAction": "Elevate your bathroom with our expert remodeling services. Contact us today for a stunning transformation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOv7WO2-XWEhYKzkPCTjo1oV0Y9-6fsvYU3ONvc=w2048-h2048-k-no",
+          "description": "This image highlights a stylish and functional bathroom vanity with a granite countertop and ample storage space. The framed mirror and lighting fixtures add a touch of sophistication.",
+          "callToAction": "Upgrade your bathroom's style and functionality with our custom vanity solutions. Schedule a consultation now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOl9ktMsiR21NG76w7zH3vRzOlS68Xw1WKj2uDE=w2048-h2048-k-no",
+          "description": "This image showcases a modern and spacious bathroom with a large walk-in shower and a double vanity. The clean lines and neutral color palette create a serene and inviting atmosphere.",
+          "callToAction": "Transform your bathroom into a relaxing oasis with our comprehensive remodeling services. Get a free quote today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPR649n2BtmZ8UegDqWpYmz72N1LMMBAnPLM4uK=w2048-h2048-k-no",
+          "description": "This image showcases the expertise and attention to detail of our team. The intricate tile work and custom shower enclosure demonstrate our commitment to craftsmanship and quality.",
+          "whyItWorks": "This image effectively highlights our company's capabilities in delivering high-end, custom bathroom solutions tailored to our clients' needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNQZ-g4WnvTUy6UvZlBeoPZRFuFOnohIlefd_9n=w2048-h2048-k-no",
+          "description": "This image captures the exterior of a residential property undergoing a remodeling project. The scaffolding and construction materials showcase our ability to handle large-scale renovations.",
+          "whyItWorks": "This image demonstrates our company's capacity to take on comprehensive remodeling projects, showcasing our professionalism and commitment to delivering exceptional results."
+        }
+      ]
+    }
+  }
 }
