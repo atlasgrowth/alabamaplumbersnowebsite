@@ -4256,6 +4256,108 @@
           "reason": "This image showcases the company's capabilities in providing essential residential services, such as septic system installations and site preparation, making it an excellent choice for the About Us section."
         }
       ]
+    },
+    "artisan-tile": {
+      "businessName": "Artisan Tile",
+      "processedImages": 12,
+      "totalTokens": 29963,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNBJIFYodWdXJ-7qUdBhcqHZ5S23xvulI6En8Ru=w2048-h2048-k-no",
+          "description": "This image showcases a luxurious marble shower enclosure with a striking cloudy marble pattern and blue accent tiles. The design exudes elegance and sophistication, perfect for a high-end bathroom renovation.",
+          "callToAction": "Elevate your bathroom with our exquisite marble tile installations. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNXsnslNo9bQDO_iJJFOqhUfdZ-5keNWDEiT6M0=w2048-h2048-k-no",
+          "description": "This image displays a modern and stylish bathroom with marble tile walls, a spacious walk-in shower, and a sleek vanity. The clean lines and neutral tones create a serene and inviting atmosphere.",
+          "callToAction": "Transform your bathroom into a spa-like oasis with our expert tile installation services. Schedule a consultation now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNMz1tDFs2Hx4pFEGWstMmdi6Pki5JuLqxGmZYu=w2048-h2048-k-no",
+          "description": "This image captures a stunning outdoor patio with a beautiful marble tile floor. The intricate veining and warm tones of the marble complement the brick exterior, creating a harmonious and inviting space.",
+          "callToAction": "Enhance your outdoor living areas with our durable and elegant marble tile installations. Contact us for a free quote."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOWmvaS1NtZYvUNwS7HkkdUR-Nz64V63xmeUz7C=w2048-h2048-k-no",
+          "description": "This image showcases the company's attention to detail and craftsmanship. The intricate marble tile pattern on the shower walls demonstrates their ability to execute complex designs with precision.",
+          "whyItWorks": "This image effectively highlights the company's expertise in high-end tile installations, showcasing their commitment to quality and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMo1YLfpVWhgWYqAj-AJpG6jP-Bc9flseaQ5jVI=w2048-h2048-k-no",
+          "description": "This image displays a bathroom renovation in progress, with a skilled worker carefully installing marble tiles. It demonstrates the company's professionalism and dedication to delivering exceptional results.",
+          "whyItWorks": "This behind-the-scenes image gives potential clients a glimpse into the company's work process, instilling confidence in their ability to handle complex projects with care and expertise."
+        }
+      ]
+    },
+    "nfinity-services": {
+      "businessName": "Nfinity Services",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMjmaJRz76wDQqvYvp3i1Lt0JqbaKpDX5g_tpzf=w2048-h2048-k-no",
+          "description": "This image showcases our expertise in residential HVAC services. It depicts a well-maintained outdoor air conditioning unit, demonstrating our commitment to keeping homes comfortable and energy-efficient.",
+          "callToAction": "Beat the heat with our reliable AC installation and maintenance services. Contact us today for a free consultation!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMI8pv28JyzZyf4jOE0fN_aezt_3EqZBuimI_2l=w2048-h2048-k-no",
+          "description": "This image highlights our plumbing capabilities. It features a modern bathroom sink with sleek faucets, showcasing the quality of our workmanship and attention to detail.",
+          "callToAction": "Upgrade your bathroom with our expert plumbing services. Call now for a free estimate on your next project!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPvJLzuib4IhCMCjkCRXvkMH8d0QFlHgl-AKo3i=w2048-h2048-k-no",
+          "description": "This striking image captures the tools and equipment essential to our trade, symbolizing our professionalism and readiness to tackle any job, big or small.",
+          "callToAction": "Trust the experts at Nfinity Services for all your plumbing, HVAC, and home service needs. Schedule your appointment now!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNLvIWMuPK8JCqhhzbo-gYSZmLnXR9NqWu-9w59=w2048-h2048-k-no",
+          "description": "This image showcases our expertise in furnace and ductwork installation and maintenance. It demonstrates our attention to detail and commitment to ensuring safe and efficient heating systems for our customers.",
+          "relevance": "This image works well for the About Us section as it highlights our technical skills and professionalism in handling complex HVAC systems, instilling confidence in our abilities."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP9vuIDOZxwGH7cWjqNe0ENbSyJpa1HBLbbB1Oy=w2048-h2048-k-no",
+          "description": "This image captures the heart of our business \u2013 providing top-notch plumbing services. It showcases our ability to handle intricate plumbing systems, from water heaters to piping, ensuring reliable and efficient water supply for our customers.",
+          "relevance": "This image is an excellent representation of our core plumbing services, showcasing our expertise and commitment to delivering high-quality solutions, making it a perfect fit for the About Us section."
+        }
+      ]
+    },
+    "barnett-plumbing-llc": {
+      "businessName": "Barnett Plumbing, LLC",
+      "processedImages": 4,
+      "totalTokens": 7035,
+      "heroSection": [
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vmQdHhrbQzPOcGAAnD2oXw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=294.71558&pitch=0&thumbfov=100",
+          "description": "An exterior view of the Barnett Plumbing office, showcasing a well-maintained building and parking area, conveying professionalism and accessibility.",
+          "callToAction": "Trust the experts at Barnett Plumbing for all your residential and commercial plumbing needs. Contact us today for prompt, reliable service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPQS08N2fUUG6o3_7F2Lp2c0TT01A5TuDAu9fNX=w2048-h2048-k-no",
+          "description": "The Barnett Plumbing office building with a recognizable logo, highlighting their established presence in the community.",
+          "callToAction": "Experience the difference of working with a reputable, local plumbing company. Call Barnett Plumbing for top-notch service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMJNDZX1lisGwEN8XO0pE45dvtiKQzT5_fdsRpd=w2048-h2048-k-no",
+          "description": "The Barnett Plumbing logo and contact information, making it easy for customers to reach out and schedule service.",
+          "callToAction": "Don't let plumbing issues disrupt your day. Barnett Plumbing is just a call away \u2013 dial 256-740-6776 for fast, friendly service."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOb-URs-egLp0IbFgiXCaB6uAIW9aSIP-Yvgg07=w2048-h2048-k-no",
+          "description": "A skilled technician performing plumbing work, showcasing the expertise and hands-on capabilities of Barnett Plumbing.",
+          "reason": "This image demonstrates the company's commitment to quality workmanship and their ability to handle complex plumbing tasks."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPQS08N2fUUG6o3_7F2Lp2c0TT01A5TuDAu9fNX=w2048-h2048-k-no",
+          "description": "The exterior of the Barnett Plumbing office, highlighting their professional and well-established presence in the community.",
+          "reason": "This image conveys the company's credibility, longevity, and dedication to serving the local area with reliable plumbing services."
+        }
+      ]
     }
   }
 }
