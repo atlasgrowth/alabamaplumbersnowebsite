@@ -4732,6 +4732,74 @@
           "reason": "This image showcases the company's expertise in water heater services, a crucial aspect of plumbing and a common need for homeowners and businesses."
         }
       ]
+    },
+    "accurate-heating-and-air-conditioning": {
+      "businessName": "Accurate Heating And Air Conditioning",
+      "processedImages": 12,
+      "totalTokens": 19349,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMIe3836qgND46-FMz1Hu8ct78ekTONJj_ZCd_5=w2048-h2048-k-no",
+          "description": "A professional HVAC service van showcasing the company's branding and 24/7 emergency services, conveying reliability and prompt assistance.",
+          "callToAction": "Don't let heating or cooling issues disrupt your comfort. Call Accurate Heating & Air for prompt and reliable service, available 24/7."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMwJs_jW7WurGJuTjXeynxJN57k7KL6NCW-_74r=w2048-h2048-k-no",
+          "description": "A team of skilled technicians performing maintenance on multiple outdoor HVAC units, demonstrating the company's expertise and commitment to keeping systems running efficiently.",
+          "callToAction": "Keep your HVAC system running smoothly with regular maintenance from Accurate Heating & Air's experienced technicians."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPK00fihLVh5gMa3nhIlzfPV1w5fbt1Ldr7uQKe=w2048-h2048-k-no",
+          "description": "A stunning log cabin with a well-maintained HVAC system, showcasing the company's ability to provide top-notch services for residential properties of all sizes.",
+          "callToAction": "Enhance your home's comfort and energy efficiency with Accurate Heating & Air's professional HVAC services, tailored to your unique needs."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPwdIXcNVUcKNfCU2OS5LdHjN0BtmH92e2PwGyH=w2048-h2048-k-no",
+          "description": "A technician carefully handling refrigerant lines, highlighting the company's attention to detail and adherence to industry best practices.",
+          "reason": "This image showcases the technical expertise and professionalism of Accurate Heating & Air's technicians, instilling confidence in their ability to handle complex HVAC systems."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNBKKWRCeG4ohFypkEaGVyhruuJr5ei2GW3XtvY=w2048-h2048-k-no",
+          "description": "A residential HVAC system undergoing maintenance, with various tools and equipment on-site, demonstrating the company's comprehensive approach to service.",
+          "reason": "This image illustrates the company's commitment to providing thorough and reliable HVAC services, ensuring that customers' systems are properly maintained and functioning optimally."
+        }
+      ]
+    },
+    "sloan-plumbing-and-drain-service": {
+      "businessName": "Sloan Plumbing and Drain Service",
+      "processedImages": 12,
+      "totalTokens": 15058,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMhTg8gNYTVLhSj9xt-QiXAkvXNIR1AsYw3Zi4U=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in underground utility work, depicting a trench dug in a residential yard with piping and a water meter installed. The yellow caution tape highlights the professionalism and safety measures taken during the project.",
+          "callToAction": "Trust our experienced team to handle all your underground utility needs with precision and care."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOdr8AM7Ull56qoV1ujtc7a6RJapKWA1gX3FVHG=w2048-h2048-k-no",
+          "description": "This image displays the company's skill in bathroom remodeling and plumbing installations. It features a newly installed toilet and sink in a modern bathroom setting with dark walls and wood-like flooring.",
+          "callToAction": "Upgrade your bathroom with our top-notch plumbing and remodeling services for a luxurious and functional space."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM-4516uerrshh9oZ_O46LV7s71ptDXdPAmxrBz=w2048-h2048-k-no",
+          "description": "This powerful image showcases the company's expertise in gas line installations and maintenance. It depicts a sleek, modern gas furnace unit with copper piping neatly installed, demonstrating their attention to detail and commitment to safety.",
+          "callToAction": "Ensure your home's gas appliances are running safely and efficiently with our professional gas line services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPKP9vKVQN74GIaL4RTJUekme_rXSMalzz8IOmC=w2048-h2048-k-no",
+          "description": "This image displays the company's proficiency in water heater installations and replacements. It features two modern, energy-efficient water heater units installed in a well-organized mechanical room.",
+          "reasonForAboutUs": "This image effectively demonstrates the company's capabilities in handling complex plumbing installations, showcasing their commitment to quality workmanship and adherence to industry standards."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNkqo8iHKAhQ0iYXbBFS5R-q6s1t1aRmkQNfQfG=w2048-h2048-k-no",
+          "description": "This image highlights the company's expertise in plumbing system design and installation. It shows a neatly organized manifold system with multiple valves and piping, indicating their ability to handle intricate plumbing projects.",
+          "reasonForAboutUs": "This image effectively conveys the company's attention to detail and their commitment to delivering well-planned and organized plumbing solutions, which is essential for building trust with potential clients."
+        }
+      ]
     }
   }
 }
