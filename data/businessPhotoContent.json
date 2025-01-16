@@ -2488,6 +2488,40 @@
           "relevance": "The American flag image represents the company's values of quality, reliability, and dedication to serving its customers with pride."
         }
       ]
+    },
+    "professional-plumbing-service-llc": {
+      "businessName": "Professional Plumbing Service LLC",
+      "processedImages": 12,
+      "totalTokens": 12302,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPWcD5CAneXuK3vktVKwCzlcT_66vLwY8YWT3Cu=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of our plumbers in installing and maintaining complex plumbing systems under residential or commercial buildings. It highlights our ability to work in confined spaces and handle intricate piping configurations.",
+          "callToAction": "Trust our skilled professionals to handle your most challenging plumbing projects. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO--FBrNGjwUBIB0Q-I_xmKO0OVjHXbs0R-VYdI=w2048-h2048-k-no",
+          "description": "This image demonstrates our commitment to using state-of-the-art equipment and following industry best practices. It showcases our attention to detail and dedication to providing top-notch plumbing services.",
+          "callToAction": "Experience the difference of working with a professional plumbing company. Schedule your service today and enjoy peace of mind."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOz7ychQCF_5yt84Ujlv5QOv2wD67UCJ3gCI8bl=w2048-h2048-k-no",
+          "description": "This image captures our team's ability to handle outdoor plumbing projects, such as installing or repairing underground pipes and drainage systems. It highlights our expertise in navigating challenging terrain and ensuring proper functionality.",
+          "callToAction": "Don't let outdoor plumbing issues disrupt your property. Trust our experienced professionals to resolve them efficiently and effectively."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNLg_ugkUkufJp7Bt_BiBhFIoGj0sNkUqZwQ3tK=w2048-h2048-k-no",
+          "description": "This image showcases our team's expertise in handling large-scale commercial plumbing projects. It demonstrates our ability to work in industrial settings and our commitment to meeting the highest standards of quality and safety.",
+          "whyItWorks": "This image effectively conveys the company's capabilities in tackling complex plumbing challenges, instilling confidence in potential clients seeking reliable and experienced professionals."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO8FWkd6fL84hV83LMvs6GQtYhAAt99vrhSAgdK=w2048-h2048-k-no",
+          "description": "This image highlights our attention to detail and commitment to quality workmanship. It showcases our team's expertise in installing and maintaining residential plumbing systems, ensuring a seamless and efficient experience for homeowners.",
+          "whyItWorks": "By showcasing our residential plumbing expertise, this image resonates with homeowners seeking trustworthy and skilled professionals to handle their plumbing needs, effectively positioning the company as a reliable choice."
+        }
+      ]
     }
   }
 }
