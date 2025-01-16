@@ -1058,6 +1058,142 @@
           "reason": "By showcasing the company's proficiency in residential plumbing services, this image effectively conveys their ability to cater to the needs of homeowners, making it a suitable choice for the About Us section."
         }
       ]
+    },
+    "cagle-plumbing-systems": {
+      "businessName": "Cagle Plumbing Systems",
+      "processedImages": 12,
+      "totalTokens": 24244,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM0v3jX5XIGmF-g52MiOW8OhrJj7JcxYDZYx_4P=w2048-h2048-k-no",
+          "description": "A luxurious freestanding bathtub positioned in front of a large window, offering a serene view of lush greenery outside. The sleek, modern design and natural lighting create a spa-like ambiance.",
+          "callToAction": "Elevate Your Bathroom to a Tranquil Oasis - Contact Us for a Free Consultation"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM29FzaF0WkdpdB1_apFqX3Z9MUoG6SsGeqT_Z6=w2048-h2048-k-no",
+          "description": "A stunning marble-tiled shower enclosure with a rainfall showerhead and elegant gold fixtures. The intricate tile pattern and modern design exude luxury and sophistication.",
+          "callToAction": "Indulge in the Ultimate Shower Experience - Schedule Your Renovation Today"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOmfmmTAElMGaMdaS8FanZNs58ywrDS8iVvMXOx=w2048-h2048-k-no",
+          "description": "A beautifully designed bathroom with a freestanding tub, marble countertops, and a large mirror. The combination of natural materials and modern fixtures creates a harmonious and inviting space.",
+          "callToAction": "Transform Your Bathroom into a Serene Sanctuary - Request a Free Quote Now"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNlVakm37ZzMD7u-NdRFFdJJoWy6Zb5Cfsy_iAt=w2048-h2048-k-no",
+          "description": "A skilled technician carefully working on a plumbing installation, showcasing the company's expertise and attention to detail.",
+          "reason": "This image demonstrates the company's professionalism and commitment to quality workmanship, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPKRXT37OD9WIFVYd69SUnVPZRaSwtGrZLsbcOO=w2048-h2048-k-no",
+          "description": "A man fishing from a boat, highlighting the company's ability to handle marine and outdoor plumbing projects.",
+          "reason": "This image showcases the company's versatility and capability to tackle diverse plumbing challenges, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "acme-plumbing": {
+      "businessName": "Acme Plumbing",
+      "processedImages": 12,
+      "totalTokens": 26642,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP1n85mco5Icsm09beCgzOdun5ztAwhLnq8h18J=w2048-h2048-k-no",
+          "description": "This image showcases a modern and luxurious bathroom with a freestanding bathtub, sleek cabinetry, and large windows that allow natural light to flood the space. The neutral color palette and minimalist design create a serene and inviting atmosphere.",
+          "callToAction": "Elevate your bathroom to a spa-like oasis with our expert design and installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOgQc81-d_6qlN0XxdkicXYL46B915gagNiAEvm=w2048-h2048-k-no",
+          "description": "This image captures a beautifully designed walk-in shower with a stylish tile pattern and multiple showerheads, providing a luxurious and rejuvenating experience. The attention to detail and high-quality craftsmanship are evident.",
+          "callToAction": "Transform your shower into a personal retreat with our custom shower solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOZm4STJGF6YOA0loVR8On5lhaZab_ahxLisdXU=w2048-h2048-k-no",
+          "description": "This image showcases a stunning freestanding bathtub in a contemporary bathroom setting. The sleek design, natural lighting, and warm color palette create a spa-like ambiance, perfect for relaxation and indulgence.",
+          "callToAction": "Indulge in the ultimate bathing experience with our expertly installed freestanding tubs."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN07GEyM0OuUFwnMVOQaDdqeNBFz_WckwtxJ_jZ=w2048-h2048-k-no",
+          "description": "This image depicts the foundation work for a new construction project, showcasing the expertise and attention to detail of Acme Plumbing's team. The precise layout and quality materials used demonstrate their commitment to delivering exceptional results.",
+          "reason": "This image effectively highlights the company's capabilities in handling complex plumbing installations from the ground up, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNbhWiWRmoz-PKkknSE2kf8YDeua887VxtK-DQN=w2048-h2048-k-no",
+          "description": "This behind-the-scenes image captures the skilled work of an Acme Plumbing technician during a bathroom renovation project. The attention to detail and professionalism displayed in the image reflect the company's commitment to quality workmanship.",
+          "reason": "This image provides a glimpse into the company's dedication to excellence and showcases their expertise in residential plumbing projects, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "hall-s-plumbing-services": {
+      "businessName": "Hall's Plumbing Services",
+      "processedImages": 12,
+      "totalTokens": 27139,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPRuuMfundnE7VAftYp3UQEhm3UPNCwi_RslUIw=w2048-h2048-k-no",
+          "description": "A professional-grade water heater installation showcasing the company's expertise in residential plumbing services.",
+          "callToAction": "Upgrade to energy-efficient water heating solutions and enjoy endless hot water with Hall's Plumbing Services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPdvVUiz1cMuXWZIrEEXfllIK_Q5LoffJozrlZl=w2048-h2048-k-no",
+          "description": "A sleek and modern bathroom renovation, highlighting the company's ability to transform spaces with stylish plumbing fixtures.",
+          "callToAction": "Elevate your bathroom's style and functionality with Hall's Plumbing Services' expert remodeling solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN5-kMKnSabSW2I7n87KQinGBzihPSwuPZIsXQo=w2048-h2048-k-no",
+          "description": "A powerful plumbing truck, representing the company's mobility and readiness to tackle any plumbing job, big or small.",
+          "callToAction": "Experience prompt and reliable plumbing services with Hall's Plumbing Services' fully-equipped team."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMltb_erGkUsQVTFaDfvp6GBQR9XD4cdrbOkzTE=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a commercial plumbing project, showcasing the company's ability to handle large-scale installations.",
+          "reason": "This image demonstrates the company's expertise in handling complex commercial plumbing projects, highlighting their capabilities and professionalism."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNmwUvtsbT2Kc4KZpWxIQFbn3vuYmmvXu5kM5Lt=w2048-h2048-k-no",
+          "description": "A collection of water heaters, showcasing the company's knowledge and experience in dealing with various water heating systems.",
+          "reason": "This image showcases the company's familiarity with different water heater models, reflecting their expertise and commitment to providing tailored solutions."
+        }
+      ]
+    },
+    "terrapin-creek-plumbing-and-septic-service-llc": {
+      "businessName": "Terrapin Creek Plumbing And Septic Service, LLC",
+      "processedImages": 6,
+      "totalTokens": 7895,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNoqk1fzw6BTicDRrPAdw6-iGG5zzWnamATfI55=w2048-h2048-k-no",
+          "description": "A professional septic service truck showcasing the company's branding and capabilities for septic tank cleaning and maintenance.",
+          "callToAction": "Keep your septic system flowing smoothly - call Terrapin Creek Plumbing & Septic Service today for reliable and affordable solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOnJSIdZ7wgiVS-rj571XsD-ucq2eHL-9J3qW-5=w2048-h2048-k-no",
+          "description": "The company's bold logo and service offerings, highlighting their expertise in plumbing and septic system installation, repair, and maintenance.",
+          "callToAction": "Trust the experts at Terrapin Creek Plumbing & Septic Service for all your plumbing and septic needs - prompt, professional, and reliable service guaranteed."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOE71a1xXCNYbsGumlyJnIf_dPkBQHln9Y8KmZk=w2048-h2048-k-no",
+          "description": "Skilled technicians diligently working on a septic system installation, demonstrating the company's commitment to quality workmanship.",
+          "callToAction": "Ensure your septic system is installed correctly the first time - choose Terrapin Creek Plumbing & Septic Service for their expertise and attention to detail."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNAlhQ0HMya-DLlgaM2xiprb7Zr8-gCwxQdhqO7=w2048-h2048-k-no",
+          "description": "A close-up view of a septic system installation in progress, showcasing the company's attention to detail and adherence to industry standards.",
+          "reason": "This image effectively highlights the company's technical expertise and commitment to quality workmanship, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMk_bLqOMV91yg3nWnafRuz9-R8_I2-VTjnmHXD=w2048-h2048-k-no",
+          "description": "A serene nature trail in a wooded area, representing the company's commitment to preserving the natural environment while providing essential plumbing and septic services.",
+          "reason": "This image conveys the company's eco-friendly approach and respect for the environment, which can be a compelling aspect to feature in the About Us section."
+        }
+      ]
     }
   }
 }
