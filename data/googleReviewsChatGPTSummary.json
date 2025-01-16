@@ -1,10 +1,10 @@
 {
   "fussell-plumbing": {
-    "ownerName": "Alex Fussell",
-    "ownerConfidence": 100,
+    "ownerName": "Alex",
+    "ownerConfidence": 80,
     "servicesMentioned": [
-      "water heaters repair",
-      "leak repair",
+      "water heaters",
+      "repairs",
       "re-plumbing"
     ],
     "firstReviewDate": "2024-10-05",
@@ -15,14 +15,16 @@
     "last365": 6
   },
   "jason's-drain-service": {
-    "ownerName": "Jason",
-    "ownerConfidence": 100,
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
     "servicesMentioned": [
       "water heater",
       "drain pipe",
       "pressure control valve",
-      "cartridges in bathtub faucets",
-      "leak repair"
+      "draining kitchen sink",
+      "bathtub faucets",
+      "leak",
+      "plumbing"
     ],
     "firstReviewDate": "2017-12-29",
     "last30": 0,
@@ -32,14 +34,16 @@
     "last365": 5
   },
   "salser-plumbing-and-septic-service-llc": {
-    "ownerName": "Salser",
-    "ownerConfidence": 100,
+    "ownerName": "Clay",
+    "ownerConfidence": 80,
     "servicesMentioned": [
-      "septic service",
-      "sump pump repair",
-      "line repair",
-      "filtration system installation",
-      "leak repair"
+      "fix the issue",
+      "sump pump",
+      "float replacement",
+      "toilet repair",
+      "line backing up",
+      "tank pumping",
+      "filtration system installation"
     ],
     "firstReviewDate": "2018-10-16",
     "last30": 0,
@@ -50,8 +54,12 @@
   },
   "hydrotech-plumbing-llc": {
     "ownerName": "Michael",
-    "ownerConfidence": 100,
-    "servicesMentioned": [],
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "repair",
+      "install",
+      "plumbing"
+    ],
     "firstReviewDate": "2021-05-19",
     "last30": 0,
     "last60": 0,
@@ -61,17 +69,18 @@
   },
   "strickland-plumbing-and-maintenance": {
     "ownerName": "David Strickland",
-    "ownerConfidence": 100,
+    "ownerConfidence": 80,
     "servicesMentioned": [
       "installing commodes",
       "faucet replacement",
       "toilet repairs",
-      "water leak repair",
+      "water leak",
       "hot water heater replacement",
       "new toilet installation",
       "kitchen sink faucet installation",
       "gas tankless hot water heater installation",
-      "sink installation"
+      "home projects",
+      "new sink installation"
     ],
     "firstReviewDate": "2018-08-28",
     "last30": 1,
@@ -80,5 +89,3528 @@
     "last180": 3,
     "last365": 6
   },
-  "forceUpdateTimestamp": "1737019464.2933054"
+  "reese-plumbing-llc": {
+    "ownerName": "Josh",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing",
+      "leak repair",
+      "water lines rerouting",
+      "pipe replacement",
+      "faucet installation"
+    ],
+    "firstReviewDate": "2023-12-15",
+    "last30": 0,
+    "last60": 2,
+    "last90": 6,
+    "last180": 11,
+    "last365": 14
+  },
+  "alabama-water-heater": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "water heater"
+    ],
+    "firstReviewDate": "2021-12-02",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "fortner-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "hot water heater",
+      "outside faucets"
+    ],
+    "firstReviewDate": "2024-04-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "joe-reid---dawes-plumbing-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "plumbing issues",
+      "repair shower",
+      "leaking pipe",
+      "future plumbing",
+      "outside water line break",
+      "finding the leak",
+      "fixed my pipes",
+      "replacing 4 faucets"
+    ],
+    "firstReviewDate": "2019-06-28",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
+  },
+  "brian-harden-plumbing-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-02-25",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "ace-plumbing-solutions": {
+    "ownerName": "Austin",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "plumbing",
+      "garbage disposal",
+      "leak repair"
+    ],
+    "firstReviewDate": "2024-09-15",
+    "last30": 7,
+    "last60": 12,
+    "last90": 18,
+    "last180": 27,
+    "last365": 27
+  },
+  "quality-plumbing-co": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-07-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "boydstun-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "plumbing work"
+    ],
+    "firstReviewDate": "2023-08-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 3
+  },
+  "barnett-plumbing-llc": {
+    "ownerName": "Lisa",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "leak repair",
+      "water heater",
+      "frost proof hydrant",
+      "drain cleaning",
+      "faucet replacement",
+      "plumbing replacement"
+    ],
+    "firstReviewDate": "2018-09-26",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 2,
+    "last365": 5
+  },
+  "morrison-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "water heater"
+    ],
+    "firstReviewDate": "2018-02-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "h2o-worx": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-10-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "leak-pros-of-al-and-ga": {
+    "ownerName": "Jared",
+    "ownerConfidence": 80,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-09-17",
+    "last30": 0,
+    "last60": 1,
+    "last90": 1,
+    "last180": 3,
+    "last365": 3
+  },
+  "harris-county-plumbing": {
+    "ownerName": "Parker",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "service call",
+      "fixing my kitchen sink",
+      "water main repair"
+    ],
+    "firstReviewDate": "2016-06-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "kelly-c-williams-plumbing-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leaking faucet repair"
+    ],
+    "firstReviewDate": "2014-07-26",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "central-fire-protection": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "fire sprinkler",
+      "alarm"
+    ],
+    "firstReviewDate": "2016-06-25",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "sims-plumbing-and-air": {
+    "ownerName": "Anthony",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing repairs",
+      "water heater",
+      "air conditioner",
+      "shower",
+      "drain",
+      "shampoo bowls"
+    ],
+    "firstReviewDate": "2019-08-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "tracy-duncan-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2016-08-27",
+    "last30": 0,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
+  },
+  "stephen-seibert-plumbing-llc": {
+    "ownerName": "Maria",
+    "ownerConfidence": 20,
+    "servicesMentioned": [
+      "dishwasher installation",
+      "toilet repair",
+      "faucet repair"
+    ],
+    "firstReviewDate": "2022-08-18",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
+  },
+  "rediworx-drain-and-sewer-cleaning": {
+    "ownerName": "Lance",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "drains cleaned",
+      "emergency job"
+    ],
+    "firstReviewDate": "2021-07-02",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "terrapin-creek-plumbing-and-septic-service-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "tank",
+      "plumbing",
+      "septic system",
+      "leak",
+      "drain unclogged",
+      "sewer line",
+      "shower head install",
+      "field line",
+      "septic issues"
+    ],
+    "firstReviewDate": "2018-06-13",
+    "last30": 2,
+    "last60": 2,
+    "last90": 2,
+    "last180": 3,
+    "last365": 4
+  },
+  "dorsey-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-11-10",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 2,
+    "last365": 2
+  },
+  "affordable-backflow-testing-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "north-alabama-drain-cleaningetc-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "reliable-usa-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "reliable-usa-plumbers": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "tub repair"
+    ],
+    "firstReviewDate": "2022-11-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "performance-plumbing-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "4g-plumbing-and-drain-cleaning": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "condo-care": {
+    "ownerName": "Dan",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "cleaning",
+      "dishwasher repair",
+      "maintenance",
+      "leak repair",
+      "appliance repair"
+    ],
+    "firstReviewDate": "2016-12-27",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "wise-plumbing-and-gas-llc": {
+    "ownerName": "Gary",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "bathroom faucet",
+      "communication",
+      "handicap toilet",
+      "water main"
+    ],
+    "firstReviewDate": "2024-02-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 6
+  },
+  "plumbworks-llc": {
+    "ownerName": "Jack",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "main water line repair",
+      "new plumbing work",
+      "maintenance and repair work"
+    ],
+    "firstReviewDate": "2022-11-18",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 2,
+    "last365": 4
+  },
+  "dns-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-04-01",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 2
+  },
+  "alpha-plumbers-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "waterworks-plumbing-and-drain-llc": {
+    "ownerName": "Jared",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "plumbing",
+      "water heater",
+      "leak repair",
+      "re-piping",
+      "sink fix",
+      "toilet drain",
+      "emergency water loss"
+    ],
+    "firstReviewDate": "2024-04-01",
+    "last30": 2,
+    "last60": 4,
+    "last90": 5,
+    "last180": 15,
+    "last365": 30
+  },
+  "professional-plumbing-and-drain": {
+    "ownerName": "Jerry",
+    "ownerConfidence": 40,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-06-18",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "pike's-plumbing-and-gas": {
+    "ownerName": "Kris",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "sewer",
+      "kitchen faucet",
+      "polybutylene lines",
+      "shut off valves",
+      "water filter system",
+      "dish washer line",
+      "pinhole in pex line",
+      "pressure regulator"
+    ],
+    "firstReviewDate": "2018-04-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "wolf-plumbing-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "unclogged my toilet",
+      "whole house replumb",
+      "deteriorated copper lines"
+    ],
+    "firstReviewDate": "2017-08-23",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
+  },
+  "dixie-services-llc": {
+    "ownerName": "Tommy",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water main leak",
+      "plumbing",
+      "hot water tank",
+      "bathroom faucet"
+    ],
+    "firstReviewDate": "2024-10-13",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 7,
+    "last365": 7
+  },
+  "veteran's-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "crowes-trenching-and-plumbing": {
+    "ownerName": "Colby",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "unclogging",
+      "running another line",
+      "removing old faucet",
+      "installing new faucet"
+    ],
+    "firstReviewDate": "2021-07-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "queen-home-improvement-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-07-30",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "cats-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "plumbing"
+    ],
+    "firstReviewDate": "2016-06-29",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "vest-plumbing": {
+    "ownerName": "Alex",
+    "ownerConfidence": 85,
+    "servicesMentioned": [
+      "plumbing",
+      "leak repair",
+      "water heater replacement",
+      "installation"
+    ],
+    "firstReviewDate": "2020-09-28",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 4
+  },
+  "yarbrough's-general-contractors": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "marble-city-plumbing-llc": {
+    "ownerName": "Spencer",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "repairs",
+      "drain plugged",
+      "slab leak",
+      "busted pipe",
+      "leak"
+    ],
+    "firstReviewDate": "2022-11-21",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 2,
+    "last365": 4
+  },
+  "lke-plumbing": {
+    "ownerName": "Zach",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "repair",
+      "emergency",
+      "clean up"
+    ],
+    "firstReviewDate": "2024-05-10",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 2,
+    "last365": 8
+  },
+  "puddin-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "simple-service-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "tub installation",
+      "leak repair"
+    ],
+    "firstReviewDate": "2023-03-10",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 1,
+    "last365": 1
+  },
+  "g-f-g-contractor-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "plumbing",
+      "rerouting kitchen sink",
+      "washing machine drain"
+    ],
+    "firstReviewDate": "2016-10-10",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "rusty-bottoms": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "replacement",
+      "installation"
+    ],
+    "firstReviewDate": "2024-03-30",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "unstoppable-drain-and-company": {
+    "ownerName": "Johnny",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "plumbing",
+      "unstopping drains",
+      "replacing tub and sink valves and pipes"
+    ],
+    "firstReviewDate": "2023-04-21",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 2,
+    "last365": 3
+  },
+  "rousseau's-excavating-and-pipe-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "everyone-needs-plumbing-and-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "rocket-city-home-repair": {
+    "ownerName": "Randal Collier",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "home repairs",
+      "painting"
+    ],
+    "firstReviewDate": "2024-06-01",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 2
+  },
+  "the-flow-doc-plumbing-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "randc-construction-and-repairs": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "browning-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-09-22",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 1
+  },
+  "aaa-septic-tank-service-of-cullman-llc": {
+    "ownerName": "Cody",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "septic tank clean out",
+      "pumping",
+      "troubleshooting",
+      "root removal"
+    ],
+    "firstReviewDate": "2016-03-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 3
+  },
+  "bailey-and-son\u2019s-heating-cooling-and-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leak repair",
+      "plumbing",
+      "drains replaced",
+      "shower installation"
+    ],
+    "firstReviewDate": "2023-09-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 6
+  },
+  "on-point-plumbing": {
+    "ownerName": "Scott",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "pipe fix",
+      "vanity installation",
+      "leak repair",
+      "re-plumbing",
+      "disposal installation",
+      "Dishwasher installation",
+      "faucets replacement",
+      "waterlines re-routing",
+      "gas lines",
+      "drain unclogging"
+    ],
+    "firstReviewDate": "2020-01-28",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "triple-b-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-05-05",
+    "last30": 0,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 3
+  },
+  "evans-plumbing-and-drain-service-inc": {
+    "ownerName": "Aaron",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "RV Leak",
+      "well cap",
+      "leak in water heart",
+      "kitchen leak",
+      "sewer line",
+      "pipe"
+    ],
+    "firstReviewDate": "2014-12-15",
+    "last30": 0,
+    "last60": 2,
+    "last90": 4,
+    "last180": 5,
+    "last365": 9
+  },
+  "blount-plumbing-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "emergency calls",
+      "repair"
+    ],
+    "firstReviewDate": "2020-02-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "tandl-plumbing-llc": {
+    "ownerName": "TJ",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "expansion tank",
+      "gas log fireplace",
+      "plumbing"
+    ],
+    "firstReviewDate": "2024-12-27",
+    "last30": 6,
+    "last60": 6,
+    "last90": 6,
+    "last180": 6,
+    "last365": 6
+  },
+  "cagle-plumbing-systems": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "cook-and-son-plumbing-and-septic": {
+    "ownerName": "Kyle",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "clog",
+      "kitchen faucet",
+      "emergency service"
+    ],
+    "firstReviewDate": "2017-05-13",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "h-and-h-plumbing-inc": {
+    "ownerName": "Brian",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "leak repair",
+      "water heater",
+      "sewer line issue",
+      "pressure reducing valve",
+      "gas line",
+      "main drain line",
+      "water feed line"
+    ],
+    "firstReviewDate": "2017-03-13",
+    "last30": 2,
+    "last60": 2,
+    "last90": 3,
+    "last180": 3,
+    "last365": 6
+  },
+  "little's-plumbing-and-pro-services": {
+    "ownerName": "Brenden",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "leak repair",
+      "sink installation",
+      "pipe repair",
+      "faucet repair"
+    ],
+    "firstReviewDate": "2022-09-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 2
+  },
+  "acme-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "ddandh-services-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "precision-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-11-03",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 2,
+    "last365": 2
+  },
+  "if-it's-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leak repair"
+    ],
+    "firstReviewDate": "2022-07-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "kyle's-rod-n-rooter": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "plumbing leak",
+      "unclogged drain",
+      "pipes cleaned",
+      "leak repair"
+    ],
+    "firstReviewDate": "2013-09-09",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "proscapes-and-services-llc": {
+    "ownerName": "Kobe & Meg Kayden",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "remodeled bathroom",
+      "deck repair",
+      "tree removal",
+      "rebuild closet",
+      "graded drive way"
+    ],
+    "firstReviewDate": "2021-10-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "harrisons-plumbing": {
+    "ownerName": "Mark",
+    "ownerConfidence": 85,
+    "servicesMentioned": [
+      "hot water heater installation",
+      "leak repair",
+      "pipe repair",
+      "toilet repair",
+      "septic line cleaning",
+      "pressure regulator installation"
+    ],
+    "firstReviewDate": "2023-06-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "banks-environmental-and-drain-cleaning": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "craig-plumbing-and-electrical": {
+    "ownerName": "Terry",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "pipe replacement",
+      "water heater",
+      "breaker panel box",
+      "water line blockage",
+      "bathtub installation"
+    ],
+    "firstReviewDate": "2019-09-10",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 2,
+    "last365": 7
+  },
+  "sloan-plumbing-and-drain-service": {
+    "ownerName": "Nick",
+    "ownerConfidence": 80,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-03-09",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "chambless-plumbing": {
+    "ownerName": "Bubba",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "re-piped",
+      "icemaker",
+      "shower fixtures",
+      "emergency"
+    ],
+    "firstReviewDate": "2023-04-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 3
+  },
+  "jack's-sewer-and-plumbing-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-04-26",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "tri-state-land-clearing": {
+    "ownerName": "Chris",
+    "ownerConfidence": 33,
+    "servicesMentioned": [
+      "land work",
+      "driveway repair"
+    ],
+    "firstReviewDate": "2024-01-19",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 2
+  },
+  "davis-companies-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-06-15",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "all-in-one-plumbing-and-drain-co": {
+    "ownerName": "James",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing services",
+      "leak repair"
+    ],
+    "firstReviewDate": "2024-08-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 3,
+    "last365": 3
+  },
+  "peck-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "all-leak-detection-llc": {
+    "ownerName": "John",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing",
+      "leak detection"
+    ],
+    "firstReviewDate": "2019-09-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 2
+  },
+  "abel-home-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "pipers-plumbing": {
+    "ownerName": "Robby",
+    "ownerConfidence": 85,
+    "servicesMentioned": [
+      "water pipe repair",
+      "water line installation",
+      "leak repair",
+      "tankless water heater installation"
+    ],
+    "firstReviewDate": "2023-06-22",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 2,
+    "last365": 8
+  },
+  "west-ga-drain-doctors": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leak repair"
+    ],
+    "firstReviewDate": "2022-11-01",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "pat's-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-06-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "accurate-heating-and-air-conditioning": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "air conditioner",
+      "plumbing"
+    ],
+    "firstReviewDate": "2016-11-02",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "down-south-plumbing-services": {
+    "ownerName": "Alex",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "shower head replacement",
+      "toilet tank rebuild",
+      "water heater replacement",
+      "leak repair"
+    ],
+    "firstReviewDate": "2023-05-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "1drain-doctor-plumbing/drain-cleaning": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "sink unclog"
+    ],
+    "firstReviewDate": "2020-05-22",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "ron's-old-time-plumbing-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "faucet change",
+      "leak repair",
+      "garbage disposal replacement",
+      "fireplace fixing"
+    ],
+    "firstReviewDate": "2019-06-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "mc-remodeling-construction-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "mcr-plumbing-and-drain": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "mike's-plumbing-and-electric-service": {
+    "ownerName": "Jeremy",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "leak repair",
+      "pipe burst",
+      "water heater",
+      "toilet",
+      "electric problem",
+      "bathroom remodel",
+      "sewer issue",
+      "shower valve"
+    ],
+    "firstReviewDate": "2015-10-22",
+    "last30": 4,
+    "last60": 9,
+    "last90": 11,
+    "last180": 20,
+    "last365": 21
+  },
+  "hamilton-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-02-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "plumbing-dog": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "water filtration service"
+    ],
+    "firstReviewDate": "2021-06-22",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "one-call-services-|-tuscaloosa-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "HW Heater replacement",
+      "professional service"
+    ],
+    "firstReviewDate": "2021-06-30",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "practical-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "hot water heater",
+      "plumbing"
+    ],
+    "firstReviewDate": "2024-06-13",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 6
+  },
+  "southern-home-solutions": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-03-18",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "all-out-plumbers-llc": {
+    "ownerName": "Jeremy",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing",
+      "water heater",
+      "septic tank"
+    ],
+    "firstReviewDate": "2021-12-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "h-and-c-plumbing-llc": {
+    "ownerName": "Andrew",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "Flange replacement",
+      "water heater replacement",
+      "leak repair",
+      "remodeling"
+    ],
+    "firstReviewDate": "2020-05-25",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "budget-rooter-and-plumbing": {
+    "ownerName": "Amin",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "water main leak",
+      "water heater",
+      "sewage line",
+      "leak",
+      "valve"
+    ],
+    "firstReviewDate": "2016-02-25",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "preston's-plumbing-and-drain-cleaning-service": {
+    "ownerName": "Nick",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing",
+      "hot water line break",
+      "tankless water heater installation"
+    ],
+    "firstReviewDate": "2017-04-06",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 2
+  },
+  "byers-plumbing": {
+    "ownerName": "Adidas",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "leak repair",
+      "plumbing",
+      "water pressure regulator",
+      "water line",
+      "shower fixture"
+    ],
+    "firstReviewDate": "2016-12-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "patrick's-home-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "great service"
+    ],
+    "firstReviewDate": "2018-06-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "america's-best-services-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "plumbing"
+    ],
+    "firstReviewDate": "2023-08-12",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 1
+  },
+  "rons-old-time-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "gas logs start",
+      "hot water heater replace",
+      "faucet",
+      "septic system",
+      "waterline repair"
+    ],
+    "firstReviewDate": "2019-10-28",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "educated-rooter-and-septic-atlanta": {
+    "ownerName": "Scott",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "sewer-type odor detection",
+      "smoke test",
+      "leak repair",
+      "plumbing",
+      "septic tank inspection",
+      "waterhammering"
+    ],
+    "firstReviewDate": "2018-12-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "hall's-plumbing-services": {
+    "ownerName": "Randy",
+    "ownerConfidence": 85,
+    "servicesMentioned": [
+      "outside faucet repair",
+      "water heater replacement",
+      "toilet repair",
+      "kitchen disposal repair"
+    ],
+    "firstReviewDate": "2020-06-21",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "southern-shores-plumbing-services": {
+    "ownerName": "Austin",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "updates",
+      "leak repair"
+    ],
+    "firstReviewDate": "2024-10-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 3,
+    "last365": 3
+  },
+  "one-way-plumbing-llc": {
+    "ownerName": "Jose",
+    "ownerConfidence": 20,
+    "servicesMentioned": [
+      "plumbing",
+      "replacing showers",
+      "installing toilets",
+      "bathroom",
+      "kitchen faucets",
+      "water heater",
+      "tankless water heater",
+      "leaky faucet",
+      "shower",
+      "pressure regulator"
+    ],
+    "firstReviewDate": "2023-09-28",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "smith-and-sons-septic-tank-services-and-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "septic tank"
+    ],
+    "firstReviewDate": "2019-02-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "aka-plumbing": {
+    "ownerName": "Josh",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "pipes",
+      "bathtub faucet",
+      "bathtub",
+      "leaky sprayer"
+    ],
+    "firstReviewDate": "2019-04-10",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
+  },
+  "ingram-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leak repair"
+    ],
+    "firstReviewDate": "2021-03-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "perfect-piping-plumbing-gas-and-design": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "brown's-plumbing-solutions": {
+    "ownerName": "Todd",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "tub replacement",
+      "leak repair",
+      "sewage pump replacement"
+    ],
+    "firstReviewDate": "2024-07-18",
+    "last30": 0,
+    "last60": 2,
+    "last90": 3,
+    "last180": 7,
+    "last365": 8
+  },
+  "plumber-dan-services-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leak repair",
+      "valve change",
+      "shower head repair",
+      "pipe repair",
+      "water heater replacement"
+    ],
+    "firstReviewDate": "2021-08-03",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 4,
+    "last365": 10
+  },
+  "veteran-plumbing-llc": {
+    "ownerName": "Nick",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "pipe repair",
+      "water line replacement",
+      "leak repair",
+      "water heater replacement",
+      "plumbing installation"
+    ],
+    "firstReviewDate": "2020-07-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "brookside-septic-tank-service-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "septic system",
+      "hot water heater"
+    ],
+    "firstReviewDate": "2023-03-28",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "pipemasters-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leak repair",
+      "tank replacement"
+    ],
+    "firstReviewDate": "2018-04-26",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "cochran-brothers-plumbing-and-gas": {
+    "ownerName": "Blake Cochran",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "clogged lines",
+      "gas stove",
+      "leaky pipe repair",
+      "shower valve leak",
+      "water leak"
+    ],
+    "firstReviewDate": "2022-11-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 2,
+    "last365": 4
+  },
+  "allens-allpro-services-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "richardson-sears-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "k-wood-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "supply line replaced",
+      "leaking gas water heater",
+      "installed water heater",
+      "shower repair",
+      "unclogged drain"
+    ],
+    "firstReviewDate": "2016-04-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 2
+  },
+  "scott's-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "topnotch-plumbing-and-drain-cleaning-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-10-10",
+    "last30": 4,
+    "last60": 6,
+    "last90": 11,
+    "last180": 23,
+    "last365": 50
+  },
+  "bishop\u2019s-plumbing-and-services": {
+    "ownerName": "Blake Bishop",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing"
+    ],
+    "firstReviewDate": "2024-12-10",
+    "last30": 3,
+    "last60": 5,
+    "last90": 5,
+    "last180": 5,
+    "last365": 5
+  },
+  "sure-flow-plumbing-and-drain-llc": {
+    "ownerName": "Tre",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "stub out",
+      "in wall",
+      "fixture setting"
+    ],
+    "firstReviewDate": "2021-01-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 2,
+    "last365": 2
+  },
+  "do-it-all-plumbing-heating-and-cooling-llc": {
+    "ownerName": "JJ",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "plumbing",
+      "ac",
+      "hvac"
+    ],
+    "firstReviewDate": "2024-08-09",
+    "last30": 1,
+    "last60": 2,
+    "last90": 4,
+    "last180": 17,
+    "last365": 17
+  },
+  "git'er-done-plumbing": {
+    "ownerName": "David",
+    "ownerConfidence": 85,
+    "servicesMentioned": [
+      "install",
+      "remodel",
+      "draining issue",
+      "water heater installation"
+    ],
+    "firstReviewDate": "2017-03-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "a-and-b-septic-tank-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "pump septic tank",
+      "plumbing service"
+    ],
+    "firstReviewDate": "2017-06-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "muddy-buddy's-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-01-10",
+    "last30": 15,
+    "last60": 26,
+    "last90": 34,
+    "last180": 67,
+    "last365": 127
+  },
+  "lance-of-all-trades": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "vaughn\u2019s-superior-plumbing-llc": {
+    "ownerName": "Justin",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "plumbing needs",
+      "sewage pipe",
+      "clogged drain",
+      "leak in front yard"
+    ],
+    "firstReviewDate": "2024-07-22",
+    "last30": 1,
+    "last60": 1,
+    "last90": 3,
+    "last180": 12,
+    "last365": 12
+  },
+  "champion-plumbing-and-remodeling": {
+    "ownerName": "Patrick",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "hot water line",
+      "plumbing leak",
+      "site prep and grading",
+      "water line break",
+      "sink and faucet",
+      "hot water heater",
+      "septic back up"
+    ],
+    "firstReviewDate": "2021-03-01",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 5
+  },
+  "chris-mayo-plumbing-and-drain-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "installed kitchen sink and faucet",
+      "replaced under-the-sink drains",
+      "replaced faucet",
+      "repair a stopped main sewer line",
+      "drain pipe",
+      "installed a new garbage disposal",
+      "drain was stopped up"
+    ],
+    "firstReviewDate": "2017-09-19",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "true-trim-installation-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-04-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "professional-plumbing-service-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-08-01",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "glory-plumbing-and-drain-cleaning-services-llc": {
+    "ownerName": "Antwon",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "water leak",
+      "faucets",
+      "plumbing install",
+      "emergency plumbing service",
+      "broken toilet and flange repair"
+    ],
+    "firstReviewDate": "2021-07-15",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 2
+  },
+  "tim's-total": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "front porch",
+      "enclosed screened area"
+    ],
+    "firstReviewDate": "2024-07-16",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "jw-lawson-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-11-08",
+    "last30": 2,
+    "last60": 8,
+    "last90": 13,
+    "last180": 15,
+    "last365": 36
+  },
+  "qpi-services-inc": {
+    "ownerName": "Jesse Burks",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "customer service",
+      "new construction",
+      "renovations",
+      "plumbing",
+      "shower lines"
+    ],
+    "firstReviewDate": "2023-12-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "rescue-me-plumbing-llc": {
+    "ownerName": "David",
+    "ownerConfidence": 40,
+    "servicesMentioned": [
+      "water heater"
+    ],
+    "firstReviewDate": "2020-07-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "done-right-plumbing-services": {
+    "ownerName": "Derrick",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "plumbing"
+    ],
+    "firstReviewDate": "2018-08-30",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "jeff-brown's-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-10-26",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "a-revolution-llc": {
+    "ownerName": "James",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "painting",
+      "cabinet refacing",
+      "flooring installation",
+      "electrical",
+      "plumbing",
+      "step building"
+    ],
+    "firstReviewDate": "2017-09-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "joseph-plumbing-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "water heater",
+      "leak repair",
+      "dishwasher",
+      "plumbing",
+      "sewer pipe",
+      "toilet",
+      "sink"
+    ],
+    "firstReviewDate": "2021-12-27",
+    "last30": 0,
+    "last60": 0,
+    "last90": 2,
+    "last180": 3,
+    "last365": 8
+  },
+  "rooter-pros-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "plumbing"
+    ],
+    "firstReviewDate": "2022-02-22",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "happy-home-repair-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-07-10",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "brook-investment-properties-/remodeling": {
+    "ownerName": "Mr. Westbrook",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "home repairs",
+      "rotten wood",
+      "painting",
+      "plumbing",
+      "pipes replacement",
+      "electrical",
+      "roofing",
+      "deck finishing",
+      "water leak",
+      "bathroom add on"
+    ],
+    "firstReviewDate": "2023-11-14",
+    "last30": 0,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 6
+  },
+  "one-call-services-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-12-01",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
+  },
+  "innovative-plumbing-solutions-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-06-08",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "bamas-best-maintenance-and-repair": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "sands-hvacandmore-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-01-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "southernn-solutions-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-11-09",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "bob's-handyman-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-08-13",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "flippo-restoration-and-maintenance--llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-09-09",
+    "last30": 1,
+    "last60": 1,
+    "last90": 2,
+    "last180": 6,
+    "last365": 10
+  },
+  "g-and-s-plumbing-and-electric": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-12-08",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "deep-south-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-11-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 3
+  },
+  "jnl-plumbing-and-drain-cleaning-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-02-22",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "john's-home-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-09-02",
+    "last30": 3,
+    "last60": 7,
+    "last90": 8,
+    "last180": 18,
+    "last365": 42
+  },
+  "jay's-plumbing-and-handyman-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-04-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "boxcar-the-handyman": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-03-20",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "lt-drain-and-small-repair": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-07-31",
+    "last30": 5,
+    "last60": 6,
+    "last90": 6,
+    "last180": 19,
+    "last365": 56
+  },
+  "kandk-contracted-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "mamas-boy-plumbing-and-septic-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-07-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "hatcher-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-02-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "hobbs-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-12-13",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 8
+  },
+  "cox-plumbing-solutions": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-08-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "cj-plumbing-and-gas": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-05-31",
+    "last30": 3,
+    "last60": 4,
+    "last90": 5,
+    "last180": 6,
+    "last365": 13
+  },
+  "shamrock-home-repairs": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-08-06",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "anything-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2016-10-12",
+    "last30": 3,
+    "last60": 3,
+    "last90": 3,
+    "last180": 5,
+    "last365": 8
+  },
+  "charles-pickle-septic-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2016-09-29",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 2,
+    "last365": 5
+  },
+  "stain-plumbing-and-construction-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-03-20",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 7
+  },
+  "sands-plumbing-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-03-19",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 5,
+    "last365": 13
+  },
+  "lords-plumbing-remodeling-and-handyman-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-08-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "tillman-plumbing-and-gas": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-08-11",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "j-tillman-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "dynamic-plumbing-solutions-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "plumbplus-company": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-02-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "angelplumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-06-06",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "jackson-price-plumbing-and-gas": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "the-fix-it-man": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "worley's-plumbing-and-drain-cleaning": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2016-09-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 1,
+    "last365": 4
+  },
+  "ski\u2019s-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-07-13",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "preston-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "pf-custom": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "db-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "bates-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-01-08",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "jc-plumbing-and-drain": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-05-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "quick-drain-plumbers": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-01-19",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "goforth-enterprises": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-07-13",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "d-and-c-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-11-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "tradelink-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "day-and-night-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-02-08",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "aaa-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-09-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 2,
+    "last365": 2
+  },
+  "alpha-omega-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-07-10",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "nabor-plumbing-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "parkers-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "jon-barnes-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-05-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "george-brothers'-contracting": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "reynolds-plumbing-and-gas": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-06-12",
+    "last30": 1,
+    "last60": 5,
+    "last90": 5,
+    "last180": 8,
+    "last365": 12
+  },
+  "lakeith's-plumbing-and-electric-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "alabama-plumbing-company-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-08-06",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "graham-plumbing-repair": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-06-18",
+    "last30": 3,
+    "last60": 3,
+    "last90": 4,
+    "last180": 4,
+    "last365": 4
+  },
+  "quality-1-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "stewart-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-06-22",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "southern-waters-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "dawes-plumbing-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-11-25",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "aaa-backflow": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-09-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "craven's-plumbing-specialist": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "groce-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "express-rooter-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-07-06",
+    "last30": 5,
+    "last60": 9,
+    "last90": 11,
+    "last180": 20,
+    "last365": 46
+  },
+  "ala-ten-plumbing-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-07-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 6,
+    "last365": 6
+  },
+  "rooter-emergency-plumber": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "mik-emergency-repair-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "cherokee-services-plumbing-co": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-08-21",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "a-1-cooling-and-heating-and-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-01-25",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "central-alabama-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-11-23",
+    "last30": 5,
+    "last60": 10,
+    "last90": 10,
+    "last180": 10,
+    "last365": 10
+  },
+  "all-south-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-08-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "dallas-plumbing-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-02-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 1,
+    "last365": 1
+  },
+  "faith-plumbing-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-02-19",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "rooter-pro": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "focus-emergency-repair-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "madison-county-plumbers": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "swan-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-01-18",
+    "last30": 0,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 1
+  },
+  "a-plus-roto-rooter": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-09-30",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "tibbetts-plumbing-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "all-wayz-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "alms-pump-service-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-09-28",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 3
+  },
+  "american-plumbing-professionals-of-swal": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-02-18",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "sellers-emergency-plumber-repair": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "fair-emergency-hvac-repair": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "nfinity-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-06-21",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "top-notch-maintenance-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "the-construction-artists": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-01-27",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "homeworx": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-02-20",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "hd-owens-and-son-contractors": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "shoals-creek-home-improvements": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-06-27",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 4
+  },
+  "hamilton-renovations-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "jay's-home-improvement": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-01-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 2,
+    "last365": 7
+  },
+  "plus-remodels-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "e-and-e-renovations": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "martin-renovation": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "done-rite-restorations-home-repair-specialist-369-b-lafayette-street-roanoke-alabama": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "b-and-b-torch-regulator-and-repair-service-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-04-12",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "m-and-m-pumping-and-septic-repair": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-02-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "alabama-septic-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-03-03",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "right-a-way-rooter": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2019-09-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "payton's-septic-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-06-05",
+    "last30": 0,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
+  },
+  "weiss-lake-septic-pumpers-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-12-30",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 5
+  },
+  "royal-flush-septic-tank-pumping-company": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2016-03-04",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 3,
+    "last365": 5
+  },
+  "harper's-environmental-septic-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2015-10-29",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "a-j's-septic-services-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-12-18",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 3
+  },
+  "affordable-septic-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-04-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "pickle-septic-tank-and-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-06-15",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 3,
+    "last365": 8
+  },
+  "lawrence-septic-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-07-07",
+    "last30": 1,
+    "last60": 2,
+    "last90": 2,
+    "last180": 2,
+    "last365": 7
+  },
+  "royal-flush": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-05-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "crimes-septic-tank-pumping": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-04-17",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  },
+  "bskc-soil-and-septic-services-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-03-01",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 1,
+    "last365": 5
+  },
+  "all-pro-septic-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-11-01",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 6,
+    "last365": 20
+  },
+  "3rd-generation-septic": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-05-15",
+    "last30": 7,
+    "last60": 7,
+    "last90": 7,
+    "last180": 14,
+    "last365": 30
+  },
+  "walker-septic-and-drain": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-01-07",
+    "last30": 0,
+    "last60": 0,
+    "last90": 1,
+    "last180": 1,
+    "last365": 5
+  },
+  "septic-tank-delivery-services": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-09-06",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 1
+  },
+  "septic-solutions": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-08-05",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 3
+  },
+  "wynn-construction-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-09-20",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 4
+  },
+  "all-american-septic-and-plumbing": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "rogers-septic": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "all-n-one-septic-tank-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "pickle-plumbing-and-septic-tank-service": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-06-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "dale's-septic-service-inc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-11-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 4
+  },
+  "artisan-tile": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "richard-restoration": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-04-14",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 2
+  },
+  "water-damage-services-huntsville": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2020-08-23",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "mel's-restoration-and-remodeling": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2017-02-18",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "floodshield-restoration-and-disaster-relief-llc": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2022-10-24",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  },
+  "forceUpdateTimestamp": "1737021499.8154895"
 }
