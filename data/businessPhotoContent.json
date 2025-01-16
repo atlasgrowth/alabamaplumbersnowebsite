@@ -4494,6 +4494,176 @@
           "reason": "By showcasing our technicians' expertise and dedication, this image instills confidence in potential customers about the quality of our services, making it a great fit for the About Us section."
         }
       ]
+    },
+    "qpi-services-inc": {
+      "businessName": "QPI Services Inc.",
+      "processedImages": 12,
+      "totalTokens": 21140,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNDTExqA6ITnsl1X8e9tYcsbnW742Zu_8gwd2Jc=w2048-h2048-k-no",
+          "description": "A heavy-duty excavator deftly maneuvers a large load of reddish-brown soil on a commercial construction site, with an American flag and safety flag prominently displayed, showcasing the company's expertise in handling large-scale projects.",
+          "callToAction": "Trust our experienced team to tackle your most demanding excavation and earthmoving needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPfNC-ItFYl705GPdgPMSXFiT1qsAfJoe80DgV5=w2048-h2048-k-no",
+          "description": "A well-organized residential construction site with precisely laid out piping and markers, demonstrating the company's attention to detail and commitment to proper planning and execution.",
+          "callToAction": "Experience our meticulous approach to residential plumbing installations and renovations."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNET7SL7SAvRIGwLXPk8CnFg2Eug-VV3wDOvts0=w2048-h2048-k-no",
+          "description": "A rugged construction site with heavy machinery and materials, highlighting the company's ability to handle challenging outdoor projects in various terrains.",
+          "callToAction": "Rely on our skilled professionals to conquer even the toughest outdoor plumbing and gas line installations."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMbx0fhYIqYin2EJ3XG6NIo52Z67f44IbdHr5yK=w2048-h2048-k-no",
+          "description": "An interior shot of a modern commercial facility under construction, showcasing the company's expertise in handling complex indoor plumbing and gas line installations.",
+          "reason": "This image effectively demonstrates the company's capabilities in tackling intricate commercial projects, highlighting their professionalism and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPF07FpPHaczYzWpV1zgsR6dfUDxhiPsCMY4e4i=w2048-h2048-k-no",
+          "description": "A skilled worker carefully unloads a large concrete structure from a truck, underscoring the company's commitment to safe and efficient material handling practices.",
+          "reason": "This image portrays the company's dedication to proper techniques and safety protocols, instilling confidence in their ability to handle projects with care and expertise."
+        }
+      ]
+    },
+    "pipers-plumbing": {
+      "businessName": "Pipers Plumbing",
+      "processedImages": 12,
+      "totalTokens": 28326,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO1AG19w0Bvp_os6A2YLgaQReDtU6r5HJ8UVTgh=w2048-h2048-k-no",
+          "description": "A professional plumbing van with the company's branding and contact information prominently displayed, showcasing their expertise and availability for emergency services.",
+          "callToAction": "Trust Piper's Plumbing for all your plumbing emergencies. Call 678-664-2017 for same-day response from our licensed and insured professionals."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMe-IvMcGSD7F__ORlAXy5nGWSMWvWvVsAu1tcs=w2048-h2048-k-no",
+          "description": "Two professionals, one dressed as a plumber and the other in a playful costume, standing in front of the company van, demonstrating the company's friendly and approachable service.",
+          "callToAction": "Experience top-notch plumbing services with a touch of fun. Call Piper's Plumbing at 678-664-2017 for reliable and friendly assistance."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMkuU5gFXKNmUMvG2mmwxPcQao1vfSywaTXCGKZ=w2048-h2048-k-no",
+          "description": "An open trench with a newly installed water pipe, showcasing the company's expertise in underground plumbing work and attention to detail.",
+          "callToAction": "Trust Piper's Plumbing for all your underground plumbing needs. Call 678-664-2017 for professional and efficient service."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMAEOYdBm-K3zkIZx26s3MVyd1uwU7lj87fT-7r=w2048-h2048-k-no",
+          "description": "A close-up of a water heater installation, showcasing the company's expertise in handling complex plumbing systems and appliances.",
+          "relevance": "This image demonstrates Piper's Plumbing's capabilities in handling intricate plumbing installations, highlighting their professionalism and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNxdfxU1fORdd2j8dXGRwsCAU7vIlyFv3iLved2=w2048-h2048-k-no",
+          "description": "A plumber's toolbox and equipment on a job site, showcasing the company's preparedness and commitment to using the right tools for every job.",
+          "relevance": "This image showcases Piper's Plumbing's dedication to being well-equipped and prepared for any plumbing challenge, reflecting their professionalism and commitment to quality work."
+        }
+      ]
+    },
+    "evans-plumbing-and-drain-service-inc": {
+      "businessName": "Evans Plumbing and Drain Service, Inc.",
+      "processedImages": 9,
+      "totalTokens": 14715,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO7_fDihbmuFlnnsNn0TRw-YJdnQpVKPv2AGDZW=w2048-h2048-k-no",
+          "description": "A bold and eye-catching logo design featuring the company name 'Evans Plumbing and Drain Service' in a striking red and white color scheme.",
+          "callToAction": "Call today for reliable and professional plumbing and drain services in your area: (251) 645-3810."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPG6O4HhU3HbucJVr_2cfJwxR2BjyN3GwHhI6kz=w2048-h2048-k-no",
+          "description": "A company van equipped with a ladder rack and plumbing tools, showcasing the company's readiness to handle any plumbing job.",
+          "callToAction": "Trust our experienced technicians to tackle your plumbing and drain issues efficiently. Call (251) 645-3810 to schedule service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNylolN92q533HWCjYMF2lsZjdE24nskViCflza=w2048-h2048-k-no",
+          "description": "A well-maintained company van with the company logo prominently displayed, demonstrating professionalism and reliability.",
+          "callToAction": "For top-notch plumbing and drain services, choose the experts at Evans Plumbing and Drain Service. Call (251) 645-3810 today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOa3XsZtDPHOND5y0ev52vYwltiS2rmsZC_na1_=w2048-h2048-k-no",
+          "description": "A skilled technician working on a plumbing repair, showcasing the company's expertise and commitment to quality workmanship.",
+          "reason": "This image effectively demonstrates the company's capabilities and the professionalism of its technicians, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN_c6LP7GSntx9S90KXfA9wc_oKZD43TdRAnSfU=w2048-h2048-k-no",
+          "description": "A company billboard prominently displaying the company name, services, and contact information, highlighting the company's strong local presence and commitment to serving the community.",
+          "reason": "This image showcases the company's branding and local recognition, making it a suitable choice for the About Us section to highlight the company's reputation and reach."
+        }
+      ]
+    },
+    "patrick-s-home-services": {
+      "businessName": "Patrick's Home Services",
+      "processedImages": 12,
+      "totalTokens": 27683,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPjegIFEFlH3kWHvwE2KM34s7DwCtlAIpVgXp6G=w2048-h2048-k-no",
+          "description": "A beautifully designed bathroom with elegant oval mirrors, sconce lighting, and a double vanity with marble countertops, exuding luxury and sophistication.",
+          "callToAction": "Elevate your bathroom to a spa-like retreat with our expert design and installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOiaRFE_g7XfQ-IlbPD-eOp0ahHc5dzVDoqCeUw=w2048-h2048-k-no",
+          "description": "A vintage-inspired bathroom design with intricate tilework, an ornate oval mirror, and a classic clawfoot bathtub, showcasing our ability to create timeless and charming spaces.",
+          "callToAction": "Bring the charm of yesteryear to your home with our skilled craftsmanship and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNCK43io4c8Gzam8-MA58GmB7Z7jI5bSs--dgd8=w2048-h2048-k-no",
+          "description": "A grand and opulent bathroom with a freestanding bathtub, ornate fixtures, and detailed architectural elements, demonstrating our expertise in creating luxurious and lavish spaces.",
+          "callToAction": "Indulge in the ultimate luxury with our high-end bathroom remodeling services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMtLfvsNmAHqo2I4ftsxYzG2gGmRZ6NEhffTGFm=w2048-h2048-k-no",
+          "description": "A modern bathroom with a walk-in shower, featuring sleek tile work and a frameless glass enclosure, showcasing our ability to create contemporary and stylish spaces.",
+          "whyForAboutUs": "This image highlights our company's expertise in delivering modern and trendy bathroom designs, appealing to customers seeking a fresh and updated look."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOaA8ABkHbKrypL0ZNWWjW5HfTkhKZuji6iWiDc=w2048-h2048-k-no",
+          "description": "A compact yet functional bathroom with a toilet and pedestal sink, demonstrating our capability to optimize small spaces with practical and efficient solutions.",
+          "whyForAboutUs": "This image showcases our versatility in handling projects of various sizes and our commitment to providing functional and space-saving solutions, appealing to customers with limited bathroom space."
+        }
+      ]
+    },
+    "chambless-plumbing": {
+      "businessName": "Chambless Plumbing",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNgezDeNDCnQBXmi8eHEdcGpcIgUwPg2fNx_p22=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of Chambless Plumbing in handling large-scale plumbing projects. It depicts a skilled worker installing pipes on the exterior of a metal building, demonstrating the company's ability to tackle both residential and commercial jobs.",
+          "callToAction": "Trust Chambless Plumbing for all your plumbing needs, from small repairs to major installations. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO3iFRooiCl85R_NECwz2o2BIZneLNPX7n_z3CA=w2048-h2048-k-no",
+          "description": "This image highlights the attention to detail and quality workmanship that Chambless Plumbing brings to every project. It shows the careful installation of pipes and drainage systems during a residential construction project.",
+          "callToAction": "Experience the Chambless Plumbing difference. Our team of experts ensures every job is done right, from start to finish. Schedule your service now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNKjaWjpgWoa6IWUavz7KEPeoBb1QG3vu_Bo-Ke=w2048-h2048-k-no",
+          "description": "This image showcases the modern and stylish plumbing fixtures that Chambless Plumbing can install in your home or business. The marble countertop and sleek faucet demonstrate the company's ability to provide high-end, luxurious solutions.",
+          "callToAction": "Elevate your space with the latest in plumbing design and technology. Contact Chambless Plumbing for a free consultation and quote."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMR91z4iu0hrJ8oh7n-1BnaS4o3AdV36Lz_pkyx=w2048-h2048-k-no",
+          "description": "This image captures the joy and satisfaction of a young child exploring the behind-the-scenes work of Chambless Plumbing. It showcases the company's commitment to quality and attention to detail, even in the unseen areas of a project.",
+          "whyAboutUs": "This image works well for the About Us section as it humanizes the company and demonstrates their dedication to excellence, even in the smallest details."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMDRuXPk9DQzq8vkwfWjcV3pGptA-xiwJavSJrk=w2048-h2048-k-no",
+          "description": "This image provides a glimpse into the inner workings of a plumbing system, showcasing the complexity and expertise required for successful installations. It highlights the company's technical knowledge and problem-solving abilities.",
+          "whyAboutUs": "This image is suitable for the About Us section as it showcases the company's in-depth understanding of plumbing systems and their commitment to delivering high-quality, professional work."
+        }
+      ]
     }
   }
 }
