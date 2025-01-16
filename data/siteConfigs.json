@@ -116,7 +116,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "jason-s-drain-service": {
       "query": "plumber, 35468, Kellerman, AL, US",
@@ -234,7 +236,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "salser-plumbing-and-septic-service-llc": {
       "query": "plumber, 35078, Harpersville, AL, US",
@@ -472,7 +476,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "strickland-plumbing-maintenance": {
       "query": "plumber, 35111, Mc Calla, AL, US",
@@ -710,7 +716,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "alabama-water-heater": {
       "query": "plumber, 35741, Brownsboro, AL, US",
@@ -828,7 +836,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "fortner-plumbing": {
       "query": "plumber, 35745, Estillfork, AL, US",
@@ -946,7 +956,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "joe-reid-dawes-plumbing-service": {
       "query": "plumber, 36568, Saint Elmo, AL, US",
@@ -1064,7 +1076,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "brian-harden-plumbing-inc": {
       "query": "plumber, 36581, Sunflower, AL, US",
@@ -1182,7 +1196,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "a-c-e-plumbing-solutions": {
       "query": "plumber, 36477, Samson, AL, US",
@@ -1300,7 +1316,9 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     },
     "quality-plumbing-co": {
       "query": "plumber, 35175, Union Grove, AL, US",
@@ -1418,8 +1436,10 @@
       "website_description": "",
       "website_keywords": "",
       "website_has_fb_pixel": "",
-      "website_has_google_tag": ""
+      "website_has_google_tag": "",
+      "PrimaryColor": "",
+      "SecondaryColor": ""
     }
   },
-  "forceUpdateTimestamp": "1737013049.1660433"
+  "forceUpdateTimestamp": "1737013329.901737"
 }
