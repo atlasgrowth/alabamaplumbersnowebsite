@@ -1,40 +1,920 @@
 {
   "metadata": {
     "version": "1.0",
-    "generated": "1737028867.6383564",
-    "totalBusinesses": 3
+    "generated": "1737038645.6473866",
+    "totalBusinesses": 83
   },
   "businessContent": {
     "fussell-plumbing": {
-      "aboutUs": "Welcome to Fussell Plumbing Company, LLC, your trusted local plumbing service provider in Guntersville, Alabama. We've been proudly serving our community since June 2023, bringing a commitment to quality and reliability to every job. While we're a relatively young company, our dedication to providing top-notch service is unwavering. As a locally owned and operated business, we understand the unique needs of our customers and strive to exceed expectations every time.",
+      "aboutUs": "Welcome to Fussell Plumbing Company, LLC, your local plumbing solution based in the heart of Guntersville, Alabama. Since our establishment in June 2023, we've been dedicated to providing top-notch plumbing services, including septic tanks and systems, gas and piping, fire sprinkler systems, and sewer laterals. We're proud to serve our local community and the surrounding regions, bringing our expertise and commitment to every job we undertake.",
       "whyChooseUs": {
-        "mainPitch": "At Fussell Plumbing Company, LLC, we're not just a business, we're your neighbors. We're committed to providing reliable, high-quality plumbing services to our local community.",
+        "mainPitch": "At Fussell Plumbing Company, LLC, we're not just plumbers - we're your neighbors. We combine local understanding with professional expertise to deliver services you can trust.",
         "sellingPoints": [
-          "Locally Owned and Operated: As a local business, we understand the unique plumbing needs of our community and are always just a call away.",
-          "Commitment to Quality: Though we've been in operation for just over a year, our dedication to delivering high-quality services is second to none.",
-          "Reliable Service: We pride ourselves on our reliability. When you choose Fussell Plumbing, you're choosing a partner you can trust."
+          "We offer a comprehensive range of services, from septic tanks and systems to fire sprinkler systems, ensuring all your plumbing needs are covered under one roof.",
+          "Our local base in Guntersville, Alabama, means we understand the unique needs of our community, and we're committed to serving our neighbors with the highest level of service.",
+          "Despite being a relatively young company, we've quickly established a reputation for excellence, as reflected in our 5-star rating."
         ]
       }
     },
     "jason-s-drain-service": {
-      "aboutUs": "Welcome to Jason's Drain Service, your trusted local plumbing solution for the past nine years. Located in the heart of Cottondale, AL, we proudly serve the greater Tuscaloosa County area, offering a comprehensive range of plumbing services. From drain cleaning and leak detection to water heater installation and sewer repair, our licensed and insured team is committed to delivering prompt, professional service when you need it most.",
+      "aboutUs": "Welcome to Jason's Drain Service, your trusted local plumbing solution for nearly a decade. Based in Cottondale, AL, we proudly serve the greater Tuscaloosa County area with a comprehensive range of services. From drain cleaning and leak detection to emergency plumbing services, our licensed and insured team is committed to delivering quality workmanship and exceptional customer service.",
       "whyChooseUs": {
-        "mainPitch": "At Jason's Drain Service, we combine years of expertise with a commitment to quality service to provide you with reliable plumbing solutions.",
+        "mainPitch": "At Jason's Drain Service, we combine local knowledge with extensive plumbing expertise to provide a service that's prompt, professional, and always reliable.",
         "sellingPoints": [
-          "With nearly a decade of experience, we have honed our skills to tackle any plumbing issue, ensuring you receive the highest quality service.",
-          "We offer a wide range of services, making us your one-stop-shop for all your plumbing needs. Whether it's a clogged drain or a new water heater installation, we've got you covered.",
-          "Our prompt response and availability for emergency services set us apart. We understand that plumbing issues can arise at any time, which is why we are committed to providing quick and efficient solutions."
+          "With nearly a decade of experience, we've built a reputation for delivering high-quality plumbing services that our customers can depend on.",
+          "We offer a comprehensive range of services, ensuring that we can meet all your plumbing needs, from routine maintenance to emergency repairs.",
+          "As a locally owned and operated business, we understand our community and are committed to providing exceptional service at reasonable prices."
         ]
       }
     },
     "salser-plumbing-and-septic-service-llc": {
-      "aboutUs": "Welcome to Salser Plumbing and Septic Service, LLC, your trusted local plumbing service provider in Vincent, Alabama. With over a decade of experience, we are committed to delivering top-notch plumbing solutions, including general repairs, installations, and septic services. As a locally owned and operated business, we take pride in serving our community and surrounding areas, ensuring that all your plumbing needs are met with professionalism and expertise.",
+      "aboutUs": "Welcome to Salser Plumbing and Septic Service, LLC, your trusted local plumbing solution for over a decade. Based in Vincent, Alabama, we proudly serve the central and southern regions of our beautiful state. Our expertise spans across a wide range of plumbing services, with a special focus on septic services. As a locally owned and operated business, we are committed to providing top-notch service to our community.",
       "whyChooseUs": {
-        "mainPitch": "At Salser Plumbing, we're not just plumbers - we're your neighbors. We're committed to providing high-quality, reliable plumbing services to our local community.",
+        "mainPitch": "Choose Salser Plumbing and Septic Service, LLC for reliable, expert plumbing solutions tailored to your needs.",
         "sellingPoints": [
-          "With over 11 years of experience, we've honed our skills and expertise to handle all your plumbing needs efficiently and effectively.",
-          "Our A+ BBB rating reflects our commitment to quality service and customer satisfaction.",
-          "As a registered business with the State of Alabama Plumbers & Gas Fitters Examining Board, we uphold the highest standards of professionalism and adhere to all state regulations."
+          "Over a decade of experience in the plumbing industry, ensuring a deep understanding of the unique plumbing needs of Alabama homes and businesses.",
+          "Specialized in both plumbing and septic services, offering a comprehensive solution for your property's plumbing system.",
+          "Proudly locally owned and operated, guaranteeing a personal, dedicated service that prioritizes the needs of our community."
+        ]
+      }
+    },
+    "hydrotech-plumbing-llc": {
+      "aboutUs": "Welcome to HydroTech Plumbing LLC, your trusted local plumbing solution serving the North Alabama region for over 5 years. As a locally owned and operated business, we take pride in offering both commercial and residential plumbing repairs, along with remodel work. Our commitment to professionalism, punctuality, and high-quality work has made us a preferred choice for many in our community.",
+      "whyChooseUs": {
+        "mainPitch": "At HydroTech Plumbing LLC, we combine our expertise with a commitment to quality service to provide you with unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "With over 5 years of experience, we have honed our skills to ensure we provide only the best commercial and residential plumbing services.",
+          "Our team is known for its professionalism and punctuality, ensuring your plumbing needs are met efficiently and effectively.",
+          "Despite being a local business, we uphold high standards of service, as reflected in our A+ BBB rating."
+        ]
+      }
+    },
+    "strickland-plumbing-maintenance": {
+      "aboutUs": "Welcome to Strickland Plumbing & Maintenance, your local plumbing expert serving the Shelby County and Birmingham-Hoover region since 2018. We're proud to offer a comprehensive range of services, from residential plumbing to plumbing renovations and commercial plumbing. As a locally owned and operated business, we're committed to providing top-notch service to our community, always ready to tackle your plumbing needs with professionalism and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At Strickland Plumbing & Maintenance, we combine local knowledge with industry expertise to deliver high-quality plumbing solutions you can trust.",
+        "sellingPoints": [
+          "Licensed by the State of Alabama Plumbers & Gas Fitters Examining Board, we uphold the highest standards of professionalism and service quality.",
+          "With a wide range of services, from residential to commercial plumbing, we're equipped to handle all your plumbing needs, big or small.",
+          "Our strong community ties and commitment to customer satisfaction set us apart, as reflected in our A+ BBB rating."
+        ]
+      }
+    },
+    "reese-plumbing-llc": {
+      "aboutUs": "Welcome to Reese Plumbing LLC, your trusted local plumbing service in Tallassee, Alabama. For several years, we have been serving the local community with our comprehensive range of plumbing services. We pride ourselves on being a locally owned and operated business, committed to providing top-notch service to our neighbors and the surrounding regions.",
+      "whyChooseUs": {
+        "mainPitch": "At Reese Plumbing LLC, we are dedicated to delivering unparalleled plumbing solutions that meet your needs and exceed your expectations.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, including repairs, installations, and maintenance, tailored to your specific needs.",
+          "A locally owned and operated business, deeply rooted in the community and committed to serving our neighbors in Tallassee and the surrounding regions.",
+          "A proven track record of customer satisfaction, as evidenced by our 5-star rating, demonstrating our unwavering commitment to service quality."
+        ]
+      }
+    },
+    "alabama-water-heater": {
+      "aboutUs": "Welcome to Alabama Water Heater, your local plumbing experts. While our name may suggest a focus on water heaters, we pride ourselves on offering a comprehensive range of plumbing services. Our team, deeply rooted in the Alabama community, is committed to providing top-notch service to our neighbors. Although the specifics of our service areas are not readily available, rest assured that we strive to cover as much ground as possible to serve you better.",
+      "whyChooseUs": {
+        "mainPitch": "At Alabama Water Heater, we combine local knowledge with plumbing expertise to deliver unparalleled service.",
+        "sellingPoints": [
+          "Our focus on water heaters allows us to provide specialized service, from installation to maintenance and repair, ensuring your home's comfort and efficiency.",
+          "As a locally owned and operated business, we understand the unique needs of Alabama residents and tailor our services to meet them.",
+          "While our years of operation might not be specified, our commitment to quality and customer satisfaction speaks volumes about our experience and reliability."
+        ]
+      }
+    },
+    "fortner-plumbing": {
+      "aboutUs": "Welcome to Fortner Plumbing, a trusted name in Scottsboro and surrounding areas for over 50 years. As a locally owned and operated business, we are committed to serving our community with a wide range of services, from drain cleaning to sewer repair. Our team of experienced professionals is dedicated to providing top-notch service, ensuring your plumbing needs are met with expertise and a friendly smile.",
+      "whyChooseUs": {
+        "mainPitch": "At Fortner Plumbing, we combine decades of experience with a commitment to affordable, transparent, and high-quality service.",
+        "sellingPoints": [
+          "Over 50 years of expertise in the plumbing industry, ensuring reliable and professional service.",
+          "Comprehensive range of services, from drain cleaning to sewer repair, all offered with transparent pricing and no hidden fees.",
+          "Locally owned and operated, we understand the specific plumbing needs of Scottsboro and the surrounding areas, and we're always ready to serve with our emergency services."
+        ]
+      }
+    },
+    "joe-reid-dawes-plumbing-service": {
+      "aboutUs": "Welcome to Dawes Plumbing Service, your trusted local plumbing specialist in Mobile, AL, and surrounding regions. With over 49 years of experience, we've been providing top-notch plumbing solutions, including repairs, leaks, and services for swimming pools, spas, utility lines, sewers, and drains. As a locally owned and operated business, we pride ourselves on our prompt responses, professional work, and fair pricing.",
+      "whyChooseUs": {
+        "mainPitch": "Choose Dawes Plumbing Service for our unmatched expertise, exceptional service quality, and unique benefits tailored to your needs.",
+        "sellingPoints": [
+          "With over four decades of experience, our expertise in all types of plumbing repairs and leaks is second to none.",
+          "Our prompt and timely responses to plumbing issues, even in emergencies, ensure you're never left in a lurch.",
+          "We are committed to providing fair and reasonable pricing without compromising on the quality of our work."
+        ]
+      }
+    },
+    "brian-harden-plumbing-inc": {
+      "aboutUs": "Welcome to Brian Harden Plumbing Inc., your trusted local plumbing service provider. With a proud history that spans over two decades, we've been delivering top-notch residential and commercial plumbing solutions since the dawn of the millennium. Our expertise covers a wide array of services, from tankless water heater installations to medical gas pipe services. Serving the heart of Alabama, our reach extends to Mobile, Bay Minette, Bayou La Batre, and several other communities in the Mobile and Baldwin counties.",
+      "whyChooseUs": {
+        "mainPitch": "At Brian Harden Plumbing Inc., we combine years of experience with a commitment to quality, offering you unparalleled plumbing solutions that you can rely on.",
+        "sellingPoints": [
+          "With 25 years of operation under our belt, our expertise is honed to perfection, ensuring that your plumbing needs are handled by seasoned professionals.",
+          "We offer a comprehensive range of services, catering to both residential and commercial needs. Whether it's a simple faucet repair or a complex boiler replacement, we've got you covered.",
+          "Our A+ BBB rating and accreditation reflect our unwavering commitment to customer satisfaction and service quality. We don't just promise, we deliver."
+        ]
+      }
+    },
+    "a-c-e-plumbing-solutions": {
+      "aboutUs": "Welcome to A.C.E. Plumbing Solutions, your trusted local plumbing service provider in Alabama. With years of experience under our belt, we offer a wide range of services including plumbing repairs, installations, drain cleaning, and water heater services. Our commitment is to serve our local community with top-notch plumbing solutions, ensuring that we cover all corners of Alabama. We are proud to be a locally owned and operated business, dedicated to solving your plumbing needs.",
+      "whyChooseUs": {
+        "mainPitch": "At A.C.E. Plumbing Solutions, we combine years of expertise with a commitment to quality service to provide you with unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "Experience and Expertise: Our years in operation have equipped us with the knowledge and skills to handle a wide range of plumbing issues, ensuring you receive the best service possible.",
+          "Comprehensive Service Offering: From plumbing repairs to water heater services, we offer a wide range of services to cater to all your plumbing needs.",
+          "Local Understanding: As a locally owned and operated business, we understand the unique plumbing needs of the Alabama community and are dedicated to providing tailored solutions."
+        ]
+      }
+    },
+    "quality-plumbing-co": {
+      "aboutUs": "Quality Plumbing Co., nestled in the heart of Union Grove, Alabama, is your locally owned and operated plumbing solution. While the exact number of our operational years remains undisclosed, our commitment to providing top-notch plumbing services is unwavering. Although specific services and service areas are not detailed, we typically cater to both residential and commercial plumbing needs, including repairs, installations, and maintenance. We encourage you to reach out to us directly for more detailed information.",
+      "whyChooseUs": {
+        "mainPitch": "At Quality Plumbing Co., we're not just about plumbing; we're about delivering quality service that stands the test of time.",
+        "sellingPoints": [
+          "Locally owned and operated, we understand the unique plumbing needs of the Union Grove community.",
+          "Our services, while not explicitly detailed, span a wide range of plumbing needs, ensuring we're your one-stop solution for all things plumbing.",
+          "Despite the lack of detailed information, our commitment to quality and customer satisfaction remains our driving force."
+        ]
+      }
+    },
+    "boydstun-plumbing-llc": {
+      "aboutUs": "Welcome to Boydstun Plumbing LLC, your trusted local plumbing service provider. We've been serving the Harvest, AL region and its surrounding areas for several years, offering top-notch residential and commercial plumbing solutions. As a locally owned and operated business, we're committed to maintaining the highest standards of service and professionalism in all our operations.",
+      "whyChooseUs": {
+        "mainPitch": "At Boydstun Plumbing LLC, we're not just plumbers - we're your neighbors. We believe in providing reliable, high-quality plumbing services that you can trust.",
+        "sellingPoints": [
+          "Years of Experience: Our time in the industry has equipped us with the knowledge and skills to handle a wide range of plumbing issues, ensuring you receive the best possible service.",
+          "Local Expertise: As a locally owned and operated business, we understand the unique plumbing needs of the Harvest, AL region and are dedicated to serving our community.",
+          "Quality Services: We offer a comprehensive range of plumbing services for both residential and commercial properties, ensuring we can meet all your plumbing needs."
+        ]
+      }
+    },
+    "barnett-plumbing-llc": {
+      "aboutUs": "Welcome to Barnett Plumbing, LLC, your trusted local plumbing service provider. With over three decades of experience, we've been proudly serving the Florence, AL community and surrounding areas since 1994. Our wide range of services includes everything from plumbing repairs and renovations to sewer cleaning and commercial plumbing. We're committed to delivering prompt, professional service, even offering after-hours and emergency services to ensure your home or business is always running smoothly.",
+      "whyChooseUs": {
+        "mainPitch": "At Barnett Plumbing, LLC, we combine our years of expertise with a commitment to quality service, providing a plumbing solution that's tailored to your needs.",
+        "sellingPoints": [
+          "With over 31 years in operation, our experience speaks for itself. We've honed our skills and expanded our services to meet a wide range of plumbing needs.",
+          "We're not just a business, we're part of the community. As a locally owned and operated company, we understand the unique needs of Florence, AL and the surrounding areas.",
+          "We're there when you need us most. Our emergency and after-hours services ensure that you're never left in a lurch, no matter the time of day or night."
+        ]
+      }
+    },
+    "morrison-plumbing": {
+      "aboutUs": "Welcome to Morrison Plumbing, Inc., your trusted local plumbing service provider in Chelsea, Alabama, and surrounding regions. With over five decades of experience in the industry, we've been serving our community since 1972, offering a wide range of services including plumbing, water heater repair and installation, and sewer cleaning. Our commitment to quality service and customer satisfaction has made us a household name in Central and South Alabama.",
+      "whyChooseUs": {
+        "mainPitch": "Choose Morrison Plumbing, Inc. for reliable, professional, and prompt plumbing services backed by over 50 years of industry experience.",
+        "sellingPoints": [
+          "Expertise and longevity: With over half a century in the business, we've honed our skills and built a reputation for excellence in the plumbing industry.",
+          "Comprehensive services: From general plumbing to water heater repair and installation, sewer cleaning, and more, we offer a wide range of services to meet all your plumbing needs.",
+          "Customer-centric approach: We're known for our prompt response to urgent issues, professional and friendly service, and our commitment to providing excellent customer service."
+        ]
+      }
+    },
+    "h2o-worx": {
+      "aboutUs": "Welcome to H2O Worx, your trusted local plumbing business in Alabama. While our exact years of operation are not specified, we have been serving our community with dedication and expertise for a significant period. Our services, while not explicitly detailed, encompass the full range of typical plumbing needs, including repairs, installations, and maintenance. As a locally owned and operated business, we are deeply committed to providing top-notch service to our neighbors throughout our unspecified service areas.",
+      "whyChooseUs": {
+        "mainPitch": "At H2O Worx, we pride ourselves on delivering expert plumbing solutions with a local touch.",
+        "sellingPoints": [
+          "As a locally owned and operated business, we understand the unique plumbing needs of our Alabama community and are committed to serving them.",
+          "While our specific services are not detailed, we offer a comprehensive range of plumbing services, ensuring we can handle any plumbing issue you may encounter.",
+          "Our years of operation, though unspecified, speak to our experience and expertise in the plumbing industry, making us a reliable choice for your plumbing needs."
+        ]
+      }
+    },
+    "leak-pros-of-al-ga": {
+      "aboutUs": "Welcome to Leak Pros of Al & Ga, your trusted local plumbing service provider. While our exact years of operation remain a mystery, our commitment to quality service and customer satisfaction is clear. We specialize in a range of services, including leak detection and water leak repair, serving the beautiful state of Alabama. As a locally owned and operated business, we take pride in serving our community with dedication and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At Leak Pros of Al & Ga, we're not just plumbers - we're your neighbors. We're committed to providing top-notch plumbing solutions right here in Alabama.",
+        "sellingPoints": [
+          "Local Expertise: As a locally owned and operated business, we understand the unique plumbing needs of Alabama residents.",
+          "Quality Services: While our specific services are not detailed, we're known for our leak detection and water leak repair services, ensuring your home remains safe and dry.",
+          "Customer Satisfaction: Despite limited reviews, our 5-star rating speaks volumes about our commitment to customer satisfaction."
+        ]
+      }
+    },
+    "harris-county-plumbing": {
+      "aboutUs": "Welcome to Harris County Plumbing, your local plumbing experts in Alabama. With years of experience under our belt, we pride ourselves on providing top-notch plumbing services, including drain clearing, pipe repairs, and installation of plumbing fixtures. We are committed to serving our local community, ensuring that homes and businesses in our service areas have access to reliable and efficient plumbing solutions. As a locally owned and operated business, we understand the unique needs of our customers and strive to exceed their expectations every time.",
+      "whyChooseUs": {
+        "mainPitch": "At Harris County Plumbing, we combine our deep industry knowledge with a commitment to customer satisfaction, providing you with a seamless and stress-free plumbing experience.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, ensuring we can handle any plumbing issue that comes our way.",
+          "A strong commitment to quality, ensuring that all our services are performed to the highest standards, keeping your plumbing system running smoothly.",
+          "A deep understanding of our local community, allowing us to provide personalized service that meets the unique needs of our customers."
+        ]
+      }
+    },
+    "kelly-c-williams-plumbing-inc": {
+      "aboutUs": "Welcome to our locally owned and operated plumbing business, proudly serving the Fortson, Georgia area since 1974. With decades of experience under our belt, we specialize in providing general plumbing services, always ready to respond promptly to your needs. Our commitment to professionalism, fair pricing, and excellent customer service has made us a trusted name in the community.",
+      "whyChooseUs": {
+        "mainPitch": "Choose us for our unmatched expertise, prompt service, and commitment to fair pricing.",
+        "sellingPoints": [
+          "Decades of experience in the plumbing industry, ensuring a deep understanding of your needs.",
+          "Quick response times to emergencies, ensuring your plumbing issues are resolved promptly and efficiently.",
+          "A strong reputation for fair pricing, ensuring you receive high-quality service without breaking the bank."
+        ]
+      }
+    },
+    "central-fire-protection": {
+      "aboutUs": "Welcome to Central Fire Protection, Inc., your trusted local fire safety equipment company. Since 1997, we've been serving Birmingham and the broader regions of Central and South Alabama with dedication and expertise. Our services encompass the sales, design, installation, and service/inspections of fire alarm/security systems, and special hazards projects. As a locally owned and operated business, we're committed to ensuring the safety of our community.",
+      "whyChooseUs": {
+        "mainPitch": "At Central Fire Protection, Inc., we're not just a fire safety equipment company; we're your partners in safety.",
+        "sellingPoints": [
+          "With over two decades of experience, our expertise in fire safety is unrivaled in the Birmingham area.",
+          "Our comprehensive services cover everything from sales and design to installation and inspections, making us a one-stop solution for all your fire safety needs.",
+          "While we may not be specifically listed as a plumbing contractor, our unique focus on fire safety equipment sets us apart, offering a specialized service that's essential for the safety of your home or business."
+        ]
+      }
+    },
+    "sims-plumbing-air": {
+      "aboutUs": "Sims Plumbing & Air is a locally owned and operated business, proudly serving the great state of Alabama. With years of experience under our belt, we are committed to providing top-notch plumbing repairs, installations, and maintenance services. Our team of professionals is dedicated to ensuring the comfort and satisfaction of our clients, making us a trusted name in the community.",
+      "whyChooseUs": {
+        "mainPitch": "At Sims Plumbing & Air, we combine years of experience with a commitment to quality service to provide you with unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, ensuring a comprehensive solution for all your plumbing needs.",
+          "Locally owned and operated, we understand the unique needs of Alabama residents and tailor our services accordingly.",
+          "Our commitment to quality and customer satisfaction sets us apart, making us a trusted choice for plumbing services."
+        ]
+      }
+    },
+    "tracy-duncan-plumbing": {
+      "aboutUs": "Welcome to Tracy Duncan Plumbing, your local plumbing solution in Nauvoo, AL. We pride ourselves on our commitment to providing top-notch plumbing services, including gas line installation, water heater repair and replacement, drain cleaning, and emergency plumbing services. While we've been serving the community for many years, our service areas extend beyond Nauvoo to Jasper and surrounding areas. As a locally owned and operated business, we're dedicated to ensuring your plumbing needs are met with professionalism and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At Tracy Duncan Plumbing, we're not just plumbers - we're your neighbors. We're committed to providing high-quality, reliable plumbing services to our local community.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, from gas line installation to emergency plumbing needs.",
+          "Locally owned and operated, ensuring a personal and dedicated service to our community.",
+          "Availability for consultation and service confirmation, ensuring you get the exact services you need."
+        ]
+      }
+    },
+    "stephen-seibert-plumbing-llc": {
+      "aboutUs": "Welcome to Stephen Seibert Plumbing, LLC, your trusted local plumbing service provider. Proudly serving the Hartselle area, we've been delivering top-notch plumbing, gas, and appliance installation services for over a decade. As a locally owned and operated business, we're deeply committed to meeting the needs of our community with our expertise and dedication to service excellence.",
+      "whyChooseUs": {
+        "mainPitch": "At Stephen Seibert Plumbing, LLC, we're not just plumbers - we're your neighbors. We combine local understanding with extensive industry experience to deliver services you can rely on.",
+        "sellingPoints": [
+          "Over a decade of experience in the plumbing industry, ensuring a deep understanding of the trade and a wealth of practical knowledge.",
+          "Specialization in plumbing, gas, and appliance installation, offering a comprehensive range of services to meet all your plumbing needs.",
+          "A locally owned and operated business, guaranteeing a personal touch and a commitment to the community we serve."
+        ]
+      }
+    },
+    "rediworx-drain-sewer-cleaning": {
+      "aboutUs": "Welcome to RediWorx Drain & Sewer Cleaning, your trusted local plumbing solution. With a solid foundation built over the past four years, we specialize in drain cleaning, sewer cleaning, and related services. Our operations span from our home base in Jay, Florida, extending into the heart of southern Alabama. We are proud to be a locally owned and operated business, committed to serving our community with prompt and reliable service.",
+      "whyChooseUs": {
+        "mainPitch": "At RediWorx Drain & Sewer Cleaning, we combine years of experience with a commitment to prompt, professional service to deliver unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "Expertise in a wide range of services, including drain cleaning and sewer cleaning, tailored to meet your specific needs.",
+          "A locally owned and operated business, deeply rooted in the community and dedicated to serving our neighbors in both Florida and Alabama.",
+          "A commitment to transparency and customer satisfaction, offering free estimates and maintaining a stellar service rating."
+        ]
+      }
+    },
+    "terrapin-creek-plumbing-and-septic-service-llc": {
+      "aboutUs": "Welcome to Terrapin Creek Plumbing and Septic Service, LLC, your trusted local plumbing and septic service provider. With over a decade of experience, we've been serving the Centre area and surrounding regions in Alabama since 2010. Our team of licensed professionals specializes in a wide range of services, including plumbing repairs and septic system installation and maintenance. We're committed to delivering top-notch service and ensuring your home's plumbing and septic systems are in their best shape.",
+      "whyChooseUs": {
+        "mainPitch": "At Terrapin Creek Plumbing and Septic Service, LLC, we combine our extensive experience, professional expertise, and commitment to customer satisfaction to provide you with the best plumbing and septic services in the region.",
+        "sellingPoints": [
+          "We are a locally owned and operated business, deeply rooted in the community and dedicated to serving our neighbors with integrity and professionalism.",
+          "Our team holds licenses from the State of Alabama Plumbers & Gas Fitters Examining Board and the Alabama Onsite Wastewater Board, ensuring that we meet and exceed industry standards in all our services.",
+          "With a broad range of services, from plumbing repairs to septic system installation and maintenance, we are your one-stop solution for all your plumbing and septic needs."
+        ]
+      }
+    },
+    "dorsey-plumbing-llc": {
+      "aboutUs": "Welcome to Dorsey Plumbing LLC, your local plumbing expert in Opelika, AL. Although we've been operating for just under three months, we've quickly established ourselves as a trusted provider of top-notch plumbing services. As a locally owned and operated business, we're deeply committed to serving our community with the utmost professionalism and dedication.",
+      "whyChooseUs": {
+        "mainPitch": "At Dorsey Plumbing LLC, we're not just plumbers - we're your neighbors. We believe in providing high-quality services that you can rely on.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, ensuring we can handle any plumbing issue you may encounter.",
+          "Locally owned and operated, meaning we understand the unique needs of our community and are always just a call away.",
+          "Committed to professionalism and quality, ensuring every job is done right the first time."
+        ]
+      }
+    },
+    "affordable-backflow-testing-services": {
+      "aboutUs": "Welcome to Affordable Backflow Testing Services, your trusted local expert in residential backflow testing. With over two years of dedicated service in Irondale and surrounding areas, we specialize in a range of services from basic annual backflow tests to total rebuilds of Wilkins-Zurn 975XL or 975XL2 RP assemblies. As a locally owned and operated business, we pride ourselves on our commitment to providing reliable, certified, and affordable services to our community.",
+      "whyChooseUs": {
+        "mainPitch": "Choose Affordable Backflow Testing Services for our expertise, transparency, and commitment to quality.",
+        "sellingPoints": [
+          "We are a state-certified business, ensuring that all services meet the stringent standards set by the Alabama Department of Environmental Management.",
+          "Our transparent pricing policy and customer-friendly approach, including not charging for failed tests, set us apart in the industry.",
+          "Specializing in residential backflow testing, we offer a wide range of services tailored to meet your specific needs, ensuring the safety and efficiency of your home's water system."
+        ]
+      }
+    },
+    "north-alabama-drain-cleaning-etc-llc": {
+      "aboutUs": "North Alabama Drain Cleaning, etc LLC is a locally owned and operated business, dedicated to serving the community with top-notch drain cleaning services. While the exact timeline of our operation isn't publicly available, we've been around long enough to understand the importance of reliable, high-quality service. Our commitment to excellence and the local community is what sets us apart.",
+      "whyChooseUs": {
+        "mainPitch": "Choose North Alabama Drain Cleaning, etc LLC for a reliable, locally-focused service that prioritizes your needs.",
+        "sellingPoints": [
+          "We're a local business, deeply rooted in the community and committed to serving our neighbors with the highest quality service.",
+          "Our expertise in drain cleaning is inferred from our name, indicating a specialized focus that ensures your drains are handled by professionals.",
+          "Despite the lack of public information, our existence and operation demonstrate resilience and trustworthiness, qualities you can count on when you need reliable service."
+        ]
+      }
+    },
+    "reliable-usa-plumbing": {
+      "aboutUs": "Reliable USA Plumbing is a locally owned and operated business, proudly serving the Foley, AL community. While our exact years of operation remain undisclosed, our commitment to providing top-notch plumbing services, including drain cleaning, faucet repairs, and water heater installations, remains unwavering. We strive to extend our services to as many areas as possible, ensuring that every home and business in Foley and beyond has access to reliable plumbing solutions.",
+      "whyChooseUs": {
+        "mainPitch": "At Reliable USA Plumbing, we're not just about fixing pipes and drains; we're about providing peace of mind with every service call.",
+        "sellingPoints": [
+          "Our expertise in a wide range of plumbing services ensures that we can handle any plumbing issue, big or small.",
+          "We are a locally owned business, deeply rooted in the Foley community, and committed to providing the best service to our neighbors.",
+          "While our prices remain undisclosed, we believe in delivering value with every service, ensuring you get the best quality for your investment."
+        ]
+      }
+    },
+    "reliable-usa-plumbers": {
+      "aboutUs": "Reliable USA Plumbers, a locally owned and operated business, has been serving the community of Mobile, AL for a number of years. While specific details about our services are not readily available, we typically offer a range of plumbing services including repairs, installations, and maintenance. We are committed to providing top-notch services to our local community and beyond.",
+      "whyChooseUs": {
+        "mainPitch": "At Reliable USA Plumbers, we are dedicated to providing exceptional plumbing services that you can count on.",
+        "sellingPoints": [
+          "Locally owned and operated, we understand the unique plumbing needs of the Mobile, AL community.",
+          "Our range of services, typically including repairs, installations, and maintenance, are designed to address all your plumbing concerns.",
+          "Despite limited information, our commitment to quality service is reflected in our 5-star rating."
+        ]
+      }
+    },
+    "performance-plumbing-inc": {
+      "aboutUs": "Welcome to Performance Plumbing, Inc., your trusted local plumbing service provider in Central and South Alabama. With nearly two decades of experience under our belt, we are proud to offer a wide range of services, from general plumbing repairs to hot water heater installations and sump pump replacements. Our commitment to quality, affordability, and quick response times has made us a go-to choice for all plumbing needs in the Calera area and beyond. As a locally owned and operated business, we are dedicated to serving our community with professionalism and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At Performance Plumbing, Inc., we combine our deep industry knowledge with a commitment to customer satisfaction, providing you with top-notch, affordable plumbing solutions.",
+        "sellingPoints": [
+          "Expertise and Experience: With nearly 20 years in the business, we have the knowledge and skills to tackle any plumbing issue, ensuring high-quality workmanship every time.",
+          "Quick and Responsive Service: We understand that plumbing issues can't wait. That's why we offer quick response times and even same-day service for emergency situations.",
+          "Affordability without Compromise: We believe that quality plumbing services shouldn't break the bank. Our services are not only top-notch but also very affordable, offering you the best value for your money."
+        ]
+      }
+    },
+    "4g-plumbing-and-drain-cleaning": {
+      "aboutUs": "Welcome to 4G Plumbing and Drain Cleaning, your locally owned and operated plumbing solution. With years of experience under our belt, we've been proudly serving our community with top-notch plumbing services. Our expertise spans a wide range of services, ensuring that we can tackle any plumbing issue that comes our way. We are committed to providing reliable and efficient service to our valued customers across our extensive service areas.",
+      "whyChooseUs": {
+        "mainPitch": "At 4G Plumbing and Drain Cleaning, we combine our deep industry knowledge with a commitment to quality service to provide you with unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, ensuring a comprehensive solution for all your plumbing needs.",
+          "Locally owned and operated, we understand the specific needs of our community and tailor our services accordingly.",
+          "Our commitment to quality and efficiency means we get the job done right the first time, saving you time and stress."
+        ]
+      }
+    },
+    "condo-care": {
+      "aboutUs": "Welcome to Condo Care, your trusted partner in maintaining your condominiums in the Gulf Coast region of Alabama. Our locally owned and operated business has been serving the communities of Gulf Shores and Orange Beach for many years. We specialize in keeping condos in rentable condition and performing service calls for property management companies, ensuring your property is always at its best.",
+      "whyChooseUs": {
+        "mainPitch": "At Condo Care, we're not just a maintenance company, we're a part of your community. We take pride in our work and strive to provide the best service possible.",
+        "sellingPoints": [
+          "We are a locally owned and operated business, deeply rooted in the communities of Gulf Shores and Orange Beach.",
+          "Our team is dedicated to keeping your condos in rentable condition, ensuring a seamless experience for property managers and tenants alike.",
+          "Our family-oriented approach to business means we treat every client like family, providing generous and fair service at all times."
+        ]
+      }
+    },
+    "wise-plumbing-and-gas-llc": {
+      "aboutUs": "Wise Plumbing and Gas LLC is a locally owned and operated business that has been serving the Alabama community for several years. While our exact services and service areas are not specified, we typically offer routine maintenance, repairs, installations, and possibly emergency services, similar to other plumbing businesses in Alabama. We are committed to providing top-notch service to our customers and are proud to be a part of the local community.",
+      "whyChooseUs": {
+        "mainPitch": "At Wise Plumbing and Gas LLC, we combine local knowledge with industry expertise to provide you with the best plumbing solutions.",
+        "sellingPoints": [
+          "As a locally owned business, we understand the unique plumbing needs of the Alabama community and are committed to serving our customers with the highest level of service.",
+          "Though specific services are not detailed, our offerings typically include routine maintenance, repairs, installations, and possibly emergency services, ensuring we can meet a wide range of your plumbing needs.",
+          "Our years of operation in the Alabama community speak to our reliability and trustworthiness, making us a go-to choice for all your plumbing needs."
+        ]
+      }
+    },
+    "plumbworks-llc": {
+      "aboutUs": "Welcome to PlumbWorks LLC, your local plumbing specialist based in Chelsea, AL. With two years of dedicated service under our belt, we are proud to offer a comprehensive range of plumbing services to our valued customers. Our service area extends across Central and South Alabama, reflecting our commitment to community and quality service. As a locally owned and operated business, we are deeply invested in providing top-notch plumbing solutions to our neighbors.",
+      "whyChooseUs": {
+        "mainPitch": "At PlumbWorks LLC, we combine local knowledge with plumbing expertise to deliver unparalleled service.",
+        "sellingPoints": [
+          "With two years of operation, we have a proven track record in the plumbing industry, demonstrating our commitment to quality and customer satisfaction.",
+          "Our wide range of plumbing services, from repairs to installations and maintenance, ensures that we can meet all your plumbing needs under one roof.",
+          "As a locally owned and operated business, we understand the unique needs of our community and are always ready to provide personalized, efficient service."
+        ]
+      }
+    },
+    "dns-plumbing-llc": {
+      "aboutUs": "DNS Plumbing LLC is a locally owned and operated business, proudly serving the great state of Alabama. While we can't pinpoint the exact number of years we've been in operation, our experience in the field is evident in the quality of our work. We offer a wide range of services, including residential and commercial plumbing, water heater repair, and drainage solutions. Our service areas are expansive, covering various locations around our physical location in Alabama.",
+      "whyChooseUs": {
+        "mainPitch": "At DNS Plumbing LLC, we're not just about fixing pipes, we're about providing top-notch plumbing solutions that stand the test of time.",
+        "sellingPoints": [
+          "We are a locally owned business, deeply rooted in the community and committed to serving our neighbors with the highest level of service.",
+          "Our range of services is comprehensive, covering everything from residential and commercial plumbing to water heater repair and drainage solutions, making us a one-stop-shop for all your plumbing needs.",
+          "While we may not have specific details about our years in operation, our expertise and quality of work speak volumes about our experience in the industry."
+        ]
+      }
+    },
+    "alpha-plumbers-inc": {
+      "aboutUs": "Alpha Plumbers Inc, a locally owned and operated business in Mobile, Alabama, has been serving the community since January 2022. We are proud to offer a range of general plumbing services, tailored to meet the unique needs of our local clientele. Our commitment to the community extends beyond our service area, as we strive to uphold the highest standards of professionalism in the plumbing industry.",
+      "whyChooseUs": {
+        "mainPitch": "At Alpha Plumbers Inc, we deliver unparalleled plumbing services with a commitment to quality and professionalism.",
+        "sellingPoints": [
+          "We are a locally owned and operated business, deeply rooted in the Mobile, Alabama community.",
+          "Our team is dedicated to providing general plumbing services, tailored to meet the unique needs of each client.",
+          "We uphold the highest standards of professionalism, as recognized by the State of Alabama Plumbers & Gas Fitters Examining Board."
+        ]
+      }
+    },
+    "waterworks-plumbing-drain-llc": {
+      "aboutUs": "Welcome to WaterWorks Plumbing & Drain LLC, your local plumbing expert in Mobile, AL. Since our establishment in 2022, we've been dedicated to providing top-notch plumbing services to both residential and commercial clients in the area. Our wide range of services includes drain and clog services, faucet and leak repairs, and other general plumbing needs. As a locally owned and operated business, we're proud to serve our community with professionalism and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At WaterWorks Plumbing & Drain LLC, we're not just plumbers - we're your neighbors. We believe in delivering reliable, high-quality plumbing solutions that you can trust.",
+        "sellingPoints": [
+          "Expertise and Professionalism: Our team is well-versed in a wide range of plumbing services, ensuring we can handle any plumbing issue that comes our way. We're registered with the State of Alabama and comply with all regulations set by the Alabama Plumbers & Gas Fitters Examining Board.",
+          "Quality Service: With a high customer satisfaction rating and an A+ rating from the Better Business Bureau, we're committed to providing services that meet and exceed your expectations.",
+          "Local Understanding: As a locally owned and operated business, we understand the unique plumbing needs of the Mobile, AL area. We're not just serving customers - we're serving our community."
+        ]
+      }
+    },
+    "professional-plumbing-and-drain": {
+      "aboutUs": "Welcome to Professional Plumbing and Drain, your trusted local plumbing service provider on the Alabama Gulf Coast. With our roots deeply embedded in the local community, we have been serving both residential and commercial areas with our wide range of services for many years. Our team of licensed, trained, and certified professionals are available 24/7, ready to tackle your plumbing needs with expertise and dedication. We are more than just a plumbing company; we are a family committed to providing reliable, high-quality service to our community.",
+      "whyChooseUs": {
+        "mainPitch": "At Professional Plumbing and Drain, we combine our deep knowledge of the plumbing trade with a commitment to customer satisfaction, providing you with top-notch service that you can rely on.",
+        "sellingPoints": [
+          "Our team of professionals are not just licensed and certified, but are genuine masters of the plumbing trade, equipped with the skills and experience to handle any plumbing situation.",
+          "We offer a comprehensive range of services, from routine maintenance to emergency repairs, ensuring that we can meet all your plumbing needs, anytime.",
+          "We are committed to transparency in our pricing, providing clear estimates before starting any project, with no hidden fees or surprises, making us a trusted choice for all your plumbing needs."
+        ]
+      }
+    },
+    "pike-s-plumbing-gas": {
+      "aboutUs": "Pike's Plumbing & Gas, a locally owned and operated business, has been serving the Birmingham area with dedication and expertise. While the exact years of operation are not specified, the business has a rich history, possibly dating back to 1992. We offer a wide range of services, including residential and commercial plumbing, water heater installation, gas line services, and more. Our commitment is to provide top-notch service to our community and beyond.",
+      "whyChooseUs": {
+        "mainPitch": "At Pike's Plumbing & Gas, we combine local knowledge with broad expertise to deliver superior plumbing solutions.",
+        "sellingPoints": [
+          "Our deep roots in the Birmingham area allow us to understand and cater to the specific needs of our community.",
+          "We offer a comprehensive range of services, from residential and commercial plumbing to specialized tasks like backflow testing and septic clean out.",
+          "While our exact years of operation are not specified, our potential long-standing history in the industry underlines our commitment to quality and customer satisfaction."
+        ]
+      }
+    },
+    "wolf-plumbing-services": {
+      "aboutUs": "Wolf Plumbing Services, a locally owned and operated business in Munford, Alabama, has been serving the community with top-notch plumbing solutions since 2006. Our expertise spans across a wide range of services including leak detection, drain clearing, pipe replacement, and fixture installation. We're proud to offer our services not just in Munford, but also in the surrounding areas like Oxford. With our 24-hour emergency services, we're always ready to tackle your plumbing needs, day or night.",
+      "whyChooseUs": {
+        "mainPitch": "At Wolf Plumbing Services, we combine years of experience, certified expertise, and a commitment to quality service to deliver unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "With over 19 years in operation, we've honed our skills to provide efficient and reliable plumbing services that stand the test of time.",
+          "Our team is licensed by the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring that you're entrusting your plumbing needs to certified professionals.",
+          "We offer 24-hour emergency services, ensuring that we're always available to address your urgent plumbing issues promptly and effectively."
+        ]
+      }
+    },
+    "dixie-services-llc": {
+      "aboutUs": "Welcome to your local plumbing solution, nestled in the heart of Jay, Florida. While our years of operation remain a mystery, our commitment to providing top-notch services in our service area is crystal clear. We are a locally owned and operated business, dedicated to serving our community with the utmost professionalism and expertise. Our services, though unspecified, are designed to meet a wide range of plumbing needs, ensuring your home or business runs smoothly.",
+      "whyChooseUs": {
+        "mainPitch": "Choose us for our unwavering commitment to quality service and local expertise.",
+        "sellingPoints": [
+          "We are a locally owned and operated business, deeply rooted in the community of Jay, Florida.",
+          "Our services, though unspecified, are designed to cater to a broad spectrum of plumbing needs, ensuring we're your one-stop solution.",
+          "Despite the absence of specific details about our years in operation, our commitment to providing top-notch services speaks volumes about our experience and expertise."
+        ]
+      }
+    },
+    "veteran-s-plumbing": {
+      "aboutUs": "Veteran's Plumbing, a locally owned and operated business in Alabama, has been serving the community with dedication and expertise for many years. Although the exact services and service areas are not specified, we can infer that they offer standard plumbing services such as repairs, installations, and maintenance. As a veteran-owned business, they bring the same level of commitment and discipline to their work as they did in service to the country.",
+      "whyChooseUs": {
+        "mainPitch": "Choose Veteran's Plumbing for reliable, high-quality plumbing services delivered with the discipline and dedication of a veteran-owned business.",
+        "sellingPoints": [
+          "Expertise in a wide range of standard plumbing services, ensuring all your plumbing needs are covered.",
+          "Locally owned and operated, meaning we understand the specific needs and challenges of our community.",
+          "A veteran-owned business, bringing a level of commitment, discipline, and precision that sets us apart in the industry."
+        ]
+      }
+    },
+    "crowes-trenching-plumbing": {
+      "aboutUs": "Welcome to Crowes Trenching & Plumbing, your local Alabama plumbing and trenching service provider. With years of experience under our belt, we are committed to delivering top-notch services to our community. Our expertise lies in the installation, repair, and maintenance of plumbing systems, as well as trenching services for pipes and other infrastructure. We are proud to be a locally owned and operated business, serving the great state of Alabama with dedication and professionalism.",
+      "whyChooseUs": {
+        "mainPitch": "At Crowes Trenching & Plumbing, we combine our years of experience with a commitment to quality service to provide you with unparalleled plumbing and trenching solutions.",
+        "sellingPoints": [
+          "Expertise in both plumbing and trenching services, offering a comprehensive solution for your infrastructure needs.",
+          "Locally owned and operated, we understand the specific needs and challenges of our Alabama community.",
+          "Despite the lack of specific details, our positive rating indicates a track record of satisfied customers and high-quality service."
+        ]
+      }
+    },
+    "queen-home-improvement-llc": {
+      "aboutUs": "Welcome to Queen Home Improvement LLC, a locally owned and operated business nestled in the heart of Georgia. While our years of operation remain a testament to our commitment to quality service, the specifics are a part of our story we're still writing. Our service offerings and areas are as diverse as the community we serve, reflecting our dedication to meeting the unique needs of each customer.",
+      "whyChooseUs": {
+        "mainPitch": "At Queen Home Improvement LLC, we're not just a business, we're a part of your community. We're committed to providing top-notch services that you can rely on.",
+        "sellingPoints": [
+          "Locally owned and operated, we understand the unique needs of our community and tailor our services to meet them.",
+          "Our commitment to quality is unwavering, reflected in our high customer satisfaction rating.",
+          "While our services and service areas are diverse, each is delivered with the same level of expertise and professionalism."
+        ]
+      }
+    },
+    "cats-plumbing": {
+      "aboutUs": "Welcome to Cats Plumbing, your trusted local plumbing service provider in Alabama. Though the exact number of our operational years is not specified, our experience in the industry is evident in the quality of our work. We offer a range of services including drain cleaning, sewer line cleaning, water leak repairs, and other plumbing maintenance and repairs. Our commitment to serving the local community is unwavering, and we strive to provide top-notch services across the state.",
+      "whyChooseUs": {
+        "mainPitch": "At Cats Plumbing, we're not just plumbers - we're your neighbors. We understand the unique plumbing needs of Alabama residents because we live here too.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, from drain cleaning to water leak repairs, ensuring all your plumbing needs are covered.",
+          "Locally owned and operated, we understand the unique needs of Alabama residents, providing personalized and efficient service.",
+          "Compliance with Alabama state regulations, ensuring our services meet the highest standards of safety and quality."
+        ]
+      }
+    },
+    "vest-plumbing": {
+      "aboutUs": "Welcome to Vest Plumbing, your local plumbing solution in Crane Hill, AL, and surrounding areas. We are a locally owned and operated business, committed to providing a wide range of plumbing services, from drain and sewer cleaning to water heater repair and complete plumbing for bathrooms and kitchens. Our dedication to quality service and customer satisfaction has been the cornerstone of our business for years, and we look forward to serving our community for many more.",
+      "whyChooseUs": {
+        "mainPitch": "At Vest Plumbing, we combine local knowledge with a broad range of services to provide a comprehensive plumbing solution for our community.",
+        "sellingPoints": [
+          "We offer a wide range of specialized services, ensuring we can handle any plumbing issue you may have.",
+          "Our team is fully licensed and certified, adhering to the highest industry standards for quality and safety.",
+          "We are a locally owned and operated business, meaning we understand the unique needs of our community and are always just a call away."
+        ]
+      }
+    },
+    "yarbrough-s-general-contractors": {
+      "aboutUs": "Yarbrough's General Contractors is a locally owned and operated business, proudly serving the northern Alabama region. Although we are relatively new to the scene, having started operations in 2021, we have quickly established ourselves as a reliable service provider. Our commitment to quality and customer satisfaction is evident in every project we undertake, and we are dedicated to offering a comprehensive range of services to meet all your needs.",
+      "whyChooseUs": {
+        "mainPitch": "At Yarbrough's General Contractors, we believe in delivering top-notch service with a personal touch. We are not just a business; we are your neighbors, committed to improving our community one project at a time.",
+        "sellingPoints": [
+          "Locally owned and operated, we understand the unique needs and challenges of our community in northern Alabama.",
+          "Despite being a newer company, we have quickly established a reputation for reliability and quality service.",
+          "Our comprehensive range of services ensures that we can meet a variety of needs, making us a one-stop solution for our clients."
+        ]
+      }
+    },
+    "marble-city-plumbing-llc": {
+      "aboutUs": "Welcome to Marble City Plumbing, LLC, your trusted local plumbing solution. Proudly serving Sylacauga and the surrounding regions, we've been delivering top-notch plumbing services for over two years. Our commitment to quality, reliability, and customer satisfaction is at the heart of our operations. While we offer a range of services, we specialize in water heater repairs, drain cleaning, piping services, trenchless repairs, disposal and fixture installations, and general plumbing maintenance.",
+      "whyChooseUs": {
+        "mainPitch": "At Marble City Plumbing, LLC, we're not just plumbers - we're your neighbors. We understand the unique plumbing needs of our community and are here to provide reliable, high-quality services.",
+        "sellingPoints": [
+          "Locally Owned and Operated: We're based right here in Sylacauga, AL, and we're proud to serve our local community.",
+          "Years of Experience: With over two years in the business, we've honed our skills and expertise to ensure we provide the best service possible.",
+          "Wide Range of Services: From water heater repairs to general plumbing maintenance, we have the skills and knowledge to handle a variety of plumbing needs."
+        ]
+      }
+    },
+    "lke-plumbing": {
+      "aboutUs": "LKE Plumbing, a locally owned and operated business, has been serving the Alabama community for several years. Our team of skilled professionals is dedicated to providing top-notch plumbing services, including repairs, drain cleaning, leak detection, and water heater installation. We are committed to serving our local region with the utmost professionalism and expertise, ensuring your plumbing needs are met with precision and care.",
+      "whyChooseUs": {
+        "mainPitch": "At LKE Plumbing, we combine local knowledge with professional expertise to deliver exceptional plumbing solutions.",
+        "sellingPoints": [
+          "Our team is likely certified by the Alabama Plumbers & Gas Fitters Examining Board, ensuring you receive service from qualified professionals.",
+          "We offer a comprehensive range of services, from routine repairs to emergency plumbing, catering to all your plumbing needs.",
+          "As a locally owned business, we understand our community and tailor our services to meet the unique needs of our Alabama clientele."
+        ]
+      }
+    },
+    "puddin-plumbing": {
+      "aboutUs": "Puddin Plumbing is a locally owned and operated business that has been serving the community for several years. While specific details about our services and service areas are currently unavailable, we are committed to providing top-notch plumbing solutions. We encourage you to reach out to us directly for more information about how we can meet your plumbing needs.",
+      "whyChooseUs": {
+        "mainPitch": "At Puddin Plumbing, we are dedicated to providing reliable and efficient plumbing solutions tailored to your needs.",
+        "sellingPoints": [
+          "Locally owned and operated, we understand the unique plumbing needs of our community.",
+          "With years of experience under our belt, we bring a wealth of knowledge and expertise to every job.",
+          "We are committed to delivering high-quality service and customer satisfaction."
+        ]
+      }
+    },
+    "simple-service-llc": {
+      "aboutUs": "Welcome to Simple Service, LLC, your trusted local plumbing solution. Proudly serving the Odenville region, we've been delivering top-notch plumbing services for over two decades. Our wide range of services includes everything from plumbing renovation and water heater repair to leak detection and water remediation. As a locally owned and operated business, we're committed to providing our community with reliable, professional, and licensed plumbing solutions.",
+      "whyChooseUs": {
+        "mainPitch": "At Simple Service, LLC, we're not just plumbers, we're your neighbors. We combine local understanding with extensive expertise to provide you with the best plumbing solutions.",
+        "sellingPoints": [
+          "With over 29 years in operation, we bring a wealth of experience and knowledge to every job, ensuring high-quality service and results.",
+          "We offer a comprehensive range of services, making us your one-stop-shop for all your plumbing needs.",
+          "Our A+ BBB rating reflects our commitment to excellence and customer satisfaction."
+        ]
+      }
+    },
+    "g-f-g-contractor-llc": {
+      "aboutUs": "Welcome to G F G Contractor LLC, your trusted local plumbing service provider in Montgomery, AL. With over a decade of experience in the industry, we have been serving the community since 2008, offering a wide range of plumbing services from rerouting kitchen sink and washing machine drains to general plumbing repairs. We take pride in being a locally owned and operated business, committed to serving both residential and commercial sectors in the greater Montgomery area with professionalism and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At G F G Contractor LLC, we combine our years of experience with a commitment to delivering high-quality plumbing solutions tailored to your needs.",
+        "sellingPoints": [
+          "With over 16 years in operation, our expertise in the plumbing industry is proven and trusted by our customers in the Montgomery area.",
+          "We offer a comprehensive range of plumbing services, ensuring we can meet your needs whether they're for your home, business, or institution.",
+          "Our commitment to quality and professionalism is reflected in our A+ BBB rating, demonstrating our dedication to customer satisfaction and service excellence."
+        ]
+      }
+    },
+    "rusty-bottoms": {
+      "aboutUs": "Welcome to Rusty Bottoms, your trusted local plumbing business in Alabama. While the specifics of our journey aren't documented in the public domain, our commitment to providing top-notch plumbing services has remained unwavering over the years. We pride ourselves on being a locally owned and operated business, deeply rooted in the community we serve. Our services, although not explicitly listed, are designed to meet a wide range of plumbing needs, ensuring your home or business runs smoothly.",
+      "whyChooseUs": {
+        "mainPitch": "At Rusty Bottoms, we are more than just a plumbing service; we are a community partner dedicated to ensuring your comfort and peace of mind.",
+        "sellingPoints": [
+          "Locally Owned and Operated: Our deep roots in the Alabama community make us uniquely positioned to understand and cater to your specific plumbing needs.",
+          "Unwavering Commitment: Despite the lack of detailed public records, our dedication to providing top-quality plumbing services remains steadfast.",
+          "Flexible Service Range: While our specific services aren't listed, we are equipped to handle a broad spectrum of plumbing issues, ensuring your home or business functions optimally."
+        ]
+      }
+    },
+    "unstoppable-drain-company": {
+      "aboutUs": "Welcome to Unstoppable Drain & Company, your trusted local plumbing solution. Though our roots are in Columbus, GA, we bring the same level of dedication and expertise to every job, no matter where it is. Our years of operation have equipped us with the skills and knowledge to handle a wide range of plumbing issues. We're proud to be a locally owned and operated business, committed to serving our community with integrity and professionalism.",
+      "whyChooseUs": {
+        "mainPitch": "At Unstoppable Drain & Company, we're not just plumbers - we're your neighbors. We believe in providing top-notch service to our community.",
+        "sellingPoints": [
+          "Expertise: Our years of operation have honed our skills, making us experts in a wide range of plumbing services.",
+          "Quality Service: We pride ourselves on delivering high-quality service, ensuring that all your plumbing needs are met to your satisfaction.",
+          "Local Business: As a locally owned and operated business, we understand the unique needs of our community and are committed to serving you with integrity and professionalism."
+        ]
+      }
+    },
+    "rousseau-s-excavating-pipe-services": {
+      "aboutUs": "Welcome to Rousseau's Excavating & Pipe Services, your trusted local provider for all your excavation and pipe-related needs. We are proud to be a locally owned and operated business, serving the community from our base in Toney, Alabama. Our expertise, honed over years of operation, lies in providing top-notch plumbing, pipe installation, and excavation work. We are committed to delivering quality services that meet your specific needs.",
+      "whyChooseUs": {
+        "mainPitch": "At Rousseau's Excavating & Pipe Services, we combine local knowledge with industry expertise to deliver superior excavation and pipe services.",
+        "sellingPoints": [
+          "We are a locally owned and operated business, deeply rooted in the community and committed to serving our neighbors with excellence.",
+          "Our services, including plumbing, pipe installation, and excavation work, are carried out with utmost professionalism and attention to detail.",
+          "Despite the lack of specific details, our years of operation testify to our experience and dedication in the field, making us a reliable choice for your needs."
+        ]
+      }
+    },
+    "everyone-needs-plumbing-and-service": {
+      "aboutUs": "Welcome to Everyone Needs Plumbing and Service, your trusted local plumbing solution. While we may not have the specific number of years we've been in operation, our commitment to providing top-notch service to our community remains unwavering. Our services, although not specifically listed, are designed to meet all your plumbing needs. We are a locally owned and operated business, deeply rooted in our community and dedicated to serving it with excellence.",
+      "whyChooseUs": {
+        "mainPitch": "At Everyone Needs Plumbing and Service, we believe in delivering not just a service, but an experience that leaves our customers satisfied and confident in our expertise.",
+        "sellingPoints": [
+          "Locally owned and operated, we understand the unique needs of our community and tailor our services to meet them.",
+          "While the specifics of our services are not listed, our comprehensive approach ensures we cover all aspects of plumbing, providing a one-stop solution for all your needs.",
+          "Our commitment to quality and service excellence sets us apart, ensuring every job is done right the first time."
+        ]
+      }
+    },
+    "rocket-city-home-repair": {
+      "aboutUs": "Rocket City Home Repair, a locally owned and operated business in Huntsville, Alabama, has been serving the community since 2024. Although we're relatively new to the scene, we've quickly established ourselves as a trusted name in home improvement services. Our commitment is to provide top-notch services that cater to the diverse needs of our customers, making their homes more comfortable and functional.",
+      "whyChooseUs": {
+        "mainPitch": "At Rocket City Home Repair, we're more than just a home improvement service. We're your partners in creating a home that's safe, comfortable, and uniquely yours.",
+        "sellingPoints": [
+          "We offer a wide range of home repair services, ensuring that we can meet your diverse home improvement needs.",
+          "Our team is based in Huntsville, Alabama, making us a local business that understands the unique needs of our community.",
+          "Despite being a relatively new business, we've quickly established a reputation for our commitment to quality and customer satisfaction."
+        ]
+      }
+    },
+    "the-flow-doc-plumbing-services": {
+      "aboutUs": "Welcome to The Flow Doc Plumbing Services, your locally owned and operated plumbing solution in Alabama. While we don't have an exact count of our years in operation, we've been serving the community for a significant time, providing a range of services including repairs, installations, and leak detection. We're committed to delivering top-notch service to our local community, and we invite you to experience our dedication to excellence firsthand.",
+      "whyChooseUs": {
+        "mainPitch": "At The Flow Doc Plumbing Services, we're not just plumbers, we're your neighbors. We're committed to providing the highest quality service with a personal touch.",
+        "sellingPoints": [
+          "Locally Owned and Operated: We're part of your community, and we care about our neighbors. That's why we're committed to providing the best service possible.",
+          "Range of Services: From leak detection to installations, we offer a comprehensive range of plumbing services to meet all your needs.",
+          "Dedication to Excellence: Despite the lack of specific public data, our commitment to our work and our customers speaks for itself. We strive to deliver top-notch service every time."
+        ]
+      }
+    },
+    "r-c-construction-and-repairs": {
+      "aboutUs": "Welcome to R&C Construction and Repairs, your trusted local plumbing business in Alabama. With years of operation under our belt, we've honed our skills to provide top-notch plumbing services, including installation, maintenance, and repair. Our commitment to quality and dedication to our community sets us apart. We're proud to be locally owned and operated, serving our neighbors with the expertise they deserve.",
+      "whyChooseUs": {
+        "mainPitch": "At R&C Construction and Repairs, we're not just plumbers - we're your neighbors. We combine local understanding with professional expertise to deliver unparalleled service.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, from installation to maintenance and repair, ensuring all your plumbing needs are covered.",
+          "Locally owned and operated, we understand the unique needs of our Alabama community and are committed to serving them with excellence.",
+          "Our team is professionally certified, adhering to Alabama's stringent plumbing regulations, guaranteeing you receive only the highest quality service."
+        ]
+      }
+    },
+    "browning-plumbing": {
+      "aboutUs": "Browning Plumbing, a locally owned and operated business in Silverhill, Alabama, has been a part of the community since 2014. Although we are currently not in operation, our legacy in the industry is built on our commitment to providing top-notch residential and commercial plumbing services. Our service areas, while not confirmed, are believed to have encompassed the Silverhill region, reflecting our dedication to serving our local community.",
+      "whyChooseUs": {
+        "mainPitch": "At Browning Plumbing, we pride ourselves on our expertise, quality of service, and commitment to the community.",
+        "sellingPoints": [
+          "Years of operation in the industry, reflecting our experience and reliability.",
+          "A wide range of services offered, catering to both residential and commercial needs.",
+          "A locally owned business, underscoring our commitment to the Silverhill community."
+        ]
+      }
+    },
+    "aaa-septic-tank-service-of-cullman-llc": {
+      "aboutUs": "Welcome to AAA Septic Tank Service of Cullman, LLC, your trusted local provider for all things septic and sewer related. Proudly serving the Cullman area and beyond for over a decade, we specialize in septic tank and system cleaning, installation, and maintenance. As a locally owned and operated business, we are committed to delivering top-notch service and affordable rates to our community.",
+      "whyChooseUs": {
+        "mainPitch": "At AAA Septic Tank Service of Cullman, LLC, we combine expertise, quality service, and affordability to provide the ultimate customer experience.",
+        "sellingPoints": [
+          "With over a decade in the business, we bring a wealth of experience and knowledge to every job, ensuring top-quality service and results.",
+          "We offer a comprehensive range of services, from septic tank pumping and installation to sewer system maintenance and grease trap cleaning, making us your one-stop-shop for all your septic and sewer needs.",
+          "Our commitment to affordability without compromising on quality sets us apart. We strive to provide the most reasonable rates in the area, making us the go-to choice for many in the Cullman community."
+        ]
+      }
+    },
+    "bailey-son-s-heating-cooling-and-plumbing": {
+      "aboutUs": "Welcome to Bailey & Son\u2019s Heating, Cooling, and Plumbing, your trusted local service provider in Sylacauga and surrounding regions. Since our inception in 2020, we have been dedicated to offering top-notch heating, air conditioning, and plumbing services. As a locally owned and operated business, we take pride in understanding our community's needs and providing services that meet and exceed expectations.",
+      "whyChooseUs": {
+        "mainPitch": "At Bailey & Son\u2019s Heating, Cooling, and Plumbing, we combine expertise, quality service, and local understanding to deliver an unparalleled service experience.",
+        "sellingPoints": [
+          "Registered and regulated by the State of Alabama Board of Heating, Air Conditioning and Refrigeration Contractors and the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring our services meet the highest industry standards.",
+          "Our comprehensive service offerings cover heating, air conditioning, and plumbing needs, making us a one-stop solution for all your home comfort requirements.",
+          "Despite being a relatively young company, our commitment to professionalism and quality work has earned us an A+ BBB rating, reflecting our dedication to customer satisfaction."
+        ]
+      }
+    },
+    "on-point-plumbing": {
+      "aboutUs": "On Point Plumbing, LLC, a locally owned and operated business, has been serving the Eastaboga community and beyond for many years. We are a full-service plumbing company, offering everything from fixing leaks to installing bathroom vanities and re-plumbing kitchen sinks. Our team is known for their prompt response, professionalism, and reasonable rates, making us a trusted choice for all your plumbing needs.",
+      "whyChooseUs": {
+        "mainPitch": "Choose On Point Plumbing for our expertise, quality service, and unique benefits that set us apart from the rest.",
+        "sellingPoints": [
+          "We offer a comprehensive range of plumbing services, from service calls to new residential and commercial construction, ensuring we can meet all your plumbing needs.",
+          "Our team is known for their prompt response and timely service, suggesting we are always ready to assist you, even in emergency situations.",
+          "Despite our high-quality service, we maintain very reasonable rates, making us an affordable choice for all your plumbing requirements."
+        ]
+      }
+    },
+    "triple-b-plumbing-llc": {
+      "aboutUs": "Welcome to Triple B Plumbing, LLC, your trusted local plumbing solution in Decatur, Alabama. We are proud to have served our community for many years, providing a range of services including residential and commercial plumbing, drain cleaning, and water heater installation. Our commitment to quality service and customer satisfaction has made us a preferred choice in Decatur and the surrounding regions.",
+      "whyChooseUs": {
+        "mainPitch": "At Triple B Plumbing, LLC, we combine our deep understanding of local plumbing needs with a commitment to service excellence, providing you with a seamless and stress-free experience.",
+        "sellingPoints": [
+          "Licensed and compliant with Alabama state and local requirements, ensuring our services meet the highest standards.",
+          "Offering a comprehensive range of services, from residential and commercial plumbing to drain cleaning and water heater installation.",
+          "Locally owned and operated, we understand the unique needs of our community and are dedicated to serving them with integrity and expertise."
+        ]
+      }
+    },
+    "evans-plumbing-and-drain-service-inc": {
+      "aboutUs": "Welcome to Evans Plumbing and Drain Service, Inc., your trusted local plumbing solution. Nestled in the heart of Eight Mile, Alabama, we've been serving the community with our expertise in plumbing, septic systems, and drain cleaning for many years. As a locally owned and operated business, we're committed to providing top-notch services to our neighbors and the surrounding regions, ensuring your home's plumbing is always in the best shape.",
+      "whyChooseUs": {
+        "mainPitch": "At Evans Plumbing and Drain Service, Inc., we're not just plumbers, we're your neighbors. We're dedicated to providing reliable, high-quality plumbing solutions that you can trust.",
+        "sellingPoints": [
+          "We offer a comprehensive range of services, including plumbing, septic systems, and drain cleaning, ensuring all your plumbing needs are covered under one roof.",
+          "Our business is licensed to operate in Alabama, demonstrating our commitment to professionalism and adherence to industry standards.",
+          "While we don't explicitly mention emergency services, we understand that plumbing issues can arise at any time. That's why we strive to be as responsive and accommodating as possible to our customers' needs."
+        ]
+      }
+    },
+    "blount-plumbing-service": {
+      "aboutUs": "Welcome to Blount Plumbing Service, your trusted local plumbing solution in Hayden, Alabama, and its surrounding regions. We are proud to have been serving our community with top-notch plumbing services since 2017. Our comprehensive range of services includes everything from installation and repair to maintenance, water heater services, drain cleaning, and much more. As a locally owned and operated business, we are committed to providing our customers with the highest level of service and professionalism.",
+      "whyChooseUs": {
+        "mainPitch": "At Blount Plumbing Service, we combine our years of experience with a commitment to quality service to provide you with unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "Licensed by the State of Alabama Plumbers & Gas Fitters Examining Board, we adhere to the highest industry standards, ensuring you receive the best service possible.",
+          "Our wide array of services, from installation and repair to maintenance and leak detection, means we are equipped to handle all your plumbing needs, making us your one-stop plumbing solution.",
+          "As a locally owned and operated business, we understand the unique needs of our community, allowing us to provide personalized service tailored to your specific needs."
+        ]
+      }
+    },
+    "t-l-plumbing-llc": {
+      "aboutUs": "Welcome to our locally owned and operated plumbing business, proudly serving the Alabama community. While we may not have specific years of operation to share, our commitment to providing top-notch plumbing services remains unwavering. Our range of services includes residential and commercial plumbing, installation, repairs, remodels, maintenance, and installation of water heaters and garbage disposals. We are fully licensed and registered, adhering to the highest standards set by the State of Alabama Plumbers & Gas Fitters Examining Board.",
+      "whyChooseUs": {
+        "mainPitch": "We are your reliable partner for all your plumbing needs, committed to delivering exceptional service with every job.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, ensuring we can handle any job, big or small.",
+          "High-quality service backed by our adherence to the strict standards set by the State of Alabama Plumbers & Gas Fitters Examining Board.",
+          "Unique benefits such as our commitment to local service, understanding the specific needs and requirements of the Alabama community."
+        ]
+      }
+    },
+    "cagle-plumbing-systems": {
+      "aboutUs": "Cagle Plumbing Systems is a locally owned and operated business, proudly serving the community of Alabama with top-notch plumbing services. Although the exact number of our operational years is not specified, we have been in the industry long enough to understand and cater to all your plumbing needs. Our services, while not explicitly listed, typically encompass residential and commercial plumbing repairs, installations, and maintenance. We strive to provide our services across a broad area, ensuring that every home and business in our community has access to reliable plumbing solutions.",
+      "whyChooseUs": {
+        "mainPitch": "At Cagle Plumbing Systems, we combine local understanding with professional expertise to deliver unparalleled plumbing services.",
+        "sellingPoints": [
+          "We are a locally owned business, deeply rooted in the community and committed to serving our neighbors with the highest level of service.",
+          "Our team is expected to hold professional certifications, ensuring that you receive expert service from qualified professionals.",
+          "While our specific services are not listed, we offer a comprehensive range of plumbing solutions, from repairs and installations to regular maintenance, catering to both residential and commercial needs."
+        ]
+      }
+    },
+    "cook-son-plumbing-and-septic": {
+      "aboutUs": "Cook & Son Plumbing and Septic is a locally owned and operated business, proudly serving the Alabama community. While our exact years of operation aren't specified, our name has become synonymous with reliable plumbing and septic services. Our expertise spans across a range of services including plumbing repairs, septic tank pumping, and drain cleaning. We're committed to providing top-notch services to our valued customers, even though the specific areas we serve aren't detailed.",
+      "whyChooseUs": {
+        "mainPitch": "At Cook & Son Plumbing and Septic, we're not just plumbers, we're your neighbors. We bring local understanding and community spirit to every job.",
+        "sellingPoints": [
+          "We offer a comprehensive range of services, from plumbing repairs to septic tank pumping and drain cleaning, catering to all your plumbing needs.",
+          "As a locally owned business, we understand the unique plumbing and septic needs of the Alabama community and are committed to serving our neighbors with the highest level of service.",
+          "While our exact years of operation aren't specified, our enduring presence in the community speaks volumes about our reliability and commitment to quality."
+        ]
+      }
+    },
+    "h-h-plumbing-inc": {
+      "aboutUs": "Welcome to our locally owned and operated plumbing business, proudly serving the Trenton, Georgia area and beyond since 2002. We specialize in both residential and commercial plumbing services, offering everything from new construction and remodeling projects to sewer drain cleaning and video camera sewer inspections. With nearly two decades of experience under our belt, we are committed to providing top-notch service to our community.",
+      "whyChooseUs": {
+        "mainPitch": "Choose us for our proven expertise, exceptional service quality, and unique benefits tailored to your needs.",
+        "sellingPoints": [
+          "With over 18 years of experience, we have honed our skills to provide you with the best in plumbing solutions.",
+          "Our wide range of services, including new construction, remodeling, and advanced sewer inspections, ensures we can meet all your plumbing needs.",
+          "As a locally owned business, we understand our community and provide personalized service to every customer."
+        ]
+      }
+    },
+    "little-s-plumbing-and-pro-services": {
+      "aboutUs": "Welcome to Little's Plumbing and Pro Services, your trusted local plumbing solution. Nestled in the heart of Daphne, AL, we've been proudly serving our community and the surrounding areas with our exceptional plumbing services. As a family-owned business, we are deeply committed to providing the highest quality service to our neighbors, ensuring that your homes are as comfortable and safe as they can be.",
+      "whyChooseUs": {
+        "mainPitch": "At Little's Plumbing and Pro Services, we're not just plumbers - we're your neighbors. We're dedicated to providing top-notch plumbing solutions that meet your needs and exceed your expectations.",
+        "sellingPoints": [
+          "Locally Owned and Operated: As a family-owned business, we understand the importance of trust and reliability. We're not just a company, we're part of the community.",
+          "Exceptional Service: We may not know the exact number of years we've been in operation, but our commitment to providing exceptional service has never wavered. We're dedicated to ensuring your plumbing needs are met with the highest standards of quality and professionalism.",
+          "Wide Service Area: We're proud to serve Daphne, AL, and the surrounding areas. No matter where you are in our service area, you can count on us to be there when you need us most."
+        ]
+      }
+    },
+    "acme-plumbing": {
+      "aboutUs": "Welcome to Acme Plumbing, your trusted local plumbing service provider in Hartselle, Alabama. Since our establishment in 2020, we've been committed to delivering top-notch services including plumbing inspections, water leak detection, faucet installations, and emergency repairs. Our team of professional and knowledgeable plumbers is always ready to serve the Hartselle area, ensuring your home's plumbing system is in the best condition.",
+      "whyChooseUs": {
+        "mainPitch": "At Acme Plumbing, we're not just plumbers - we're your neighbors. We combine local understanding with professional expertise to provide you with the best plumbing solutions.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, from routine inspections to emergency repairs, ensuring all your plumbing needs are covered.",
+          "Commitment to professionalism and efficient service, as reflected in our A+ BBB rating and positive customer feedback.",
+          "Availability for urgent residential repairs, demonstrating our dedication to serving the local community in times of need."
+        ]
+      }
+    },
+    "dd-h-services-llc": {
+      "aboutUs": "Welcome to DD&H Services, LLC, your trusted local contractor in Birmingham and surrounding regions. With over a decade of experience, we've been providing a wide range of services including carpet installation, deck building and repair, fence construction, handyman services, landscaping, painting, remodeling, and roofing. As a locally owned and operated business, we take pride in serving our community with dedication and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At DD&H Services, LLC, we combine years of experience with a commitment to meet your home improvement needs with the highest quality of service.",
+        "sellingPoints": [
+          "With over a decade in operation, we bring a wealth of experience and expertise to every project.",
+          "We offer a wide range of services, making us your one-stop-shop for all your home improvement needs.",
+          "As a locally owned and operated business, we understand the unique needs of our community and are committed to providing top-notch service."
+        ]
+      }
+    },
+    "precision-plumbing-llc": {
+      "aboutUs": "Welcome to Precision Plumbing, LLC, your trusted local plumbing solution. While our exact years of operation remain a mystery, our commitment to providing top-notch plumbing services is clear. We are a locally owned and operated business, proudly serving the Alabama community with a range of services including residential and commercial plumbing, water heater repair, and sewer cleaning. We invite you to experience our dedication to quality service and customer satisfaction.",
+      "whyChooseUs": {
+        "mainPitch": "At Precision Plumbing, LLC, we turn your plumbing problems into plumbing solutions.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing services, from residential and commercial plumbing to water heater repair and sewer cleaning.",
+          "Locally owned and operated, we understand the unique plumbing needs of the Alabama community.",
+          "Committed to quality service and customer satisfaction, we strive to exceed your expectations with every job."
+        ]
+      }
+    },
+    "if-it-s-plumbing": {
+      "aboutUs": "Welcome to 'If It's Plumbing', your trusted local plumbing service in Alabama. While our exact years of operation are not specified, we pride ourselves on our commitment to providing quality plumbing services. Our services, though not detailed, typically include repairs, installations, and maintenance of plumbing systems. We are locally owned and operated, serving our community with dedication and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "Choose 'If It's Plumbing' for reliable, locally-focused plumbing services that you can trust.",
+        "sellingPoints": [
+          "Locally owned and operated, we understand the specific plumbing needs of our Alabama community.",
+          "Our services, while not explicitly detailed, cover a broad range of plumbing needs, from repairs and installations to regular maintenance.",
+          "We are committed to adhering to state and local regulations, ensuring our services are not only top-quality but also compliant with necessary standards."
+        ]
+      }
+    },
+    "kyle-s-rod-n-rooter": {
+      "aboutUs": "Welcome to Kyle's Rod-N Rooter, your trusted local plumbing solution for over two decades. Based in Dothan, Alabama, we've been providing a wide range of services, from septic tank pumping to drain cleaning, since 2000. Our commitment to quality and customer satisfaction has made us a go-to choice for all plumbing needs in Houston County. We're proud to be a locally owned and operated business, serving our community with dedication and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At Kyle's Rod-N Rooter, we combine years of experience with a commitment to quality, providing you with reliable and efficient plumbing solutions.",
+        "sellingPoints": [
+          "With over 24 years in operation, we bring a wealth of experience and expertise to every job, ensuring top-notch service and customer satisfaction.",
+          "We offer a comprehensive range of services, from septic tank installation to drain cleaning, making us your one-stop-shop for all your plumbing needs.",
+          "As a locally owned and operated business, we understand the specific needs of our community and are always ready to provide prompt and efficient services."
+        ]
+      }
+    },
+    "proscapes-and-services-llc": {
+      "aboutUs": "Welcome to Proscapes and Services LLC, your trusted local construction company based in Lincoln, AL. With over three years of operation under our belt, we've been dedicated to serving our community with the utmost professionalism and quality. Although our specific services are broad and varied, we're committed to delivering top-notch construction solutions tailored to your needs. As a locally owned and operated business, we're proud to contribute to the growth and development of our beloved Lincoln area.",
+      "whyChooseUs": {
+        "mainPitch": "At Proscapes and Services LLC, we're not just a construction company; we're your partners in building a better tomorrow.",
+        "sellingPoints": [
+          "With three years of experience, we've honed our skills and expertise to deliver high-quality construction services that stand the test of time.",
+          "As a locally owned and operated business, we understand the unique needs of our community and are committed to providing personalized solutions.",
+          "Despite not being a BBB Accredited Business, we've maintained an A+ BBB rating, reflecting our unwavering commitment to service excellence and customer satisfaction."
+        ]
+      }
+    },
+    "harrisons-plumbing": {
+      "aboutUs": "At Harrisons Plumbing, we pride ourselves on being a locally owned and operated business, deeply rooted in our community. While we are unable to provide specific details about our years of operation and services due to a mismatch in the available data, we assure you that we are committed to delivering exceptional plumbing solutions. We encourage you to reach out to us directly for more information about our services and service areas.",
+      "whyChooseUs": {
+        "mainPitch": "Choose Harrisons Plumbing for a trustworthy and reliable plumbing service that values your needs and satisfaction.",
+        "sellingPoints": [
+          "We are a locally owned and operated business, ensuring a personalized and dedicated service to our community.",
+          "Despite the lack of specific details, our commitment to quality and excellence in plumbing solutions remains unwavering.",
+          "We encourage open communication and transparency, inviting customers to reach out to us directly for any queries or service details."
+        ]
+      }
+    },
+    "banks-environmental-and-drain-cleaning": {
+      "aboutUs": "Welcome to Banks Environmental and Drain Cleaning, your trusted local plumbing solution in Alabama. While we can't confirm the exact number of years we've been in operation, our roots run deep in the local community. We're proud to serve our neighbors, likely in the Huntsville and Northport regions, with a range of services that may include drain cleaning, water heater services, sewer repairs, hydro jetting, and faucet repairs. As a locally owned and operated business, we're committed to providing top-notch service to our community.",
+      "whyChooseUs": {
+        "mainPitch": "At Banks Environmental and Drain Cleaning, we're not just plumbers - we're your neighbors, dedicated to keeping your home running smoothly with expert plumbing solutions.",
+        "sellingPoints": [
+          "Local Expertise: As a locally owned and operated business, we understand the unique plumbing needs and challenges of our Alabama community.",
+          "Comprehensive Services: While we can't confirm the exact services we offer, we strive to be your one-stop-shop for all your plumbing needs, from drain cleaning to faucet repairs.",
+          "Commitment to Quality: Though we don't have specific reviews to share, we're committed to providing top-notch service and ensuring our customers' satisfaction."
+        ]
+      }
+    },
+    "craig-plumbing-and-electrical": {
+      "aboutUs": "Welcome to Craig Plumbing and Electrical, a trusted name in the Andalusia, Alabama area for over four decades. As a locally owned and operated business, we pride ourselves on offering a wide range of services, from plumbing and electrical work to drywall, roofing, and flooring repairs. Our commitment to quality and customer satisfaction is evident in our responsiveness to urgent needs and our fair pricing. We look forward to serving you.",
+      "whyChooseUs": {
+        "mainPitch": "At Craig Plumbing and Electrical, we combine decades of experience with a commitment to quality and customer satisfaction to deliver unparalleled service.",
+        "sellingPoints": [
+          "With over 44 years in operation, our expertise is proven and trusted in the community.",
+          "We offer a wide range of services, making us a one-stop solution for your home repair needs.",
+          "Our reputation for responsiveness and fair pricing ensures that you receive the best value for your money."
+        ]
+      }
+    },
+    "sloan-plumbing-and-drain-service": {
+      "aboutUs": "Welcome to Sloan Plumbing and Drain Service, your trusted local plumbing solution in Alabama. Our expertise lies in a range of services including drain cleaning and plumbing repairs, ensuring your home or business runs smoothly. While our exact years of operation remain unspecified, our commitment to providing top-notch service in our local community is unwavering. We are proud to be a locally owned and operated business, serving the areas around our location with dedication and professionalism.",
+      "whyChooseUs": {
+        "mainPitch": "At Sloan Plumbing and Drain Service, we're not just plumbers - we're your neighbors committed to providing the best plumbing solutions in Alabama.",
+        "sellingPoints": [
+          "Expertise in a wide range of plumbing and drain services, ensuring a comprehensive solution for your needs.",
+          "Locally owned and operated, we understand the unique plumbing needs and challenges of our community.",
+          "While our rates remain unspecified, we strive to provide value for money with services that are both high-quality and competitively priced."
+        ]
+      }
+    },
+    "chambless-plumbing": {
+      "aboutUs": "Chambless Plumbing, a locally owned and operated business, has been serving the community with dedication and expertise for many years. While our exact services and service areas are not specified, we typically offer a range of plumbing services, including repairs, drain cleaning, and water heater installations. We are committed to providing top-notch service to our customers, ensuring their plumbing needs are met with professionalism and efficiency.",
+      "whyChooseUs": {
+        "mainPitch": "At Chambless Plumbing, we combine years of experience with a commitment to quality service to provide you with unparalleled plumbing solutions.",
+        "sellingPoints": [
+          "We are a registered business with the Alabama Plumbers & Gas Fitters Examining Board, ensuring our services meet the highest industry standards.",
+          "Our team is likely to include certified journeyman and apprentice plumbers, reflecting our commitment to expertise and continuous learning.",
+          "While specifics are not available, our positive reputation indicated by a 5-star rating suggests our dedication to customer satisfaction and service excellence."
         ]
       }
     }
