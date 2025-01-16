@@ -353,8 +353,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "primaryColor": "#4663b8",
-      "secondaryColor": "#8c8c7c"
+      "PrimaryColor": "#4663b8",
+      "SecondaryColor": "#8c8c7c"
     },
     "hydrotech-plumbing-llc": {
       "query": "plumber, 35087, Joppa, AL, US",
@@ -591,8 +591,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "primaryColor": "#d49884",
-      "secondaryColor": "#b98c86"
+      "PrimaryColor": "#d49884",
+      "SecondaryColor": "#b98c86"
     },
     "reese-plumbing-llc": {
       "query": "plumber, 36057, Mount Meigs, AL, US",
@@ -1421,5 +1421,5 @@
       "website_has_google_tag": ""
     }
   },
-  "forceUpdateTimestamp": "1737012631.8949463"
+  "forceUpdateTimestamp": "1737013049.1660433"
 }
