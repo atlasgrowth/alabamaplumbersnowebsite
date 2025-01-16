@@ -1296,6 +1296,108 @@
           "reasonForAboutUs": "This image represents the company's dedication to providing exceptional plumbing services to residential customers, fostering trust and reliability."
         }
       ]
+    },
+    "weiss-lake-septic-pumpers-llc": {
+      "businessName": "Weiss Lake Septic Pumpers LLC",
+      "processedImages": 7,
+      "totalTokens": 14446,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOuVaUvQtLtTojS7B0SR0XwPN-B146uQlzif0a3=w2048-h2048-k-no",
+          "description": "A professional septic pumping truck, showcasing the company's modern and well-maintained fleet.",
+          "callToAction": "Keep your septic system flowing smoothly. Call us today for reliable septic pumping services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMNNhMcc_3SIeWV7xjeOuwL82BV2WxxDzKSNsBs=w2048-h2048-k-no",
+          "description": "A septic pumping truck servicing a commercial establishment, highlighting the company's ability to handle jobs of all sizes.",
+          "callToAction": "Don't let a full septic system disrupt your business operations. Trust our experts to get the job done right."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNyWfquwwWnWomNETXscv9_kFu63KKwuyUVHH8N=w2048-h2048-k-no",
+          "description": "A septic pumping truck on-site, demonstrating the company's commitment to providing prompt and efficient service.",
+          "callToAction": "Avoid costly backups and environmental hazards. Schedule your septic pumping service with us today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPzjVnL4_G98EOGNXde8XkelcEKph90FbvM-sjm=w2048-h2048-k-no",
+          "description": "Skilled technicians working on a septic system installation, showcasing the company's expertise in septic system services.",
+          "reason": "This image highlights the company's capabilities in handling various septic system projects, from installation to maintenance, demonstrating their professionalism and commitment to quality work."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNyPpgLC5PX4xgrdXM4cO5WWfRrG4jtHDg2N3_F=w2048-h2048-k-no",
+          "description": "A portable toilet unit provided by the company, illustrating their diverse range of services.",
+          "reason": "Including this image in the About Us section showcases the company's versatility in offering not only septic pumping but also portable toilet rentals, catering to a wide range of customer needs."
+        }
+      ]
+    },
+    "north-alabama-drain-cleaning-etc-llc": {
+      "businessName": "North Alabama Drain CLeaning,etc LLC",
+      "processedImages": 3,
+      "totalTokens": 5724,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMztdJlzIac1cJX7PYOp7egsVmzXwfoRCXm84MP=w2048-h2048-k-no",
+          "description": "A construction site showcasing the company's expertise in drainage system installation. The image displays a gravel-covered area with concrete structures and pipes, surrounded by safety barriers and markers.",
+          "callToAction": "Trust our professionals to handle your drainage needs with precision and efficiency."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMA_mJhpKBK4-T_m7VPSRX5u9b1wGP3wssOTAu7=w2048-h2048-k-no",
+          "description": "A newly installed bathroom vanity, showcasing the company's plumbing and renovation services. The image features a modern gray vanity with a white sink and faucet, set against a light blue wall.",
+          "callToAction": "Upgrade your bathroom with our top-notch plumbing and renovation solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNc48uxfcuTF8F9rkTXYcEhpO6r3XJXrjKv4De5=w2048-h2048-k-no",
+          "description": "A humorous advertisement for the company's drain cleaning services, featuring a cartoon image of a smiling drain pipe holding a phone number.",
+          "callToAction": "Don't let clogged drains dampen your day. Call us for prompt and reliable drain cleaning services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMztdJlzIac1cJX7PYOp7egsVmzXwfoRCXm84MP=w2048-h2048-k-no",
+          "description": "A construction site showcasing the company's expertise in drainage system installation. The image displays a gravel-covered area with concrete structures and pipes, surrounded by safety barriers and markers.",
+          "reason": "This image effectively demonstrates the company's capabilities in handling large-scale drainage projects, showcasing their professionalism and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMA_mJhpKBK4-T_m7VPSRX5u9b1wGP3wssOTAu7=w2048-h2048-k-no",
+          "description": "A newly installed bathroom vanity, showcasing the company's plumbing and renovation services. The image features a modern gray vanity with a white sink and faucet, set against a light blue wall.",
+          "reason": "This image highlights the company's ability to provide high-quality plumbing and renovation solutions for residential and commercial spaces, showcasing their attention to detail and commitment to customer satisfaction."
+        }
+      ]
+    },
+    "professional-plumbing-and-drain": {
+      "businessName": "Professional Plumbing and Drain",
+      "processedImages": 8,
+      "totalTokens": 16968,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMz1_xW8nDEWQ6dMdFJcqwsDcnRtVOvRtMaTotc=w2048-h2048-k-no",
+          "description": "A professionally remodeled bathroom showcasing the company's high-quality workmanship. The clean lines, modern fixtures, and warm tones create an inviting and luxurious space.",
+          "callToAction": "Elevate your bathroom with our expert design and installation services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMsi7JgWpLDHVdFnb3OGUBoXKBCrPzCRklD0twj=w2048-h2048-k-no",
+          "description": "A sleek and modern shower enclosure with marble tile accents, demonstrating the company's attention to detail and ability to create stylish and functional spaces.",
+          "callToAction": "Transform your shower into a spa-like oasis. Our team specializes in custom shower installations tailored to your unique style and needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOgdjZkh7v0-sdBYxDFpsH32zU2mmgCPPaOKEHq=w2048-h2048-k-no",
+          "description": "A minimalist yet elegant bathroom with a contemporary vanity and fixtures, showcasing the company's expertise in creating clean and sophisticated designs.",
+          "callToAction": "Upgrade your bathroom with our modern and efficient solutions. Schedule a consultation to explore your options."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPqIkW00X93x_KiTY903uZTVCAyPKQnJuZB-BNK=w2048-h2048-k-no",
+          "description": "A professional-looking advertisement showcasing the company's range of services, including plumbing, roofing, construction, and HVAC.",
+          "reason": "This image effectively demonstrates the company's diverse capabilities and professionalism, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO_Xn_JDYybnU8CI-6tpO5BjmWsDhci4Uw5LsIz=w2048-h2048-k-no",
+          "description": "A cluttered van filled with tools and equipment, including two dogs, highlighting the company's dedication to their work and ability to handle any job, no matter how challenging.",
+          "reason": "While unconventional, this image showcases the company's resourcefulness and commitment to getting the job done, even in unexpected situations, making it a unique and memorable choice for the About Us section."
+        }
+      ]
     }
   }
 }
