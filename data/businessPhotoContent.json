@@ -4120,6 +4120,74 @@
           "reason": "This image highlights the company's expertise in outdoor construction projects, as well as their commitment to sustainable and environmentally-friendly practices."
         }
       ]
+    },
+    "lt-drain-and-small-repair": {
+      "businessName": "LT Drain and Small Repair",
+      "processedImages": 12,
+      "totalTokens": 29963,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO7mGGhNEc5PhLNW2e8f8zfgfYTMAVMRKuy1X5J=w2048-h2048-k-no",
+          "description": "A professional plumbing van showcasing the company's branding and services, conveying reliability and expertise.",
+          "callToAction": "Trust the experts at LT Drain and Small Repair for all your plumbing needs. Call us today for a free estimate!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO76WGqygD_9DHvV5iIuSrwrL4xNOI0ljM49ON-=w2048-h2048-k-no",
+          "description": "A water heater installation in progress, highlighting the company's ability to handle complex plumbing projects.",
+          "callToAction": "Upgrade your water heater with LT Drain and Small Repair for reliable hot water and energy savings. Schedule your installation now!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPJ0a3Z-IK_N1q1MTNaMUlV66_QzjZGZjhqRFEn=w2048-h2048-k-no",
+          "description": "A residential plumbing project showcasing the company's attention to detail and commitment to quality workmanship.",
+          "callToAction": "Enhance your home's plumbing with LT Drain and Small Repair's professional services. Contact us for a free consultation!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipONJNRQPAQHndavJya_vSax41rDL81g_xCLRQG_=w2048-h2048-k-no",
+          "description": "A team member's branded hat, representing the company's professionalism and attention to detail.",
+          "reason": "This image showcases the company's branding and commitment to professionalism, making it a suitable choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMo67dMUZ7iKrC3sbAomOWZZpckYdczmxA9uld_=w2048-h2048-k-no",
+          "description": "A well-equipped plumbing van, demonstrating the company's readiness to handle any plumbing job efficiently.",
+          "reason": "This image highlights the company's resources and preparedness, conveying their capability to handle various plumbing projects, making it an appropriate choice for the About Us section."
+        }
+      ]
+    },
+    "simple-service-llc": {
+      "businessName": "Simple Service, LLC",
+      "processedImages": 8,
+      "totalTokens": 13873,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOuHpyIZYFyo8kFFePx-4PqmiwgUziF5CN6pEPU=w2048-h2048-k-no",
+          "description": "A professional excavation crew using heavy machinery to dig a trench for plumbing or utility work. The image showcases the company's expertise in handling complex projects.",
+          "callToAction": "Trust our experienced team for all your excavation and underground utility needs. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOKB1g-EKZICOfALMdj1P3B9ZvQiNvMLCjoWPva=w2048-h2048-k-no",
+          "description": "A skilled technician carefully working on a plumbing repair job, demonstrating the company's commitment to quality workmanship.",
+          "callToAction": "Don't let plumbing issues disrupt your daily routine. Our certified professionals are ready to provide prompt and reliable repair services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNtybemKxMjWvv3SwpFa2vUg7Rnd_seu4V944Vr=w2048-h2048-k-no",
+          "description": "A powerful excavator positioned in front of residential homes, ready to tackle any plumbing or drainage project with precision and efficiency.",
+          "callToAction": "Upgrade your home's plumbing system with our comprehensive installation and replacement services. Contact us for a free estimate."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPSAszoTfnxij_e7wqVcb-6B-fAg785OSJdanAv=w2048-h2048-k-no",
+          "description": "A water heater installation in progress, showcasing the company's expertise in handling various plumbing appliances and systems.",
+          "reason": "This image demonstrates the company's capabilities in providing professional installation services, which is an essential aspect of their business."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM4DlHjJ7L7Ru67mL8GcbXAnbh2HiFRJ8dY3FL6=w2048-h2048-k-no",
+          "description": "A close-up view of a plumbing technician working on a drain cleaning job, highlighting the company's commitment to resolving even the toughest drainage issues.",
+          "reason": "This image showcases the company's expertise in drain cleaning and maintenance, which is a crucial service for residential and commercial clients."
+        }
+      ]
     }
   }
 }
