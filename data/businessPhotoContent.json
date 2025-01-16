@@ -3202,6 +3202,142 @@
           "reason": "This image showcases the company's ability to handle complex septic system projects, from start to finish, making it a suitable choice for the About Us section."
         }
       ]
+    },
+    "alpha-plumbers-inc": {
+      "businessName": "Alpha Plumbers Inc",
+      "processedImages": 8,
+      "totalTokens": 17827,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPcDwKtKxQUNeyQ7WyL1p7T9gBHKt8M2p5rCJ6c=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of Alpha Plumbers Inc. in underground plumbing work. It depicts a trench being dug for pipe installation or repair, with tools and materials neatly organized nearby.",
+          "callToAction": "Trust our experienced team for all your underground plumbing needs. Call us today for a free estimate!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOd3UUwthzW9PslfI99g6GncH3NKtn5GTZjWsaV=w2048-h2048-k-no",
+          "description": "This image highlights the professionalism and attention to detail of Alpha Plumbers Inc. It shows a well-maintained water heater installation, with neatly organized pipes and connections.",
+          "callToAction": "Upgrade to a new, energy-efficient water heater with our expert installation services. Contact us now for a quote!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPhoxHoMA36DYWMRa0BfcVnl2rAvS6fiG8LbcPO=w2048-h2048-k-no",
+          "description": "This powerful image represents the core services of Alpha Plumbers Inc. The crossed plumbing wrenches symbolize the company's expertise and readiness to tackle any plumbing challenge.",
+          "callToAction": "For reliable and affordable plumbing solutions, choose the RIGHT plumber at the RIGHT price. Call Alpha Plumbers Inc. today!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOfNvno--Dv8ICyXOLb1ejslDoEOZm0jZdXB5bk=w2048-h2048-k-no",
+          "description": "This image showcases the attention to detail and quality workmanship of Alpha Plumbers Inc. It depicts a neatly organized plumbing system with clean pipe connections and proper insulation.",
+          "reason": "This image works well for the About Us section as it demonstrates the company's commitment to excellence and professionalism in their work."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMg8IxkeELBKolX-9pERX7PY5U1CD4IW4HeCmYZ=w2048-h2048-k-no",
+          "description": "This image highlights the versatility and range of services offered by Alpha Plumbers Inc. It shows a well-maintained outdoor area with various plumbing fixtures and landscaping elements.",
+          "reason": "This image is suitable for the About Us section as it showcases the company's ability to handle both indoor and outdoor plumbing projects, as well as their attention to detail in maintaining a clean and organized work environment."
+        }
+      ]
+    },
+    "brookside-septic-tank-service-inc": {
+      "businessName": "Brookside Septic Tank Service Inc",
+      "processedImages": 12,
+      "totalTokens": 22723,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP-HakzUWdh-n5ow4gCvejhZCi_m_pujHalp2O4=w2048-h2048-k-no",
+          "description": "A professional septic service truck with the company's branding, ready to handle septic waste disposal tasks efficiently.",
+          "callToAction": "Trust our experienced team for reliable and safe septic tank services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO_VSl9cMPaEt-L7cFIZ-Ua4ZYbFoxctscrJhZO=w2048-h2048-k-no",
+          "description": "A skilled technician in protective gear, carefully inspecting and servicing a septic tank system.",
+          "callToAction": "Keep your septic system in top condition with our expert maintenance services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP0YCXb4Nv46OpahD4r3xtggTGvMZbm78QRSTo5=w2048-h2048-k-no",
+          "description": "A residential neighborhood with a septic service truck on site, showcasing the company's commitment to serving local communities.",
+          "callToAction": "Protect your home and neighborhood with our professional septic tank cleaning and repair solutions."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP4xGESyLUKN__sa8Tjg5xBQoinYE1BrRLi_9l2=w2048-h2048-k-no",
+          "description": "A technician working on a septic system installation, demonstrating the company's expertise in handling complex projects.",
+          "reason": "This image highlights the company's capabilities in septic system installation and construction, showcasing their professionalism and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMvzE7aENxJUYVeyvZBvXhw4ou4Q9n9WH04ZBWM=w2048-h2048-k-no",
+          "description": "A plumber working on repairing and maintaining a residential septic system, showcasing the company's commitment to customer service.",
+          "reason": "This image portrays the company's dedication to providing reliable and efficient septic system repair and maintenance services for homeowners."
+        }
+      ]
+    },
+    "h2o-worx": {
+      "businessName": "H2O Worx",
+      "processedImages": 5,
+      "totalTokens": 6055,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNBgS2nOEVW-7ZNDZaKb5V0yr6SXuvjgGVRoriS=w2048-h2048-k-no",
+          "description": "A modern, frameless glass shower enclosure with sleek chrome fixtures, showcasing the company's expertise in bathroom remodeling and installation of high-end shower systems.",
+          "callToAction": "Elevate your bathroom with our luxurious shower solutions. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOUhESDeSlUfoTuqguNy0EhB0IUpohQNsKMAbgF=w2048-h2048-k-no",
+          "description": "A stylish chrome faucet with intricate detailing, representing the company's commitment to quality craftsmanship and attention to detail in plumbing fixtures.",
+          "callToAction": "Upgrade your home with our exquisite plumbing fixtures. Browse our selection and schedule an appointment."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMiCjoEPZ54vwZCB4Okd1Zd2B_ONHntpgoeEuQG=w2048-h2048-k-no",
+          "description": "A skilled technician working on a water heater installation, demonstrating the company's professionalism and expertise in plumbing repair and maintenance services.",
+          "callToAction": "Keep your plumbing system running smoothly. Schedule a maintenance check with our certified technicians."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPvShib0g6HJEn6Gy43WgE481IzQQ1kbsPsMJ1O=w2048-h2048-k-no",
+          "description": "A plumber's hands tightening a pipe connection, showcasing the company's hands-on experience and commitment to quality workmanship.",
+          "reason": "This image effectively conveys the company's expertise and attention to detail, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPg6rHXfjA5Bi7-nW08f17JRnh-uyyYnlmt3Im8=w2048-h2048-k-no",
+          "description": "The company's logo, 'H2O Worx', prominently displayed, representing their brand identity and professionalism in the plumbing industry.",
+          "reason": "The company logo is an essential element for the About Us section, as it reinforces their brand recognition and credibility."
+        }
+      ]
+    },
+    "deep-south-plumbing-llc": {
+      "businessName": "Deep South Plumbing LLC",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP2bDJXVzxESKwnBk7AOCqD_8RXtn9YdGyCMvFM=w2048-h2048-k-no",
+          "description": "This image showcases a beautifully designed and constructed bathroom with stunning blue vessel sinks, a large arched window, and intricate tile work, highlighting the company's expertise in high-end bathroom remodeling and plumbing installations.",
+          "callToAction": "Elevate your bathroom with our luxurious designs and flawless craftsmanship. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP-_M9C1sGiADYoeaoOWPPkMNi0BUSaJTD_QD7v=w2048-h2048-k-no",
+          "description": "This image captures the company's skilled team at work, constructing a sturdy foundation and framework for a new building project, demonstrating their capabilities in handling large-scale plumbing installations and new construction projects.",
+          "callToAction": "Trust our experienced professionals to handle your new construction or renovation project with precision and expertise. Get a quote now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMHxr9WFkLTlIf3d_r0UYFZK1ky7OR-twZInR3s=w2048-h2048-k-no",
+          "description": "This image showcases the company's ability to handle complex outdoor plumbing installations, with a team member working on a water line in a residential backyard, highlighting their commitment to providing comprehensive plumbing solutions for both indoor and outdoor projects.",
+          "callToAction": "Keep your outdoor spaces functional and beautiful with our professional outdoor plumbing services. Schedule an appointment today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMy896N6kfQLl1DvZpaE76YHxHIlQonB3m5kbSr=w2048-h2048-k-no",
+          "description": "This image captures the company's team working on a challenging plumbing project, showcasing their ability to handle intricate installations and their commitment to delivering high-quality workmanship.",
+          "whyItWorks": "This image effectively demonstrates the company's expertise and dedication to tackling complex projects, making it an ideal choice for the About Us section, where potential customers can gain insight into the company's capabilities and professionalism."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNRZpHZAib1KIYSXvGbI0FB8kFUORHaqPqZBhLb=w2048-h2048-k-no",
+          "description": "This image showcases the company's commitment to safety and following industry best practices, with a team member wearing appropriate safety gear while working on a plumbing installation.",
+          "whyItWorks": "Including this image in the About Us section highlights the company's prioritization of safety and adherence to industry standards, instilling confidence in potential customers about the professionalism and reliability of the company's services."
+        }
+      ]
     }
   }
 }
