@@ -4664,6 +4664,74 @@
           "whyAboutUs": "This image is suitable for the About Us section as it showcases the company's in-depth understanding of plumbing systems and their commitment to delivering high-quality, professional work."
         }
       ]
+    },
+    "fussell-plumbing": {
+      "businessName": "Fussell Plumbing",
+      "processedImages": 5,
+      "totalTokens": 5020,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipObNwO4to_7KGzD8jscVQ_-hV65OKREsKThLn-3=w2048-h2048-k-no",
+          "description": "A professional plumbing logo featuring the company name 'Fussell Plumbing' in a bold, eye-catching design, along with their contact number and a list of services offered, including toilets, tubs, showers, leaks, drains, pipes, and clogs.",
+          "callToAction": "For all your plumbing needs, big or small, call Fussell Plumbing at 256-505-8606. Trusted experts in toilet, tub, shower, leak, drain, pipe, and clog services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNntBKhTJF8E_eIK1GTcq1skE4e7haTZ8N1f2ey=w2048-h2048-k-no",
+          "description": "A bold, attention-grabbing image featuring the company name 'Fussell Plumbing' in large text, along with their contact number prominently displayed.",
+          "callToAction": "Don't let plumbing problems hold you back. Call Fussell Plumbing at 256-505-8606 for reliable and efficient service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNrWksM1_BF36wnW2u7uHMP-4fhFqide7MeWyw0=w2048-h2048-k-no",
+          "description": "An eye-catching image featuring a hand holding a smartphone with the text 'Call Fussell' displayed, along with the company's contact number and a message about handling plumbing needs of any size.",
+          "callToAction": "Plumbing emergencies can't wait. Call Fussell Plumbing at 256-505-8606 for immediate assistance with your big or small plumbing needs."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO7gmyRQAh5NKkgSdbe7pibYhtzsthhSBq9xUNy=w2048-h2048-k-no",
+          "description": "A classic image featuring ornate columns and pipes, representing the company's expertise in both commercial and residential plumbing services.",
+          "reasonForAboutUs": "This image effectively conveys the company's experience and professionalism in handling a wide range of plumbing projects, from traditional to modern."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOdCkFs9WLBCBd_uG7F2JZIe6B4aEJDGkEG2-q1=w2048-h2048-k-no",
+          "description": "A close-up image of a leaky pipe, showcasing the company's ability to handle various plumbing issues, including leaks and repairs.",
+          "reasonForAboutUs": "This image highlights the company's core competency in addressing common plumbing problems, demonstrating their hands-on expertise and commitment to providing reliable solutions."
+        }
+      ]
+    },
+    "byers-plumbing": {
+      "businessName": "Byers Plumbing",
+      "processedImages": 12,
+      "totalTokens": 14725,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOmxbUoIeYY568anfD0oxLA7xVn4YPi_MYGzxTt=w2048-h2048-k-no",
+          "description": "A modern and luxurious bathroom featuring a freestanding bathtub, a glass-enclosed shower, and warm wood accents, showcasing the company's expertise in high-end bathroom remodeling.",
+          "callToAction": "Elevate your bathroom to a spa-like oasis. Contact us for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPmUkcRm2DWrVx08g26SVZ-zEeeX_h-i_iuOy0W=w2048-h2048-k-no",
+          "description": "A sleek and stylish double sink with a high-arc faucet, highlighting the company's ability to incorporate elegant and functional fixtures into their designs.",
+          "callToAction": "Transform your bathroom with our stunning and practical sink solutions. Schedule an appointment today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPl_t3XQxTwmZUAlkq7Rsj_04-1zV3skgUdrZfv=w2048-h2048-k-no",
+          "description": "A close-up of a polished gold faucet against a marble backdrop, demonstrating the company's attention to detail and commitment to using high-quality materials.",
+          "callToAction": "Upgrade your kitchen or bathroom with our premium faucets and fixtures. Contact us for a free quote."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPpvmVHtAfqNwdll1V4F3h421HcLFOOgWm-lzYp=w2048-h2048-k-no",
+          "description": "An assortment of copper pipes, fittings, and valves, showcasing the company's expertise in plumbing systems and their ability to handle complex projects.",
+          "reason": "This image highlights the company's core competency in plumbing and demonstrates their familiarity with a wide range of materials and components."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPmlAE5tJLPTLXV1q5Zd4DlHOAb9aIXOMxhQ0Y1=w2048-h2048-k-no",
+          "description": "A water heater installation in progress, with pipes and fittings laid out, representing the company's capability to handle both residential and commercial water heater replacements and installations.",
+          "reason": "This image showcases the company's expertise in water heater services, a crucial aspect of plumbing and a common need for homeowners and businesses."
+        }
+      ]
     }
   }
 }
