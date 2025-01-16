@@ -1500,6 +1500,74 @@
           "reason": "This image highlights the company's commitment to quality workmanship and attention to detail, even in the final stages of a project."
         }
       ]
+    },
+    "america-s-best-services-llc": {
+      "businessName": "America's Best Services LLC",
+      "processedImages": 12,
+      "totalTokens": 29965,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNp-JGw8MhW74UbS2BmItt0DFwLgvbzRXvgb6Dh=w2048-h2048-k-no",
+          "description": "A professional plumbing service van with the company's branding and contact information prominently displayed, showcasing their expertise and availability for plumbing and water cleanup services.",
+          "callToAction": "Trust America's Best Services for all your plumbing needs. Call 205-200-5937 for reliable and efficient service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOIMSspDXYNKtXFFNgdu0RmvVD0uNRGci9Argxs=w2048-h2048-k-no",
+          "description": "A well-maintained backyard area with a functional air conditioning unit and organized plumbing equipment, demonstrating the company's attention to detail and readiness for residential service calls.",
+          "callToAction": "Keep your home's plumbing and HVAC systems running smoothly with America's Best Services. Schedule your service today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOUKnoOf_6kXI8lZO8Tvrp8GlfWvRahbCw2XPli=w2048-h2048-k-no",
+          "description": "A close-up view of a plumbing service van's side panel, highlighting the company's branding, services offered, and contact information, instilling confidence in their professionalism and availability.",
+          "callToAction": "For top-notch plumbing and water cleanup services, choose America's Best Services. Call 205-200-5937 now."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM0BuQvbiJ2Zyegsjzl92NHDNSHa-fsKrNFKY1U=w2048-h2048-k-no",
+          "description": "A well-organized storage area with various plumbing supplies and equipment, showcasing the company's preparedness and commitment to having the right tools for any job.",
+          "reason": "This image demonstrates the company's capabilities by highlighting their extensive inventory of plumbing materials and tools, ensuring they are equipped to handle any plumbing project efficiently."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOLqluaOmaaQxd4jvtZ62Qt3HMgh-m-Ad67Thmu=w2048-h2048-k-no",
+          "description": "A collection of plumbing pipes and fittings neatly organized on shelves, representing the company's attention to detail and readiness to tackle plumbing installations and repairs.",
+          "reason": "This image showcases the company's expertise and professionalism by displaying their organized and well-stocked inventory of plumbing supplies, indicating their ability to handle a wide range of plumbing projects."
+        }
+      ]
+    },
+    "harrisons-plumbing": {
+      "businessName": "Harrisons Plumbing",
+      "processedImages": 11,
+      "totalTokens": 23774,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNSwObuywf43A0CLVmwA6p7btHvoGGC3pK7babK=w2048-h2048-k-no",
+          "description": "A professional logo design for Harrison's Plumbing, featuring plumbing tools and contact information, creating a strong brand identity.",
+          "callToAction": "Reliable and trusted plumbing services for your home or business. Call us today!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPuAQR_01S8hft-hp3oN5k2ev82rhEJFjvUIFs_=w2048-h2048-k-no",
+          "description": "A clean and modern logo design for Harrison's Plumbing, showcasing their professionalism and expertise in the plumbing industry.",
+          "callToAction": "Experience top-notch plumbing solutions from a licensed and insured team. Contact us now!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPhPoU8cH6EGzTfcp-8JW9zjqwp0L1yENeDKy0M=w2048-h2048-k-no",
+          "description": "A plumbing contractor's truck and equipment on-site, ready to tackle any plumbing job with efficiency and skill.",
+          "callToAction": "Don't let plumbing issues disrupt your day. Our experts are just a call away!"
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO-084Z6xwBQOve6NksBR3sJ38fbf5E3OPIm9g3=w2048-h2048-k-no",
+          "description": "A plumber working on a residential plumbing project, demonstrating the company's commitment to quality workmanship and customer satisfaction.",
+          "reason": "This image showcases the company's expertise in handling residential plumbing projects, highlighting their professionalism and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNnrC0dRIWRZefaDG5nnXtZIcAw0OqLHafCxDae=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at the company's plumbing equipment and supplies, showcasing their preparedness and ability to handle a wide range of plumbing tasks.",
+          "reason": "This image gives potential customers a glimpse into the company's resources and capabilities, instilling confidence in their ability to tackle any plumbing challenge."
+        }
+      ]
     }
   }
 }
