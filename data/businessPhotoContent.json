@@ -514,6 +514,74 @@
           "reason": "The business card image establishes the company's credibility, licensing, and commitment to customer service, making it a suitable choice for the About Us section."
         }
       ]
+    },
+    "h-and-c-plumbing-llc": {
+      "businessName": "H and C Plumbing LLC",
+      "processedImages": 12,
+      "totalTokens": 29021,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOqhIphdjntdKVxORQ60IN8dOz33KWU6QOyuj1V=w2048-h2048-k-no",
+          "description": "A modern walk-in shower with beige tile walls, a built-in bench, and a sleek glass door, showcasing the company's expertise in bathroom remodeling and design.",
+          "callToAction": "Transform your bathroom into a luxurious oasis with our expert design and installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNahBtjqwO_x0ACfuQ57ezkIuovKe77kBabxa3N=w2048-h2048-k-no",
+          "description": "A beautifully tiled shower with a marble-like finish, featuring a rainfall showerhead and a niche for storage, highlighting the company's attention to detail and high-quality workmanship.",
+          "callToAction": "Elevate your shower experience with our custom tile work and premium fixtures."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNX7hdmj5EG9CvAnoGQw9YbXmFNhSA-9it5HBSe=w2048-h2048-k-no",
+          "description": "A stunning freestanding bathtub with a modern faucet, set against a backdrop of marble-like tiles, demonstrating the company's ability to create spa-like bathroom retreats.",
+          "callToAction": "Indulge in the ultimate relaxation with our luxurious bathtub installations."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPA6zsaXcl4nuy6uvkfD-yZn8S9-uhOdraoPrSZ=w2048-h2048-k-no",
+          "description": "A residential plumbing project showcasing the installation of new pipes and fixtures, highlighting the company's expertise in both residential and commercial plumbing services.",
+          "reason": "This image demonstrates the company's capabilities in handling various plumbing projects, from new installations to renovations, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPjMkh8jfHqTe5BPN2xMu7Ned08J4TGZ_OOfHXu=w2048-h2048-k-no",
+          "description": "A tankless water heater installation, showcasing the company's proficiency in providing energy-efficient and space-saving solutions for hot water needs.",
+          "reason": "This image highlights the company's commitment to offering modern and sustainable plumbing solutions, which can be a key selling point in the About Us section."
+        }
+      ]
+    },
+    "stain-plumbing-and-construction-llc": {
+      "businessName": "Stain Plumbing and Construction LLC",
+      "processedImages": 12,
+      "totalTokens": 29967,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNIlqci6E1YCX0EuJKTBPMdUqSeJA_m7wvxW32G=w2048-h2048-k-no",
+          "description": "A septic service truck from Stain Plumbing and Construction LLC parked in front of a residential home, ready to provide septic pumping and installation services.",
+          "callToAction": "Keep your septic system running smoothly. Call Stain Plumbing and Construction LLC for reliable septic services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM61E7AZfeiSc_JOhWBO5zCbCAT8WKY69M5EX6l=w2048-h2048-k-no",
+          "description": "A septic service truck from Stain Plumbing and Construction LLC equipped with a large tank and pumping equipment, showcasing their capability to handle septic pumping and installation jobs.",
+          "callToAction": "Don't let septic issues disrupt your daily life. Trust Stain Plumbing and Construction LLC for professional septic services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPex7xaepqF-wekvJv74jbBtT88VME0QQcXsws3=w2048-h2048-k-no",
+          "description": "Stain Plumbing and Construction LLC's service truck parked in front of a historic building, highlighting their commitment to serving both residential and commercial clients.",
+          "callToAction": "Preserve the integrity of your property with Stain Plumbing and Construction LLC's expert septic services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNNEhHCPY5BcHtQzMj_U89vXl0Yu6NgPK5Oq_Qd=w2048-h2048-k-no",
+          "description": "A construction site with a backhoe and other equipment, showcasing Stain Plumbing and Construction LLC's capability to handle large-scale septic installation projects.",
+          "reasonForAboutUs": "This image demonstrates the company's expertise and resources to tackle complex septic system installations, highlighting their professionalism and commitment to quality work."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNAOj15zJ0TugvE5zqUrcuQT3dal36eR0e13_aY=w2048-h2048-k-no",
+          "description": "Stain Plumbing and Construction LLC's team working on a residential roof, showcasing their diverse range of services beyond septic systems.",
+          "reasonForAboutUs": "This image highlights the company's versatility and ability to handle various plumbing and construction projects, positioning them as a comprehensive service provider for their clients."
+        }
+      ]
     }
   }
 }
