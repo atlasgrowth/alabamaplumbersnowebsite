@@ -6,7 +6,7 @@
     "phoneNumbers": [],
     "bbbAccreditation": "unknown",
     "servicesOffered": [],
-    "aboutUs": "[ERROR rewriting aboutUs => The model `gpt-4.0-turbo` does not exist or you do not have access to it.]",
+    "aboutUs": "Hey there! I'm the proud owner of Fussell Plumbing, right here in beautiful Guntersville, Alabama. Since June 2023, we've been dedicated to keeping your pipes flowing smoothly. Whether you find us at 64 Edgewood Lane or 4213 Lakecrest Drive, we're always ready to lend a hand with a friendly smile and reliable service. Let's tackle those plumbing issues together!",
     "otherNotes": "There is no extensive customer feedback or detailed service information available online for Fussell Plumbing Company, LLC, as it is a relatively new establishment. The lack of reviews or testimonials suggests that the company may still be building its client base and reputation. No other significant information, such as the services offered, pricing, or specific customer experiences, is readily available on the internet for Fussell Plumbing Company, LLC, at this time. Any additional details would require direct contact with the company or waiting for more information to become publicly available."
   },
   "jason-s-drain-service": {
@@ -29,7 +29,7 @@
       "hot water heaters",
       "ventilation systems"
     ],
-    "aboutUs": "[ERROR rewriting aboutUs => The model `gpt-4.0-turbo` does not exist or you do not have access to it.]",
+    "aboutUs": "Hi there! I'm Jason Hunter, the owner of Jason's Drain Service, right here in the heart of Alabama, serving the Cottondale and Ralph communities. I take great pride in delivering professional, honest, and reliable plumbing services, whether it's unclogging drains starting at just $65 or tackling plumbing repairs at $75 an hour. I'm here to make sure you get top-notch service without breaking the bank, Monday through Friday, 8 a.m. to 5 p.m. Let's get your plumbing sorted out\u2014I'm just a call away!",
     "otherNotes": "The business is located at 14366 Wells Creek Ln, Ralph, AL 35480, although there is also a mention of an address in Cottondale, AL, which could indicate multiple service areas or a secondary location. Customer reviews across various platforms consistently rate Jason's Drain Service with 5-star ratings, with reviewers appreciating the prompt communication, reasonable prices, and the cleanliness of the work done. Some reviewers have mentioned using the service multiple times over the years and highly recommending it to others."
   },
   "salser-plumbing-and-septic-service-llc": {
@@ -47,7 +47,7 @@
       "Plumbing",
       "Septic system construction"
     ],
-    "aboutUs": "[ERROR rewriting aboutUs => The model `gpt-4.0-turbo` does not exist or you do not have access to it.]",
+    "aboutUs": "Hey there! I'm Brandon Salser, and I run Salser Plumbing and Septic Service, LLC, right here in Vincent, Alabama. Since 2013, my team and I have been committed to delivering top-notch, reliable plumbing services you can count on. With our A+ BBB rating, we're here to make sure your plumbing needs are taken care of with a smile. Give us a shout, and let's get your plumbing in tip-top shape!",
     "otherNotes": "The business does not have any reviews on the Yellow Pages or BBB websites, but it is listed among other local plumbing services in the area, indicating its presence and availability for various plumbing and septic needs. There is no detailed financial or employee information available publicly for Salser Plumbing and Septic Service, LLC, as such data is typically not disclosed for small, privately-owned businesses unless through specific business research services."
   },
   "hydrotech-plumbing-llc": {
@@ -64,7 +64,7 @@
       "Residential Plumbing Repair",
       "Remodel Work"
     ],
-    "aboutUs": "[ERROR rewriting aboutUs => The model `gpt-4.0-turbo` does not exist or you do not have access to it.]",
+    "aboutUs": "Hey there! I'm Mike Erby, the proud owner of Hydrotech Plumbing here in beautiful Guntersville, Alabama. Since 2019, my team and I have been tackling everything from residential and commercial plumbing repairs to remodel projects, always with a smile. Our A+ BBB rating speaks volumes, but it's the trust and satisfaction of our community that really keeps us going. Swing by at 215 Willow Lake Circle, and let's chat about how we can help with your plumbing needs!",
     "otherNotes": "There are other plumbing companies with similar names, such as Hydrotech Plumbing LLC in Eugene, Oregon, which offers different services and operates independently of the Alabama-based company."
   },
   "strickland-plumbing-maintenance": {
@@ -85,8 +85,8 @@
       "plumbing supplies",
       "maintenance services"
     ],
-    "aboutUs": "[ERROR rewriting aboutUs => The model `gpt-4.0-turbo` does not exist or you do not have access to it.]",
+    "aboutUs": "Hey there! I'm David Strickland, the proud owner of Strickland Plumbing & Maintenance right here in Pelham, Alabama. Since 2018, I've been dedicated to providing top-notch plumbing and handyman services to my neighbors. Whether it's a leaky pipe or a home project that needs a professional touch, I'm here to help, backed by all the right licenses to get the job done right. Looking forward to lending you a hand!",
     "otherNotes": "Customer feedback and reviews for this specific business in Alabama are not readily available in the sources provided, but it is clear that the business is focused on delivering quality workmanship and customer service, similar to other businesses with the same name in different locations. For any licensing or regulatory inquiries, one can contact the State of Alabama Plumbers & Gas Fitters Examining Board at 216 Aquarius Dr STE 319, Homewood, AL 35209, or by calling (205) 945-4857."
   },
-  "forceUpdateTimestamp": "1737010315.1445012"
+  "forceUpdateTimestamp": "1737010404.5527318"
 }
