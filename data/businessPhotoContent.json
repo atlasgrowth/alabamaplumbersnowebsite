@@ -3780,6 +3780,74 @@
           "reasonForAboutUs": "This image highlights the company's dedication to maintaining a safe work environment and prioritizing the well-being of its employees and customers."
         }
       ]
+    },
+    "wise-plumbing-and-gas-llc": {
+      "businessName": "Wise Plumbing and Gas LLC",
+      "processedImages": 7,
+      "totalTokens": 17479,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMqRfM6yyaYSn9Wcew5MCHxOdfVDVGwRTTEC0Kp=w2048-h2048-k-no",
+          "description": "A modern, high-end gas range with multiple burners and a griddle, showcasing the company's expertise in installing and servicing premium kitchen appliances.",
+          "callToAction": "Upgrade your kitchen with our professional gas range installation and maintenance services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMw_fAtEK5X1QxeYTNh89XjuGklSwwh4oPQ9zVY=w2048-h2048-k-no",
+          "description": "A luxurious freestanding bathtub with a large window, highlighting the company's ability to handle intricate plumbing projects in high-end bathroom renovations.",
+          "callToAction": "Transform your bathroom into a spa-like oasis with our expert plumbing services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPykudi7crzDqzV-yLoMRFDon9cZ8Z2et1E1a2G=w2048-h2048-k-no",
+          "description": "A serene bathroom vanity with a vessel sink and modern fixtures, showcasing the company's skill in creating stylish and functional bathroom designs.",
+          "callToAction": "Elevate your bathroom's style and functionality with our skilled plumbing and design services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGnQ6xozMMS3MYxKf4r1o0rCUxn_t2rh2_1M8n=w2048-h2048-k-no",
+          "description": "A professional plumbing setup with various tools and equipment, demonstrating the company's expertise and readiness to handle any plumbing job.",
+          "reason": "This image effectively showcases the company's capabilities and professionalism, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPzRgqH06LiYXnlRkUe-4OBdy4X0dR-wtKFPwm_=w2048-h2048-k-no",
+          "description": "A well-organized utility room with a furnace and water heater, highlighting the company's experience in installing and maintaining essential home systems.",
+          "reason": "This image illustrates the company's comprehensive services, including HVAC and water heater installations, making it a good fit for the About Us section."
+        }
+      ]
+    },
+    "bob-s-handyman-service": {
+      "businessName": "Bob's Handyman Service",
+      "processedImages": 12,
+      "totalTokens": 27433,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMLVs_mTnZmYXy9G05R8RHQIZTdbW13LcuMOFcS=w2048-h2048-k-no",
+          "description": "This image showcases the exterior of a well-maintained residential property, featuring a freshly painted siding, a welcoming front porch with wooden railings, and a neatly landscaped yard. The attention to detail in the craftsmanship and overall curb appeal is evident.",
+          "callToAction": "Enhance your home's beauty and value with our expert exterior painting and renovation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNJluL0pkFvpegine2XDzAnj7lOLH0rttjjf1yY=w2048-h2048-k-no",
+          "description": "This image highlights the company's expertise in deck construction and outdoor living spaces. The spacious wooden deck, complete with railings and stairs, seamlessly integrates with the home's exterior, providing a functional and inviting area for outdoor relaxation and entertainment.",
+          "callToAction": "Transform your backyard into an oasis with our custom-built decks and outdoor living solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOZk79mf_K4GPODZAviZC0bWU8MJ4-NGtQi37gP=w2048-h2048-k-no",
+          "description": "This striking image showcases a modern and stylish bathroom renovation. The sleek, minimalist design features a walk-in shower with a frameless glass enclosure, complemented by elegant tiling and fixtures. The attention to detail and high-quality craftsmanship are evident.",
+          "callToAction": "Elevate your bathroom to a luxurious sanctuary with our expert renovation services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN_ukp8KUknPnougHDr5h3JLkr0Jj2aO_8DNPW0=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in interior design and renovation. The cozy living room features a tasteful blend of modern and traditional elements, with a statement accent wall, plush seating, and carefully curated decor. The attention to detail and quality craftsmanship are evident.",
+          "whyAboutUs": "This image effectively demonstrates the company's ability to create warm, inviting, and stylish living spaces that reflect the client's personal taste and lifestyle."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMo9EdZW0oMhQArdeYpbqVgYtqdN56cf3df5i7o=w2048-h2048-k-no",
+          "description": "This image highlights the company's commitment to quality and attention to detail. The well-crafted wooden door, with its intricate paneling and hardware, showcases the level of craftsmanship and expertise in woodworking and finish carpentry.",
+          "whyAboutUs": "This image showcases the company's dedication to delivering high-quality workmanship and attention to detail, even in the smallest elements of a project, instilling confidence in their ability to exceed client expectations."
+        }
+      ]
     }
   }
 }
