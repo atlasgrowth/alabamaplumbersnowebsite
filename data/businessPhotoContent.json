@@ -3678,6 +3678,108 @@
           "whyItWorks": "This image showcases the company's expertise in plumbing repairs and maintenance, which is another essential service they provide. It highlights their attention to detail and commitment to quality workmanship."
         }
       ]
+    },
+    "quality-plumbing-co": {
+      "businessName": "Quality Plumbing Co.",
+      "processedImages": 5,
+      "totalTokens": 6681,
+      "heroSection": [
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SFmSslgOclcgXOKLCeqcLA&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=203.04424&pitch=0&thumbfov=100",
+          "description": "An exterior view of a residential property showcasing a well-maintained lawn, trees, and a driveway leading to the main house, demonstrating the company's expertise in serving residential clients.",
+          "callToAction": "Trust Quality Plumbing Co. for all your residential plumbing needs, from routine maintenance to complex installations."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPQQ8kAP5pSaMTqqNq7-ikv2dSg4GKXXOPuNZPT=w2048-h2048-k-no",
+          "description": "A close-up view of two modern tankless water heaters installed in a residential setting, highlighting the company's proficiency in installing and servicing cutting-edge plumbing systems.",
+          "callToAction": "Upgrade to energy-efficient tankless water heaters with Quality Plumbing Co. and enjoy endless hot water while reducing your utility bills."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO6boQZgCRFHiXBJfECl2xsYdX9YgTDwEb3eXZ-=w2048-h2048-k-no",
+          "description": "The company's logo and contact information, showcasing their professional branding and commitment to quality service.",
+          "callToAction": "For reliable and top-notch plumbing services in Union Grove, AL, contact Quality Plumbing Co. at 256-738-5625."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPRL0AiLbxNlh5LPs0xa2Abl357bz8Cz3ab9s9W=w2048-h2048-k-no",
+          "description": "A custom-built vanity with a copper sink and wooden countertop, showcasing the company's craftsmanship and attention to detail in creating unique plumbing solutions.",
+          "justification": "This image demonstrates the company's ability to handle custom projects and their commitment to delivering high-quality workmanship, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPQQ8kAP5pSaMTqqNq7-ikv2dSg4GKXXOPuNZPT=w2048-h2048-k-no",
+          "description": "A close-up view of two modern tankless water heaters installed in a residential setting, highlighting the company's expertise in installing and servicing advanced plumbing systems.",
+          "justification": "This image showcases the company's proficiency in working with cutting-edge plumbing technologies, positioning them as knowledgeable and capable professionals in the industry."
+        }
+      ]
+    },
+    "dns-plumbing-llc": {
+      "businessName": "DNS Plumbing LLC",
+      "processedImages": 5,
+      "totalTokens": 10148,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN_TPMpDk8FYgm5JywCdUKAmRi8ADvYRRqMgBeK=w2048-h2048-k-no",
+          "description": "A professional logo and branding for DNS Plumbing, showcasing their commitment to quality work and fair pricing.",
+          "callToAction": "Trust the experts at DNS Plumbing for all your residential and commercial plumbing needs. Contact us today for a free quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPSD9ak5hIbPXUcterV0g1xGhw5pq8woUlNetfX=w2048-h2048-k-no",
+          "description": "Intricate plumbing pipes installed with precision in a residential attic space, demonstrating the skill and expertise of DNS Plumbing's technicians.",
+          "callToAction": "Ensure your home's plumbing system is installed correctly and up to code. Schedule a consultation with DNS Plumbing now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOIh6FjJ8Kgb2wEkM7a6YTQzxHturHeMoMqeq-H=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a plumbing rough-in during new construction, highlighting DNS Plumbing's involvement from the ground up.",
+          "callToAction": "Trust DNS Plumbing to handle all your new construction plumbing needs, from initial planning to final installation."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNAUC8yPK-YnckPIQbMu69dTRLyfkMD_SENGlOk=w2048-h2048-k-no",
+          "description": "A close-up view of expertly installed plumbing pipes and vents in a residential attic, showcasing DNS Plumbing's attention to detail and quality workmanship.",
+          "reason": "This image effectively demonstrates the company's capabilities in residential plumbing installations, with a focus on precision and adherence to industry standards."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM2zeNM940zaQy-lUuVr8SCg1xuij9V4kAsM-60=w2048-h2048-k-no",
+          "description": "A comprehensive view of a plumbing system installation in progress, highlighting the complexity of the work and the expertise required by DNS Plumbing's team.",
+          "reason": "This image provides a glimpse into the behind-the-scenes work involved in plumbing projects, emphasizing the company's experience in handling intricate and challenging installations."
+        }
+      ]
+    },
+    "a-j-s-septic-services-llc": {
+      "businessName": "A J's Septic Services LLC",
+      "processedImages": 11,
+      "totalTokens": 25841,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNPyvjZz9VdOifrRs1Yr3kapYxv-mlWrTHGB73Q=w2048-h2048-k-no",
+          "description": "A panoramic view of a well-maintained residential area with lush green lawns and mature trees, showcasing the pristine environment in which AJ's Septic Services operates.",
+          "callToAction": "Keep your property looking its best with our professional septic services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNJIAtFKD5gmMAOLNf8PvvAB0OYoMwzLafQctSQ=w2048-h2048-k-no",
+          "description": "A truck from AJ's Septic Services parked on a job site, with piles of excavated soil in the background, indicating the company's readiness to handle septic system installations and repairs.",
+          "callToAction": "Trust our experienced team to handle all your septic system needs efficiently and professionally."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO8IR_PBJKjC2aDtd6BtJA_735cN958zBUryGCS=w2048-h2048-k-no",
+          "description": "A smiling employee from AJ's Septic Services standing proudly on a job site, showcasing the company's commitment to customer satisfaction and quality workmanship.",
+          "callToAction": "Experience the difference of working with a team that takes pride in their work."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMj5rWjvMTyZptCZaM8fvudD_tSSeRyhYHrpNUM=w2048-h2048-k-no",
+          "description": "A water tanker truck from AJ's Septic Services parked in a workshop, highlighting the company's specialized equipment and resources to handle various septic service needs.",
+          "reasonForAboutUs": "This image demonstrates the company's professional-grade equipment and capabilities, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPHTU-3VHbM21Dku57tu2EweUDb4LumVoFgQt2F=w2048-h2048-k-no",
+          "description": "Two employees from AJ's Septic Services wearing protective gear, showcasing the company's commitment to safety and adherence to industry best practices.",
+          "reasonForAboutUs": "This image highlights the company's dedication to maintaining a safe work environment and prioritizing the well-being of its employees and customers."
+        }
+      ]
     }
   }
 }
