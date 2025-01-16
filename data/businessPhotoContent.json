@@ -3440,6 +3440,74 @@
           "whyItWorks": "This photo highlights Rooter Pros LLC's dedication to delivering high-quality services and their meticulous approach to every job, instilling confidence in potential customers."
         }
       ]
+    },
+    "rocket-city-home-repair": {
+      "businessName": "Rocket City Home Repair",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNskAq1DX0pqVO_vBp91hbbXqC_FsM_whX1VUdx=w2048-h2048-k-no",
+          "description": "A professional contractor from Rocket City Home Repair standing proudly next to his work truck, showcasing the company's expertise and commitment to quality service.",
+          "callToAction": "Trust the experts at Rocket City Home Repair for all your home repair and renovation needs. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPHbaFI4uXQR_kRh7RX4_9HYJW2rFnxa4XDQ5DT=w2048-h2048-k-no",
+          "description": "A beautifully crafted wooden deck with intricate railings, built by the skilled team at Rocket City Home Repair, adding value and aesthetic appeal to a residential property.",
+          "callToAction": "Enhance your outdoor living space with a custom-built deck from Rocket City Home Repair. Call now for a free quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOj8cPr5YjpZHOt94-vMuAgteNxjCuZE2EKrrkd=w2048-h2048-k-no",
+          "description": "A stunning aerial view of a residential property, showcasing the impeccable roofing work performed by Rocket City Home Repair, ensuring protection and curb appeal.",
+          "callToAction": "Protect your home with a durable and stylish roof from Rocket City Home Repair. Schedule a free inspection today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPWKTluc1PBpTvHfXJzAonMQthd7zYkZNBEyuIL=w2048-h2048-k-no",
+          "description": "A collection of essential tools and equipment used by the professionals at Rocket City Home Repair, demonstrating their preparedness and commitment to delivering quality workmanship.",
+          "reason": "This image showcases the company's professionalism and readiness to tackle any home repair or renovation project, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNStcbEP_VtxZZXXYs0r7mYUIzUKj2xXxuqQnhi=w2048-h2048-k-no",
+          "description": "A skilled contractor from Rocket City Home Repair proudly showcasing their work, highlighting the company's dedication to customer satisfaction and attention to detail.",
+          "reason": "This image humanizes the company and showcases the expertise and pride of their team, building trust with potential customers."
+        }
+      ]
+    },
+    "southern-home-solutions": {
+      "businessName": "Southern Home Solutions",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMJ0bv4nUKgAL5BEThsk6Fx0Dl2kNjUKanMjXgL=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of Southern Home Solutions in residential construction projects. It captures the initial groundwork phase, with heavy machinery and materials on site, ready to transform the landscape into a beautiful new home.",
+          "callToAction": "Envision your dream home with Southern Home Solutions. Contact us today to bring your vision to life."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPxFiPqGgq_rFcF_KA5G4qSmB0az-PcUOkjUhiG=w2048-h2048-k-no",
+          "description": "This image highlights the attention to detail and craftsmanship that Southern Home Solutions brings to every project. It showcases the framing and structural elements of a home under construction, demonstrating the company's commitment to quality and precision.",
+          "callToAction": "Trust Southern Home Solutions to build your home with the utmost care and expertise. Get in touch for a consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPb1QixcdswaJqDW7VkWqVnZZgo714JiKmr-Smm=w2048-h2048-k-no",
+          "description": "This image captures the serene and natural surroundings where Southern Home Solutions operates. It showcases the company's ability to seamlessly integrate new construction into the local environment, creating homes that harmonize with their beautiful settings.",
+          "callToAction": "Discover the perfect blend of modern living and natural beauty with Southern Home Solutions. Contact us to start your project."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM7QdbL1R6AVg0dLBgROkw-oaRYtEx7AJTj6ubz=w2048-h2048-k-no",
+          "description": "This image showcases the dedication and hard work of the Southern Home Solutions team. It captures a skilled professional diligently working on a plumbing installation, demonstrating the company's commitment to quality and attention to detail.",
+          "whyItWorks": "This image effectively represents the company's capabilities and expertise in plumbing services, which are essential for any residential construction project."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNZXBCX_TqUvRAl6qf2wfbsPRVB25DKlJvXxAHi=w2048-h2048-k-no",
+          "description": "This image highlights the company's expertise in bathroom remodeling and renovation projects. It showcases a beautifully designed and constructed bathroom, complete with modern fixtures and finishes, reflecting Southern Home Solutions' ability to transform spaces with style and functionality.",
+          "whyItWorks": "This image showcases the company's skills in bathroom renovations, which are often a key component of home improvement projects, demonstrating their versatility and ability to handle various aspects of residential construction."
+        }
+      ]
     }
   }
 }
