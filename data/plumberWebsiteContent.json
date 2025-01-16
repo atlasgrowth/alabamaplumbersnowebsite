@@ -1,148 +1,41 @@
 {
   "metadata": {
     "version": "1.0",
-    "generated": "1737026150.1686146",
-    "totalBusinesses": 10
+    "generated": "1737028867.6383564",
+    "totalBusinesses": 3
   },
   "businessContent": {
     "fussell-plumbing": {
-      "websiteContent": {
-        "aboutUs": "Fussell Plumbing Company, LLC is a trusted domestic limited liability company, proudly serving the Guntersville, Alabama area since June 2023. Our registered office is conveniently located at 64 Edgewood Lane, with a mailing address at 4213 Lakecrest Drive. Despite our relatively recent establishment, we have quickly become a staple in the community, providing reliable plumbing solutions. Our commitment to quality service and customer satisfaction is at the heart of everything we do.",
-        "whyChooseUs": {
-          "mainPitch": "At Fussell Plumbing Company, LLC, we turn your plumbing problems into solutions with our unwavering commitment to quality and customer satisfaction.",
-          "sellingPoints": [
-            "Registered and recognized domestic limited liability company in Alabama, ensuring professional and accountable service.",
-            "Located in the heart of Guntersville, making us a local solution for all your plumbing needs.",
-            "Despite being a young company, we have quickly established a strong presence in the community, demonstrating our reliability and commitment.",
-            "Our focus on customer satisfaction drives us to provide top-notch service, making us the go-to choice for all plumbing concerns."
-          ]
-        }
+      "aboutUs": "Welcome to Fussell Plumbing Company, LLC, your trusted local plumbing service provider in Guntersville, Alabama. We've been proudly serving our community since June 2023, bringing a commitment to quality and reliability to every job. While we're a relatively young company, our dedication to providing top-notch service is unwavering. As a locally owned and operated business, we understand the unique needs of our customers and strive to exceed expectations every time.",
+      "whyChooseUs": {
+        "mainPitch": "At Fussell Plumbing Company, LLC, we're not just a business, we're your neighbors. We're committed to providing reliable, high-quality plumbing services to our local community.",
+        "sellingPoints": [
+          "Locally Owned and Operated: As a local business, we understand the unique plumbing needs of our community and are always just a call away.",
+          "Commitment to Quality: Though we've been in operation for just over a year, our dedication to delivering high-quality services is second to none.",
+          "Reliable Service: We pride ourselves on our reliability. When you choose Fussell Plumbing, you're choosing a partner you can trust."
+        ]
       }
     },
     "jason-s-drain-service": {
-      "websiteContent": {
-        "aboutUs": "Welcome to Jason's Drain Service, your trusted plumbing solution for the past 9 years. Located in Cottondale, AL, we proudly serve the greater Cottondale area and surrounding regions within Tuscaloosa County. We offer a comprehensive range of plumbing services, from drain cleaning to water heater installation, and are known for our prompt response and emergency service availability. As a licensed and insured business, we ensure professional, high-quality work that meets your needs.",
-        "whyChooseUs": {
-          "mainPitch": "At Jason's Drain Service, we combine years of expertise with a commitment to prompt, professional service to provide top-notch plumbing solutions.",
-          "sellingPoints": [
-            "With 9 years of operation, we bring a wealth of experience and knowledge to every job.",
-            "We offer a wide range of services, ensuring a comprehensive solution for all your plumbing needs.",
-            "Our prompt response and availability for emergency services set us apart, ensuring you're never left in a lurch.",
-            "As a licensed and insured business, we guarantee professional, high-quality work that you can trust."
-          ]
-        }
+      "aboutUs": "Welcome to Jason's Drain Service, your trusted local plumbing solution for the past nine years. Located in the heart of Cottondale, AL, we proudly serve the greater Tuscaloosa County area, offering a comprehensive range of plumbing services. From drain cleaning and leak detection to water heater installation and sewer repair, our licensed and insured team is committed to delivering prompt, professional service when you need it most.",
+      "whyChooseUs": {
+        "mainPitch": "At Jason's Drain Service, we combine years of expertise with a commitment to quality service to provide you with reliable plumbing solutions.",
+        "sellingPoints": [
+          "With nearly a decade of experience, we have honed our skills to tackle any plumbing issue, ensuring you receive the highest quality service.",
+          "We offer a wide range of services, making us your one-stop-shop for all your plumbing needs. Whether it's a clogged drain or a new water heater installation, we've got you covered.",
+          "Our prompt response and availability for emergency services set us apart. We understand that plumbing issues can arise at any time, which is why we are committed to providing quick and efficient solutions."
+        ]
       }
     },
     "salser-plumbing-and-septic-service-llc": {
-      "websiteContent": {
-        "aboutUs": "Salser Plumbing and Septic Service, LLC, a trusted name in Vincent, Alabama, has been providing top-notch plumbing solutions for over a decade. As a registered LLC, we are committed to delivering quality services that cater to all your plumbing and septic needs. Our professional team, backed by necessary certifications, ensures that every job is done right the first time. While our physical location is in Vincent, we proudly serve the surrounding local region, always ready to address your plumbing concerns.",
-        "whyChooseUs": {
-          "mainPitch": "At Salser Plumbing, we turn your plumbing problems into solutions with our expertise and commitment to service excellence.",
-          "sellingPoints": [
-            "Over a decade of experience in the plumbing industry, ensuring reliable and efficient service.",
-            "Registered LLC in Alabama, emphasizing our commitment to professionalism and legal compliance.",
-            "Possibly offering emergency services, because we understand that plumbing issues can occur at the most inconvenient times.",
-            "Associated with the State of Alabama Plumbers & Gas Fitters Examining Board, reflecting our adherence to industry standards and regulations."
-          ]
-        }
-      }
-    },
-    "hydrotech-plumbing-llc": {
-      "websiteContent": {
-        "aboutUs": "HydroTech Plumbing LLC, a registered Limited Liability Company in Alabama, has been providing top-notch commercial and residential plumbing repair services since 2020. Located in Guntersville, we extend our expert services to the North Alabama region, specializing in plumbing repairs and remodel work. Our commitment to professionalism, quality, and punctuality sets us apart in the industry. While we ensure compliance with the State of Alabama Plumbers & Gas Fitters Examining Board regulations, our focus remains on delivering exceptional customer experiences.",
-        "whyChooseUs": {
-          "mainPitch": "At HydroTech Plumbing LLC, we combine years of expertise with a commitment to quality, ensuring your plumbing needs are met with utmost professionalism.",
-          "sellingPoints": [
-            "Over five years of experience in delivering high-quality commercial and residential plumbing services.",
-            "Specialization in both plumbing repairs and remodel work, catering to a wide range of customer needs.",
-            "Committed to punctuality and responsiveness, ensuring minimal disruption to your daily routine.",
-            "Strict adherence to the State of Alabama Plumbers & Gas Fitters Examining Board regulations, guaranteeing safe and reliable services."
-          ]
-        }
-      }
-    },
-    "strickland-plumbing-maintenance": {
-      "websiteContent": {
-        "aboutUs": "Strickland Plumbing & Maintenance, proudly serving the Pelham, Alabama region since 2018, is your go-to solution for all your plumbing needs. Licensed by the State of Alabama Plumbers & Gas Fitters Examining Board, we offer a comprehensive range of services from plumbing renovation to commercial plumbing. Our commitment to ensuring well-maintained and leak-free homes and businesses is unwavering. Trust us to deliver top-notch service, backed by our A+ BBB rating.",
-        "whyChooseUs": {
-          "mainPitch": "At Strickland Plumbing & Maintenance, we turn your plumbing problems into plumbing solutions.",
-          "sellingPoints": [
-            "Licensed and regulated by the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring professional and reliable service.",
-            "Offering a comprehensive range of services, from plumbing renovation to commercial plumbing, catering to all your plumbing needs.",
-            "Proudly serving the Pelham, Alabama region for over 7 years, demonstrating our commitment to the community.",
-            "Holding an A+ BBB rating, reflecting our dedication to quality service and customer satisfaction."
-          ]
-        }
-      }
-    },
-    "reese-plumbing-llc": {
-      "websiteContent": {
-        "aboutUs": "Welcome to Reese Plumbing LLC, your reliable plumbing solution provider in Alabama. While our specific years of operation are not disclosed, our commitment to providing top-notch plumbing services is unwavering. Our team of professionals is dedicated to delivering quality workmanship, ensuring your plumbing needs are met with precision and care. For more information about our services, we encourage you to reach out to us directly.",
-        "whyChooseUs": {
-          "mainPitch": "At Reese Plumbing LLC, we turn your plumbing problems into solutions with our expertise and dedication.",
-          "sellingPoints": [
-            "We are a trusted plumbing service provider in Alabama, committed to delivering quality and reliable services.",
-            "Our team of professionals is dedicated to meeting your plumbing needs with precision and care.",
-            "We offer a wide range of plumbing services, tailored to meet your specific needs.",
-            "While we do not disclose our pricing upfront, we assure you of competitive rates for our top-notch services."
-          ]
-        }
-      }
-    },
-    "alabama-water-heater": {
-      "websiteContent": {
-        "aboutUs": "Welcome to Alabama Water Heater, your trusted local expert in water heater installation, maintenance, and repair. While our exact years of operation are not specified, our reputation in the Talladega area speaks for itself. We are committed to providing top-notch service to our community and the surrounding regions. Our team of professionals is dedicated to ensuring your water heater needs are met with the highest level of expertise and care.",
-        "whyChooseUs": {
-          "mainPitch": "At Alabama Water Heater, we turn cold showers into a thing of the past with our specialized water heater services.",
-          "sellingPoints": [
-            "Specialized expertise in water heater installation, maintenance, and repair, ensuring your home's comfort and efficiency.",
-            "Local business deeply rooted in the Talladega community, understanding the unique needs of our neighbors.",
-            "Committed to providing top-notch service, prioritizing customer satisfaction above all else.",
-            "Flexible service areas, extending our expertise to the surrounding regions of our physical location."
-          ]
-        }
-      }
-    },
-    "fortner-plumbing": {
-      "websiteContent": {
-        "aboutUs": "Fortner Plumbing, a family-owned business, has been serving Scottsboro, AL, and the surrounding areas since 1973, offering a range of services from drain cleaning to sewer repair. Our team, deeply rooted in the community, is known for its expertise and professionalism. We understand that plumbing problems often occur at inconvenient times, hence we offer flexible scheduling and upfront pricing with no hidden fees. Our commitment to quality service and customer satisfaction has made us a trusted name in the industry for over 50 years.",
-        "whyChooseUs": {
-          "mainPitch": "At Fortner Plumbing, we combine over five decades of expertise with a commitment to transparency and affordability, ensuring your plumbing needs are met with the highest standards.",
-          "sellingPoints": [
-            "Over 50 years of experience in providing reliable and professional plumbing services.",
-            "Comprehensive range of services including drain cleaning, hydro jetting, and sewer repair, tailored to meet the unique needs of our community.",
-            "Transparent pricing with no hidden fees or obligations, ensuring affordability and trust.",
-            "Family-owned and community-rooted, we understand the local plumbing requirements like no other."
-          ]
-        }
-      }
-    },
-    "joe-reid-dawes-plumbing-service": {
-      "websiteContent": {
-        "aboutUs": "Established in 1974, Dawes Plumbing Service has been a trusted name in the Mobile, Alabama region for over four decades. We specialize in a wide range of plumbing repairs and leaks, catering to both residential and commercial needs. Our partnerships with ACE DuraFlo Systems and FLIR enable us to provide top-notch solutions for swimming pools, spas, utility lines, sewers, and drains. We are committed to delivering prompt, high-quality service at fair prices.",
-        "whyChooseUs": {
-          "mainPitch": "At Dawes Plumbing Service, we turn your plumbing problems into solutions with our expertise, promptness, and fair pricing.",
-          "sellingPoints": [
-            "Over 49 years of trusted service in the Mobile, Alabama region.",
-            "Specialists in a wide array of plumbing repairs and leaks, including swimming pools, spas, utility lines, sewers, and drains.",
-            "Partnerships with industry leaders like ACE DuraFlo Systems and FLIR for superior service quality.",
-            "Committed to prompt responses, fair pricing, and leaving your space clean and tidy."
-          ]
-        }
-      }
-    },
-    "brian-harden-plumbing-inc": {
-      "websiteContent": {
-        "aboutUs": "Welcome to our plumbing company, a trusted name in Alabama since 2000. We are a fully licensed business, offering a comprehensive range of residential and commercial plumbing services. Our service areas span across numerous cities and towns in the Mobile and Baldwin County regions of Alabama. With our commitment to quality and customer satisfaction, we have earned an A+ rating from the BBB.",
-        "whyChooseUs": {
-          "mainPitch": "Experience unparalleled plumbing solutions, backed by over two decades of industry expertise.",
-          "sellingPoints": [
-            "Licensed by the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring professional and compliant services.",
-            "Offering a wide array of services, from installation and repair of water heaters, faucets, toilets, to advanced services like video camera inspection and medical gas pipe.",
-            "Proudly serving a broad region, including Bay Minette, Bayou La Batre, Creola, Daphne, Elberta, Fairhope, Foley, Gulf Shores, Loxley, Mobile, Orange Beach, Robertsdale, Semmes, Silverhill, and Spanish Fort.",
-            "BBB Accredited business with an A+ rating, reflecting our dedication to customer satisfaction and quality service."
-          ]
-        }
+      "aboutUs": "Welcome to Salser Plumbing and Septic Service, LLC, your trusted local plumbing service provider in Vincent, Alabama. With over a decade of experience, we are committed to delivering top-notch plumbing solutions, including general repairs, installations, and septic services. As a locally owned and operated business, we take pride in serving our community and surrounding areas, ensuring that all your plumbing needs are met with professionalism and expertise.",
+      "whyChooseUs": {
+        "mainPitch": "At Salser Plumbing, we're not just plumbers - we're your neighbors. We're committed to providing high-quality, reliable plumbing services to our local community.",
+        "sellingPoints": [
+          "With over 11 years of experience, we've honed our skills and expertise to handle all your plumbing needs efficiently and effectively.",
+          "Our A+ BBB rating reflects our commitment to quality service and customer satisfaction.",
+          "As a registered business with the State of Alabama Plumbers & Gas Fitters Examining Board, we uphold the highest standards of professionalism and adhere to all state regulations."
+        ]
       }
     }
   }
