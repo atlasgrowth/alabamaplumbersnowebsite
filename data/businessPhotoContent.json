@@ -412,6 +412,108 @@
           "reason": "This image demonstrates the company's credibility and legitimacy, reassuring potential customers of their professional services."
         }
       ]
+    },
+    "done-right-plumbing-services": {
+      "businessName": "Done Right Plumbing Services",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOfzTI88aPFAmy7QhN8pOJXzDGwNOSFXTO4RCMF=w2048-h2048-k-no",
+          "description": "This image showcases a modern kitchen sink with a sleek faucet and marble countertop, highlighting the high-quality plumbing fixtures and finishes provided by Done Right Plumbing Services.",
+          "callToAction": "Upgrade your kitchen with our expert plumbing solutions for a luxurious and functional space."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNxWIWR22gRfMel7NvD6ZtruUFGFsCeXtfyC7vJ=w2048-h2048-k-no",
+          "description": "This image displays the intricate plumbing system for a water heater installation, demonstrating the technical expertise and attention to detail offered by Done Right Plumbing Services.",
+          "callToAction": "Trust our professionals to handle all your water heater needs, from installation to maintenance and repairs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPfja7ujyQQSVQYjZGyfWcPPgLLUKBywF5w3Vf1=w2048-h2048-k-no",
+          "description": "This image captures a sleek and modern shower installation, showcasing the company's ability to deliver stylish and functional bathroom plumbing solutions.",
+          "callToAction": "Transform your bathroom into a spa-like retreat with our top-notch shower installations."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO6CJgTB4zmcPbPTP_wytJYPlKj4LxYA015UhFw=w2048-h2048-k-no",
+          "description": "This image depicts a plumber from Done Right Plumbing Services working on a residential plumbing project, demonstrating the company's commitment to professionalism and attention to detail.",
+          "reason": "This image works well for the About Us section as it showcases the company's skilled workforce and their dedication to providing quality plumbing services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOMP_VEGNpHxoaeahyNt__063jaYg-7P9C11-se=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in commercial plumbing installations, with a complex network of pipes and equipment visible.",
+          "reason": "This image highlights Done Right Plumbing Services' capabilities in handling large-scale commercial projects, making it suitable for the About Us section to showcase the company's versatility."
+        }
+      ]
+    },
+    "jay-s-plumbing-and-handyman-service": {
+      "businessName": "Jay's plumbing and handyman service",
+      "processedImages": 12,
+      "totalTokens": 28926,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO6NdqEhw8Z26nYAPzpNyt02yVjSHdbwRzm3PLb=w2048-h2048-k-no",
+          "description": "A beautifully remodeled bathroom with a freestanding bathtub, elegant tiling, and modern fixtures, showcasing the company's expertise in high-end bathroom renovations.",
+          "callToAction": "Elevate your bathroom to a luxurious oasis. Contact us for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO-Sbiz93zCPb4z4JMzp6-PZ0ZOQZIpjulSWYD1=w2048-h2048-k-no",
+          "description": "A newly constructed modern home with a well-designed deck and landscaping, highlighting the company's capabilities in residential plumbing and construction.",
+          "callToAction": "Build your dream home with our expert plumbing and construction services. Request a quote today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPoFhYVN-_PnflEk-lSRNSWHMaLCU3N_nfG5Toa=w2048-h2048-k-no",
+          "description": "A rustic outdoor shed with plumbing and electrical installations, demonstrating the company's versatility in handling various projects.",
+          "callToAction": "Upgrade your outdoor living spaces with our skilled plumbing and handyman services. Schedule an appointment now."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP3co_CJsFugpBA_Ea_vM6-zgmMJFit2wpyPGrw=w2048-h2048-k-no",
+          "description": "A DIY outdoor kitchen setup with a stove and basic shelter, showcasing the company's ability to tackle unconventional projects.",
+          "reason": "This image highlights the company's resourcefulness and willingness to take on unique challenges, making it a great fit for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMCRZzXUtL91iEyVR7rGQGk0tSOo1OEpF-f1qbW=w2048-h2048-k-no",
+          "description": "A well-organized plumbing installation with pipes, valves, and fittings, reflecting the company's attention to detail and professionalism.",
+          "reason": "This image showcases the company's expertise in plumbing installations, which is a core service offering, making it suitable for the About Us section."
+        }
+      ]
+    },
+    "joe-reid-dawes-plumbing-service": {
+      "businessName": "Joe Reid - Dawes Plumbing Service",
+      "processedImages": 5,
+      "totalTokens": 8857,
+      "heroSection": [
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PHjP7y52wP9itknDkXMIsQ&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=182.53563&pitch=0&thumbfov=100",
+          "description": "An aerial view of a residential neighborhood with well-maintained lawns and trees, showcasing the service area of the plumbing company.",
+          "callToAction": "Reliable plumbing solutions for your home or neighborhood. Call us today for prompt and professional service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN_UPzGfspuYoodDtK1FP7jTi4KoxdtCpGL9lAS=w2048-h2048-k-no",
+          "description": "A close-up of a modern faucet with a sleek chrome finish, highlighting the company's expertise in plumbing installations and repairs.",
+          "callToAction": "Upgrade your home's plumbing fixtures with our top-quality products and expert installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOhNzl5YXLG33N4Jjil8ik1Lv7W6ql_drs4iER_=w2048-h2048-k-no",
+          "description": "An assortment of plumbing tools and equipment, including wrenches, pliers, and a valve, representing the company's readiness to handle any plumbing job.",
+          "callToAction": "Trust our skilled technicians and their professional-grade tools to tackle your plumbing needs efficiently."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipME0Edb-HGQPHel3gpf5HQFmDa-ib9tYKfZM2V9=w2048-h2048-k-no",
+          "description": "A close-up of a plumber's hands working on a faucet, showcasing the company's attention to detail and commitment to quality workmanship.",
+          "reason": "This image effectively demonstrates the company's hands-on expertise and dedication to providing top-notch plumbing services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMi8gdswqTXB2qjW1WPpQHp9m6MPMFaapKtU6Et=w2048-h2048-k-no",
+          "description": "A business card for 'Dawes Plumbing Service' featuring contact information and plumbing-related graphics, highlighting the company's professionalism and branding.",
+          "reason": "The business card image establishes the company's credibility, licensing, and commitment to customer service, making it a suitable choice for the About Us section."
+        }
+      ]
     }
   }
 }
