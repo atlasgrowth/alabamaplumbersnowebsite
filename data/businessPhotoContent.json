@@ -5548,6 +5548,176 @@
           "reason": "This image portrays the company's team-oriented approach and dedication to providing top-notch service, making it a suitable choice for the About Us section."
         }
       ]
+    },
+    "abel-home-services": {
+      "businessName": "Abel Home Services",
+      "processedImages": 12,
+      "totalTokens": 11081,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMOaJx0-UGQBbJeUZ7ZlMQ2XbTmoAaRWNS7uJVM=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in outdoor living spaces. It features a beautifully designed patio with a stamped concrete floor, a stone fire pit, and comfortable outdoor furniture, creating an inviting and functional area for entertaining or relaxation.",
+          "callToAction": "Transform your outdoor space into a stunning oasis with our expert design and installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMaoXdicr4k4AMQuDE5T-nWuzfbT0Eqo4NmzZQ7=w2048-h2048-k-no",
+          "description": "This image highlights the company's craftsmanship in constructing covered patios and pergolas. The wooden beams and ceiling provide shade and shelter, while the recessed lighting adds ambiance and functionality to the space.",
+          "callToAction": "Enhance your outdoor living experience with our custom-built patios and pergolas, designed to meet your unique needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNPrq51LhZRV1UfO2udOImW_JhNIzsPTh-X2lam=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in outdoor hardscaping and landscaping. It features a beautiful stone bridge over a dry creek bed, surrounded by lush greenery and natural elements, creating a serene and inviting outdoor environment.",
+          "callToAction": "Elevate your outdoor space with our professional hardscaping and landscaping services, transforming your yard into a natural oasis."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPICgye9erYZveLvwvc-kfUvMdnItAjCDuMSDPA=w2048-h2048-k-no",
+          "description": "This image showcases the company's attention to detail and craftsmanship in their work. It features a close-up view of a well-constructed wooden structure, highlighting the precision and quality of their workmanship.",
+          "reason": "This image works well for the About Us section as it demonstrates the company's commitment to excellence and their ability to deliver high-quality results."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMw510kaFJoPVSmfKjKgKz_Y2-RRTSJgA9_wcA-=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in electrical and wiring installations. It features a neatly organized array of circuit breakers and wiring, demonstrating their proficiency in handling complex electrical systems.",
+          "reason": "This image works well for the About Us section as it highlights the company's technical skills and their ability to handle intricate electrical work, which is a crucial aspect of many plumbing and home service projects."
+        }
+      ]
+    },
+    "ron-s-old-time-plumbing-inc": {
+      "businessName": "Ron's Old Time Plumbing, Inc.",
+      "processedImages": 12,
+      "totalTokens": 26079,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPk-nehaQMxmMhy_oX2opW1b7JJjioS2sZjUxX8=w2048-h2048-k-no",
+          "description": "A powerful Kubota excavator with various attachments, showcasing the company's capability to handle large-scale excavation and construction projects.",
+          "callToAction": "Trust our expertise for your next major excavation or construction project. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMTYwzsGfaUgZkjbGCu779j1WKYxUEUdnSeCL0I=w2048-h2048-k-no",
+          "description": "A professional service van with the company's branding and contact information, demonstrating their commitment to providing reliable and accessible plumbing services.",
+          "callToAction": "Experience the convenience of our mobile plumbing services. Call us now for prompt and efficient repairs or installations."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOMmegsbM9WF4hqYaCiqWyHXh_bqze2kVjc2E1S=w2048-h2048-k-no",
+          "description": "A smiling employee in a company uniform, conveying a friendly and trustworthy image of the business.",
+          "callToAction": "Meet the dedicated professionals behind our exceptional plumbing services. Schedule your appointment today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipONeGdO3DX0_A2ccWdvsvVvIrRhpa2Agbe8sXwx=w2048-h2048-k-no",
+          "description": "A luxurious bathtub installation, showcasing the company's expertise in high-end bathroom remodeling and plumbing fixtures.",
+          "reasonForAboutUs": "This image highlights the company's ability to handle intricate and upscale plumbing projects, demonstrating their commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOZ1IVfgHb4MTOjsNcfAlBdkhj59X_vQGMVpu_S=w2048-h2048-k-no",
+          "description": "An array of complex plumbing components and gauges, representing the company's technical knowledge and experience in handling industrial-grade plumbing systems.",
+          "reasonForAboutUs": "This image showcases the company's proficiency in dealing with advanced plumbing systems, highlighting their versatility and problem-solving capabilities."
+        }
+      ]
+    },
+    "lke-plumbing": {
+      "businessName": "LKE Plumbing",
+      "processedImages": 7,
+      "totalTokens": 17481,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMqzEUP50pZLR9-RkSmTR596HlUf2rjFfEenG3L=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of LKE Plumbing in installing and maintaining plumbing systems. It features a close-up view of a well-organized and professionally installed plumbing setup, with various valves and pipes neatly arranged.",
+          "callToAction": "Trust LKE Plumbing for reliable and efficient plumbing solutions. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOpS5eC7f0W3-yJC97oRvq9FDwIjd62tklkL0ro=w2048-h2048-k-no",
+          "description": "This image highlights the attention to detail and quality workmanship that LKE Plumbing brings to every project. It depicts a complex network of pipes and fittings, expertly installed and insulated, ensuring optimal performance and energy efficiency.",
+          "callToAction": "Experience the difference of working with skilled professionals. Hire LKE Plumbing for your next plumbing project."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNPu3RyTlrdIf2c3_TciPLedght_lyMefBx599i=w2048-h2048-k-no",
+          "description": "This image showcases the versatility of LKE Plumbing in handling both residential and commercial projects. It features a well-organized installation in a basement or crawl space, with pipes running along the ceiling and walls.",
+          "callToAction": "Whether it's a new construction or a renovation, LKE Plumbing has the expertise to handle projects of any scale. Get in touch for a free quote."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO2ZMjwkAPlhpQZB7dnEjz6FiizM48-1IrmF9SI=w2048-h2048-k-no",
+          "description": "This image demonstrates the attention to detail and quality workmanship that LKE Plumbing brings to every project. It shows a close-up view of a professionally installed plumbing system, with valves and pipes neatly labeled and organized.",
+          "reason": "This image works well for the About Us section as it highlights the company's commitment to excellence and attention to detail, which are essential qualities for a reputable plumbing service provider."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOJ4T1xRA2PguyY-w41EOaJpHmiu4Hmjr03Y0xa=w2048-h2048-k-no",
+          "description": "This image showcases the expertise of LKE Plumbing in handling complex plumbing installations. It features a network of pipes and fittings running along the ceiling and walls, demonstrating the company's ability to work in challenging environments.",
+          "reason": "This image is suitable for the About Us section as it showcases the company's capabilities in tackling intricate plumbing projects, which can be a valuable selling point for potential customers."
+        }
+      ]
+    },
+    "perfect-piping-plumbing-gas-design": {
+      "businessName": "Perfect Piping Plumbing Gas & Design",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN8-T7PHD0tASU3hsD_KNPMRopnrOf8VmQXqUuq=w2048-h2048-k-no",
+          "description": "This image showcases the installation of a modern septic system in a residential setting. It features a large, white septic tank with green lids, partially buried in the ground with piping visible.",
+          "callToAction": "Upgrade your home's septic system with our expert installation services for a reliable and eco-friendly solution."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP4-MshNWWqSJy8YU_W-tH4YvW8TA5dCCypwMYn=w2048-h2048-k-no",
+          "description": "This image captures the construction of a new pier or boardwalk over a body of water. It showcases the company's expertise in commercial and marine plumbing projects.",
+          "callToAction": "Trust our experienced team to handle your commercial and marine plumbing needs with precision and efficiency."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOeHjmk2FlKcqhSVqBDP5Pw8vvPUeNZlL_uWwu-=w2048-h2048-k-no",
+          "description": "This image depicts a construction site with ongoing plumbing work. It shows the installation of underground piping and drainage systems in a new development.",
+          "callToAction": "Rely on our skilled professionals for all your new construction plumbing needs, from design to installation."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNTSLWSWlXUBHgWU5tyrScEgArA4qmTC4bMpfY_=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in residential plumbing installations. It features a row of modern water heaters mounted on the wall, demonstrating their capability to handle large-scale projects.",
+          "reasonForAboutUs": "This image effectively highlights the company's professionalism and ability to handle complex residential plumbing projects, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPm-G707VK6ntjwmapDg9Wmf2ueRAGDbEy1IxrO=w2048-h2048-k-no",
+          "description": "This image depicts a bathroom renovation project, showcasing the company's attention to detail and high-quality workmanship in residential plumbing installations.",
+          "reasonForAboutUs": "The image provides a glimpse into the company's commitment to delivering exceptional results, making it a fitting choice for the About Us section to showcase their expertise."
+        }
+      ]
+    },
+    "educated-rooter-septic-atlanta": {
+      "businessName": "Educated Rooter & Septic Atlanta",
+      "processedImages": 12,
+      "totalTokens": 20668,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOz6OyoNXvHUudsyB2dUg3p1Rgc9yQfYYKaoQYU=w2048-h2048-k-no",
+          "description": "A professional plumbing truck from Delta, showcasing their services and contact information. The truck is parked in front of a brick building, demonstrating their readiness to serve commercial and residential customers.",
+          "callToAction": "For all your plumbing needs, big or small, call the Educated Plumber today at 770-474-5555."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGJSGVDpzAWvkvXm39wlw7QMKzgduqgz3wCpog=w2048-h2048-k-no",
+          "description": "A Delta plumbing truck equipped with a large tank, highlighting their septic services. The truck is branded with their logo and contact information, showcasing their professionalism.",
+          "callToAction": "Don't let septic issues disrupt your life. Trust the experts at Delta to handle it efficiently. Call 770-474-5555 now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMrxU3R_ixYKBAjaYCiQrtUhC8XiBontPoG16FU=w2048-h2048-k-no",
+          "description": "A Delta truck parked on the street, ready for action. The image showcases their fleet and capability to handle large-scale plumbing projects.",
+          "callToAction": "For reliable and prompt plumbing services, choose the team with the experience and resources. Call Delta at 770-474-5555."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMJY6Ccvst0-B-TItXWihsQMp4F3rTrlkKboxbK=w2048-h2048-k-no",
+          "description": "A friendly Delta employee standing in their office, showcasing their professional workspace and commitment to customer service.",
+          "reason": "This image highlights the company's approachable and knowledgeable staff, instilling confidence in their expertise and customer-centric approach."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOr67Epj_FpVfCmKEAlVh-ttP9pbSzePdGdeUXw=w2048-h2048-k-no",
+          "description": "A Delta employee and customer discussing paperwork in a professional setting, demonstrating their commitment to clear communication and transparency.",
+          "reason": "This image showcases the company's dedication to open communication and building trust with their customers, which is essential for an About Us section."
+        }
+      ]
     }
   }
 }
