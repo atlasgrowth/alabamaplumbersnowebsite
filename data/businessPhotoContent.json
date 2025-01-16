@@ -5718,6 +5718,40 @@
           "reason": "This image showcases the company's dedication to open communication and building trust with their customers, which is essential for an About Us section."
         }
       ]
+    },
+    "alabama-water-heater": {
+      "businessName": "Alabama Water Heater",
+      "processedImages": 5,
+      "totalTokens": 9257,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPghHL2xnOFTSEYP7_EKap2PSpiKGm8TnW-DG6u=w2048-h2048-k-no",
+          "description": "A high-efficiency water heater unit from a reputable brand, featuring clear labeling and safety instructions. This image showcases the professional-grade equipment used by the company.",
+          "callToAction": "Upgrade to a reliable and energy-efficient water heater today. Call us for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMypzBk2TW9NWKD9HPxk8UNcDfgVhHoPCK15NgL=w2048-h2048-k-no",
+          "description": "A modern, compact water heater installation in a residential setting, demonstrating the company's expertise in seamless and space-saving solutions.",
+          "callToAction": "Maximize your home's hot water supply with our expert installation services. Contact us for a quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNO3TMJwg0biACKMU9iG8QwZuSkyyYMb2gLWKk5=w2048-h2048-k-no",
+          "description": "A well-maintained water heater unit installed by professionals, highlighting the company's commitment to quality workmanship and attention to detail.",
+          "callToAction": "Ensure your water heater is installed correctly and safely. Schedule a service with our certified technicians."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP4QugRy89GPVu16SPgFC7IIY_1ithaK1gMjUYy=w2048-h2048-k-no",
+          "description": "A sleek and modern tankless water heater installed in a residential setting, showcasing the company's ability to provide cutting-edge solutions.",
+          "reason": "This image demonstrates the company's expertise in installing advanced water heating systems, highlighting their commitment to offering innovative and efficient solutions to customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPhuCez3uNBRQezpRLSdORwnL3eKqoFptFKVIWJ=w2048-h2048-k-no",
+          "description": "A professional-grade water heater installation in a commercial or industrial setting, showcasing the company's capability to handle large-scale projects.",
+          "reason": "This image showcases the company's experience and expertise in handling complex water heater installations for commercial and industrial clients, highlighting their versatility and ability to meet diverse customer needs."
+        }
+      ]
     }
   }
 }
