@@ -582,6 +582,176 @@
           "reasonForAboutUs": "This image highlights the company's versatility and ability to handle various plumbing and construction projects, positioning them as a comprehensive service provider for their clients."
         }
       ]
+    },
+    "septic-tank-delivery-services": {
+      "businessName": "Septic Tank Delivery Services",
+      "processedImages": 12,
+      "totalTokens": 28386,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh3.googleusercontent.com/p/AF1QipOwEAEIfnZYr1Ct3_IS9s0HQc9AX4UxLXCj3-BC=w2048-h2048-k-no",
+          "description": "A powerful excavator carefully digs into the earth, showcasing the company's expertise in site preparation and excavation work.",
+          "callToAction": "Trust our skilled team to handle your excavation needs efficiently and safely."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOmAzL1WFDgVcbwp8nrMtWGo-POujWe6o57C5q2=w2048-h2048-k-no",
+          "description": "A tow truck securely transports a vehicle, highlighting the company's capability to handle a wide range of towing and transportation services.",
+          "callToAction": "Rely on our reliable towing and transportation solutions for your vehicles."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPx188d5NeaLo6TPK4Gj9xmpYuW4yaqePVDAiyj=w2048-h2048-k-no",
+          "description": "A septic tank pumping truck services a residential property, demonstrating the company's expertise in septic system maintenance and inspections.",
+          "callToAction": "Keep your septic system in top condition with our professional pumping and inspection services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO6rbXJcQsdUVkV2OXedtpLy_5_uu1IGj8eX2zE=w2048-h2048-k-no",
+          "description": "A heavy-duty excavator carefully navigates through a wooded area, showcasing the company's ability to tackle challenging terrain and environments.",
+          "reason": "This image highlights the company's expertise and capability to handle complex excavation projects, instilling confidence in potential clients."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP6jPe43SazRgj_IfR5aY4FGyCExi0KCh3P1XxX=w2048-h2048-k-no",
+          "description": "A septic tank installation is underway, with a worker meticulously preparing the site, demonstrating the company's commitment to quality workmanship.",
+          "reason": "This image showcases the company's professionalism and attention to detail in septic system installations, reassuring clients of their dedication to excellence."
+        }
+      ]
+    },
+    "rusty-bottoms": {
+      "businessName": "Rusty Bottoms",
+      "processedImages": 8,
+      "totalTokens": 11580,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHAmQuqq0motYxEqdOwJ6jxiKah1i3IANSZ0Nv=w2048-h2048-k-no",
+          "description": "A striking logo featuring a stylized flame design in shades of blue and orange, with the company name 'Rusty Bottoms' and tagline 'Water Heater Replacement' prominently displayed.",
+          "callToAction": "Upgrade your water heater with Rusty Bottoms' expert replacement services. Contact us today for a free quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO2w__zjxOORUeKvFp-8Pi-jlkxHGryOkODQAAc=w2048-h2048-k-no",
+          "description": "A detailed diagram illustrating the inner workings of a tankless water heater, including components like the heat exchanger, burner, and gas valve.",
+          "callToAction": "Discover the efficiency and space-saving benefits of tankless water heaters. Let Rusty Bottoms guide you through the installation process."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNVqZ60YkMcmYMnwd9aI5DCzxncwHsGevvuff_9=w2048-h2048-k-no",
+          "description": "A close-up view of a modern water heater tank, showcasing its sleek design and energy-efficient features.",
+          "callToAction": "Enhance your home's hot water supply with Rusty Bottoms' top-of-the-line water heater replacements. Schedule your installation now."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMHqBwtHQK4X0BFBNXVSpK2hvX7MTlmJhuHsMZu=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a water heater installation, with various plumbing components and tools neatly arranged.",
+          "relevance": "This image demonstrates Rusty Bottoms' expertise and attention to detail when it comes to water heater replacements, highlighting their professionalism and commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHW2LRC31eduGvqkj7dfw1IAoNFL8tDNEQgao4=w2048-h2048-k-no",
+          "description": "An open utility closet revealing a newly installed water heater, along with a ladder and other equipment used by Rusty Bottoms' technicians.",
+          "relevance": "This image showcases Rusty Bottoms' ability to work in tight spaces and navigate challenging installation environments, ensuring a seamless water heater replacement experience for their customers."
+        }
+      ]
+    },
+    "one-call-services-tuscaloosa-plumbing": {
+      "businessName": "One Call Services | Tuscaloosa Plumbing",
+      "processedImages": 12,
+      "totalTokens": 24531,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXNOcgN-oTfdBzHM91ucHfqdVZw3l98WY-2Do_=w2048-h2048-k-no",
+          "description": "A large excavation site with rows of drainage pipes laid out, showcasing the company's expertise in underground plumbing and drainage installations.",
+          "callToAction": "Trust our experienced team for your next major plumbing or drainage project. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNdTf1niopYIwfkfacNKi_5xF5nJ1OYT3dg2Ugo=w2048-h2048-k-no",
+          "description": "A One Call Services van parked in front of a residential construction site, highlighting the company's involvement in new home builds and renovations.",
+          "callToAction": "Building a new home? Ensure top-quality plumbing with our expert installation services. Get a quote now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNitYMiNbdXyaeaVhLtam4qjdbk-JAcbSU4GDzw=w2048-h2048-k-no",
+          "description": "A close-up view of a plumbing system under construction, demonstrating the company's attention to detail and commitment to quality workmanship.",
+          "callToAction": "Reliable and efficient plumbing solutions for your home or business. Schedule a service call with our certified professionals."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN4z9epKA1Nj7bSVcHIKJSL5nJf7vsJIGd8X_n0=w2048-h2048-k-no",
+          "description": "A well-equipped plumbing truck and van from One Call Services, showcasing the company's readiness to handle any plumbing job, big or small.",
+          "reason": "This image highlights the company's professionalism, mobility, and ability to serve customers promptly, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMGm7l8JUkfYm6W6gOGEPtWGuwPDuhbkPxAKhF8=w2048-h2048-k-no",
+          "description": "A One Call Services van parked in front of a residential construction site, demonstrating the company's involvement in new home builds and renovations.",
+          "reason": "This image showcases the company's diverse capabilities, including working on new construction projects, which is valuable information for the About Us section."
+        }
+      ]
+    },
+    "pike-s-plumbing-gas": {
+      "businessName": "Pike's Plumbing & Gas",
+      "processedImages": 8,
+      "totalTokens": 15830,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOyyNc5j4ovJf5uDUHodsxaNCgWTk2yd1vuLZIz=w2048-h2048-k-no",
+          "description": "A skilled plumber digging a trench and installing a new drainage system, showcasing the company's expertise in underground plumbing work.",
+          "callToAction": "Upgrade your home's plumbing with our professional installation services. Contact us today for a free estimate."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMdlS9asPGo-NomizOpgX2VCiol_MLPgKjqzMof=w2048-h2048-k-no",
+          "description": "A heavy-duty excavator operated by an experienced technician, demonstrating the company's ability to handle large-scale projects and site preparation.",
+          "callToAction": "Trust our team to tackle even the most challenging plumbing jobs. Get in touch for reliable and efficient solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNkWHzgTMDg4bGzZPcTepKb8Wi-hh64OAa-oVqZ=w2048-h2048-k-no",
+          "description": "Multiple plumbing professionals working together on a residential project, highlighting the company's commitment to teamwork and customer satisfaction.",
+          "callToAction": "Experience the difference of our collaborative approach. Let our skilled team handle all your plumbing needs."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMt5_x2WdD307obuEcBaTQyTYd0v1DB4Yw7t7lc=w2048-h2048-k-no",
+          "description": "A company service van showcasing the business name and services, representing the company's professionalism and reliability.",
+          "reason": "This image effectively introduces the company and its offerings, making it a suitable choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP0V_eNvswPeLick6UgPbSEr2ASJTU85Opnyig6=w2048-h2048-k-no",
+          "description": "A plumber working on a water heater installation, demonstrating the company's expertise in various plumbing services.",
+          "reason": "This image highlights the company's capabilities and attention to detail, making it an appropriate choice for the About Us section."
+        }
+      ]
+    },
+    "performance-plumbing-inc": {
+      "businessName": "Performance Plumbing, Inc",
+      "processedImages": 6,
+      "totalTokens": 12907,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHmWm5i7Bjwoik1D-EH0TABVQw5b4vz4nxn1Rf=w2048-h2048-k-no",
+          "description": "Two skilled plumbers installing a modern septic system in a residential area, showcasing their expertise in underground plumbing solutions.",
+          "callToAction": "Trust our professionals for reliable septic system installations and maintenance."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOrQzgBb3lze0nBo9icu1Zwz_8Gph1eBDtrWGPH=w2048-h2048-k-no",
+          "description": "A nighttime scene of a completed underground plumbing project, highlighting the company's commitment to working around the clock to meet client needs.",
+          "callToAction": "Experience seamless plumbing services with our dedicated 24/7 availability."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPDW4eYaCLAb1CmLyfRmg4wGjWL7lIh-WcXIUjO=w2048-h2048-k-no",
+          "description": "Plumbers working on a commercial plumbing project, demonstrating their ability to handle complex installations with precision and efficiency.",
+          "callToAction": "Upgrade your commercial plumbing with our expert solutions for optimal performance."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOHhmQ70arDWCp88buGL_UM43IR5-MxF_UiEJrd=w2048-h2048-k-no",
+          "description": "An interior plumbing project in progress, showcasing the company's attention to detail and commitment to quality workmanship.",
+          "reason": "This image highlights the company's professionalism and dedication to delivering top-notch plumbing services, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNvtZN6eBZrgFRVe9VgFTcquogcnV7FGlYNoGp1=w2048-h2048-k-no",
+          "description": "A close-up view of plumbing materials and tools, demonstrating the company's use of high-quality equipment and supplies.",
+          "reason": "This image showcases the company's commitment to using the best materials and tools, instilling confidence in their ability to provide reliable and long-lasting plumbing solutions."
+        }
+      ]
     }
   }
 }
