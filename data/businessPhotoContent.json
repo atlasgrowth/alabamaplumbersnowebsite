@@ -2250,6 +2250,108 @@
           "reason": "This image is suitable for the About Us section as it highlights the company's skilled workforce and their ability to handle complex tasks, instilling confidence in potential customers."
         }
       ]
+    },
+    "leak-pros-of-al-ga": {
+      "businessName": "Leak Pros of Al & Ga",
+      "processedImages": 5,
+      "totalTokens": 9417,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMhwAhLpiuO6vfL9leWT2vflEbmJ3Asw1VW81Rm=w2048-h2048-k-no",
+          "description": "A serene backyard oasis featuring a luxurious pool with a cascading waterfall, surrounded by lush greenery and natural rock formations.",
+          "callToAction": "Elevate your outdoor living space with our expert pool leak detection and repair services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPUItGi4CWT_xgv_TVJd0kpI_Yc98dT178jSy0H=w2048-h2048-k-no",
+          "description": "A professional technician in protective gear performing leak detection and repair work in a residential hot tub, demonstrating our commitment to quality service.",
+          "callToAction": "Trust our experienced team to diagnose and fix leaks in your pool, spa, or hot tub efficiently."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN9jScIAKjmTJssiWlMAzRQ-6Th9QKww7qoGf2_=w2048-h2048-k-no",
+          "description": "A close-up view of a damaged underground pipe, showcasing our expertise in identifying and resolving even the most challenging leak issues.",
+          "callToAction": "Don't let hidden leaks wreak havoc. Let our skilled professionals locate and repair them promptly."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP-XyyIxd-1OlHtCwtkqTobGbW6cZtHdRIuhgC5=w2048-h2048-k-no",
+          "description": "A fire hydrant in a residential area, symbolizing our commitment to providing reliable and essential leak detection and repair services.",
+          "reason": "This image demonstrates our company's expertise in working with municipal water systems, highlighting our capabilities in addressing leaks in critical infrastructure."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMAJ-ezkm34dwqlSr6-uQRB79VDl_Ez6bN9jQVh=w2048-h2048-k-no",
+          "description": "A technician using specialized equipment to detect leaks in an outdoor area, showcasing our use of advanced technology and skilled professionals.",
+          "reason": "This image showcases our team's professionalism and the cutting-edge tools we employ to deliver accurate and efficient leak detection services."
+        }
+      ]
+    },
+    "wolf-plumbing-services": {
+      "businessName": "Wolf Plumbing Services",
+      "processedImages": 7,
+      "totalTokens": 15244,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNvdFY5biqLQdPljG8YFvnAKOHaVQtp3IwkJMt0=w2048-h2048-k-no",
+          "description": "This image showcases the expertise and professionalism of Wolf Plumbing Services. It depicts a well-executed underground plumbing installation, with pipes laid in a neatly dug trench and a septic tank system in place. The attention to detail and quality workmanship are evident.",
+          "callToAction": "Trust the experts at Wolf Plumbing Services for all your underground plumbing needs. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMdL_V-3bNL6H7wVI6XN1sD8z0Q8jn1fE8YDMNZ=w2048-h2048-k-no",
+          "description": "This image highlights the versatility of Wolf Plumbing Services. It shows a skilled worker installing a new plumbing line across an open field, demonstrating the company's ability to handle projects of various scales and environments.",
+          "callToAction": "Whether it's a residential or commercial project, Wolf Plumbing Services has the expertise to get the job done right. Call us now for a free quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOqfJQ4uMZ3c0L3Hj-c9wIBp-4F8YRaUTwm9cZn=w2048-h2048-k-no",
+          "description": "This image showcases the attention to detail and quality workmanship that Wolf Plumbing Services is known for. It depicts a neatly dug trench with a new plumbing line being installed, ensuring a seamless and efficient installation process.",
+          "callToAction": "Don't settle for subpar plumbing work. Choose Wolf Plumbing Services for top-notch quality and customer satisfaction. Contact us today to schedule your project."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMAW7X43zAZG1W2jlOPx58WtHx6uCIz7QVTDXzA=w2048-h2048-k-no",
+          "description": "This image showcases the expertise and professionalism of Wolf Plumbing Services' team. It depicts a skilled worker wearing proper safety gear and utilizing specialized equipment to perform their job at a high level.",
+          "whyItWorks": "This image works well for the About Us section as it highlights the company's commitment to safety, expertise, and the use of industry-leading equipment and practices."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOCMFhRY1Qx7f9HgcCvDcH7S-h-05lJXTF3_5SD=w2048-h2048-k-no",
+          "description": "This image features the Wolf Plumbing Services van, showcasing the company's branding and professionalism. The van is well-maintained and equipped with the necessary tools and equipment to handle any plumbing job.",
+          "whyItWorks": "This image is suitable for the About Us section as it represents the company's brand identity and commitment to providing reliable and professional services to its customers."
+        }
+      ]
+    },
+    "payton-s-septic-services": {
+      "businessName": "PAYTON'S SEPTIC SERVICES",
+      "processedImages": 5,
+      "totalTokens": 10862,
+      "heroSection": [
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xzHgmR15W-T01MjoNzumsg&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=287.23984&pitch=0&thumbfov=100",
+          "description": "A professional septic service truck emblazoned with the company's logo and contact information, showcasing the business's expertise and reliability in septic system maintenance.",
+          "callToAction": "Trust the experts at Payton's Septic for all your septic tank needs. Call us today for prompt and efficient service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNp1T1-mbRvKOTCzuXHbaMcdMQ-_fzc2sh_B7zg=w2048-h2048-k-no",
+          "description": "A septic tank installation in progress, with the tank and piping visible, demonstrating the company's capability in handling new system installations.",
+          "callToAction": "Need a new septic system installed? Payton's Septic has the experience and equipment to get the job done right. Contact us for a free estimate."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM7_xtyYxRI6X50cm_WAs3aBpwNDm-f_51nUkqR=w2048-h2048-k-no",
+          "description": "A close-up view of an open septic tank, revealing the intricate workings and the need for regular maintenance to ensure proper functionality.",
+          "callToAction": "Don't neglect your septic system. Regular maintenance from Payton's Septic can prevent costly repairs and extend the life of your system."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO-WF0wpJGsmwcfRTORkaVYzvTRa-OMxLhzkHum=w2048-h2048-k-no",
+          "description": "An exterior view of the company's office and property, showcasing a well-maintained and professional operation.",
+          "reason": "This image conveys the company's commitment to professionalism and reliability, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPOs9g2wGm2XchNYg9DXRXjR0f231tjgVR5OwmU=w2048-h2048-k-no",
+          "description": "The company's logo and branding, featuring a septic truck and the business name, highlighting the company's focus and expertise in septic services.",
+          "reason": "The logo and branding effectively communicate the company's identity and specialization, allowing customers to quickly recognize their area of expertise."
+        }
+      ]
     }
   }
 }
