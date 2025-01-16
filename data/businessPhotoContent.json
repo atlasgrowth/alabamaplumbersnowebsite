@@ -990,6 +990,40 @@
           "reason": "This image demonstrates the company's experience in tackling complex commercial plumbing installations, positioning them as a reliable partner for businesses."
         }
       ]
+    },
+    "practical-plumbing": {
+      "businessName": "Practical Plumbing",
+      "processedImages": 12,
+      "totalTokens": 29966,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNLuJ7T6kkd_eO3Iibk-ruO41c7KNaZwbHOh6cg=w2048-h2048-k-no",
+          "description": "A newly constructed stone and wood exterior home with a partially completed landscape, showcasing the craftsmanship and attention to detail in Practical Plumbing's residential plumbing services.",
+          "callToAction": "Experience the Practical Plumbing difference in your dream home. Contact us today for top-quality plumbing solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOhynWsp9-dLpkZh7cjw3KSaVXWxyEW5-IWsvJ6=w2048-h2048-k-no",
+          "description": "A concrete foundation with plumbing pipes and drainage systems installed, highlighting Practical Plumbing's expertise in laying the groundwork for efficient and reliable plumbing infrastructure.",
+          "callToAction": "Build your project on a solid foundation with Practical Plumbing's professional plumbing installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMejDpkquru2fj69tVBDzZoKb6WUtarn6AXJ1Ug=w2048-h2048-k-no",
+          "description": "An excavation site with plumbing pipes and drainage systems being installed, showcasing Practical Plumbing's capability to handle complex underground plumbing projects.",
+          "callToAction": "Trust Practical Plumbing to handle your underground plumbing needs with precision and expertise."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNOjE4J2RRwVNFq8JjDgIFEK0b4nPAU7UHnkL9H=w2048-h2048-k-no",
+          "description": "A modern bathroom with a freestanding bathtub and sleek vanity, demonstrating Practical Plumbing's ability to deliver high-end plumbing solutions for residential projects.",
+          "reason": "This image showcases the company's expertise in creating luxurious and functional bathroom spaces, highlighting their attention to detail and commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOkcLzq9XUehuIG8eQ0PlCvtMJqPxsSugUWkm9S=w2048-h2048-k-no",
+          "description": "A well-equipped mechanical room with a water heater, plumbing pipes, and other essential components, showcasing Practical Plumbing's proficiency in installing and maintaining complex plumbing systems.",
+          "reason": "This image demonstrates the company's comprehensive knowledge and capabilities in handling intricate plumbing installations, emphasizing their commitment to providing reliable and efficient plumbing solutions."
+        }
+      ]
     }
   }
 }
