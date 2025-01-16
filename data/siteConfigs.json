@@ -120,7 +120,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "jason-s-drain-service": {
+    "jason's-drain-service": {
       "query": "plumber, 35468, Kellerman, AL, US",
       "name": "Jason's Drain Service",
       "name_for_emails": "Jasons Drain Service",
@@ -480,7 +480,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "strickland-plumbing-maintenance": {
+    "strickland-plumbing-&-maintenance": {
       "query": "plumber, 35111, Mc Calla, AL, US",
       "name": "Strickland Plumbing & Maintenance",
       "name_for_emails": "Strickland Plumbing And Maintenance",
@@ -960,7 +960,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "joe-reid-dawes-plumbing-service": {
+    "joe-reid---dawes-plumbing-service": {
       "query": "plumber, 36568, Saint Elmo, AL, US",
       "name": "Joe Reid - Dawes Plumbing Service",
       "name_for_emails": "Joe Reid Dawes Plumbing Service",
@@ -1200,7 +1200,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "a-c-e-plumbing-solutions": {
+    "ace-plumbing-solutions": {
       "query": "plumber, 36477, Samson, AL, US",
       "name": "A.C.E. Plumbing Solutions",
       "name_for_emails": "A C E Plumbing Solutions",
@@ -1920,7 +1920,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "leak-pros-of-al-ga": {
+    "leak-pros-of-al-&-ga": {
       "query": "plumber, 36261, Edwardsville, AL, US",
       "name": "Leak Pros of Al & Ga",
       "name_for_emails": "Leak Pros Of Al And Ga",
@@ -2400,7 +2400,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "sims-plumbing-air": {
+    "sims-plumbing-&-air": {
       "query": "plumber, 35979, Higdon, AL, US",
       "name": "Sims plumbing & air",
       "name_for_emails": "Sims Plumbing And Air",
@@ -2760,7 +2760,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "rediworx-drain-sewer-cleaning": {
+    "rediworx-drain-&-sewer-cleaning": {
       "query": "plumber, 36441, Flomaton, AL, US",
       "name": "RediWorx Drain & Sewer Cleaning",
       "name_for_emails": "Rediworx Drain And Sewer Cleaning",
@@ -3240,7 +3240,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "north-alabama-drain-cleaning-etc-llc": {
+    "north-alabama-drain-cleaningetc-llc": {
       "query": "plumber, 35617, Cloverdale, AL, US",
       "name": "North Alabama Drain CLeaning,etc LLC",
       "name_for_emails": "North Alabama Drain Cleaning Etc",
@@ -4440,7 +4440,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "waterworks-plumbing-drain-llc": {
+    "waterworks-plumbing-&-drain-llc": {
       "query": "plumber, 36568, Saint Elmo, AL, US",
       "name": "WaterWorks Plumbing & Drain LLC",
       "name_for_emails": "Waterworks Plumbing And Drain",
@@ -4680,7 +4680,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "pike-s-plumbing-gas": {
+    "pike's-plumbing-&-gas": {
       "query": "plumber, 35013, Allgood, AL, US",
       "name": "Pike's Plumbing & Gas",
       "name_for_emails": "Pikes Plumbing And Gas",
@@ -5040,7 +5040,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "veteran-s-plumbing": {
+    "veteran's-plumbing": {
       "query": "plumber, 36201, Anniston, AL, US",
       "name": "Veteran's Plumbing",
       "name_for_emails": "Veterans Plumbing",
@@ -5160,7 +5160,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "crowes-trenching-plumbing": {
+    "crowes-trenching-&-plumbing": {
       "query": "plumber, 36276, Wadley, AL, US",
       "name": "Crowes trenching & plumbing",
       "name_for_emails": "Crowes Trenching And Plumbing",
@@ -5640,7 +5640,7 @@
       "PrimaryColor": "",
       "SecondaryColor": ""
     },
-    "yarbrough-s-general-contractors": {
+    "yarbrough's-general-contractors": {
       "query": "plumber, 35584, Sipsey, AL, US",
       "name": "Yarbrough's General Contractors",
       "name_for_emails": "Yarbroughs General Contractors",
@@ -6001,5 +6001,5 @@
       "SecondaryColor": ""
     }
   },
-  "forceUpdateTimestamp": "1737016021.2570462"
+  "forceUpdateTimestamp": "1737016401.4280996"
 }
