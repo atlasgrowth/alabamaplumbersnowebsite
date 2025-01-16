@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "1737047393.3489487",
+    "generated": "1737047728.5304587",
     "model": "claude-3-sonnet-20240229",
-    "totalBusinesses": 5,
+    "totalBusinesses": 20,
     "maxPhotosPerBusiness": 12,
     "tokenLimits": {
       "maxInputTokensPerMin": 40000,
@@ -18,30 +18,30 @@
       "heroSection": [
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXzxKyXiOHrus4c4vQGuG827G54VqYesuuplJw=w2048-h2048-k-no",
-          "description": "This image showcases a modern bathroom vanity with a sleek black faucet and marble countertop, exuding elegance and sophistication.",
-          "callToAction": "Elevate your bathroom with our luxurious faucet and countertop installations. Contact us today for a free consultation."
+          "description": "This image showcases a modern bathroom renovation with a sleek black faucet and marble countertop, exuding elegance and sophistication.",
+          "callToAction": "Elevate your bathroom with our expert design and installation services. Contact us today for a luxurious transformation."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOPZ5Q4y7Z9Q9_CrbJbHprqm124wcynboDIHtj0=w2048-h2048-k-no",
-          "description": "A beautifully tiled shower enclosure with a rainfall showerhead and a handheld sprayer, offering a spa-like experience in the comfort of your home.",
-          "callToAction": "Transform your shower into a personal oasis. Our expert team can design and install your dream shower system."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXrz3AhSN7UXlm1S-ihb8G5ALqOfJQQmhQ3vMY=w2048-h2048-k-no",
+          "description": "This image highlights the company's expertise in intricate tile work, featuring a beautifully designed shower enclosure with a rainfall showerhead and body jets.",
+          "callToAction": "Experience the ultimate in luxury and relaxation with our custom shower installations. Schedule a consultation now."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNf0Qm-Bm8rTCDotEtCZ5znU9GZsUD8QMPjLLwS=w2048-h2048-k-no",
-          "description": "This image showcases a sleek and modern bathroom with a marble-tiled shower enclosure, featuring a minimalist yet stylish design.",
-          "callToAction": "Upgrade your bathroom with our high-quality tile installations and create a timeless, luxurious space."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP9OvAH5ZA5avWHA_iglImuzz2GP8ovTVhTUa1b=w2048-h2048-k-no",
+          "description": "This image showcases a modern bathroom vanity with a sleek undermount sink and stylish faucet, demonstrating the company's attention to detail and commitment to quality.",
+          "callToAction": "Transform your bathroom into a personal oasis with our top-notch vanity installations. Get a free quote today."
         }
       ],
       "aboutUsSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNoo6m4-VxeOiXiY7Zqhqr3c3ndt6kzL_ve9mcy=w2048-h2048-k-no",
-          "description": "This image displays the plumbing infrastructure behind the scenes, showcasing the company's expertise in handling complex installations and repairs.",
-          "relevance": "It demonstrates the company's capabilities in tackling intricate plumbing projects, ensuring quality workmanship and attention to detail."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNf0Qm-Bm8rTCDotEtCZ5znU9GZsUD8QMPjLLwS=w2048-h2048-k-no",
+          "description": "This image showcases the company's expertise in plumbing installations, with a focus on precision and attention to detail.",
+          "whyItWorks": "This image demonstrates the company's capabilities in handling complex plumbing projects, instilling confidence in potential customers."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM0YzF29ebOai_YZqeDZ9GhFrMJzoEP0V9_3KzT=w2048-h2048-k-no",
-          "description": "A close-up view of plumbing fixtures and pipes, highlighting the company's proficiency in handling various plumbing components and systems.",
-          "relevance": "This image showcases the company's in-depth knowledge and experience in plumbing installations, repairs, and maintenance."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNoo6m4-VxeOiXiY7Zqhqr3c3ndt6kzL_ve9mcy=w2048-h2048-k-no",
+          "description": "This image highlights the company's commitment to quality workmanship, showcasing a well-executed rough-in installation in a residential setting.",
+          "whyItWorks": "This image conveys the company's professionalism and ability to handle both new construction and renovation projects, appealing to a wide range of customers."
         }
       ]
     },
@@ -52,30 +52,30 @@
       "heroSection": [
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGZS8UhkqSUP8i4bhvN8InqYKvKhHQrlrbRcqi=w2048-h2048-k-no",
-          "description": "A beautifully renovated home exterior featuring a covered porch with columns, brick accents, and a welcoming red front door.",
-          "callToAction": "Elevate your home's curb appeal with our expert exterior remodeling services."
+          "description": "This image showcases the exterior of a beautifully renovated home with a welcoming front porch, featuring a brick facade and a stylish covered entrance.",
+          "callToAction": "Transform your home's exterior with our expert renovation services. Contact us today for a free consultation."
         },
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPOT37QOb5Dkx3di_oh5kiTxUU3wSY4lwf-iCbr=w2048-h2048-k-no",
-          "description": "A modern kitchen remodel showcasing sleek white cabinets, granite countertops, and stainless steel appliances.",
-          "callToAction": "Transform your kitchen into a stylish and functional space with our kitchen remodeling expertise."
+          "description": "This modern kitchen renovation features sleek white cabinets, granite countertops, and a subway tile backsplash, creating a bright and inviting space.",
+          "callToAction": "Upgrade your kitchen with our top-quality renovation services. Schedule a consultation to discuss your dream kitchen today."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOEjlyvJ3_wcvKTe9Yr3cLj6ZnvHV5DAUR-iIBs=w2048-h2048-k-no",
-          "description": "A cozy living room with hardwood floors, neutral tones, and large windows allowing natural light to flood in.",
-          "callToAction": "Create your dream living space with our skilled interior remodeling and design services."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOWvCe-_N4ppO-njOJgTj7cc2MVrqmBbuRNthaC=w2048-h2048-k-no",
+          "description": "This image showcases a cozy living room with hardwood floors, neutral tones, and large windows, creating a warm and inviting atmosphere.",
+          "callToAction": "Elevate your living space with our professional renovation services. Contact us to schedule a free in-home consultation."
         }
       ],
       "aboutUsSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM5wvOKR9VPNpFWTiJ12ycpnIyyFi3KRvDKWARd=w2048-h2048-k-no",
-          "description": "A detached garage or storage building with a clean white exterior and a gravel driveway.",
-          "reasonForAboutUs": "This image showcases the company's ability to handle exterior construction projects, demonstrating their versatility and attention to detail."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPciPVsxHviz-q4Qm1XrWqeV5mLJdC-91UQrNfJ=w2048-h2048-k-no",
+          "description": "This image showcases a modern bathroom renovation with a spacious walk-in shower, featuring a mosaic tile floor and a large window for natural light.",
+          "reason": "This image demonstrates the company's expertise in bathroom renovations, showcasing their attention to detail and ability to create functional and stylish spaces."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOWvCe-_N4ppO-njOJgTj7cc2MVrqmBbuRNthaC=w2048-h2048-k-no",
-          "description": "A modest residential property with an older home, a car parked outside, and a grassy yard surrounded by trees.",
-          "reasonForAboutUs": "This image highlights the company's expertise in working on various types of residential properties, from renovations to new construction, catering to diverse client needs."
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GyTHRG69jM5OVeQjI9ayqw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=288.23886&pitch=0&thumbfov=100",
+          "description": "This aerial view of a residential property showcases the company's ability to handle complete home renovations, from exterior to interior.",
+          "reason": "This image highlights the company's comprehensive services and their capability to transform entire properties, making it an excellent choice for the About Us section."
         }
       ]
     },
@@ -86,30 +86,30 @@
       "heroSection": [
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNA-I-bzzLBeKNLkQYzUJLbXjcn6Sf2nx6zyX90=w2048-h2048-k-no",
-          "description": "A serene wooden bridge spanning a tranquil creek, surrounded by lush greenery and trees, providing a peaceful and inviting atmosphere.",
-          "callToAction": "Elevate your outdoor living space with our expertly crafted decks and bridges. Contact us today for a free consultation."
+          "description": "A serene wooden bridge spanning a tranquil creek, surrounded by lush greenery and tall trees, providing a peaceful and inviting atmosphere.",
+          "callToAction": "Upgrade your outdoor living space with our expert deck and bridge construction services. Contact us today for a free consultation."
         },
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMeVLjCH7JHZDOZhDPdotgVl8sflWARxKMjmOqX=w2048-h2048-k-no",
-          "description": "A professional deck construction in progress, showcasing the expertise and attention to detail of our skilled team.",
-          "callToAction": "Transform your backyard into an outdoor oasis with our custom deck designs. Schedule a consultation now."
+          "description": "A professional and well-equipped construction site showcasing a partially built deck area with a pool in the background, demonstrating our expertise in outdoor living projects.",
+          "callToAction": "Transform your backyard into an oasis with our top-notch pool deck installation services. Get a free quote now."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMjBdjxG83Xn0EENIunmWXHNl-A9pSLydlAul0w=w2048-h2048-k-no",
-          "description": "A stunning pool deck and stairs, expertly crafted with high-quality materials, offering a luxurious and functional outdoor living space.",
-          "callToAction": "Upgrade your poolside experience with our premium pool decks and outdoor living areas. Get a free quote today."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOR9OqMj9WQapoy_QzzX1E3mCS5ElCQRTLFjmSu=w2048-h2048-k-no",
+          "description": "A breathtaking surreal landscape featuring a hot air balloon floating above a rocky cliff with a mystical castle in the distance, creating a sense of wonder and imagination.",
+          "callToAction": "Let your dreams take flight with our exceptional craftsmanship. Hire us for your next home improvement project."
         }
       ],
       "aboutUsSection": [
         {
           "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOZiDNbZ1-cg9XgZCnUC4nW1ONTcuaa_8z6QpH1=w2048-h2048-k-no",
-          "description": "A behind-the-scenes look at our skilled team meticulously constructing a wooden deck, demonstrating our commitment to quality craftsmanship.",
-          "reason": "This image showcases our team's expertise and attention to detail, highlighting our dedication to delivering exceptional results for our clients."
+          "description": "A collection of discarded wood and construction materials, showcasing the company's commitment to sustainable practices and responsible waste management.",
+          "reason": "This image demonstrates the company's dedication to environmental responsibility, a valuable trait for potential customers seeking eco-friendly service providers."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOR9OqMj9WQapoy_QzzX1E3mCS5ElCQRTLFjmSu=w2048-h2048-k-no",
-          "description": "A well-maintained and beautifully landscaped backyard with a cozy deck, exemplifying the transformative power of our services.",
-          "reason": "This image illustrates the potential outcome of our services, showcasing our ability to create stunning outdoor living spaces that enhance the overall aesthetic and functionality of a property."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM8_tfbMiDuDZfJ9qU-ogDvlPAXArNnKYJ2sXHO=w2048-h2048-k-no",
+          "description": "A backyard construction site with a partially built deck and a worker diligently working on the project, highlighting the company's professionalism and attention to detail.",
+          "reason": "This image showcases the company's skilled workforce and their ability to handle complex outdoor projects, instilling confidence in potential customers."
         }
       ]
     },
@@ -119,31 +119,332 @@
       "totalTokens": 29539,
       "heroSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPSshCt7P5DBXDu9jyh65KM9I_KcIIjVZjOyK3Z=w2048-h2048-k-no",
-          "description": "This image showcases a beautifully remodeled bathroom with a sleek, modern design. The marble-tiled walk-in shower with a glass enclosure and black hardware exudes luxury and elegance.",
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOpO1rkTgqSQHmV9AM6YLok8d91V-Q4ZHolWdaL=w2048-h2048-k-no",
+          "description": "This image showcases a beautifully remodeled bathroom with a modern walk-in shower featuring marble tile walls and a sleek glass enclosure. The elegant vanity with a granite countertop and vessel sinks adds a touch of luxury.",
           "callToAction": "Elevate your bathroom with our expert remodeling services. Contact us today for a stunning transformation."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOv7WO2-XWEhYKzkPCTjo1oV0Y9-6fsvYU3ONvc=w2048-h2048-k-no",
-          "description": "This image highlights a stylish and functional bathroom vanity with a granite countertop and ample storage space. The framed mirror and lighting fixtures add a touch of sophistication.",
-          "callToAction": "Upgrade your bathroom with our custom vanity solutions. Reach out to us for a free consultation."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOl9ktMsiR21NG76w7zH3vRzOlS68Xw1WKj2uDE=w2048-h2048-k-no",
+          "description": "This image highlights a stylish and functional kitchen remodel. The white shaker cabinets, granite countertops, and stainless steel appliances create a clean and contemporary look.",
+          "callToAction": "Upgrade your kitchen with our top-notch remodeling services. Reach out now for a free consultation."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOl9ktMsiR21NG76w7zH3vRzOlS68Xw1WKj2uDE=w2048-h2048-k-no",
-          "description": "This image showcases a modern and spacious bathroom with a large walk-in shower and a double vanity. The clean lines and neutral color palette create a serene and inviting atmosphere.",
-          "callToAction": "Transform your bathroom into a personal oasis with our comprehensive remodeling services. Get in touch for a free quote."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNQZ-g4WnvTUy6UvZlBeoPZRFuFOnohIlefd_9n=w2048-h2048-k-no",
+          "description": "This exterior image showcases a professional remodeling project in progress. The scaffolding and construction materials demonstrate the company's expertise in handling large-scale renovations.",
+          "callToAction": "Trust our experienced team to handle your home remodeling project from start to finish. Get in touch for a free quote."
         }
       ],
       "aboutUsSection": [
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPR649n2BtmZ8UegDqWpYmz72N1LMMBAnPLM4uK=w2048-h2048-k-no",
-          "description": "This image showcases the expertise and attention to detail of the PLUS Remodels team. The intricate tile work and custom cabinetry demonstrate their craftsmanship and ability to execute complex projects.",
-          "reason": "This image effectively highlights the company's capabilities in delivering high-quality and intricate remodeling work, making it suitable for the About Us section."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMKlT25B6KiP0iXy5HNwOtmxUNtiXPVtbNpwZTf=w2048-h2048-k-no",
+          "description": "This image displays a well-organized and clean bathroom remodeling project, showcasing the company's attention to detail and commitment to quality workmanship.",
+          "reason": "This image effectively demonstrates the company's capabilities in delivering professional and high-quality bathroom remodeling services."
         },
         {
-          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNQZ-g4WnvTUy6UvZlBeoPZRFuFOnohIlefd_9n=w2048-h2048-k-no",
-          "description": "This image captures the exterior of a residential property undergoing a remodeling project by PLUS Remodels. The scaffolding and construction materials showcase the company's ability to handle large-scale projects.",
-          "reason": "This image showcases the company's capacity to take on extensive remodeling projects, making it a suitable choice for the About Us section to demonstrate their range of services."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMz4pYC7elkCakF4NnpqSGBtIHMkcVeAIebJ1EY=w2048-h2048-k-no",
+          "description": "This image captures a behind-the-scenes look at a kitchen remodeling project, with tools and materials neatly organized, reflecting the company's professionalism and dedication to their craft.",
+          "reason": "This image provides insight into the company's process and highlights their expertise in handling kitchen remodeling projects efficiently and meticulously."
+        }
+      ]
+    },
+    "the-construction-artists": {
+      "businessName": "The Construction Artists",
+      "processedImages": 11,
+      "totalTokens": 23711,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN3eNQqRM91Im7GbX2YhksGEh3FHUal0b7jMh2y=w2048-h2048-k-no",
+          "description": "This image showcases a beautifully remodeled kitchen with modern gray cabinets, stainless steel appliances, and a stylish range hood. The warm lighting and open layout create an inviting atmosphere.",
+          "callToAction": "Elevate your kitchen with our expert design and remodeling services. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOFPasHRxqfxIWXCcgOOf72ygeQXepfAqWuuypZ=w2048-h2048-k-no",
+          "description": "This luxurious bathroom features sleek, dark tiles and a stunning vessel sink with a waterfall faucet. The lighting accentuates the modern design, creating a spa-like ambiance.",
+          "callToAction": "Transform your bathroom into a personal oasis with our high-end remodeling solutions. Schedule a consultation now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPJ084RWOjQpaOp2uU3ijRf9G7GU_aNHieZriIJ=w2048-h2048-k-no",
+          "description": "This cozy living room boasts a beautiful brick fireplace with a classic white mantel. The warm tones and elegant decor create a welcoming and inviting space.",
+          "callToAction": "Enhance the heart of your home with our skilled fireplace and living room remodeling services. Get in touch for a free quote."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNqYZgQNMXmLXZ1jf5V5z4KdHx67J-j9rvnDQno=w2048-h2048-k-no",
+          "description": "This image showcases the attention to detail and craftsmanship of our team. The intricate tile work and seamless installation demonstrate our commitment to quality.",
+          "whyAboutUs": "This image highlights our expertise in tile installation and attention to detail, showcasing our ability to deliver exceptional results."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPG2UAQ1u1VUBodwqAcDiGmTX8KHBJb9o4eYeiz=w2048-h2048-k-no",
+          "description": "This kitchen remodel features beautiful gray cabinets, marble countertops, and a sleek range hood. The open layout and modern design elements create a stunning and functional space.",
+          "whyAboutUs": "This image showcases our ability to transform kitchens into stylish and functional spaces, reflecting our design expertise and commitment to quality workmanship."
+        }
+      ]
+    },
+    "little-s-plumbing-and-pro-services": {
+      "businessName": "Little's Plumbing and Pro Services",
+      "processedImages": 12,
+      "totalTokens": 28260,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNbSLr4F2MH1OKQtZvZepH89S7gAt42glv6cGwH=w2048-h2048-k-no",
+          "description": "An exterior view of a residential construction site, showcasing the framing and plumbing infrastructure being installed. The image highlights the expertise of Little's Plumbing in new construction projects.",
+          "callToAction": "Trust Little's Plumbing for your new construction needs. Our skilled professionals ensure top-quality plumbing systems from the ground up."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHk1h-EYsrusJ3-a4xQhlj0QSNbCbDnhnVdT4Z=w2048-h2048-k-no",
+          "description": "An interior shot of a commercial building's mechanical room, displaying the intricate network of pipes, water heaters, and other plumbing components installed by Little's Plumbing.",
+          "callToAction": "Upgrade your commercial plumbing with Little's Plumbing. Our experts handle complex installations with precision and efficiency."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOpgOq3aCxD0a1gICKkU3ZOV4zsa3SUh1uBLk-B=w2048-h2048-k-no",
+          "description": "A close-up view of plumbing fixtures and pipes being installed in a residential setting, showcasing the attention to detail and craftsmanship of Little's Plumbing professionals.",
+          "callToAction": "Enhance your home's plumbing with Little's Plumbing. Our skilled technicians deliver flawless installations for your comfort and convenience."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMF81mgssNepYLPjehayslW8Sj4ouGUSiWFXCsk=w2048-h2048-k-no",
+          "description": "A bathroom renovation project, featuring a newly installed toilet, sink, and tiled flooring, demonstrating Little's Plumbing's expertise in fixture replacement and remodeling services.",
+          "reason": "This image showcases Little's Plumbing's ability to handle complete bathroom renovations, highlighting their attention to detail and commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPiGFVeaJXWMmec3bwzXqOEQPgzcyoMZ91LJG_K=w2048-h2048-k-no",
+          "description": "A water heater installation by Little's Plumbing, with clear labeling and adherence to safety regulations, showcasing their professionalism and expertise as water heater specialists.",
+          "reason": "This image demonstrates Little's Plumbing's specialization in water heater installations, emphasizing their commitment to following industry standards and prioritizing safety."
+        }
+      ]
+    },
+    "hydrotech-plumbing-llc": {
+      "businessName": "HydroTech Plumbing LLC",
+      "processedImages": 2,
+      "totalTokens": 2476,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMKIjLx5HXwTKXQnLZhyOCWQ2iGZO6pEgdH-LrW=w2048-h2048-k-no",
+          "description": "A professional plumbing service van showcasing the HydroTech Plumbing LLC brand, equipped with the necessary tools and equipment to handle plumbing jobs efficiently.",
+          "callToAction": "Trust the experts at HydroTech Plumbing LLC for all your residential and commercial plumbing needs. Call now for prompt and reliable service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP8uRr8MGL0CWgIGUM23fmo-O4uklVu-YopKPPt=w2048-h2048-k-no",
+          "description": "The official HydroTech Plumbing LLC logo, featuring a modern and eye-catching design that conveys professionalism and expertise in the plumbing industry.",
+          "callToAction": "Experience the difference with HydroTech Plumbing LLC. Contact us today for top-notch plumbing solutions."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMKIjLx5HXwTKXQnLZhyOCWQ2iGZO6pEgdH-LrW=w2048-h2048-k-no",
+          "description": "A professional plumbing service van showcasing the HydroTech Plumbing LLC brand, equipped with the necessary tools and equipment to handle plumbing jobs efficiently.",
+          "reason": "This image demonstrates the company's commitment to professionalism and its ability to handle plumbing jobs with the right tools and equipment."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP8uRr8MGL0CWgIGUM23fmo-O4uklVu-YopKPPt=w2048-h2048-k-no",
+          "description": "The official HydroTech Plumbing LLC logo, featuring a modern and eye-catching design that conveys professionalism and expertise in the plumbing industry.",
+          "reason": "The company's logo is a visual representation of its brand identity and professionalism, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "hatcher-plumbing": {
+      "businessName": "Hatcher Plumbing",
+      "processedImages": 12,
+      "totalTokens": 27775,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMPv1Smou8p4N6eJfZ35VQ6bAPY1e1y4XpFLqKP=w2048-h2048-k-no",
+          "description": "This image showcases a luxurious and modern bathroom renovation with a stunning marble tile shower enclosure. The sleek design, featuring a rainfall showerhead and a built-in bench, exudes elegance and sophistication.",
+          "callToAction": "Elevate your bathroom to a spa-like oasis with our expert design and installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOLWE3USsygbW8YClBjZLbnXfthb75e9QfEVuml=w2048-h2048-k-no",
+          "description": "This image displays a beautifully renovated bathroom with a freestanding bathtub as the centerpiece. The combination of natural stone tiles, wood cabinetry, and large windows creates a serene and inviting atmosphere.",
+          "callToAction": "Transform your bathroom into a tranquil retreat with our skilled craftsmanship and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOvJzBVpo_9s8RneQ9b1Gl5QrU-0eiMk01Q3eGN=w2048-h2048-k-no",
+          "description": "This image showcases a sleek and modern kitchen renovation with a stunning marble backsplash and quartz countertops. The clean lines and contemporary design elements create a sophisticated and functional space.",
+          "callToAction": "Upgrade your kitchen with our top-notch renovation services for a stylish and efficient cooking experience."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN-X5mzMM91A5UCFHjnFx3Rc01xFZ_2WAaQwpRI=w2048-h2048-k-no",
+          "description": "This image captures the expertise and attention to detail of Hatcher Plumbing's team. It showcases their ability to handle complex plumbing installations and renovations, ensuring a seamless and professional result.",
+          "whyItWorks": "This image effectively demonstrates the company's capabilities in tackling challenging projects, instilling confidence in potential clients."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPqVzybf6KwwCxc9GCWMiykcKh-ZH7XCak0zqyS=w2048-h2048-k-no",
+          "description": "This image highlights Hatcher Plumbing's commitment to quality workmanship and attention to detail. It showcases their ability to handle outdoor plumbing installations, such as the installation of an outdoor shower, with precision and craftsmanship.",
+          "whyItWorks": "This image showcases the company's versatility and expertise in handling both indoor and outdoor plumbing projects, appealing to a wide range of potential clients."
+        }
+      ]
+    },
+    "brown-s-plumbing-solutions": {
+      "businessName": "Brown's Plumbing Solutions",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN5DjPwAP3bI9lm3cfUjqAh9KR44jMfzGGRnKxq=w2048-h2048-k-no",
+          "description": "A plumbing service van showcasing the company's branding and contact information, demonstrating professionalism and availability.",
+          "callToAction": "For all your plumbing needs, call Brown's Plumbing Solutions at 850-530-8130. Licensed and insured professionals ready to serve you."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMBDWdBYIc9s5XhKKKuQwlVm6XkJoxPTFnj2J8i=w2048-h2048-k-no",
+          "description": "A newly installed modern kitchen sink with a decorative pumpkin, highlighting the company's expertise in kitchen plumbing and attention to detail.",
+          "callToAction": "Upgrade your kitchen with a stylish and functional sink installation from Brown's Plumbing Solutions. Contact us today for a free estimate."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPOaub11bwn024iKCO6EgMg0lDaonjqyXpJNZYd=w2048-h2048-k-no",
+          "description": "A luxurious marble shower with multiple showerheads and body jets, showcasing the company's ability to create spa-like bathroom experiences.",
+          "callToAction": "Transform your bathroom into a personal oasis with a custom shower installation from Brown's Plumbing Solutions. Call now to discuss your dream design."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPBNJQoCK1ZB_2fqyg2xa8_sIpNzK2dqwDyGvsM=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a plumbing project in progress, with tools and materials neatly organized, demonstrating the company's attention to detail and professionalism.",
+          "reason": "This image showcases the company's expertise and commitment to quality workmanship, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM57jU5DKnPx6Pwr6cT8qN8vOfjjuz9vmU7JRpx=w2048-h2048-k-no",
+          "description": "A newly installed tankless water heater with piping and connections, highlighting the company's capability to handle both residential and commercial plumbing projects.",
+          "reason": "This image demonstrates the company's ability to handle various plumbing installations, including energy-efficient solutions, making it a great addition to the About Us section."
+        }
+      ]
+    },
+    "royal-flush": {
+      "businessName": "Royal Flush",
+      "processedImages": 12,
+      "totalTokens": 28470,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPtPhokhe9Fp3xkrvqmNqqN9XNKZSI5F9wJnuUz=w2048-h2048-k-no",
+          "description": "A professional septic service truck emblazoned with the company's logo and contact information, showcasing the business's expertise and readiness to serve customers.",
+          "callToAction": "Trust the experts at Royal Flush Septic Services for all your septic needs. Call 601-410-1748 today!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPHmgD5Oc-AgvXfC9H8374J_Elq4ueD8vPX2t-O=w2048-h2048-k-no",
+          "description": "A close-up of the company's logo and branding on the side of their service vehicle, highlighting their professional and eye-catching brand identity.",
+          "callToAction": "Experience the Royal Flush difference. Contact us at 601-410-1748 for top-notch septic services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOn0aM-PcyVxXVWH6UXBoZ8EV6JszDONHfpKPow=w2048-h2048-k-no",
+          "description": "The owners of Royal Flush Septic Services standing proudly in front of their service truck, conveying their dedication and commitment to customer satisfaction.",
+          "callToAction": "Meet the faces behind Royal Flush Septic Services. Call 601-410-1748 for personalized service you can count on."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPy64fwJnrnmajiD46B71jeKbvOzS_Qx0Nz4g8S=w2048-h2048-k-no",
+          "description": "A septic service truck equipped with a large tank and hoses, demonstrating the company's capability to handle even the most challenging septic jobs.",
+          "reason": "This image showcases the professional-grade equipment and resources Royal Flush Septic Services has at their disposal, instilling confidence in their ability to provide reliable and efficient services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM9H-z1vnndvzJN-X4f2OFTVnZKLX1o4QQxxQVu=w2048-h2048-k-no",
+          "description": "A close-up of the owners, conveying their friendly and approachable demeanor, as well as their expertise and experience in the septic services industry.",
+          "reason": "This image humanizes the company and highlights the dedicated individuals behind Royal Flush Septic Services, fostering trust and a personal connection with potential customers."
+        }
+      ]
+    },
+    "a-c-e-plumbing-solutions": {
+      "businessName": "A.C.E. Plumbing Solutions",
+      "processedImages": 5,
+      "totalTokens": 8472,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPCJ4bRPBpZ_iTuqGrQN65ONybR5PlQ3bN47i9p=w2048-h2048-k-no",
+          "description": "The company logo, featuring a stylized faucet icon, effectively conveys the plumbing services offered.",
+          "callToAction": "Reliable plumbing solutions for all your needs. Call us today!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNrDpAY_Oj90ySO6fsk6IoONqsQYJe1KJdbS-53=w2048-h2048-k-no",
+          "description": "A branded cap showcases the company's professional image and attention to detail.",
+          "callToAction": "Trust our experienced team for top-notch plumbing services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHGYsk4JhzuxcueRMLgHFiSSkgl1UK1J4hzjZH=w2048-h2048-k-no",
+          "description": "A corroded pipe section highlights the importance of timely plumbing maintenance and repair.",
+          "callToAction": "Don't let plumbing issues escalate. Contact us for prompt solutions."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPU2Su0hvA64f7tlB8eUOBqqea0RY7b5BecfwZv=w2048-h2048-k-no",
+          "description": "A professional business card design showcases the company's branding and contact information.",
+          "relevance": "This image demonstrates the company's professional approach and commitment to clear communication with clients."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNhgSNxj1GyHI7WLQl_08JrYWnC9lD95ACbV10w=w2048-h2048-k-no",
+          "description": "The company's logo and name, presented in a clean and modern style.",
+          "relevance": "The logo and branding reflect the company's expertise and reliability in the plumbing industry."
+        }
+      ]
+    },
+    "do-it-all-plumbing-heating-and-cooling-llc": {
+      "businessName": "Do It All Plumbing Heating and Cooling LLC",
+      "processedImages": 12,
+      "totalTokens": 29965,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPB40Q8Kq4yIbiHXdfWQgpPMnKdUWIet7skXp7-=w2048-h2048-k-no",
+          "description": "A professional plumber digging a trench for underground utility lines, showcasing the company's expertise in outdoor plumbing and excavation services.",
+          "callToAction": "Trust our experienced team for all your underground plumbing needs. Contact us today for a free consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOKpIZt897csukuJ5edNBpym7lVU2lD8FB8kxUY=w2048-h2048-k-no",
+          "description": "A well-organized plumbing installation in a new construction site, highlighting the company's ability to handle large-scale projects with precision and attention to detail.",
+          "callToAction": "Ensure your new construction project is completed with top-notch plumbing solutions. Get a quote now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPefmC4miIE0gOM9emar5ftVCG-GKRLPU0EHppi=w2048-h2048-k-no",
+          "description": "A scenic view of a residential property with a freshly dug trench for plumbing work, demonstrating the company's commitment to providing high-quality services while respecting the surrounding environment.",
+          "callToAction": "Upgrade your home's plumbing system with our eco-friendly and efficient solutions. Schedule an appointment today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNjoZC_1d_y7X13GEkVG-lG-MNeCjmxujyrVK_a=w2048-h2048-k-no",
+          "description": "A construction site with an excavated area and exposed pipes, showcasing the company's expertise in handling complex plumbing projects from start to finish.",
+          "reason": "This image effectively demonstrates the company's capabilities in tackling large-scale plumbing installations and renovations, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMElBPElp2Bwwa_SRYZIDN-w7qUYOQ5sy2H846Z=w2048-h2048-k-no",
+          "description": "A newly installed water heater in a residential setting, highlighting the company's proficiency in providing reliable and efficient plumbing solutions for homes.",
+          "reason": "This image showcases the company's ability to handle residential plumbing needs, including water heater installations and replacements, making it a suitable choice for the About Us section."
+        }
+      ]
+    },
+    "plumbworks-llc": {
+      "businessName": "PlumbWorks LLC",
+      "processedImages": 8,
+      "totalTokens": 8774,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM0KtcPSuZKH5I0tH8dURmlim8jl1T7RE1yA0S4=w2048-h2048-k-no",
+          "description": "A professional logo design featuring crossed plumbing tools, flames, and a water droplet, conveying the company's expertise in plumbing services.",
+          "callToAction": "Trust the experts at PlumbWorks LLC for all your plumbing needs. Call or text 205-470-0251 for honest and professional service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOCf4UtVQ_6C81hjJ3luUtuk9kwjPXvTqRIbfIC=w2048-h2048-k-no",
+          "description": "A plumber in an orange safety vest working on a plumbing system, showcasing the company's commitment to safety and professionalism on the job site.",
+          "callToAction": "Don't risk DIY plumbing repairs. Let our certified professionals handle it safely and efficiently. Contact PlumbWorks LLC today."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO0xn8_UAztoeinNCCffhPLPpyqoOml2TseG-ro=w2048-h2048-k-no",
+          "description": "A close-up view of a plumber's hands working on a faucet, highlighting the company's attention to detail and skilled craftsmanship.",
+          "callToAction": "Experience the difference of quality workmanship from PlumbWorks LLC. Call us for your next plumbing project or repair."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMMpKA4ekTZj07Jj1zmAlKhUgeoAK1-lK1SqIDb=w2048-h2048-k-no",
+          "description": "A newly installed tankless water heater system, showcasing the company's expertise in modern plumbing solutions.",
+          "reason": "This image demonstrates PlumbWorks LLC's capability to handle complex plumbing installations, highlighting their commitment to providing cutting-edge solutions for their customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNWBK9yBmfonuJ1FCWlAZ6sNz-Fr3aXqX6wmYW6=w2048-h2048-k-no",
+          "description": "A plumber working on a bathroom plumbing fixture, illustrating the company's experience in residential plumbing services.",
+          "reason": "This image showcases PlumbWorks LLC's proficiency in handling residential plumbing projects, from repairs to renovations, making it an ideal representation of their services for the About Us section."
         }
       ]
     }
