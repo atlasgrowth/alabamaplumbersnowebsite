@@ -5038,6 +5038,108 @@
           "reason": "This image showcases the company's skilled workforce and their dedication to delivering exceptional results, making it an ideal choice for the About Us section."
         }
       ]
+    },
+    "john-s-home-services": {
+      "businessName": "John's Home Services",
+      "processedImages": 12,
+      "totalTokens": 29967,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOz18WDhTxuj-xUcMKLPWx9QZE44bCM2twQQxM1=w2048-h2048-k-no",
+          "description": "A charming residential home with a welcoming front porch, showcasing John's Home Services' expertise in exterior maintenance and repairs.",
+          "callToAction": "Trust John's Home Services to keep your home looking its best with our 24/7 maintenance and repair services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM3OVQLfuAFECzdLwkRUUX7ZbtAMkbMTpip3ojB=w2048-h2048-k-no",
+          "description": "A picturesque evening view of a well-maintained residential property, highlighting John's Home Services' commitment to preserving the beauty of homes.",
+          "callToAction": "Let John's Home Services enhance the curb appeal of your home with our licensed and bonded services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNxb9DQYyZ6FjPypJviiyFUZG0XO4GNVLadOMm0=w2048-h2048-k-no",
+          "description": "An elegant waterfront property with a grand entrance, showcasing John's Home Services' ability to maintain luxury homes.",
+          "callToAction": "Elevate your home's grandeur with John's Home Services' top-notch maintenance and repair solutions."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO_gkyTsqhCOeO0JmII0Qtjxlj_puCDVRPowdYC=w2048-h2048-k-no",
+          "description": "A skilled technician from John's Home Services diligently working on a repair project, demonstrating the company's commitment to quality workmanship.",
+          "reason": "This image highlights the expertise and dedication of John's Home Services' team, instilling confidence in potential customers about the company's capabilities."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOiZOqNjFOT4xpUZhrC5Z__UK7_hskbZ1zIrzf7=w2048-h2048-k-no",
+          "description": "A technician from John's Home Services meticulously addressing a maintenance issue, showcasing the company's attention to detail.",
+          "reason": "This image showcases the company's commitment to thorough and professional service, reassuring customers that their homes are in capable hands."
+        }
+      ]
+    },
+    "plumber-dan-services-llc": {
+      "businessName": "Plumber Dan Services LLC",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNogd-PBBvRoQpsrNtfqVEWNijL9YCWCgaZAx0h=w2048-h2048-k-no",
+          "description": "A professional plumbing service truck showcasing the company's branding and contact information, parked in a serene outdoor setting.",
+          "callToAction": "Trust the experts at Plumber Dan Services LLC for all your plumbing needs. Call us today at 256-630-2292."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOLMGIJMTo6oayZIkSJ0g2C0xs5QOwg6N34lxh_=w2048-h2048-k-no",
+          "description": "A picturesque view of the company's service truck amidst a natural backdrop, highlighting their commitment to serving the local community.",
+          "callToAction": "Experience reliable and efficient plumbing solutions with Plumber Dan Services LLC. Schedule your appointment now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOZFI7IqXJtRuyKBjIgm2eK3vrnBmbk44R-wIbs=w2048-h2048-k-no",
+          "description": "A glimpse into the professional work environment at Plumber Dan Services LLC, showcasing their attention to detail and commitment to quality.",
+          "callToAction": "Upgrade your home's plumbing system with the trusted professionals at Plumber Dan Services LLC. Contact us for a free estimate."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMDTz-yOfFoGxVvzScEj7rQqTtOuvgbgqGfjkEi=w2048-h2048-k-no",
+          "description": "An array of plumbing tools and materials neatly organized, demonstrating the company's preparedness and expertise in handling various plumbing projects.",
+          "reason": "This image effectively showcases the company's capabilities and attention to detail, making it an ideal choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPZadMO_OWD_MCQpdfhlWr3vWLbKLdeUTRrPdq9=w2048-h2048-k-no",
+          "description": "A close-up view of a water meter installation, highlighting the company's proficiency in handling complex plumbing tasks.",
+          "reason": "This image provides a glimpse into the company's skilled workmanship, making it a suitable addition to the About Us section."
+        }
+      ]
+    },
+    "s-s-hvac-more-llc": {
+      "businessName": "S&S HVAC&More LLC",
+      "processedImages": 12,
+      "totalTokens": 23791,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMNMwMbT8Kp78MJs9yZYuLLd4V1MfOlvRR_6Ogg=w2048-h2048-k-no",
+          "description": "A powerful sports car being towed, showcasing the company's expertise in handling high-end vehicles with care.",
+          "callToAction": "Trust our team to transport your prized possessions safely and efficiently."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNe-LacmMEMHpLkdBAuqEX0XL8UpIzidNSRjS_r=w2048-h2048-k-no",
+          "description": "A rugged pickup truck towing a trailer, highlighting the company's capability to handle heavy-duty jobs.",
+          "callToAction": "Rely on our experienced professionals for all your towing and hauling needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMcNkxxa5-u52eddoiryIGPC2jEiWwm8bDFJ1J5=w2048-h2048-k-no",
+          "description": "A tow truck with its bright lights illuminating the road, symbolizing the company's readiness to assist in any situation.",
+          "callToAction": "Experience reliable and prompt service, day or night, with our 24/7 emergency response."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNlcoYp9Hj9K1zxjHxpaqk1ApnPrmYUCV0Wc03f=w2048-h2048-k-no",
+          "description": "A well-equipped HVAC unit installation, demonstrating the company's proficiency in handling complex projects.",
+          "reason": "This image showcases the company's expertise and attention to detail in their work, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNOQ5qM-zX2gFLebfDdFewKVFtk_rkO541Q162P=w2048-h2048-k-no",
+          "description": "A glimpse into the company's workspace, with insulation materials and equipment, highlighting their commitment to quality and efficiency.",
+          "reason": "This behind-the-scenes look gives customers an understanding of the company's operations and the resources they have at their disposal."
+        }
+      ]
     }
   }
 }
