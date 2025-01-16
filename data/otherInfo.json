@@ -1,103 +1,38 @@
 {
   "fussell-plumbing": {
-    "yearsInBusiness": "can't find",
-    "bbbAccredited": "can't find",
-    "ownerName": "can't find",
-    "servicesOffered": [
-      "Plumber",
-      "Service establishment"
-    ],
-    "operatingHours": {
-      "monday": "",
-      "tuesday": "",
-      "wednesday": "",
-      "thursday": "",
-      "friday": "",
-      "saturday": "",
-      "sunday": ""
-    },
-    "communityInvolvement": "can't find",
-    "otherNotes": "can't find"
+    "rawText": "```json\n{\n  \"yearsInBusiness\": \"can't find\",\n  \"bbbAccredited\": \"can't find\",\n  \"ownerName\": \"can't find\",\n  \"servicesOffered\": [\"Plumbing\"],\n  \"operatingHours\": {\n    \"monday\": \"can't find\",\n    \"tuesday\": \"can't find\",\n    \"wednesday\": \"can't find\",\n    \"thursday\": \"can't find\",\n    \"friday\": \"can't find\",\n    \"saturday\": \"can't find\",\n    \"sunday\": \"can't find\"\n  },\n  \"communityInvolvement\": \"can't find\",\n  \"otherNotes\": \"can't find\"\n}\n```",
+    "error": "Could not parse as JSON"
   },
   "jason-s-drain-service": {
-    "yearsInBusiness": "can't find",
-    "bbbAccredited": "can't find",
-    "ownerName": "Jason's Drain Service",
-    "servicesOffered": [
-      "Plumber"
-    ],
-    "operatingHours": {
-      "monday": "8AM-5PM",
-      "tuesday": "8AM-5PM",
-      "wednesday": "8AM-5PM",
-      "thursday": "8AM-5PM",
-      "friday": "8AM-5PM",
-      "saturday": "Closed",
-      "sunday": "Closed"
-    },
-    "communityInvolvement": "can't find",
-    "otherNotes": "can't find"
+    "rawText": "```json\n{\n  \"yearsInBusiness\": \"can't find\",\n  \"bbbAccredited\": \"can't find\",\n  \"ownerName\": \"Jason Hunter\",\n  \"servicesOffered\": [\"Drain Cleaning\", \"Plumbing\", \"Heating\", \"Air-conditioning\"],\n  \"operatingHours\": {\n    \"monday\": \"8AM-5PM\",\n    \"tuesday\": \"8AM-5PM\",\n    \"wednesday\": \"8AM-5PM\",\n    \"thursday\": \"8AM-5PM\",\n    \"friday\": \"8AM-5PM\",\n    \"saturday\": \"Closed\",\n    \"sunday\": \"Closed\"\n  },\n  \"communityInvolvement\": \"can't find\",\n  \"otherNotes\": \"can't find\"\n}\n```",
+    "error": "Could not parse as JSON"
   },
   "salser-plumbing-and-septic-service-llc": {
     "yearsInBusiness": "can't find",
     "bbbAccredited": "can't find",
-    "ownerName": "can't find",
+    "ownerName": "Brandon Salser",
     "servicesOffered": [
-      "Plumber",
-      "Service establishment"
+      "Plumber"
     ],
     "operatingHours": {
-      "monday": "...",
-      "tuesday": "...",
-      "wednesday": "...",
-      "thursday": "...",
-      "friday": "...",
-      "saturday": "...",
-      "sunday": "..."
+      "monday": "can't find",
+      "tuesday": "can't find",
+      "wednesday": "can't find",
+      "thursday": "can't find",
+      "friday": "can't find",
+      "saturday": "can't find",
+      "sunday": "can't find"
     },
     "communityInvolvement": "can't find",
-    "otherNotes": "can't find"
+    "otherNotes": "Salser Plumbing is not BBB accredited. It is located at 90 McClinton Dr, Vincent, AL 35178."
   },
   "hydrotech-plumbing-llc": {
-    "yearsInBusiness": "can't find",
-    "bbbAccredited": "can't find",
-    "ownerName": "can't find",
-    "servicesOffered": [
-      "Plumber",
-      "Service establishment"
-    ],
-    "operatingHours": {
-      "monday": "8AM-5PM",
-      "tuesday": "8AM-5PM",
-      "wednesday": "8AM-5PM",
-      "thursday": "8AM-5PM",
-      "friday": "8AM-5PM",
-      "saturday": "Closed",
-      "sunday": "Closed"
-    },
-    "communityInvolvement": "can't find",
-    "otherNotes": "can't find"
+    "rawText": "```json\n{\n  \"yearsInBusiness\": \"can't find\",\n  \"bbbAccredited\": \"can't find\",\n  \"ownerName\": \"can't find\",\n  \"servicesOffered\": [\n    \"Commercial and residential plumbing repair\",\n    \"Remodel work\"\n  ],\n  \"operatingHours\": {\n    \"monday\": \"8AM-5PM\",\n    \"tuesday\": \"8AM-5PM\",\n    \"wednesday\": \"8AM-5PM\",\n    \"thursday\": \"8AM-5PM\",\n    \"friday\": \"8AM-5PM\",\n    \"saturday\": \"Closed\",\n    \"sunday\": \"Closed\"\n  },\n  \"communityInvolvement\": \"can't find\",\n  \"otherNotes\": \"can't find\"\n}\n```",
+    "error": "Could not parse as JSON"
   },
   "strickland-plumbing-maintenance": {
-    "yearsInBusiness": "can't find",
-    "bbbAccredited": "can't find",
-    "ownerName": "can't find",
-    "servicesOffered": [
-      "Plumber",
-      "Service establishment",
-      "Home improvement store"
-    ],
-    "operatingHours": {
-      "monday": "8AM-5PM",
-      "tuesday": "8AM-5PM",
-      "wednesday": "8AM-5PM",
-      "thursday": "8AM-5PM",
-      "friday": "8AM-5PM",
-      "saturday": "Closed",
-      "sunday": "Closed"
-    },
-    "communityInvolvement": "can't find",
-    "otherNotes": "can't find"
+    "rawText": "```json\n{\n  \"yearsInBusiness\": \"7\",\n  \"bbbAccredited\": \"can't find\",\n  \"ownerName\": \"David Strickland\",\n  \"servicesOffered\": [\n    \"Plumber\",\n    \"Plumbing Renovation\",\n    \"Commercial Plumber\",\n    \"Plumbing Fixtures\",\n    \"Plumbing and Heating\",\n    \"Plumbing Supplies\",\n    \"Plumbing Plan\"\n  ],\n  \"operatingHours\": {\n    \"monday\": \"8AM-5PM\",\n    \"tuesday\": \"8AM-5PM\",\n    \"wednesday\": \"8AM-5PM\",\n    \"thursday\": \"8AM-5PM\",\n    \"friday\": \"8AM-5PM\",\n    \"saturday\": \"Closed\",\n    \"sunday\": \"Closed\"\n  },\n  \"communityInvolvement\": \"can't find\",\n  \"otherNotes\": \"Licensed by State of Alabama Plumbers & Gas Fitters Examining Board (MPG-1034).\"\n}\n```",
+    "error": "Could not parse as JSON"
   },
-  "forceUpdateTimestamp": 1737000950.9603395
+  "forceUpdateTimestamp": 1737002242.61047
 }
