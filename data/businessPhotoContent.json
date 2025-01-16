@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "1737046363.163831",
+    "generated": "1737046836.3587008",
     "model": "claude-3-sonnet-20240229",
     "totalBusinesses": 5,
     "maxPhotosPerBusiness": 12,
@@ -15,71 +15,33 @@
       "businessName": "Southern Shores Plumbing Services",
       "processedImages": 12,
       "totalTokens": 29964,
-      "heroSection": {
-        "mainImage": {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipNAI0eWPrK24G9dUnGtcIZ-p2J9IypZUmlhuanS=w2048-h2048-k-no",
-          "description": "A professional plumber working on a sink, showcasing the expertise of Southern Shores Plumbing Services.",
-          "callToAction": "Trust the experts at <strong>Southern Shores Plumbing Services</strong> for all your plumbing needs."
-        },
-        "supportingImages": [
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipOXzxKyXiOHrus4c4vQGuG827G54VqYesuuplJw=w2048-h2048-k-no",
-            "description": "A plumber from Southern Shores Plumbing Services working on a bathroom fixture, highlighting their attention to detail.",
-            "callToAction": "Experience top-notch service with <strong>Southern Shores Plumbing Services</strong>."
-          },
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipP9OvAH5ZA5avWHA_iglImuzz2GP8ovTVhTUa1b=w2048-h2048-k-no",
-            "description": "A plumber from Southern Shores Plumbing Services working on a water heater, showcasing their expertise in various plumbing systems.",
-            "callToAction": "Reliable and efficient service with <strong>Southern Shores Plumbing Services</strong>."
-          }
-        ]
-      },
-      "aboutUsImages": [
+      "heroSection": [
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipOPZ5Q4y7Z9Q9_CrbJbHprqm124wcynboDIHtj0=w2048-h2048-k-no",
-          "description": "A team of plumbers from Southern Shores Plumbing Services, showcasing their professionalism and commitment to customer satisfaction.",
-          "usage": "This image highlights the experienced and dedicated team at Southern Shores Plumbing Services, making it ideal for the About Us section."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNAI0eWPrK24G9dUnGtcIZ-p2J9IypZUmlhuanS=w2048-h2048-k-no",
+          "description": "A modern and stylish bathroom shower with sleek black fixtures and gray tiled walls, showcasing expert tile installation and plumbing work.",
+          "callToAction": "Elevate your bathroom with our luxurious shower installations. Contact us today for a free consultation."
         },
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipOXrz3AhSN7UXlm1S-ihb8G5ALqOfJQQmhQ3vMY=w2048-h2048-k-no",
-          "description": "A plumber from Southern Shores Plumbing Services working on a residential plumbing system, showcasing their expertise in both commercial and residential projects.",
-          "usage": "This image demonstrates the versatility of Southern Shores Plumbing Services, making it suitable for the About Us section to showcase their range of services."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMTlfkLuDUGx1gY1lTrOesuPzOkeGGs9bcNecLB=w2048-h2048-k-no",
+          "description": "A beautifully designed marble-tiled shower with a rainfall showerhead and elegant fixtures, highlighting our attention to detail and high-end craftsmanship.",
+          "callToAction": "Transform your bathroom into a spa-like oasis with our custom shower designs. Schedule a consultation now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXzxKyXiOHrus4c4vQGuG827G54VqYesuuplJw=w2048-h2048-k-no",
+          "description": "A sleek and modern bathroom vanity with a marble countertop and stylish faucet, demonstrating our expertise in bathroom remodeling and plumbing installations.",
+          "callToAction": "Upgrade your bathroom with our stunning vanity and plumbing solutions. Get a free quote today."
         }
-      ]
-    },
-    "joseph-plumbing-services": {
-      "businessName": "Joseph Plumbing Services",
-      "processedImages": 12,
-      "totalTokens": 28695,
-      "heroSection": {
-        "mainImage": {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipP5Y547s4nmId8pRyxLxio5yc1jHLACSUP75uJn=w2048-h2048-k-no",
-          "description": "A professional plumber working on a sink, showcasing the expertise of Joseph Plumbing Services.",
-          "callToAction": "Trust the experts at <strong>Joseph Plumbing Services</strong> for all your plumbing needs!"
-        },
-        "supportingImages": [
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipO1GbeJevGaB5kYM_Nz8qgcZG0KaRLeZGcXjuM6=w2048-h2048-k-no",
-            "description": "A plumber from Joseph Plumbing Services working on a bathroom fixture, highlighting their attention to detail.",
-            "callToAction": "Upgrade your bathroom with <strong>Joseph Plumbing Services</strong>!"
-          },
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipNbaSGdKUbO7GARcKAAIkupSdehdfqq2emn-APs=w2048-h2048-k-no",
-            "description": "A plumber from Joseph Plumbing Services installing a new water heater, showcasing their expertise in residential plumbing.",
-            "callToAction": "Keep your home running smoothly with <strong>Joseph Plumbing Services</strong>!"
-          }
-        ]
-      },
-      "aboutUsImages": [
+      ],
+      "aboutUsSection": [
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipOWmzo4mDJsd275EhSUdJATeLQJjOt1bB2cHuU3=w2048-h2048-k-no",
-          "description": "A team of plumbers from Joseph Plumbing Services working together, highlighting their collaborative approach.",
-          "usage": "This image showcases the teamwork and professionalism of Joseph Plumbing Services, making it ideal for the About Us section."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOXrz3AhSN7UXlm1S-ihb8G5ALqOfJQQmhQ3vMY=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at our skilled plumbers working on a residential plumbing system, showcasing our commitment to quality workmanship and attention to detail.",
+          "reason": "This image highlights our team's expertise and professionalism, instilling confidence in potential clients about our capabilities."
         },
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipMWkkV3F92wh46X471RN2QelGGcJ_Wt4xJxTGMP=w2048-h2048-k-no",
-          "description": "A plumber from Joseph Plumbing Services working on a commercial plumbing project, highlighting their expertise in various settings.",
-          "usage": "This image demonstrates the versatility of Joseph Plumbing Services, making it suitable for the About Us section to showcase their diverse capabilities."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPbHswCDGlBVyjt79zSV-0Bmb9pL051bFu_KJq2=w2048-h2048-k-no",
+          "description": "A close-up of our plumbing tools and equipment, demonstrating our use of high-quality materials and cutting-edge technology to ensure efficient and reliable service.",
+          "reason": "This image showcases our commitment to using the best tools and techniques, assuring clients that we prioritize quality and stay up-to-date with industry advancements."
         }
       ]
     },
@@ -87,71 +49,33 @@
       "businessName": "Queen Home Improvement LLC",
       "processedImages": 8,
       "totalTokens": 17769,
-      "heroSection": {
-        "mainImage": {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipPGZS8UhkqSUP8i4bhvN8InqYKvKhHQrlrbRcqi=w2048-h2048-k-no",
-          "description": "A professional plumber working on a bathroom sink, showcasing the expertise of Queen Home Improvement LLC.",
-          "callToAction": "Trust the experts at <strong>Queen Home Improvement LLC</strong> for all your plumbing needs."
-        },
-        "supportingImages": [
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipOtKPXmbVd5FuKm96-jEdmm3AEkqEWgm_jQCISX=w2048-h2048-k-no",
-            "description": "A skilled plumber from Queen Home Improvement LLC installing a new water heater, ensuring reliable hot water for your home.",
-            "callToAction": "Upgrade your home's plumbing with <strong>Queen Home Improvement LLC</strong>."
-          },
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipPOT37QOb5Dkx3di_oh5kiTxUU3wSY4lwf-iCbr=w2048-h2048-k-no",
-            "description": "A team of experienced plumbers from Queen Home Improvement LLC working on a complex plumbing project, showcasing their professionalism and attention to detail.",
-            "callToAction": "Experience top-notch plumbing services with <strong>Queen Home Improvement LLC</strong>."
-          }
-        ]
-      },
-      "aboutUsImages": [
+      "heroSection": [
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipM5wvOKR9VPNpFWTiJ12ycpnIyyFi3KRvDKWARd=w2048-h2048-k-no",
-          "description": "A close-up of a plumber's toolbox, representing the expertise and preparedness of Queen Home Improvement LLC's team.",
-          "usage": "This image showcases the professionalism and attention to detail of Queen Home Improvement LLC's plumbers, making it a great choice for the About Us section."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGZS8UhkqSUP8i4bhvN8InqYKvKhHQrlrbRcqi=w2048-h2048-k-no",
+          "description": "A beautifully renovated home exterior featuring a covered porch with elegant columns, brick accents, and a welcoming red front door.",
+          "callToAction": "Enhance your home's curb appeal with our expert exterior renovation services. Contact us today for a free consultation."
         },
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipPciPVsxHviz-q4Qm1XrWqeV5mLJdC-91UQrNfJ=w2048-h2048-k-no",
-          "description": "A plumber from Queen Home Improvement LLC working on a kitchen sink, highlighting their commitment to providing top-quality service for all plumbing needs.",
-          "usage": "This image demonstrates the wide range of plumbing services offered by Queen Home Improvement LLC, making it a great addition to the About Us section."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPOT37QOb5Dkx3di_oh5kiTxUU3wSY4lwf-iCbr=w2048-h2048-k-no",
+          "description": "A modern, open-concept kitchen with sleek white cabinets, granite countertops, and stainless steel appliances, showcasing our high-quality kitchen remodeling work.",
+          "callToAction": "Transform your kitchen into a stylish and functional space with our top-notch remodeling services. Get a free quote now."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOWvCe-_N4ppO-njOJgTj7cc2MVrqmBbuRNthaC=w2048-h2048-k-no",
+          "description": "A cozy living room with hardwood floors, neutral tones, and large windows, demonstrating our ability to create inviting and comfortable living spaces.",
+          "callToAction": "Elevate your living space with our expert interior renovation services. Contact us to schedule a consultation."
         }
-      ]
-    },
-    "top-notch-maintenance-services": {
-      "businessName": "Top Notch Maintenance Services",
-      "processedImages": 12,
-      "totalTokens": 15658,
-      "heroSection": {
-        "mainImage": {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipMjBdjxG83Xn0EENIunmWXHNl-A9pSLydlAul0w=w2048-h2048-k-no",
-          "description": "A professional plumber working on a sink, showcasing Top Notch Maintenance Services' expertise in plumbing repairs.",
-          "callToAction": "Trust the experts at <strong>Top Notch Maintenance Services</strong> for all your plumbing needs!"
-        },
-        "supportingImages": [
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipOZiDNbZ1-cg9XgZCnUC4nW1ONTcuaa_8z6QpH1=w2048-h2048-k-no",
-            "description": "A close-up of a plumber's tools, highlighting Top Notch Maintenance Services' commitment to using high-quality equipment.",
-            "callToAction": "Experience top-notch service with <strong>Top Notch Maintenance Services</strong>!"
-          },
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipNA-I-bzzLBeKNLkQYzUJLbXjcn6Sf2nx6zyX90=w2048-h2048-k-no",
-            "description": "A plumber working on a bathroom fixture, showcasing Top Notch Maintenance Services' expertise in bathroom plumbing.",
-            "callToAction": "Upgrade your bathroom with <strong>Top Notch Maintenance Services</strong>!"
-          }
-        ]
-      },
-      "aboutUsImages": [
+      ],
+      "aboutUsSection": [
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipMYMwu5qfkS9ADKjrVNKa1EHDnnifsWDRgJ63TE=w2048-h2048-k-no",
-          "description": "A team of professional plumbers from Top Notch Maintenance Services, showcasing their commitment to teamwork and customer satisfaction.",
-          "usage": "This image highlights the company's team of skilled professionals, making it ideal for the About Us section."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPciPVsxHviz-q4Qm1XrWqeV5mLJdC-91UQrNfJ=w2048-h2048-k-no",
+          "description": "A modern bathroom with a glass-enclosed shower, mosaic tile accents, and a large window, highlighting our expertise in bathroom remodeling.",
+          "relevance": "This image showcases our attention to detail and ability to create luxurious and functional bathroom spaces, demonstrating our company's capabilities."
         },
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipOR9OqMj9WQapoy_QzzX1E3mCS5ElCQRTLFjmSu=w2048-h2048-k-no",
-          "description": "A plumber working on a water heater, showcasing Top Notch Maintenance Services' expertise in water heater repairs and installations.",
-          "usage": "This image showcases the company's expertise in water heater services, making it relevant for the About Us section."
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GyTHRG69jM5OVeQjI9ayqw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=288.23886&pitch=0&thumbfov=100",
+          "description": "An exterior shot of a modest residential property, indicating our experience in working on various types of homes, from small renovations to complete overhauls.",
+          "relevance": "This image represents our versatility and commitment to serving clients with diverse needs and budgets, making us a reliable choice for any home improvement project."
         }
       ]
     },
@@ -159,35 +83,33 @@
       "businessName": "PLUS Remodels, LLC",
       "processedImages": 12,
       "totalTokens": 29539,
-      "heroSection": {
-        "mainImage": {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipOl9ktMsiR21NG76w7zH3vRzOlS68Xw1WKj2uDE=w2048-h2048-k-no",
-          "description": "A modern and sleek bathroom with a large walk-in shower, showcasing the expert craftsmanship of PLUS Remodels, LLC.",
-          "callToAction": "Transform your bathroom with <strong>PLUS Remodels, LLC</strong>"
-        },
-        "supportingImages": [
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipPW97kQ_BqmAnvNI126DQuZluQhzwtpVwlH0w_s=w2048-h2048-k-no",
-            "description": "A beautifully remodeled kitchen with high-end appliances and custom cabinetry, highlighting the attention to detail by <strong>PLUS Remodels, LLC</strong>.",
-            "callToAction": "Upgrade your kitchen with <strong>PLUS Remodels, LLC</strong>"
-          },
-          {
-            "url": "https://lh5.googleusercontent.com/p/AF1QipOv7WO2-XWEhYKzkPCTjo1oV0Y9-6fsvYU3ONvc=w2048-h2048-k-no",
-            "description": "A stunning bathroom renovation featuring a luxurious freestanding tub and modern fixtures, showcasing the expertise of <strong>PLUS Remodels, LLC</strong>.",
-            "callToAction": "Elevate your bathroom with <strong>PLUS Remodels, LLC</strong>"
-          }
-        ]
-      },
-      "aboutUsImages": [
+      "heroSection": [
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipPR649n2BtmZ8UegDqWpYmz72N1LMMBAnPLM4uK=w2048-h2048-k-no",
-          "description": "A behind-the-scenes look at the skilled team of professionals at PLUS Remodels, LLC, ensuring every project is executed with precision and care.",
-          "usage": "This image showcases the dedicated team behind PLUS Remodels, LLC, highlighting their commitment to excellence and attention to detail."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPSshCt7P5DBXDu9jyh65KM9I_KcIIjVZjOyK3Z=w2048-h2048-k-no",
+          "description": "This image showcases a beautifully remodeled bathroom with a sleek, modern design. The marble-tiled walk-in shower with a glass enclosure and black hardware accents creates a luxurious and spa-like ambiance.",
+          "callToAction": "Elevate your bathroom to a luxurious oasis with our expert remodeling services."
         },
         {
-          "url": "https://lh5.googleusercontent.com/p/AF1QipMKlT25B6KiP0iXy5HNwOtmxUNtiXPVtbNpwZTf=w2048-h2048-k-no",
-          "description": "A plumbing project in progress, demonstrating the expertise of PLUS Remodels, LLC in handling complex plumbing installations and renovations.",
-          "usage": "This image highlights the plumbing capabilities of PLUS Remodels, LLC, showcasing their ability to handle intricate plumbing projects with professionalism."
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOv7WO2-XWEhYKzkPCTjo1oV0Y9-6fsvYU3ONvc=w2048-h2048-k-no",
+          "description": "This image highlights a stunning bathroom vanity with a granite countertop and a framed mirror, complemented by elegant lighting fixtures. The crisp white cabinetry and clean lines exude a timeless and sophisticated style.",
+          "callToAction": "Transform your bathroom into a stylish and functional space with our custom vanity designs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPR649n2BtmZ8UegDqWpYmz72N1LMMBAnPLM4uK=w2048-h2048-k-no",
+          "description": "This image showcases a breathtaking master bathroom with a freestanding bathtub as the centerpiece. The marble tile flooring, decorative window treatments, and elegant fixtures create a serene and inviting atmosphere.",
+          "callToAction": "Indulge in the ultimate relaxation experience with our luxurious bathroom remodeling services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPW97kQ_BqmAnvNI126DQuZluQhzwtpVwlH0w_s=w2048-h2048-k-no",
+          "description": "This image captures the exterior of a residential property undergoing a remodeling project. The scaffolding and construction materials demonstrate the company's expertise in handling large-scale renovations.",
+          "whyItWorks": "This image effectively showcases the company's capabilities in tackling comprehensive remodeling projects, instilling confidence in their ability to handle complex and extensive renovations."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOl9ktMsiR21NG76w7zH3vRzOlS68Xw1WKj2uDE=w2048-h2048-k-no",
+          "description": "This image depicts a well-organized and clean construction site, with various tools and materials neatly arranged. It reflects the company's commitment to maintaining a professional and efficient work environment.",
+          "whyItWorks": "This image highlights the company's attention to detail and professionalism, demonstrating their dedication to delivering high-quality workmanship and maintaining a safe and organized job site."
         }
       ]
     }
