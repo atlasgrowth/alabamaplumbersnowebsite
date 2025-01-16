@@ -3610,6 +3610,74 @@
           "whyItWorks": "This image demonstrates the company's dedication to addressing plumbing problems at their source, even if it requires digging and underground work. It highlights their willingness to go the extra mile to provide comprehensive solutions."
         }
       ]
+    },
+    "rons-old-time-plumbing": {
+      "businessName": "Rons Old Time Plumbing",
+      "processedImages": 12,
+      "totalTokens": 26844,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM011hkSSvYrSZod9M6s6GTDsbBnqVY9Q8N4y3S=w2048-h2048-k-no",
+          "description": "A professional plumber digging a trench and installing new pipes, showcasing the company's expertise in underground utility work and gas line installation.",
+          "callToAction": "Trust Ron's Old Time Plumbing for reliable and efficient gas line installation and repair services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipObKcozfdCA0zh4W7TdjERoo-NqZXws96K50PTq=w2048-h2048-k-no",
+          "description": "A powerful Kubota excavator equipped with various attachments, highlighting the company's access to advanced equipment for tackling complex plumbing projects.",
+          "callToAction": "Rely on our state-of-the-art equipment and skilled operators for all your plumbing needs, big or small."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipParMsK-nhW8eUZ3D931OwKUNERkrWe9dcQACO5=w2048-h2048-k-no",
+          "description": "A well-branded service van from Ron's Old Time Plumbing, showcasing the company's professional image and commitment to quality service.",
+          "callToAction": "Experience the difference with Ron's Old Time Plumbing \u2013 licensed, bonded, and insured for your peace of mind."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPt0IlpAJlh8mcmBjlZabfdYlfjKd1aAoPdTkVr=w2048-h2048-k-no",
+          "description": "A complex array of pipes, valves, and gauges, demonstrating the company's expertise in handling intricate plumbing systems.",
+          "reason": "This image showcases the technical capabilities and experience of Ron's Old Time Plumbing in dealing with complex plumbing installations and repairs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipObbDUSUNmUVSKDJmG1vjOMBCIWA2VDSDFjzVgR=w2048-h2048-k-no",
+          "description": "A close-up of a luxurious bathroom vanity with high-end fixtures, exemplifying the company's ability to handle both residential and commercial projects with attention to detail.",
+          "reason": "This image highlights the company's commitment to quality workmanship and ability to handle a wide range of plumbing projects, from basic repairs to high-end installations."
+        }
+      ]
+    },
+    "smith-and-sons-septic-tank-services-plumbing": {
+      "businessName": "Smith And Sons Septic Tank Services & Plumbing",
+      "processedImages": 12,
+      "totalTokens": 23010,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPBL-_SGFJ8rf9ZQtfe978SQZMPYwoGAB2zNj2t=w2048-h2048-k-no",
+          "description": "A septic tank service truck from Smith And Sons, showcasing their professional equipment and capabilities for septic system maintenance and repairs.",
+          "callToAction": "Keep your septic system running smoothly. Call Smith And Sons for reliable septic tank services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPUf1K32AmQbmhbHcok465iHLzvuhktT22UEH4s=w2048-h2048-k-no",
+          "description": "Skilled workers from Smith And Sons digging a trench and laying pipes, demonstrating their expertise in underground plumbing installations.",
+          "callToAction": "Trust the professionals at Smith And Sons for all your underground plumbing and drainage needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMb6VT-1R7paNWZqGDfAcJV-HrbM3ErrU_x4U3Y=w2048-h2048-k-no",
+          "description": "An excavator from Smith And Sons working on a construction site, highlighting their ability to handle large-scale plumbing projects.",
+          "callToAction": "For commercial or residential plumbing projects, Smith And Sons has the equipment and expertise to get the job done right."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOnuo1Si2u2saQFmEEo9N2O8NiRFXVtAhZfK6yj=w2048-h2048-k-no",
+          "description": "A team of workers from Smith And Sons installing a new septic system, showcasing their proficiency in septic system installations.",
+          "whyItWorks": "This image demonstrates the company's capabilities in handling septic system installations, which is a core service they offer. It highlights their skilled workforce and attention to detail."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNGBrixBON8zgWK_q7ykuB-iTtscR_saBITYMHF=w2048-h2048-k-no",
+          "description": "A close-up view of a plumbing repair being performed by a Smith And Sons technician, showcasing their expertise in plumbing maintenance and repairs.",
+          "whyItWorks": "This image showcases the company's expertise in plumbing repairs and maintenance, which is another essential service they provide. It highlights their attention to detail and commitment to quality workmanship."
+        }
+      ]
     }
   }
 }
