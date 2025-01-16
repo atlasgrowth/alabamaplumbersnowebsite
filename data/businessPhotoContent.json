@@ -2010,6 +2010,108 @@
           "reason": "This image highlights the company's dedication to delivering exceptional results, which is crucial for establishing their reputation and credibility in the industry."
         }
       ]
+    },
+    "ingram-plumbing": {
+      "businessName": "Ingram Plumbing",
+      "processedImages": 12,
+      "totalTokens": 23851,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMMbmiUeiosozakf_uEclFDpOPUtOVSzIbs0isj=w2048-h2048-k-no",
+          "description": "An exterior view of the Ingram Plumbing office, showcasing their professional branding and modern facilities.",
+          "callToAction": "Trust the experts at Ingram Plumbing for all your residential and commercial plumbing needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMDhTiIJ1Rq-ruU-uN30hMbXW5k4yvK8UNOWPFa=w2048-h2048-k-no",
+          "description": "A luxurious bathroom remodel completed by Ingram Plumbing, featuring elegant marble finishes and gold fixtures.",
+          "callToAction": "Elevate your bathroom with Ingram Plumbing's expert design and installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMdpXRtPaVQ9HVvUvqlwu7yDXCicZca7bRwVOZp=w2048-h2048-k-no",
+          "description": "An outdoor shower enclosure crafted by Ingram Plumbing, blending rustic wood and modern tile for a unique aesthetic.",
+          "callToAction": "Create your dream outdoor living space with Ingram Plumbing's innovative plumbing solutions."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPbhvZKvfG_0_cXR3HSnofmJCeJ6Iwp4OC7SQ6b=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at Ingram Plumbing's skilled technicians installing a state-of-the-art water heater system.",
+          "reason": "This image showcases the company's expertise in handling complex plumbing installations, demonstrating their capabilities and commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMyOKcF-t7_ULeoxgsQC083jLqxXEyjZpj3p7if=w2048-h2048-k-no",
+          "description": "Ingram Plumbing's meticulous attention to detail, as seen in their organized and color-coded piping system.",
+          "reason": "This image highlights the company's professionalism and dedication to following industry best practices, instilling confidence in their ability to deliver exceptional service."
+        }
+      ]
+    },
+    "crowes-trenching-plumbing": {
+      "businessName": "Crowes trenching & plumbing",
+      "processedImages": 7,
+      "totalTokens": 15803,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNpRNsPuo2jyu47mS5gm0h7xfjGyInUaxrP0UbD=w2048-h2048-k-no",
+          "description": "A bold and eye-catching cartoon mascot of a determined-looking crow operating a trenching machine, symbolizing the company's American spirit and commitment to quality work.",
+          "callToAction": "Let Crowe's Trenching dig deep and lay the foundation for your next project!"
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMUXMREYc7jLspqwQfHKmx2iybYVaEaVKI01d11=w2048-h2048-k-no",
+          "description": "A powerful and well-maintained Vermeer trenching machine, showcasing the company's professional-grade equipment and readiness to tackle any job.",
+          "callToAction": "Trust Crowe's Trenching to bring the right tools and expertise to your trenching needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPii-3g4GL1Uc-hPJz2t0h7LUteZSEdoHyxE8oN=w2048-h2048-k-no",
+          "description": "A large American flag proudly displayed amidst the company's equipment and supplies, representing their patriotic values and dedication to serving the local community.",
+          "callToAction": "Experience the American dream with Crowe's Trenching \u2013 reliable, hardworking, and committed to your success."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w2048-h2048-k-no",
+          "description": "A freshly dug trench in a residential area, showcasing the company's expertise in preparing sites for utility installations or landscaping projects.",
+          "reason": "This image effectively demonstrates the company's core trenching capabilities and the quality of their work in a residential setting, making it suitable for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMMaaECpdVy1D5KaSS_7aGbQxWxaCuxljwlYNp1=w2048-h2048-k-no",
+          "description": "A long trench cutting through a wooded area, highlighting the company's ability to handle challenging terrain and larger-scale projects.",
+          "reason": "This image showcases the company's versatility and experience in tackling diverse trenching projects, making it a great addition to the About Us section."
+        }
+      ]
+    },
+    "right-a-way-rooter": {
+      "businessName": "Right-A-Way Rooter",
+      "processedImages": 5,
+      "totalTokens": 7247,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPqBY-0I-9xGqwA3YklMyVqV6mCbNol6ScQp7wT=w2048-h2048-k-no",
+          "description": "A powerful tow truck equipped with a flatbed trailer, ready to transport heavy machinery or equipment to job sites, showcasing the company's capability to handle large-scale projects.",
+          "callToAction": "For all your heavy-duty plumbing and transportation needs, trust the experts at Right-A-Way Rooter."
+        },
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4TKW-Tbp0QXqJGL5NKlhnQ&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=109.79254&pitch=0&thumbfov=100",
+          "description": "A serene rural landscape with a winding road leading to a farm, highlighting the company's ability to serve both urban and remote areas.",
+          "callToAction": "No matter where your plumbing needs arise, Right-A-Way Rooter is ready to provide reliable solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOSgBtOl72EbKGTtNkQQWnNjUNPXnE4iLbxnWlW=w2048-h2048-k-no",
+          "description": "Two friendly and professional technicians posing together, conveying the company's commitment to excellent customer service and teamwork.",
+          "callToAction": "Experience the difference of working with a team of skilled and personable plumbing professionals. Contact Right-A-Way Rooter today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMGMmPuYY191lZtqpuBxJQIAr0BgC0c1MbuUzEe=w2048-h2048-k-no",
+          "description": "A residential plumbing installation project in progress, showcasing the company's expertise in handling both residential and commercial projects.",
+          "reason": "This image demonstrates the company's capabilities in providing comprehensive plumbing services for homeowners, highlighting their attention to detail and commitment to quality workmanship."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPD1IZ04AF-1xbOB6t4DFx42TfIcAKLqBokR4LM=w2048-h2048-k-no",
+          "description": "A close-up view of plumbing components being installed, highlighting the company's attention to detail and commitment to using high-quality materials.",
+          "reason": "This image showcases the company's professionalism and expertise in executing plumbing projects with precision, using industry-standard materials and techniques."
+        }
+      ]
     }
   }
 }
