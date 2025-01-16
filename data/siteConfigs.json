@@ -117,8 +117,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "primaryColor": "",
-      "secondaryColor": ""
+      "primaryColor": "#9ad114",
+      "secondaryColor": "#668b0d"
     },
     "jason-s-drain-service": {
       "query": "plumber, 35468, Kellerman, AL, US",
@@ -237,8 +237,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "primaryColor": "",
-      "secondaryColor": ""
+      "primaryColor": "#9ad114",
+      "secondaryColor": "#668b0d"
     },
     "salser-plumbing-and-septic-service-llc": {
       "query": "plumber, 35078, Harpersville, AL, US",
@@ -357,8 +357,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "primaryColor": "",
-      "secondaryColor": ""
+      "primaryColor": "#4663b8",
+      "secondaryColor": "#8c8c7c"
     },
     "hydrotech-plumbing-llc": {
       "query": "plumber, 35087, Joppa, AL, US",
@@ -477,8 +477,8 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "primaryColor": "",
-      "secondaryColor": ""
+      "primaryColor": "#9ad114",
+      "secondaryColor": "#668b0d"
     },
     "strickland-plumbing-maintenance": {
       "query": "plumber, 35111, Mc Calla, AL, US",
@@ -597,9 +597,9 @@
       "website_keywords": "",
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
-      "primaryColor": "",
-      "secondaryColor": ""
+      "primaryColor": "#d49884",
+      "secondaryColor": "#b98c86"
     }
   },
-  "forceUpdateTimestamp": "1736988939.1985385"
+  "forceUpdateTimestamp": "1736989277.7204933"
 }
