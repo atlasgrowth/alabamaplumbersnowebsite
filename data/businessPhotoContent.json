@@ -276,6 +276,40 @@
           "whyItWorks": "This image highlights our versatility and capability to handle both indoor and outdoor plumbing projects, catering to diverse client needs and preferences."
         }
       ]
+    },
+    "brown-s-plumbing-solutions": {
+      "businessName": "Brown's Plumbing Solutions",
+      "processedImages": 12,
+      "totalTokens": 29964,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN5DjPwAP3bI9lm3cfUjqAh9KR44jMfzGGRnKxq=w2048-h2048-k-no",
+          "description": "A plumbing service van showcasing the company's branding and contact information, conveying professionalism and reliability.",
+          "callToAction": "For all your plumbing needs, call Brown's Plumbing Solutions at 850-530-8130. Licensed and insured professionals."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMBDWdBYIc9s5XhKKKuQwlVm6XkJoxPTFnj2J8i=w2048-h2048-k-no",
+          "description": "A newly installed kitchen sink with a modern faucet and sleek design, highlighting the company's expertise in kitchen plumbing renovations.",
+          "callToAction": "Upgrade your kitchen with a stylish and functional sink installation by Brown's Plumbing Solutions. Contact us today for a free quote."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPOaub11bwn024iKCO6EgMg0lDaonjqyXpJNZYd=w2048-h2048-k-no",
+          "description": "A luxurious bathroom showcasing a marble-tiled shower with multiple showerheads and body jets, demonstrating the company's ability to create spa-like bathroom experiences.",
+          "callToAction": "Transform your bathroom into a personal oasis with Brown's Plumbing Solutions. Schedule a consultation for your dream bathroom renovation."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPBNJQoCK1ZB_2fqyg2xa8_sIpNzK2dqwDyGvsM=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a plumbing project in progress, showcasing the company's attention to detail and commitment to quality workmanship.",
+          "reason": "This image highlights the company's expertise and professionalism in tackling complex plumbing projects, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM57jU5DKnPx6Pwr6cT8qN8vOfjjuz9vmU7JRpx=w2048-h2048-k-no",
+          "description": "A beautifully designed bathroom vanity with a granite countertop and custom cabinetry, showcasing the company's ability to handle high-end bathroom remodeling projects.",
+          "reason": "This image demonstrates the company's versatility and capability to handle both functional and aesthetic aspects of bathroom renovations, appealing to customers seeking luxury and style."
+        }
+      ]
     }
   }
 }
