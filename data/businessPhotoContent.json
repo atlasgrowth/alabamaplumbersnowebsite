@@ -1670,6 +1670,142 @@
           "relevance": "This image showcases the company's dedication to providing comprehensive services, including ongoing maintenance and support, ensuring customer satisfaction long after the initial installation."
         }
       ]
+    },
+    "hamilton-renovations-llc": {
+      "businessName": "Hamilton Renovations LLC",
+      "processedImages": 12,
+      "totalTokens": 20407,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNNWcPd9BrHaf3YyhE8qcdTXwv9KtPZpJVYFkMg=w2048-h2048-k-no",
+          "description": "This image showcases a beautifully constructed in-ground pool surrounded by a stylish composite deck. The pool features a sleek design with a tiled interior and is complemented by a charming play area for children.",
+          "callToAction": "Transform your backyard into a personal oasis with our expert pool installation and landscaping services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO9bXtfratTprA19LEp-KFcKFfBBBcV-yYwMyb7=w2048-h2048-k-no",
+          "description": "This image highlights a stunning above-ground pool installation seamlessly integrated into the backyard landscape. The wooden deck and privacy fence create a serene and inviting atmosphere.",
+          "callToAction": "Elevate your outdoor living experience with our top-notch above-ground pool solutions tailored to your needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOEjIpG0llzXtsGzluvmqBIp1xkmey46xu0kD5o=w2048-h2048-k-no",
+          "description": "This image showcases a beautifully constructed wooden fence and landscaping, creating a sense of privacy and natural beauty in the backyard.",
+          "callToAction": "Enhance your property's curb appeal and create a secluded outdoor retreat with our expert fencing and landscaping services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPtg-BWVbp-i5YJEwZ_awcB2QgrDigAe9eYf_9w=w2048-h2048-k-no",
+          "description": "This image showcases a newly constructed deck with a covered patio area, highlighting the company's expertise in outdoor living spaces and attention to detail.",
+          "reason": "This image effectively demonstrates the company's capabilities in creating functional and aesthetically pleasing outdoor living areas, which is a key aspect of their services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMnGcJZXiTqZk-O4MhZlH5ais3qo-B9gPHk-TgW=w2048-h2048-k-no",
+          "description": "This image displays a well-crafted wooden picnic table and benches, showcasing the company's craftsmanship and ability to create custom outdoor furniture.",
+          "reason": "The image highlights the company's versatility in offering not only construction services but also custom woodworking projects, which can be a valuable addition to the About Us section."
+        }
+      ]
+    },
+    "chris-mayo-plumbing-and-drain-service": {
+      "businessName": "Chris Mayo Plumbing and Drain Service",
+      "processedImages": 12,
+      "totalTokens": 29959,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNKoj7pWXoqnSU4CKO6ECSgUkh-uG_FHmSA_bgr=w2048-h2048-k-no",
+          "description": "An excavator on a residential construction site, showcasing the company's expertise in site preparation and heavy equipment operation.",
+          "callToAction": "Trust our experienced team to handle your excavation and site preparation needs efficiently and safely."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPo_MibTdZ6DUiGTrJ5E08R7qlGg5ayZiwTVC6u=w2048-h2048-k-no",
+          "description": "A plumbing technician working on a residential plumbing project, demonstrating the company's commitment to quality workmanship.",
+          "callToAction": "Experience top-notch plumbing services from our skilled professionals. Contact us for your next project."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP3WAWd9Oigu9tjNgIcaLvKrHzJWdZM4pHFBD4p=w2048-h2048-k-no",
+          "description": "A stylish and modern bathroom vanity installation, highlighting the company's ability to deliver beautiful and functional plumbing solutions.",
+          "callToAction": "Elevate your bathroom with our expert design and installation services. Book a consultation today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOLBq_zR4da_KwnST-Q8ylpPD66zBKoOnk-zLpR=w2048-h2048-k-no",
+          "description": "A row of high-efficiency tankless water heaters installed by the company, showcasing their expertise in energy-efficient plumbing solutions.",
+          "reason": "This image demonstrates the company's capability to provide cutting-edge, energy-saving plumbing systems, positioning them as a forward-thinking and environmentally conscious business."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPTWdbMdt5EKehAbiCTU2FXOW72EU2xwtCpA5Cd=w2048-h2048-k-no",
+          "description": "A plumbing technician working on a complex residential plumbing project, highlighting the company's ability to handle intricate installations.",
+          "reason": "This image showcases the company's skilled workforce and their ability to tackle challenging plumbing projects, instilling confidence in their professionalism and expertise."
+        }
+      ]
+    },
+    "dorsey-plumbing-llc": {
+      "businessName": "Dorsey Plumbing LLC",
+      "processedImages": 5,
+      "totalTokens": 11928,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGGW8t33F1ShQBraOSLPOP6Sl3okJEVeVhTixZ=w2048-h2048-k-no",
+          "description": "A professional logo for Dorsey Plumbing LLC, featuring crossed plumbing tools and the text 'Licensed \u2022 Bonded \u2022 Insured', conveying the company's expertise and reliability.",
+          "callToAction": "Trust the experts at Dorsey Plumbing LLC for all your plumbing needs. Licensed, bonded, and insured for your peace of mind."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOUkCnHML1BVchfrdYF73Lt4fwlc8uxux_JBuDi=w2048-h2048-k-no",
+          "description": "A Dorsey Plumbing LLC service van, showcasing the company's professional branding and contact information.",
+          "callToAction": "Call Dorsey Plumbing LLC at 470-489-8841 for prompt and reliable plumbing services in your area."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPyCKraxpzahC9cvALxJtJTrmOZx22KYUjDZu2x=w2048-h2048-k-no",
+          "description": "A new, energy-efficient tankless water heater installed by Dorsey Plumbing LLC, demonstrating their expertise in modern plumbing solutions.",
+          "callToAction": "Upgrade to a high-efficiency tankless water heater from Dorsey Plumbing LLC and start saving on your energy bills today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMT1loHgAP3lg8Nx2-sAS20cg1uI9UyvbhA8q5H=w2048-h2048-k-no",
+          "description": "Two modern, energy-efficient tankless water heaters installed by Dorsey Plumbing LLC, showcasing their expertise in providing cutting-edge plumbing solutions.",
+          "reason": "This image demonstrates Dorsey Plumbing LLC's capabilities in installing state-of-the-art plumbing systems, highlighting their commitment to providing customers with the latest and most efficient solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMITiyQBsF5oQfoGbB_TEgRQqnrYvVBafjr_DXN=w2048-h2048-k-no",
+          "description": "A close-up view of the Dorsey Plumbing LLC logo, emphasizing their status as a licensed, bonded, and insured plumbing company.",
+          "reason": "The company's logo and commitment to being licensed, bonded, and insured instill trust and confidence in their professionalism and reliability, making it an ideal image for the About Us section."
+        }
+      ]
+    },
+    "mike-s-plumbing-electric-service": {
+      "businessName": "Mike's Plumbing & Electric Service",
+      "processedImages": 12,
+      "totalTokens": 28540,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOAye36pGihLYuIwsxdVJQh4OT79iyAPBQrzkOx=w2048-h2048-k-no",
+          "description": "A Mike's Plumbing & Electric Service van parked alongside a towering blue lift, showcasing the company's capability to handle both residential and commercial projects of any scale.",
+          "callToAction": "Trust the experts at Mike's for all your plumbing and electrical needs, from minor repairs to major renovations."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNCrEyFtUOmQ8GLVd2ZN50IWev5O8IteSXZGmFo=w2048-h2048-k-no",
+          "description": "An excavator digging a trench for underground utility lines, demonstrating Mike's expertise in new construction and infrastructure projects.",
+          "callToAction": "Let Mike's handle your new construction project from the ground up, with seamless coordination of plumbing and electrical systems."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN7WX1Vg50ZFyZqK38igCKwisjE44U4a5PlZDL_=w2048-h2048-k-no",
+          "description": "A luxurious bathroom renovation featuring elegant tile work and modern fixtures, highlighting Mike's skill in transforming spaces with high-quality craftsmanship.",
+          "callToAction": "Elevate your living space with a stunning bathroom remodel by the skilled professionals at Mike's Plumbing & Electric Service."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPQ6CMg-Z8AaSem9R5AzsfnXI2lVhhJqeG-99tx=w2048-h2048-k-no",
+          "description": "A worker digging a trench for a new plumbing line, showcasing Mike's commitment to hands-on expertise and attention to detail in every project.",
+          "reason": "This image demonstrates the company's ability to handle complex installations and their dedication to quality workmanship, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPRaXTq8skCTbySxmVn3NLUHqKhxgQkzT-guTIn=w2048-h2048-k-no",
+          "description": "A skilled technician working on a plumbing repair, highlighting Mike's professionalism and expertise in addressing even the most challenging issues.",
+          "reason": "This image showcases the company's commitment to providing top-notch service and their ability to handle a wide range of plumbing and electrical repairs, making it a great addition to the About Us section."
+        }
+      ]
     }
   }
 }
