@@ -1,78 +1,14 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "1737040449.1684952",
+    "generated": "1737042238.2949579",
     "model": "claude-3-sonnet-20240229",
-    "totalBusinesses": 5
-  },
-  "businessPhotoContent": {
-    "southern-shores-plumbing-services": {
-      "businessName": "Southern Shores Plumbing Services",
-      "heroSection": {
-        "mainImage": {
-          "url": "bathroom-shower.jpg",
-          "description": "A modern bathroom with a luxurious walk-in shower featuring marble tile walls, a rainfall showerhead, and a handheld shower wand. The sleek black fixtures and frameless glass door create a sophisticated and spa-like ambiance.",
-          "callToAction": "Elevate Your Bathroom to a Spa Oasis with Southern Shores Plumbing"
-        },
-        "supportingImages": [
-          {
-            "url": "bathroom-vanity.jpg",
-            "description": "A stylish bathroom vanity with a marble countertop, a rectangular undermount sink, and a matte black faucet. The warm wood tones of the vanity cabinet complement the cool gray tones of the marble, creating a harmonious and inviting space.",
-            "callToAction": "Transform Your Bathroom with Southern Shores' Expert Craftsmanship"
-          },
-          {
-            "url": "bathroom-toilet.jpg",
-            "description": "A contemporary toilet with a sleek, elongated bowl and a soft-close seat. The toilet is positioned against a wall with a striking marble tile accent, adding a touch of luxury to this essential bathroom fixture.",
-            "callToAction": "Upgrade Your Bathroom with Southern Shores' Precision Plumbing Solutions"
-          }
-        ]
-      },
-      "aboutUsImages": [
-        {
-          "url": "plumbing-tools.jpg",
-          "description": "An assortment of plumbing tools and materials, including pipes, fittings, a wrench, and a tape measure, neatly organized on a workbench. This image showcases the company's professionalism and attention to detail.",
-          "usage": "This image works well for the About Us section as it highlights the company's expertise and commitment to using high-quality tools and materials, ensuring top-notch workmanship for every project."
-        },
-        {
-          "url": "plumbing-installation.jpg",
-          "description": "A close-up view of a plumber's hands carefully installing a new pipe fitting, demonstrating the company's attention to detail and commitment to quality workmanship.",
-          "usage": "This image is an excellent choice for the About Us section as it showcases the company's skilled technicians and their dedication to precise and meticulous work, instilling confidence in their ability to handle even the most complex plumbing projects."
-        }
-      ]
-    },
-    "plus-remodels-llc": {
-      "businessName": "PLUS Remodels, LLC",
-      "heroSection": {
-        "mainImage": {
-          "url": "https://example.com/bathroom-remodel.jpg",
-          "description": "A luxurious modern bathroom with a large walk-in shower, marble tiles, and sleek fixtures, showcasing the company's expertise in high-end bathroom remodeling.",
-          "callToAction": "Transform Your Bathroom into a Spa-Like Oasis"
-        },
-        "supportingImages": [
-          {
-            "url": "https://example.com/kitchen-renovation.jpg",
-            "description": "A beautifully renovated kitchen with new cabinets, countertops, and appliances, highlighting the company's ability to create functional and stylish living spaces.",
-            "callToAction": "Upgrade Your Kitchen with Our Expert Renovation Services"
-          },
-          {
-            "url": "https://example.com/exterior-remodel.jpg",
-            "description": "A stunning exterior remodel with a new roof, siding, and landscaping, demonstrating the company's comprehensive approach to home improvement projects.",
-            "callToAction": "Enhance Your Home's Curb Appeal with Our Exterior Remodeling Solutions"
-          }
-        ]
-      },
-      "aboutUsImages": [
-        {
-          "url": "https://example.com/team-at-work.jpg",
-          "description": "A team of skilled professionals working on a bathroom renovation project, showcasing their attention to detail and commitment to quality workmanship.",
-          "usage": "This image highlights the company's experienced and dedicated team, instilling confidence in their ability to handle complex remodeling projects."
-        },
-        {
-          "url": "https://example.com/before-after.jpg",
-          "description": "A before-and-after comparison of a bathroom remodel, showcasing the company's ability to transform outdated spaces into modern and functional areas.",
-          "usage": "This image demonstrates the company's expertise in delivering stunning transformations, giving potential clients a visual representation of their capabilities."
-        }
-      ]
+    "totalBusinesses": 5,
+    "maxPhotosPerBusiness": 12,
+    "tokenLimits": {
+      "maxInputTokensPerMin": 40000,
+      "targetTokensPerImage": 2500
     }
-  }
+  },
+  "businessPhotoContent": {}
 }
