@@ -2930,6 +2930,108 @@
           "reason": "This image showcases the company's versatility in tackling various plumbing challenges, making it a suitable choice for the About Us section to showcase their range of services."
         }
       ]
+    },
+    "fortner-plumbing": {
+      "businessName": "Fortner Plumbing",
+      "processedImages": 5,
+      "totalTokens": 11154,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPtnJ28OmxqPJ4ngr8JjGEl0rWFkJ5LwYH5G31G=w2048-h2048-k-no",
+          "description": "A rugged septic service truck emblazoned with the company's logo, showcasing their expertise in septic system installations and maintenance.",
+          "callToAction": "Trust our experienced team to handle all your septic system needs with professionalism and efficiency."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNcp6iPq0k3atqXbr3RQV47wqgdBZ4oCUllXvEa=w2048-h2048-k-no",
+          "description": "A powerful excavator positioned in front of a residential property, highlighting the company's capability to handle large-scale plumbing and excavation projects.",
+          "callToAction": "Upgrade your home's plumbing system with our comprehensive excavation and installation services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN4qKXcTXszE9FvP7lLsRRPsPoOqH6jjK70nMC5=w2048-h2048-k-no",
+          "description": "A septic system installation in progress, showcasing the company's expertise in underground plumbing and septic system construction.",
+          "callToAction": "Ensure your septic system is installed correctly and up to code with our professional installation services."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOJVQkHqiXJdPQgJZzghvejxStnxjKZ8BZFQlpL=w2048-h2048-k-no",
+          "description": "A newly renovated bathroom with a sleek vanity and modern fixtures, demonstrating the company's skill in bathroom remodeling and plumbing installations.",
+          "reason": "This image showcases the company's ability to deliver high-quality plumbing work and transform bathrooms into stylish and functional spaces."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPg-UyCS6qSezxemMU0zkw_SVTBL5rVOsXXRenS=w2048-h2048-k-no",
+          "description": "A powerful excavator positioned in front of a residential property, highlighting the company's capability to handle large-scale plumbing and excavation projects.",
+          "reason": "This image demonstrates the company's expertise in tackling complex plumbing projects that require excavation and heavy machinery, showcasing their versatility and professionalism."
+        }
+      ]
+    },
+    "flippo-restoration-and-maintenance-llc": {
+      "businessName": "Flippo Restoration And Maintenance , LLC",
+      "processedImages": 12,
+      "totalTokens": 25378,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipONtm8XF5VBHz943fcQfDxVSfBnVY8CVGlRkl56=w2048-h2048-k-no",
+          "description": "A professional plumbing service van parked outside a residential property, showcasing the company's branding and readiness to serve customers.",
+          "callToAction": "Trusted Plumbing Experts at Your Service. Call Now for Prompt and Reliable Solutions."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNDIEflwa0gwi1zeYV5qCcqit1ZH5DhgqGL7VeD=w2048-h2048-k-no",
+          "description": "A beautifully constructed modern home, highlighting the company's expertise in residential plumbing installations and renovations.",
+          "callToAction": "Elevate Your Home with Our Exceptional Plumbing Services. Contact Us for a Consultation."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNIDZis-djke3iYzf8W5Vrlu5bHCu2mxAYfafln=w2048-h2048-k-no",
+          "description": "A picturesque outdoor living space with comfortable seating around a fire pit, showcasing the company's ability to integrate plumbing solutions seamlessly into outdoor living areas.",
+          "callToAction": "Transform Your Outdoor Space with Our Innovative Plumbing Solutions. Schedule a Free Estimate Today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNKdvLwQAOYqNPFYrHny6OL2TCCNr2PMf068v4D=w2048-h2048-k-no",
+          "description": "A behind-the-scenes look at a complex plumbing repair job, demonstrating the company's expertise in tackling challenging projects.",
+          "reason": "This image showcases the company's technical skills and commitment to addressing even the most demanding plumbing issues, instilling confidence in potential customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipO2QlGCh4PedjKf9WsHURdwbU1Gjgish3b0wnm2=w2048-h2048-k-no",
+          "description": "A trench with plumbing pipes being installed, highlighting the company's proficiency in underground plumbing installations and infrastructure work.",
+          "reason": "This image illustrates the company's capabilities in handling large-scale plumbing projects, from residential to commercial, showcasing their versatility and experience."
+        }
+      ]
+    },
+    "jeff-brown-s-plumbing": {
+      "businessName": "Jeff Brown's Plumbing",
+      "processedImages": 12,
+      "totalTokens": 29955,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPbnzrbef3FQVJozgKBjCbwgNmIOlFXjFOsOnIk=w2048-h2048-k-no",
+          "description": "A skilled plumber working on a residential plumbing installation, with pipes and fittings neatly laid out in a partially constructed home.",
+          "callToAction": "Trust our experienced team for all your new construction plumbing needs."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPLZUH0sOTZszky0NBCmUSGCZoVkUB0xWNA0uQ-=w2048-h2048-k-no",
+          "description": "A plumber carefully working on a bathroom plumbing fixture, showcasing our attention to detail and commitment to quality workmanship.",
+          "callToAction": "Upgrade your bathroom with our expert plumbing services for a refreshing new look."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPMDWnRusNK6S2jyLPUZYQpnKlC9cGDnFi6wUxk=w2048-h2048-k-no",
+          "description": "A close-up of a modern faucet with water flowing, highlighting our expertise in installing and maintaining high-quality fixtures.",
+          "callToAction": "Enhance your home's style and functionality with our wide range of plumbing fixture options."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOqad61lhHmFjdJ-jCrAq655Y7XxiamyfK1cI2C=w2048-h2048-k-no",
+          "description": "A plumber diligently working under a sink, demonstrating our ability to tackle even the most challenging plumbing repairs and maintenance tasks.",
+          "reason": "This image showcases our team's professionalism and commitment to providing top-notch plumbing services, making it an excellent choice for the About Us section."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNYcr1hjyQ522rsoNJaocsbMG7V1K9YNvIW4fk9=w2048-h2048-k-no",
+          "description": "A construction site with framing and plumbing rough-in work in progress, highlighting our expertise in new construction and remodeling projects.",
+          "reason": "This image illustrates our company's capabilities in handling large-scale plumbing installations, making it a suitable choice for the About Us section."
+        }
+      ]
     }
   }
 }
