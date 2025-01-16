@@ -5140,6 +5140,108 @@
           "reason": "This behind-the-scenes look gives customers an understanding of the company's operations and the resources they have at their disposal."
         }
       ]
+    },
+    "h-h-plumbing-inc": {
+      "businessName": "H & H Plumbing Inc.",
+      "processedImages": 10,
+      "totalTokens": 21338,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPc_sfyyL9H_9uTbcF8mXHe6GVy8c6DCQUjPBAp=w2048-h2048-k-no",
+          "description": "A team of three professional plumbers standing in front of their service van, showcasing their expertise and commitment to quality service.",
+          "callToAction": "Trust the experts at H&H Plumbing for all your plumbing needs across Alabama, Georgia, and Tennessee."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPLByc_Pr4vzctfNYPHSbTE4-3hByqBaOjQ5hvl=w2048-h2048-k-no",
+          "description": "A skilled plumber diligently working on a plumbing installation, demonstrating the company's attention to detail and professionalism.",
+          "callToAction": "Rely on H&H Plumbing's experienced technicians to handle your plumbing projects with precision and care."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMqhq8qv7SWFQhCp42X6GkXQLNAHOY1dg97tsdk=w2048-h2048-k-no",
+          "description": "Two plumbers working together on a challenging underground plumbing repair, highlighting the company's ability to tackle complex jobs.",
+          "callToAction": "No job is too big or too small for H&H Plumbing. Contact us for reliable solutions to all your plumbing challenges."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOxn3Th9ho8UX-JCZxqrZvrRwYEqozNcP121b_7=w2048-h2048-k-no",
+          "description": "A heartwarming photo of a father and son, likely representing the family values and legacy of H&H Plumbing.",
+          "reason": "This image conveys the company's commitment to family values and tradition, which can resonate with potential customers and showcase the personal touch H&H Plumbing brings to their services."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHIkDJ9dd5xZJUY1BWQGbhZH4Eh9tBiWeoSLvk=w2048-h2048-k-no",
+          "description": "An exterior shot of a well-maintained residential property, showcasing the company's expertise in residential plumbing services.",
+          "reason": "This image highlights H&H Plumbing's capabilities in providing top-notch plumbing solutions for residential properties, demonstrating their professionalism and attention to detail."
+        }
+      ]
+    },
+    "tracy-duncan-plumbing": {
+      "businessName": "Tracy Duncan Plumbing",
+      "processedImages": 4,
+      "totalTokens": 6766,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP70mthY3KTMrmWJxOHFCkR7T96_0NdaAcq_EDM=w2048-h2048-k-no",
+          "description": "A professional plumbing service van showcasing the company's branding and contact information, demonstrating their readiness to serve customers.",
+          "callToAction": "For reliable and efficient plumbing solutions, call Tracy Duncan Plumbing today at 205.522.1249."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPLp78fgZ7D2mhCw8Yol3g-ZGwkyh4LJe2dc8p7=w2048-h2048-k-no",
+          "description": "A promotional image featuring the company's mascot, highlighting the range of plumbing services offered, including new construction, service calls, drain and sewer cleaning, and water and drain repiping.",
+          "callToAction": "Trust the experts at Tracy Duncan Plumbing for all your plumbing needs. Contact us at (205) 384-3820."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipND-c6WCnRhP928tTq2hoY6jcgSWa6ft3t1jbqK=w2048-h2048-k-no",
+          "description": "A well-maintained plumbing service van parked in front of a scenic backdrop, conveying the company's professionalism and commitment to serving the local community.",
+          "callToAction": "Experience top-notch plumbing services with Tracy Duncan Plumbing. Call 205.522.1249 to schedule your appointment today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Pg_YxgT2a55jUTdot_79nA&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=89.2994&pitch=0&thumbfov=100",
+          "description": "A serene neighborhood setting, showcasing the company's service area and commitment to serving residential customers.",
+          "reason": "This image demonstrates Tracy Duncan Plumbing's expertise in providing plumbing services to local communities, highlighting their familiarity with residential areas."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP70mthY3KTMrmWJxOHFCkR7T96_0NdaAcq_EDM=w2048-h2048-k-no",
+          "description": "A professional plumbing service van showcasing the company's branding and contact information, reflecting their dedication to providing reliable and efficient services.",
+          "reason": "This image showcases the company's professional branding and readiness to serve customers, conveying their capabilities and commitment to excellence."
+        }
+      ]
+    },
+    "salser-plumbing-and-septic-service-llc": {
+      "businessName": "Salser Plumbing and Septic Service, LLC",
+      "processedImages": 5,
+      "totalTokens": 7991,
+      "heroSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMjMzsjzVBNYO630myBEgBzUPUyfAWwDK1GHTGu=w2048-h2048-k-no",
+          "description": "A modern, well-maintained septic service truck showcasing the company's professional fleet and capabilities.",
+          "callToAction": "Trust Salser Plumbing for all your residential and commercial septic needs. Call (205) 965-0444 for prompt, reliable service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNwiZNZQUxJ7QRpJA1od3DBASCuIV-fVUwJfeNL=w2048-h2048-k-no",
+          "description": "A rugged service truck equipped with tools and equipment, highlighting the company's readiness to tackle any plumbing or septic job.",
+          "callToAction": "Don't let plumbing problems disrupt your day. Call Salser Plumbing at (205) 965-0444 for fast, expert service."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipONTXpLKKLFYsdGdCMpcBOxV8ZmhVZjlc5tV3id=w2048-h2048-k-no",
+          "description": "A septic service truck on a job site, showcasing the company's professionalism and commitment to customer satisfaction.",
+          "callToAction": "Keep your septic system running smoothly with Salser Plumbing's expert maintenance and repair services. Call (205) 965-0444 today."
+        }
+      ],
+      "aboutUsSection": [
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNZFyTaGLy4ZrdO750wduge2bkrFuOiDZVTBGz2=w2048-h2048-k-no",
+          "description": "An indoor shot of the company's fleet, demonstrating their preparedness and resources to handle any plumbing or septic job.",
+          "reason": "This image showcases the company's extensive resources and commitment to being fully equipped to serve their customers."
+        },
+        {
+          "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNPDQZL6jEVyM2C8ha84XHO1lM10DvY_6RIDqEq=w2048-h2048-k-no",
+          "description": "A septic service truck on a job site, highlighting the company's experience and expertise in the field.",
+          "reason": "This image demonstrates the company's hands-on experience and ability to provide reliable service in real-world situations."
+        }
+      ]
     }
   }
 }
