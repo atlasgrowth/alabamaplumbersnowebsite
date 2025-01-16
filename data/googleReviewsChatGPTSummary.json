@@ -1,93 +1,239 @@
 {
   "fussell-plumbing": {
-    "ownerName": "Alex Fussell",
+    "ownerName": "Alex",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "leak repair",
+      "re-plumbing"
+    ],
+    "firstReviewDate": "2024-10-05",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 6,
+    "last365": 6
   },
   "jason-s-drain-service": {
     "ownerName": "Jason",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "water heater",
+      "drain pipe",
+      "pressure control valve",
+      "leak repair",
+      "faucets replacement",
+      "general plumbing"
+    ],
+    "firstReviewDate": "2017-12-29",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 1,
+    "last365": 5
   },
   "salser-plumbing-and-septic-service-llc": {
-    "ownerName": "Salser Plumbing and Septic Service LLC",
+    "ownerName": "Salser",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "fix issue",
+      "sump pump repair",
+      "toilet repair",
+      "line repair",
+      "tank pump",
+      "filtration system installation",
+      "drain repair"
+    ],
+    "firstReviewDate": "2018-10-16",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
   },
   "hydrotech-plumbing-llc": {
     "ownerName": "Michael",
+    "ownerConfidence": 80,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-05-19",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 1,
+    "last365": 3
   },
   "strickland-plumbing-maintenance": {
     "ownerName": "David Strickland",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "commodes installation",
+      "faucet replacement",
+      "toilet repair",
+      "water leak repair",
+      "hot water heater replacement",
+      "new toilet installation",
+      "kitchen sink faucet installation",
+      "gas tankless hot water heater installation",
+      "sink installation"
+    ],
+    "firstReviewDate": "2018-08-28",
     "last30": 1,
     "last60": 1,
-    "last90": 1
+    "last90": 1,
+    "last180": 3,
+    "last365": 6
   },
   "reese-plumbing-llc": {
     "ownerName": "Josh",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "plumbing issue",
+      "leak repair",
+      "water lines",
+      "new shower install",
+      "plumbing needs",
+      "kitchen faucet installation",
+      "pipe replacement"
+    ],
+    "firstReviewDate": "2023-12-15",
     "last30": 0,
     "last60": 2,
-    "last90": 6
+    "last90": 6,
+    "last180": 11,
+    "last365": 14
   },
   "alabama-water-heater": {
-    "ownerName": "alabama-water-heater",
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "water heater"
+    ],
+    "firstReviewDate": "2021-12-02",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
   },
   "fortner-plumbing": {
-    "ownerName": "Fortner Plumbing",
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "hot water heater",
+      "fix outside faucets"
+    ],
+    "firstReviewDate": "2024-04-23",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 0,
+    "last365": 2
   },
   "joe-reid-dawes-plumbing-service": {
-    "ownerName": "Joe Reid",
+    "ownerName": "Joe",
+    "ownerConfidence": 100,
+    "servicesMentioned": [
+      "plumbing issues",
+      "shower repair",
+      "leaking pipe",
+      "future plumbing",
+      "outside water line break",
+      "leak",
+      "pipes",
+      "replacing faucets"
+    ],
+    "firstReviewDate": "2019-06-28",
     "last30": 1,
     "last60": 1,
-    "last90": 1
+    "last90": 1,
+    "last180": 1,
+    "last365": 2
   },
   "brian-harden-plumbing-inc": {
-    "ownerName": "Brian Harden",
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2018-02-25",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
   },
   "a-c-e-plumbing-solutions": {
-    "ownerName": "Austin Elliott",
+    "ownerName": "Austin",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "plumbing",
+      "garbage disposal",
+      "leak repair"
+    ],
+    "firstReviewDate": "2024-09-15",
     "last30": 7,
     "last60": 12,
-    "last90": 18
+    "last90": 18,
+    "last180": 27,
+    "last365": 27
   },
   "quality-plumbing-co": {
-    "ownerName": "quality-plumbing-co",
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2021-07-14",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
   },
   "boydstun-plumbing-llc": {
-    "ownerName": "boydstun-plumbing-llc",
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2023-08-23",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 1,
+    "last365": 3
   },
   "barnett-plumbing-llc": {
-    "ownerName": "Barnett Plumbing LLC",
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "water leak",
+      "frozen pipes",
+      "plumbing",
+      "hydrant",
+      "water pump",
+      "water line",
+      "washing machine drain",
+      "leaky faucets",
+      "shower repair",
+      "water heater",
+      "plumbing replacement",
+      "sink repair",
+      "faucet replacement"
+    ],
+    "firstReviewDate": "2018-09-26",
     "last30": 0,
     "last60": 1,
-    "last90": 2
+    "last90": 2,
+    "last180": 2,
+    "last365": 5
   },
   "morrison-plumbing": {
-    "ownerName": "Morrison Plumbing",
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "water heater"
+    ],
+    "firstReviewDate": "2018-02-14",
     "last30": 0,
     "last60": 0,
-    "last90": 0
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
   },
-  "forceUpdateTimestamp": "1736994584.7174168"
+  "forceUpdateTimestamp": "1736994984.2196226"
 }
