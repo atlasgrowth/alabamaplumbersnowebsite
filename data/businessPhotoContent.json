@@ -7,9 +7,7 @@
     "tokenLimits": {
       "maxInputTokensPerMin": 40000,
       "targetTokensPerImage": 2500
-    },
-    "lastUpdated": "1737687320.7508016",
-    "keyType": "place_id"
+    }
   },
   "businessPhotoContent": {
     "ChIJ_dD27rjE70YRqHC2bVn8FLw": {
