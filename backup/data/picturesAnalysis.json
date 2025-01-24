@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "generated": "1737039431.652953",
+    "model": "claude-3-sonnet-20240229"
+  },
+  "photosAnalysis": {
+    "ChIJ_dD27rjE70YRqHC2bVn8FLw": {
+      "business_name": "Southern Shores Plumbing Services",
+      "photoRecords": [
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOS0KxdsL3aBr8fBsIr5lal8hXE2Sp7cBMxmsTy=w2048-h2048-k-no",
+          "photo_date": "10/27/2024 13:00:00",
+          "description": "A modern kitchen sink with a black matte faucet and a stainless steel undermount sink basin. The countertop appears to be a light-colored solid surface material."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNZxudQdoOqjLvf7V5J0Z4vAam-p-Fr6sA1M9Tf=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": "A brushed nickel shower head with multiple spray patterns. The shower head has a contemporary design with a curved shape and numerous nozzles."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNAI0eWPrK24G9dUnGtcIZ-p2J9IypZUmlhuanS=w2048-h2048-k-no",
+          "photo_date": "8/23/2024 20:00:00",
+          "description": "A tiled shower enclosure with white subway tiles on the walls and a black matte rain shower head in the ceiling. A decorative black hexagon tile accent is visible in the corner niche."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOXzxKyXiOHrus4c4vQGuG827G54VqYesuuplJw=w2048-h2048-k-no",
+          "photo_date": "8/23/2024 20:00:00",
+          "description": "A bathroom vanity with a white solid surface countertop and a black matte faucet. The sink is an undermount style, and the backsplash features a decorative patterned tile."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP9OvAH5ZA5avWHA_iglImuzz2GP8ovTVhTUa1b=w2048-h2048-k-no",
+          "photo_date": "8/23/2024 20:00:00",
+          "description": "A brushed nickel shower system with a rain shower head, a handheld shower wand, and multiple body spray jets. The shower enclosure is tiled with white subway tiles."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOPZ5Q4y7Z9Q9_CrbJbHprqm124wcynboDIHtj0=w2048-h2048-k-no",
+          "photo_date": "8/23/2024 20:00:00",
+          "description": "A plumbing manifold with multiple valves, gauges, and pipes. The manifold appears to be part of a residential plumbing system, likely for controlling water distribution or heating."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOXrz3AhSN7UXlm1S-ihb8G5ALqOfJQQmhQ3vMY=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": ""
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPbHswCDGlBVyjt79zSV-0Bmb9pL051bFu_KJq2=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": "A white toilet with a standard flush tank, installed on a tiled floor with a brown/tan pattern."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNoo6m4-VxeOiXiY7Zqhqr3c3ndt6kzL_ve9mcy=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": "A tiled shower stall with marble-patterned tiles, a shower head, and a built-in bench."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMTlfkLuDUGx1gY1lTrOesuPzOkeGGs9bcNecLB=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": "A crawl space under a house, with a drain pipe and debris visible on the ground."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNf0Qm-Bm8rTCDotEtCZ5znU9GZsUD8QMPjLLwS=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": "Plumbing supplies and tools on the ground outside, including PVC pipes, a spray can, and a wrench."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM0YzF29ebOai_YZqeDZ9GhFrMJzoEP0V9_3KzT=w2048-h2048-k-no",
+          "photo_date": "8/23/2024 20:00:00",
+          "description": "A tiled shower stall with marble-patterned tiles, a shower head, and a built-in bench."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNliLiVngXljC7bCH2qPHQvh8DkCqwnAJwk5V82=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": "Exterior siding of a house, with plumbing pipes and fittings visible, including a pressure gauge."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipONbvinzttKrCRK9sLQF-u034SSausji1q16BMy=w2048-h2048-k-no",
+          "photo_date": "8/23/2024 20:00:00",
+          "description": "A black shower valve trim kit installed on a tiled wall."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMdlC2xVmJM9uDMjBhBRmbvUWwE22nSdLD1HecC=w2048-h2048-k-no",
+          "photo_date": "8/27/2024 15:00:00",
+          "description": "A curved shower rod installed in a tiled shower stall."
+        }
+      ]
+    },
+    "ChIJ_fxawXWASCAR1P2unkbAX94": {
+      "business_name": "Joseph Plumbing Services",
+      "photoRecords": [
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP5Y547s4nmId8pRyxLxio5yc1jHLACSUP75uJn=w2048-h2048-k-no",
+          "photo_date": "2/28/2024 17:00:00",
+          "description": "The image shows a water heater installation with an AO Smith water heater tank, pipes, valves, and fittings. The tank is labeled '100' and has a temperature and pressure relief valve installed."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP0a2ToRxX0fduPSt81RaEiEe3D0N4JamR_xc9t=w2048-h2048-k-no",
+          "photo_date": "4/16/2023 5:00:00",
+          "description": "The image depicts a kitchen sink with a stainless steel faucet, a double basin sink, and a garbage disposal unit installed underneath."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOWmzo4mDJsd275EhSUdJATeLQJjOt1bB2cHuU3=w2048-h2048-k-no",
+          "photo_date": "7/20/2023 6:00:00",
+          "description": "The image shows a toilet installation with a white toilet bowl, a toilet tank, cleaning supplies, and a toilet paper holder mounted on the wall."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMEW47Cs8dxuvDazuEFn9NOGN0ZEJSShJN05R-I=w2048-h2048-k-no",
+          "photo_date": "4/16/2023 5:00:00",
+          "description": "The image shows the plumbing under a kitchen sink, including a garbage disposal unit, water supply lines, drain pipes, and shut-off valves."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO1GbeJevGaB5kYM_Nz8qgcZG0KaRLeZGcXjuM6=w2048-h2048-k-no",
+          "photo_date": "9/29/2022 22:00:00",
+          "description": "The image shows the framing and rough-in plumbing for a new construction project, with PEX tubing, manifolds, and shut-off valves installed along the wall studs."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNSdYQ9WkB-sc-9uPnzUOFRR7fGl9bwQ97SA9Ly=w2048-h2048-k-no",
+          "photo_date": "7/20/2023 6:00:00",
+          "description": "The image shows an outdoor water service line installation, with a water meter, shut-off valve, and pipes leading into the ground."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNac8BpEHZRfJa5HCoWeAYvpJmCPC6c_qSuRYcV=w2048-h2048-k-no",
+          "photo_date": "4/16/2023 5:00:00",
+          "description": "The image shows a basement plumbing installation, with a vent pipe, drain pipes, and a floor drain visible. The pipes appear to be in need of repair or replacement."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNbaSGdKUbO7GARcKAAIkupSdehdfqq2emn-APs=w2048-h2048-k-no",
+          "photo_date": "1/24/2023 18:00:00",
+          "description": "The image shows plumbing pipes and fittings in a disorganized state, with flexible hoses, shut-off valves, and what appears to be water damage or mold on the surrounding surfaces."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipONbEMaQD-54OhsUf0glnB0gBvO59-lCuwJiAe7=w2048-h2048-k-no",
+          "photo_date": "1/24/2023 18:00:00",
+          "description": "The image depicts an open wall cavity with exposed plumbing pipes, insulation, and debris, suggesting a renovation or repair work in progress."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO-KPlxO5yx1K2Sb_5SUOdKtE2yQ6oZ9EYFPZqV=w2048-h2048-k-no",
+          "photo_date": "2/28/2024 15:00:00",
+          "description": "A person wearing a blue shirt is digging a trench or preparing the ground for laying pipes, with a measuring rod or level visible in the foreground."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMWkkV3F92wh46X471RN2QelGGcJ_Wt4xJxTGMP=w2048-h2048-k-no",
+          "photo_date": "9/18/2022 12:00:00",
+          "description": "The image shows a set of red PEX pipes or tubing installed on a wall, with fittings and valves, likely for a plumbing system."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPlKCVgkPnm6_kQzuujWC4QwuN1DxuayybCT4ZI=w2048-h2048-k-no",
+          "photo_date": "1/24/2023 7:00:00",
+          "description": "The image captures a close-up view of a plumbing fixture or valve, possibly a backflow preventer, installed in a trench or underground."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPtxgUlghwYXthI6FIiik9LYbO5ieQfe4zH0RUG=w2048-h2048-k-no",
+          "photo_date": "9/22/2022 21:00:00",
+          "description": "The image shows plumbing pipes and fittings under a sink or cabinet, including a P-trap and drainage pipes."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNOzxmUqd1GvRDbLE8Mdq1AnZVoUYU-YpMqq9N2=w2048-h2048-k-no",
+          "photo_date": "1/24/2023 7:00:00",
+          "description": "The image depicts red and blue PEX pipes or tubing installed along a wall, with a metal stud or framing visible, likely for a plumbing system."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMKy7cQQmcQmazmORAra4rhR85JiVKmVfoV0qnz=w2048-h2048-k-no",
+          "photo_date": "9/29/2022 22:00:00",
+          "description": "The image shows a plumbing manifold or distribution system installed in a cabinet or enclosure, with copper pipes, valves, and gauges visible."
+        }
+      ]
+    },
+    "ChIJ_YAQpSg_YIgRRuuQ_9puIhQ": {
+      "business_name": "Queen Home Improvement LLC",
+      "photoRecords": [
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPGZS8UhkqSUP8i4bhvN8InqYKvKhHQrlrbRcqi=w2048-h2048-k-no",
+          "photo_date": "3/12/2022 18:00:00",
+          "description": "The exterior of a brick house with a covered porch, white columns, and rocking chairs. The porch has a red front door."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOtKPXmbVd5FuKm96-jEdmm3AEkqEWgm_jQCISX=w2048-h2048-k-no",
+          "photo_date": "3/12/2022 18:00:00",
+          "description": "A close-up view of the roof overhang and brick exterior wall of the house, showing the gutters and a window."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPOT37QOb5Dkx3di_oh5kiTxUU3wSY4lwf-iCbr=w2048-h2048-k-no",
+          "photo_date": "3/12/2022 18:00:00",
+          "description": "An unfinished kitchen with white cabinets, granite countertops, a tile backsplash, and stainless steel appliances."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM5wvOKR9VPNpFWTiJ12ycpnIyyFi3KRvDKWARd=w2048-h2048-k-no",
+          "photo_date": "3/12/2022 18:00:00",
+          "description": "A detached garage or storage building with a white exterior and a gravel driveway in front."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPciPVsxHviz-q4Qm1XrWqeV5mLJdC-91UQrNfJ=w2048-h2048-k-no",
+          "photo_date": "3/12/2022 18:00:00",
+          "description": "The front entrance of a house with a navy blue door, sidelights, and a small porch with a concrete walkway leading up to it."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOEjlyvJ3_wcvKTe9Yr3cLj6ZnvHV5DAUR-iIBs=w2048-h2048-k-no",
+          "photo_date": "3/12/2022 18:00:00",
+          "description": "A bathroom with a tiled shower, a glass shower door, and a window overlooking a grassy area."
+        },
+        {
+          "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOWvCe-_N4ppO-njOJgTj7cc2MVrqmBbuRNthaC=w2048-h2048-k-no",
+          "photo_date": "3/12/2022 18:00:00",
+          "description": "A room with hardwood floors, gray walls, and framed artwork. The image shows the completed renovation."
+        },
+        {
+          "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GyTHRG69jM5OVeQjI9ayqw&cb_client=maps_sv.tactile.gps&w=1600&h=1000&yaw=288.23886&pitch=0&thumbfov=100",
+          "photo_date": "4/29/2024 15:00:00",
+          "description": "The image shows a residential property with a small single-story house and a shed or outbuilding in the backyard. There is an older sedan parked in the yard, and various items such as a grill, trash cans, and a utility trailer are visible, suggesting a modest living situation. The yard is unkempt with overgrown grass and weeds."
+        }
+      ]
+    }
+  }
+}
