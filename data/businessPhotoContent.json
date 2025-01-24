@@ -7,10 +7,12 @@
     "tokenLimits": {
       "maxInputTokensPerMin": 40000,
       "targetTokensPerImage": 2500
-    }
+    },
+    "lastUpdated": "1737687320.7508016",
+    "keyType": "place_id"
   },
   "businessPhotoContent": {
-    "southern-shores-plumbing-services": {
+    "ChIJ_dD27rjE70YRqHC2bVn8FLw": {
       "businessName": "Southern Shores Plumbing Services",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -44,7 +46,7 @@
         }
       ]
     },
-    "queen-home-improvement-llc": {
+    "ChIJ_YAQpSg_YIgRRuuQ_9puIhQ": {
       "businessName": "Queen Home Improvement LLC",
       "processedImages": 8,
       "totalTokens": 17769,
@@ -78,7 +80,7 @@
         }
       ]
     },
-    "top-notch-maintenance-services": {
+    "ChIJ-YySMcNrYogRiYXsa4OUKxM": {
       "businessName": "Top Notch Maintenance Services",
       "processedImages": 12,
       "totalTokens": 15658,
@@ -112,7 +114,7 @@
         }
       ]
     },
-    "plus-remodels-llc": {
+    "ChIJ03d8EYxs4kcRGIeKk8t7N-A": {
       "businessName": "PLUS Remodels, LLC",
       "processedImages": 12,
       "totalTokens": 29539,
@@ -146,7 +148,7 @@
         }
       ]
     },
-    "the-construction-artists": {
+    "ChIJ0492c2rthogRiPpawgB8Og0": {
       "businessName": "The Construction Artists",
       "processedImages": 11,
       "totalTokens": 23711,
@@ -214,7 +216,7 @@
         }
       ]
     },
-    "hydrotech-plumbing-llc": {
+    "ChIJ0dUplGv_iYgRm4hjeLCoORw": {
       "businessName": "HydroTech Plumbing LLC",
       "processedImages": 2,
       "totalTokens": 2476,
@@ -243,7 +245,7 @@
         }
       ]
     },
-    "hatcher-plumbing": {
+    "ChIJ0V6tCxhlYogR8AZuZnv4I5Q": {
       "businessName": "Hatcher Plumbing",
       "processedImages": 12,
       "totalTokens": 27775,
@@ -345,7 +347,7 @@
         }
       ]
     },
-    "do-it-all-plumbing-heating-and-cooling-llc": {
+    "ChIJ1W5d6ZFaxosRuZGMMm-SbxI": {
       "businessName": "Do It All Plumbing Heating and Cooling LLC",
       "processedImages": 12,
       "totalTokens": 29965,
@@ -379,7 +381,7 @@
         }
       ]
     },
-    "plumbworks-llc": {
+    "ChIJ1yk45xOXLq0RKDnc2GlfUIs": {
       "businessName": "PlumbWorks LLC",
       "processedImages": 8,
       "totalTokens": 8774,
@@ -413,7 +415,7 @@
         }
       ]
     },
-    "done-right-plumbing-services": {
+    "ChIJ1zbsjW21i4gRGSpUK2-H-ss": {
       "businessName": "Done Right Plumbing Services",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -515,7 +517,7 @@
         }
       ]
     },
-    "h-and-c-plumbing-llc": {
+    "ChIJ2wJJi-Tzi4gRRgqJjT8A7bw": {
       "businessName": "H and C Plumbing LLC",
       "processedImages": 12,
       "totalTokens": 29021,
@@ -549,7 +551,7 @@
         }
       ]
     },
-    "stain-plumbing-and-construction-llc": {
+    "ChIJ34ZNcEfoYogRb-lZ08V9Ye4": {
       "businessName": "Stain Plumbing and Construction LLC",
       "processedImages": 12,
       "totalTokens": 29967,
@@ -583,7 +585,7 @@
         }
       ]
     },
-    "septic-tank-delivery-services": {
+    "ChIJ4_LYQ66ahYgRqTeCsR8fjjg": {
       "businessName": "Septic Tank Delivery Services",
       "processedImages": 12,
       "totalTokens": 28386,
@@ -617,7 +619,7 @@
         }
       ]
     },
-    "rusty-bottoms": {
+    "ChIJ42PRSkDAx2ERAGfpfvSoO0c": {
       "businessName": "Rusty Bottoms",
       "processedImages": 8,
       "totalTokens": 11580,
@@ -719,7 +721,7 @@
         }
       ]
     },
-    "performance-plumbing-inc": {
+    "ChIJ5a-2RAcniYgRQxsl6C7Bk58": {
       "businessName": "Performance Plumbing, Inc",
       "processedImages": 6,
       "totalTokens": 12907,
@@ -753,7 +755,7 @@
         }
       ]
     },
-    "affordable-septic-llc": {
+    "ChIJ5cqQU123i4gRN8EjzgylvAo": {
       "businessName": "Affordable Septic LLC",
       "processedImages": 12,
       "totalTokens": 26578,
@@ -821,7 +823,7 @@
         }
       ]
     },
-    "down-south-plumbing-services": {
+    "ChIJ6Sn_5YIXxaMRqkDTJNDUN2o": {
       "businessName": "Down South Plumbing Services",
       "processedImages": 12,
       "totalTokens": 29969,
@@ -855,7 +857,7 @@
         }
       ]
     },
-    "veteran-plumbing-llc": {
+    "ChIJ70j0OX8t9YgRKg0E6FTZP4c": {
       "businessName": "Veteran Plumbing LLC",
       "processedImages": 12,
       "totalTokens": 19944,
@@ -889,7 +891,7 @@
         }
       ]
     },
-    "aaa-septic-tank-service-of-cullman-llc": {
+    "ChIJ7c2nkznKiYgR1brcYUuce_g": {
       "businessName": "AAA Septic Tank Service of Cullman, LLC",
       "processedImages": 9,
       "totalTokens": 19705,
@@ -957,7 +959,7 @@
         }
       ]
     },
-    "brian-harden-plumbing-inc": {
+    "ChIJ7U09VnK1m4gRzof1GJ1x-r4": {
       "businessName": "Brian Harden Plumbing Inc.",
       "processedImages": 5,
       "totalTokens": 8394,
@@ -991,7 +993,7 @@
         }
       ]
     },
-    "practical-plumbing": {
+    "ChIJ8VMgarFMkS8RqyP0BUKMSg8": {
       "businessName": "Practical Plumbing",
       "processedImages": 12,
       "totalTokens": 29966,
@@ -1059,7 +1061,7 @@
         }
       ]
     },
-    "cagle-plumbing-systems": {
+    "ChIJAa4ntaCi7EoRqS2k8Ax3lJ0": {
       "businessName": "Cagle Plumbing Systems",
       "processedImages": 12,
       "totalTokens": 24244,
@@ -1093,7 +1095,7 @@
         }
       ]
     },
-    "acme-plumbing": {
+    "ChIJacwYVAtrCWMRSZ0_OLClP1E": {
       "businessName": "Acme Plumbing",
       "processedImages": 12,
       "totalTokens": 26642,
@@ -1161,7 +1163,7 @@
         }
       ]
     },
-    "terrapin-creek-plumbing-and-septic-service-llc": {
+    "ChIJAVpioNljiogR56d4kzj5Jmk": {
       "businessName": "Terrapin Creek Plumbing And Septic Service, LLC",
       "processedImages": 6,
       "totalTokens": 7895,
@@ -1195,7 +1197,7 @@
         }
       ]
     },
-    "condo-care": {
+    "ChIJaxofJLYEmogRgQHuMx7ncYQ": {
       "businessName": "Condo Care",
       "processedImages": 7,
       "totalTokens": 13137,
@@ -1229,7 +1231,7 @@
         }
       ]
     },
-    "cochran-brothers-plumbing-and-gas": {
+    "ChIJB3cKwZkCiC4Rpysr3_MXxWU": {
       "businessName": "Cochran Brothers Plumbing and Gas",
       "processedImages": 12,
       "totalTokens": 28388,
@@ -1263,7 +1265,7 @@
         }
       ]
     },
-    "on-point-plumbing": {
+    "ChIJBw1WvpTPi4gRyxUDmb6Bef0": {
       "businessName": "On Point Plumbing",
       "processedImages": 8,
       "totalTokens": 17470,
@@ -1297,7 +1299,7 @@
         }
       ]
     },
-    "weiss-lake-septic-pumpers-llc": {
+    "ChIJc13qQxdhiogR0Brzlwg_TNc": {
       "businessName": "Weiss Lake Septic Pumpers LLC",
       "processedImages": 7,
       "totalTokens": 14446,
@@ -1365,7 +1367,7 @@
         }
       ]
     },
-    "professional-plumbing-and-drain": {
+    "ChIJc6N5z3-hSk0R3SFkp3CFKbQ": {
       "businessName": "Professional Plumbing and Drain",
       "processedImages": 8,
       "totalTokens": 16968,
@@ -1399,7 +1401,7 @@
         }
       ]
     },
-    "boxcar-the-handyman": {
+    "ChIJC6rU5v8NYogRo5xDG3uSkN4": {
       "businessName": "boxcar the handyman",
       "processedImages": 12,
       "totalTokens": 27014,
@@ -1433,7 +1435,7 @@
         }
       ]
     },
-    "homeworx": {
+    "ChIJce68Wq5CBwERoxOrUgi-93U": {
       "businessName": "Homeworx",
       "processedImages": 12,
       "totalTokens": 29968,
@@ -1467,7 +1469,7 @@
         }
       ]
     },
-    "septic-solutions": {
+    "ChIJcfbg0NMFXIoRBOknDs1LBkc": {
       "businessName": "Septic Solutions",
       "processedImages": 12,
       "totalTokens": 25551,
@@ -1535,7 +1537,7 @@
         }
       ]
     },
-    "harrisons-plumbing": {
+    "ChIJd1RkrPzJ7kMRxwfx8qatxCQ": {
       "businessName": "Harrisons Plumbing",
       "processedImages": 11,
       "totalTokens": 23774,
@@ -1603,7 +1605,7 @@
         }
       ]
     },
-    "champion-plumbing-and-remodeling": {
+    "ChIJdzqroP9ziYgRf6mzg3TAtEU": {
       "businessName": "Champion Plumbing And Remodeling",
       "processedImages": 12,
       "totalTokens": 28811,
@@ -1637,7 +1639,7 @@
         }
       ]
     },
-    "banks-environmental-and-drain-cleaning": {
+    "ChIJE_If4FgBi4gRsgzglNRPdY8": {
       "businessName": "Banks Environmental and Drain Cleaning",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -1671,7 +1673,7 @@
         }
       ]
     },
-    "hamilton-renovations-llc": {
+    "ChIJe5BMXWHeZiMRq7PpIBstqvc": {
       "businessName": "Hamilton Renovations LLC",
       "processedImages": 12,
       "totalTokens": 20407,
@@ -1705,7 +1707,7 @@
         }
       ]
     },
-    "chris-mayo-plumbing-and-drain-service": {
+    "ChIJEeL0scsfiogRVoUdcyLv8rs": {
       "businessName": "Chris Mayo Plumbing and Drain Service",
       "processedImages": 12,
       "totalTokens": 29959,
@@ -1739,7 +1741,7 @@
         }
       ]
     },
-    "dorsey-plumbing-llc": {
+    "ChIJeTIrzE1TrKMRCq-vILpE01A": {
       "businessName": "Dorsey Plumbing LLC",
       "processedImages": 5,
       "totalTokens": 11928,
@@ -1807,7 +1809,7 @@
         }
       ]
     },
-    "vest-plumbing": {
+    "ChIJF09EatdHiIgRGcgGB0NOmko": {
       "businessName": "Vest Plumbing",
       "processedImages": 9,
       "totalTokens": 20849,
@@ -1841,7 +1843,7 @@
         }
       ]
     },
-    "pipemasters-plumbing": {
+    "ChIJf3uz7f_0jIgRLqgXkyDpyT8": {
       "businessName": "PipeMasters Plumbing",
       "processedImages": 12,
       "totalTokens": 24624,
@@ -1875,7 +1877,7 @@
         }
       ]
     },
-    "affordable-backflow-testing-services": {
+    "ChIJF6jmAHgRiYgRR7WsyJzfN1w": {
       "businessName": "Affordable Backflow Testing Services",
       "processedImages": 6,
       "totalTokens": 13358,
@@ -1943,7 +1945,7 @@
         }
       ]
     },
-    "jnl-plumbing-and-drain-cleaning-llc": {
+    "ChIJfdOG8T8JmogRDK58vX5gMSk": {
       "businessName": "JNL Plumbing and drain cleaning LLC",
       "processedImages": 12,
       "totalTokens": 27891,
@@ -1977,7 +1979,7 @@
         }
       ]
     },
-    "one-way-plumbing-llc": {
+    "ChIJGbU8onNZ4QQRh6Z-px72w9o": {
       "businessName": "One Way Plumbing LLC",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -2011,7 +2013,7 @@
         }
       ]
     },
-    "ingram-plumbing": {
+    "ChIJGwEAp6xXmogRROzHMVaLml0": {
       "businessName": "Ingram Plumbing",
       "processedImages": 12,
       "totalTokens": 23851,
@@ -2079,7 +2081,7 @@
         }
       ]
     },
-    "right-a-way-rooter": {
+    "ChIJH1-X14aMkogRWd_Oxw4WUGo": {
       "businessName": "Right-A-Way Rooter",
       "processedImages": 5,
       "totalTokens": 7247,
@@ -2113,7 +2115,7 @@
         }
       ]
     },
-    "triple-b-plumbing-llc": {
+    "ChIJh7m_Fz-FYogRbsc8IkwOHko": {
       "businessName": "Triple B Plumbing, LLC.",
       "processedImages": 10,
       "totalTokens": 6687,
@@ -2149,7 +2151,7 @@
         }
       ]
     },
-    "cox-plumbing-solutions": {
+    "ChIJHQFmsCw1iYgRDMnSSMLiDZk": {
       "businessName": "Cox Plumbing Solutions",
       "processedImages": 12,
       "totalTokens": 28071,
@@ -2217,7 +2219,7 @@
         }
       ]
     },
-    "bskc-soil-and-septic-services-llc": {
+    "ChIJhZJfGO-bjogRLQWuPpWxQM4": {
       "businessName": "BSKC Soil and Septic Services, LLC",
       "processedImages": 12,
       "totalTokens": 26812,
@@ -2285,7 +2287,7 @@
         }
       ]
     },
-    "wolf-plumbing-services": {
+    "ChIJIabfr7TGi4gRxxXnBfB9PVk": {
       "businessName": "Wolf Plumbing Services",
       "processedImages": 7,
       "totalTokens": 15244,
@@ -2353,7 +2355,7 @@
         }
       ]
     },
-    "marble-city-plumbing-llc": {
+    "ChIJJ5zrDKVPiYgRyNpt4HjGofs": {
       "businessName": "Marble City Plumbing, LLC",
       "processedImages": 9,
       "totalTokens": 22473,
@@ -2421,7 +2423,7 @@
         }
       ]
     },
-    "mamas-boy-plumbing-and-septic-llc": {
+    "ChIJJaCocz3Ji4gRT_Dns8UTehQ": {
       "businessName": "Mamas Boy Plumbing and Septic LLC",
       "processedImages": 12,
       "totalTokens": 29965,
@@ -2489,7 +2491,7 @@
         }
       ]
     },
-    "professional-plumbing-service-llc": {
+    "ChIJJyRFa9WbjIgRh48m54XQHgk": {
       "businessName": "Professional Plumbing Service LLC",
       "processedImages": 12,
       "totalTokens": 12302,
@@ -2591,7 +2593,7 @@
         }
       ]
     },
-    "a-revolution-llc": {
+    "ChIJK7Y1_AaSkogRE83LswPEaTA": {
       "businessName": "A Revolution LLC",
       "processedImages": 12,
       "totalTokens": 28365,
@@ -2625,7 +2627,7 @@
         }
       ]
     },
-    "kelly-c-williams-plumbing-inc": {
+    "ChIJkcb1yd-0jIgRRzV2S_ksF8I": {
       "businessName": "Kelly C. Williams Plumbing, Inc.",
       "processedImages": 5,
       "totalTokens": 6385,
@@ -2693,7 +2695,7 @@
         }
       ]
     },
-    "alabama-septic-service": {
+    "ChIJkey3ShLXp0ARBguOnghSHqw": {
       "businessName": "Alabama Septic Service",
       "processedImages": 5,
       "totalTokens": 1690,
@@ -2727,7 +2729,7 @@
         }
       ]
     },
-    "everyone-needs-plumbing-and-service": {
+    "ChIJkfZyMw_BEgERQSiSiM-N5VQ": {
       "businessName": "Everyone Needs Plumbing and Service",
       "processedImages": 9,
       "totalTokens": 22474,
@@ -2761,7 +2763,7 @@
         }
       ]
     },
-    "reese-plumbing-llc": {
+    "ChIJkUsHLO-S6k4RquPYl5V1n54": {
       "businessName": "Reese Plumbing LLC",
       "processedImages": 5,
       "totalTokens": 7136,
@@ -2829,7 +2831,7 @@
         }
       ]
     },
-    "morrison-plumbing": {
+    "ChIJlbD4yhVpiYgRIczjr_o8mo4": {
       "businessName": "Morrison Plumbing",
       "processedImages": 5,
       "totalTokens": 2590,
@@ -2931,7 +2933,7 @@
         }
       ]
     },
-    "fortner-plumbing": {
+    "ChIJMS0Zzfzm-kcRrofgE_ykHcY": {
       "businessName": "Fortner Plumbing",
       "processedImages": 5,
       "totalTokens": 11154,
@@ -3067,7 +3069,7 @@
         }
       ]
     },
-    "aka-plumbing": {
+    "ChIJmXaYG5hBiogRiRPQe5O7wVg": {
       "businessName": "AKA Plumbing",
       "processedImages": 12,
       "totalTokens": 25957,
@@ -3101,7 +3103,7 @@
         }
       ]
     },
-    "rescue-me-plumbing-llc": {
+    "ChIJmxZ-6cCbjogRlWPxBqa3iNw": {
       "businessName": "Rescue Me Plumbing, LLC",
       "processedImages": 12,
       "totalTokens": 25236,
@@ -3169,7 +3171,7 @@
         }
       ]
     },
-    "3rd-generation-septic": {
+    "ChIJn4EsQpq1i4gRDJf2JpsbfOY": {
       "businessName": "3rd Generation Septic",
       "processedImages": 12,
       "totalTokens": 29963,
@@ -3203,7 +3205,7 @@
         }
       ]
     },
-    "alpha-plumbers-inc": {
+    "ChIJNVITTC0dm4gRk-K2KS9nBo4": {
       "businessName": "Alpha Plumbers Inc",
       "processedImages": 8,
       "totalTokens": 17827,
@@ -3237,7 +3239,7 @@
         }
       ]
     },
-    "brookside-septic-tank-service-inc": {
+    "ChIJNXlekSCbJ0ERjtG2r3D36CA": {
       "businessName": "Brookside Septic Tank Service Inc",
       "processedImages": 12,
       "totalTokens": 22723,
@@ -3271,7 +3273,7 @@
         }
       ]
     },
-    "h2o-worx": {
+    "ChIJNy38tQc_iYgRoHAPtKsnFpk": {
       "businessName": "H2O Worx",
       "processedImages": 5,
       "totalTokens": 6055,
@@ -3305,7 +3307,7 @@
         }
       ]
     },
-    "deep-south-plumbing-llc": {
+    "ChIJo_ZehjgPmogRRw8z1kaa79I": {
       "businessName": "Deep South Plumbing LLC",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -3373,7 +3375,7 @@
         }
       ]
     },
-    "lance-of-all-trades": {
+    "ChIJOU-3SHNH-24R968ZYSb7Gs4": {
       "businessName": "Lance of All Trades",
       "processedImages": 12,
       "totalTokens": 13345,
@@ -3407,7 +3409,7 @@
         }
       ]
     },
-    "rooter-pros-llc": {
+    "ChIJP5MSd_jIFwQRLTTCYnIx6zI": {
       "businessName": "Rooter Pros LLC",
       "processedImages": 12,
       "totalTokens": 27876,
@@ -3441,7 +3443,7 @@
         }
       ]
     },
-    "rocket-city-home-repair": {
+    "ChIJp86iXmow30cRTLbe4F_XGiQ": {
       "businessName": "Rocket City Home Repair",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -3475,7 +3477,7 @@
         }
       ]
     },
-    "southern-home-solutions": {
+    "ChIJQ_WiAERfKSoRY-qZWj84jnw": {
       "businessName": "Southern Home Solutions",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -3509,7 +3511,7 @@
         }
       ]
     },
-    "innovative-plumbing-solutions-llc": {
+    "ChIJQ3fLzbtxiYgRrTY5pY3eLak": {
       "businessName": "Innovative Plumbing Solutions LLC",
       "processedImages": 12,
       "totalTokens": 29973,
@@ -3543,7 +3545,7 @@
         }
       ]
     },
-    "anything-plumbing": {
+    "ChIJq6qqqnoMYogRj1ivk0BVK7M": {
       "businessName": "Anything Plumbing",
       "processedImages": 12,
       "totalTokens": 28246,
@@ -3611,7 +3613,7 @@
         }
       ]
     },
-    "rons-old-time-plumbing": {
+    "ChIJq6qqqvqPjogRsErcd7JmEmY": {
       "businessName": "Rons Old Time Plumbing",
       "processedImages": 12,
       "totalTokens": 26844,
@@ -3679,7 +3681,7 @@
         }
       ]
     },
-    "quality-plumbing-co": {
+    "ChIJqUsqKDvjiYgRMzj_18zTZ10": {
       "businessName": "Quality Plumbing Co.",
       "processedImages": 5,
       "totalTokens": 6681,
@@ -3713,7 +3715,7 @@
         }
       ]
     },
-    "dns-plumbing-llc": {
+    "ChIJqVC9cVsmLA8R-hQ8-Eob-OI": {
       "businessName": "DNS Plumbing LLC",
       "processedImages": 5,
       "totalTokens": 10148,
@@ -3781,7 +3783,7 @@
         }
       ]
     },
-    "wise-plumbing-and-gas-llc": {
+    "ChIJR_n2VXXkgCkRTplRvnkaous": {
       "businessName": "Wise Plumbing and Gas LLC",
       "processedImages": 7,
       "totalTokens": 17479,
@@ -3883,7 +3885,7 @@
         }
       ]
     },
-    "peck-plumbing": {
+    "ChIJRffU5ws7YogRR_gqnTEGuts": {
       "businessName": "Peck Plumbing",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -3951,7 +3953,7 @@
         }
       ]
     },
-    "cj-plumbing-and-gas": {
+    "ChIJRRTFpDEliYgRoGYsQD69k60": {
       "businessName": "CJ Plumbing and Gas",
       "processedImages": 12,
       "totalTokens": 27729,
@@ -4019,7 +4021,7 @@
         }
       ]
     },
-    "all-pro-septic-service": {
+    "ChIJryrid7XFjIgRqrgY49VYQmA": {
       "businessName": "All-Pro Septic Service",
       "processedImages": 12,
       "totalTokens": 18094,
@@ -4053,7 +4055,7 @@
         }
       ]
     },
-    "sure-flow-plumbing-and-drain-llc": {
+    "ChIJRz0CtwRhYogRstWc4J28Gds": {
       "businessName": "Sure Flow Plumbing and Drain LLC",
       "processedImages": 12,
       "totalTokens": 14047,
@@ -4087,7 +4089,7 @@
         }
       ]
     },
-    "wynn-construction-llc": {
+    "ChIJrzMrUj1CsmwRMAhIuCm_r-c": {
       "businessName": "Wynn Construction llc",
       "processedImages": 12,
       "totalTokens": 29963,
@@ -4121,7 +4123,7 @@
         }
       ]
     },
-    "lt-drain-and-small-repair": {
+    "ChIJsfZoWHtFdwYRdQ8P-Vagj3w": {
       "businessName": "LT Drain and Small Repair",
       "processedImages": 12,
       "totalTokens": 29963,
@@ -4155,7 +4157,7 @@
         }
       ]
     },
-    "simple-service-llc": {
+    "ChIJsQtuozkNiYgRzhO4ZZJJNA0": {
       "businessName": "Simple Service, LLC",
       "processedImages": 8,
       "totalTokens": 13873,
@@ -4189,7 +4191,7 @@
         }
       ]
     },
-    "stephen-seibert-plumbing-llc": {
+    "ChIJT-y2-QVOGqgRfcbQLR1YWqw": {
       "businessName": "Stephen Seibert Plumbing, LLC",
       "processedImages": 4,
       "totalTokens": 5308,
@@ -4223,7 +4225,7 @@
         }
       ]
     },
-    "southernn-solutions-llc": {
+    "ChIJT6OIheRLiogRQc75SXUZ8FY": {
       "businessName": "Southernn Solutions LLC",
       "processedImages": 12,
       "totalTokens": 11312,
@@ -4257,7 +4259,7 @@
         }
       ]
     },
-    "artisan-tile": {
+    "ChIJT6pmWrzjiIgRNS-AH1SH44U": {
       "businessName": "Artisan Tile",
       "processedImages": 12,
       "totalTokens": 29963,
@@ -4291,7 +4293,7 @@
         }
       ]
     },
-    "nfinity-services": {
+    "ChIJTdlNKtFL9qUREKqQwnImuF8": {
       "businessName": "Nfinity Services",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -4325,7 +4327,7 @@
         }
       ]
     },
-    "barnett-plumbing-llc": {
+    "ChIJtTDOR8ZJfYgRwDLojseuzrE": {
       "businessName": "Barnett Plumbing, LLC",
       "processedImages": 4,
       "totalTokens": 7035,
@@ -4359,7 +4361,7 @@
         }
       ]
     },
-    "mcr-plumbing-and-drain": {
+    "ChIJtWMABpp6nIARRQWq7j9qaFA": {
       "businessName": "MCR Plumbing and Drain",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -4393,7 +4395,7 @@
         }
       ]
     },
-    "all-out-plumbers-llc": {
+    "ChIJtx6RsCUrNAYRPdM-62ctTGE": {
       "businessName": "All Out Plumbers LLC",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -4461,7 +4463,7 @@
         }
       ]
     },
-    "boydstun-plumbing-llc": {
+    "ChIJU2euNoRnYogRFJlGAQtnCqo": {
       "businessName": "Boydstun Plumbing LLC",
       "processedImages": 5,
       "totalTokens": 3626,
@@ -4495,7 +4497,7 @@
         }
       ]
     },
-    "qpi-services-inc": {
+    "ChIJU4YAj19aL2kRhiFox_-hseM": {
       "businessName": "QPI Services Inc.",
       "processedImages": 12,
       "totalTokens": 21140,
@@ -4529,7 +4531,7 @@
         }
       ]
     },
-    "pipers-plumbing": {
+    "ChIJU6_IQ0Qti4gRhjT114TxHWE": {
       "businessName": "Pipers Plumbing",
       "processedImages": 12,
       "totalTokens": 28326,
@@ -4563,7 +4565,7 @@
         }
       ]
     },
-    "evans-plumbing-and-drain-service-inc": {
+    "ChIJUa3fYmSpm4gRVe10yrKmAtU": {
       "businessName": "Evans Plumbing and Drain Service, Inc.",
       "processedImages": 9,
       "totalTokens": 14715,
@@ -4631,7 +4633,7 @@
         }
       ]
     },
-    "chambless-plumbing": {
+    "ChIJuROHMiorh6cRKkyiwLlifLg": {
       "businessName": "Chambless Plumbing",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -4665,7 +4667,7 @@
         }
       ]
     },
-    "fussell-plumbing": {
+    "ChIJuZ-OPYJp50gRpx_k5KSNLH4": {
       "businessName": "Fussell Plumbing",
       "processedImages": 5,
       "totalTokens": 5020,
@@ -4699,7 +4701,7 @@
         }
       ]
     },
-    "byers-plumbing": {
+    "ChIJuzHfeBQWiYgRW7xZhcbEZSA": {
       "businessName": "Byers Plumbing",
       "processedImages": 12,
       "totalTokens": 14725,
@@ -4733,7 +4735,7 @@
         }
       ]
     },
-    "accurate-heating-and-air-conditioning": {
+    "ChIJuzqxSaZMiIgRTDZhDsluNRo": {
       "businessName": "Accurate Heating And Air Conditioning",
       "processedImages": 12,
       "totalTokens": 19349,
@@ -4767,7 +4769,7 @@
         }
       ]
     },
-    "sloan-plumbing-and-drain-service": {
+    "ChIJV5I0CTMHiYgR94Cu8YY0Wa8": {
       "businessName": "Sloan Plumbing and Drain Service",
       "processedImages": 12,
       "totalTokens": 15058,
@@ -4801,7 +4803,7 @@
         }
       ]
     },
-    "reliable-usa-plumbers": {
+    "ChIJvT1J8v9PmogRcAffq7b_pok": {
       "businessName": "Reliable USA Plumbers",
       "processedImages": 5,
       "totalTokens": 10285,
@@ -4869,7 +4871,7 @@
         }
       ]
     },
-    "water-damage-services-huntsville": {
+    "ChIJVVVVVXFrYogRnGdVlHMNuKo": {
       "businessName": "Water Damage Services Huntsville",
       "processedImages": 12,
       "totalTokens": 15525,
@@ -4903,7 +4905,7 @@
         }
       ]
     },
-    "g-f-g-contractor-llc": {
+    "ChIJVVVVVYyBjogRPK6CtV2Yv28": {
       "businessName": "G F G Contractor LLC.",
       "processedImages": 9,
       "totalTokens": 18582,
@@ -4937,7 +4939,7 @@
         }
       ]
     },
-    "harris-county-plumbing": {
+    "ChIJVWpYrItM84gR_r0ih6fLFoc": {
       "businessName": "Harris County Plumbing",
       "processedImages": 5,
       "totalTokens": 4526,
@@ -4971,7 +4973,7 @@
         }
       ]
     },
-    "craig-plumbing-and-electrical": {
+    "ChIJVXayhTvvkYgR4RoREmjqffA": {
       "businessName": "Craig Plumbing and Electrical",
       "processedImages": 12,
       "totalTokens": 9714,
@@ -5005,7 +5007,7 @@
         }
       ]
     },
-    "one-call-services-inc": {
+    "ChIJvYyZkMMehogR95mcjNUr1uI": {
       "businessName": "One Call Services Inc.",
       "processedImages": 12,
       "totalTokens": 24545,
@@ -5073,7 +5075,7 @@
         }
       ]
     },
-    "plumber-dan-services-llc": {
+    "ChIJW_irormBLygR8Xbd1hJwXUs": {
       "businessName": "Plumber Dan Services LLC",
       "processedImages": 12,
       "totalTokens": 29964,
@@ -5175,7 +5177,7 @@
         }
       ]
     },
-    "tracy-duncan-plumbing": {
+    "ChIJWy7ix9B6iIgRyAoDfWxcxxQ": {
       "businessName": "Tracy Duncan Plumbing",
       "processedImages": 4,
       "totalTokens": 6766,
@@ -5209,7 +5211,7 @@
         }
       ]
     },
-    "salser-plumbing-and-septic-service-llc": {
+    "ChIJwYPAOodCiYgRDaWtJdGuPIs": {
       "businessName": "Salser Plumbing and Septic Service, LLC",
       "processedImages": 5,
       "totalTokens": 7991,
@@ -5379,7 +5381,7 @@
         }
       ]
     },
-    "reliable-usa-plumbing": {
+    "ChIJY7l4avMPmogRI3BVzemsHyE": {
       "businessName": "Reliable USA Plumbing",
       "processedImages": 5,
       "totalTokens": 10861,
@@ -5447,7 +5449,7 @@
         }
       ]
     },
-    "shamrock-home-repairs": {
+    "ChIJYf1WWkQVYogRgSohpcRy2eI": {
       "businessName": "Shamrock Home Repairs",
       "processedImages": 12,
       "totalTokens": 29967,
@@ -5515,7 +5517,7 @@
         }
       ]
     },
-    "charles-pickle-septic-service": {
+    "ChIJYTBMYHr9iIgR2AeDcVvhEj0": {
       "businessName": "Charles Pickle Septic Service",
       "processedImages": 12,
       "totalTokens": 29963,
@@ -5549,7 +5551,7 @@
         }
       ]
     },
-    "abel-home-services": {
+    "ChIJz_1Jr9TRiYgR1PHnxueF-c4": {
       "businessName": "Abel Home Services",
       "processedImages": 12,
       "totalTokens": 11081,
@@ -5617,7 +5619,7 @@
         }
       ]
     },
-    "lke-plumbing": {
+    "ChIJz4XjicP54m8RQoa7d7BJq6M": {
       "businessName": "LKE Plumbing",
       "processedImages": 7,
       "totalTokens": 17481,
@@ -5719,7 +5721,7 @@
         }
       ]
     },
-    "alabama-water-heater": {
+    "ChIJZzrnrdJbJUURCoYIf9V7sFY": {
       "businessName": "Alabama Water Heater",
       "processedImages": 5,
       "totalTokens": 9257,
