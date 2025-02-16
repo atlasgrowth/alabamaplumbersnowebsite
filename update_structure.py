@@ -27,6 +27,22 @@ def update_repo_structure():
             business_count += 1
             print(f"Copied {filename} → {new_filename}")
 
+            # Read the file
+            with open(f'output/businesses/{filename}', 'r') as f:
+                data = json.load(f)
+
+            # Clean the name for site_id
+            clean_name = clean_filename(data['basic_info']['name'])
+
+            # Update the site_id
+            if 'ids' in data:
+                data['ids']['site_id'] = clean_name
+
+            #Write the updated data back to the file.  This was missing from the original.
+            with open(new_path, 'w') as f:
+                json.dump(data, f, indent=4)
+
+
     # Copy metadata
     if os.path.exists('output/metadata.json'):
         shutil.copy('output/metadata.json', 'data/metadata.json')
