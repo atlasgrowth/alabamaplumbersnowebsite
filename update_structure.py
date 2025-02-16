@@ -10,10 +10,8 @@ def clean_filename(name):
 def update_repo_structure():
     print("Starting repository update...")
 
-    # Create fresh data directories
-    if os.path.exists('data'):
-        shutil.rmtree('data')
-    os.makedirs('data/businesses')
+    # Create data directories if they don't exist
+    os.makedirs('data/businesses', exist_ok=True)
 
     # First clean business filenames
     business_count = 0
