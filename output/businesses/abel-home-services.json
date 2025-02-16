@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "site_id": "abel-home-services",
+    "place_id": "ChIJz_1Jr9TRiYgR1PHnxueF-c4",
+    "google_id": "0x8889d1d4af49fdcf:0xcef985e7c6e7f1d4",
+    "owner_id": 113793566876336538188
+  },
+  "basic_info": {
+    "name": "Abel Home Services",
+    "reviews_link": "",
+    "phone": "+1 205-667-3030",
+    "query": "plumber, 35603, Decatur, AL, US",
+    "name_for_emails": "Abel Home Services",
+    "site": "",
+    "subtypes": "Plumber, Service establishment, Painting, Contractor",
+    "category": "Contractor",
+    "type": "Plumber",
+    "full_address": "",
+    "borough": "",
+    "street": "",
+    "city": "",
+    "postal_code": "",
+    "state": "",
+    "us_state": "",
+    "country": "",
+    "country_code": "",
+    "latitude": 34.4953654,
+    "longitude": -86.8299746,
+    "h3": "8926492e5d7ffff",
+    "time_zone": "America/Chicago",
+    "area_service": "TRUE",
+    "rating": "",
+    "reviews": "",
+    "photos_count": 16,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipNAE4TaguCQOR8wSq1K8CVNAGx23IkEuWPfWWpR=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipNAE4TaguCQOR8wSq1K8CVNAGx23IkEuWPfWWpR=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{}",
+    "logo": "https://lh5.googleusercontent.com/-QgpO8o_eT18/AAAAAAAAAAI/AAAAAAAAAAA/9i0MsSnfclc/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Abel Home Services",
+    "owner_link": "https://www.google.com/maps/contrib/113793566876336538188",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#063498",
+    "SecondaryColor": "#5f76a7"
+  },
+  "website_content": {
+    "aboutUs": "Abel Home Services is a trusted local plumbing company dedicated to providing top-notch services to homeowners and businesses in the Birmingham area. Our team of highly skilled and certified plumbers specializes in everything from routine maintenance and repairs to complex installations and emergency services. We take pride in our expertise, attention to detail, and commitment to delivering exceptional results every time.",
+    "whyChooseUs": {
+      "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+      "sellingPoints": [
+        "Rapid response times for emergencies, with 24/7 availability to minimize damage and disruption.",
+        "Comprehensive solutions tailored to your specific needs, from minor fixes to major plumbing overhauls.",
+        "Transparent pricing and upfront estimates, ensuring you know the costs before any work begins."
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers and the search results, there is no specific information available for a business named \"Abel Home Services\" with the Google Place ID ChIJz_1Jr9TRiYgR1PHnxueF-c4 and the phone number +1 205-667-3030. Here are some key points to note:\n\n## Business Information\n- There is no available data on Alabama business registration, license details, physical location, service areas, hours, payment methods, or years in operation for \"Abel Home Services\" with the given identifiers.\n\n## Services & Specialties\n- No information is available on the types of services offered, service areas covered, emergency service availability, or any listed prices or rates for this specific business.\n\n## Customer Reviews & Reputation\n- There are no review summaries, BBB rating, or customer feedback themes available for \"Abel Home Services\" with the provided details.\n\n## Owner & Staff\n- No information is available on the owner/management, staff qualifications, or professional certifications for this specific business.\n\nGiven the lack of data, it appears that \"Abel Home Services\" with the specified identifiers does not have a publicly available profile or detailed information in the sources provided. To gather more information, you might need to contact the business directly or check other local business directories and review sites.",
+  "review_trends": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  }
+}

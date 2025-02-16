@@ -1,0 +1,2826 @@
+{
+  "last_updated": "2025-02-16T21:36:48.643816",
+  "business_count": 282,
+  "businesses": {
+    "fussellplumbing": {
+      "name": "Fussell Plumbing",
+      "place_id": "ChIJuZ-OPYJp50gRpx_k5KSNLH4",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jasonsdrainservice": {
+      "name": "Jason's Drain Service",
+      "place_id": "ChIJXRkQEk8IhogR_lyzlUctFH4",
+      "rating": 5,
+      "total_reviews": 24,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "salserplumbingandsepticservicellc": {
+      "name": "Salser Plumbing and Septic Service, LLC",
+      "place_id": "ChIJwYPAOodCiYgRDaWtJdGuPIs",
+      "rating": 4.1,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "hydrotechplumbingllc": {
+      "name": "HydroTech Plumbing LLC",
+      "place_id": "ChIJ0dUplGv_iYgRm4hjeLCoORw",
+      "rating": 5,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "stricklandplumbingandmaintenance": {
+      "name": "Strickland Plumbing & Maintenance",
+      "place_id": "ChIJTxBP5nIjiYgRbG-KkLQzTZw",
+      "rating": 4.6,
+      "total_reviews": 16,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "reeseplumbingllc": {
+      "name": "Reese Plumbing LLC",
+      "place_id": "ChIJkUsHLO-S6k4RquPYl5V1n54",
+      "rating": 5,
+      "total_reviews": 17,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "alabamawaterheater": {
+      "name": "Alabama Water Heater",
+      "place_id": "ChIJZzrnrdJbJUURCoYIf9V7sFY",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "fortnerplumbing": {
+      "name": "Fortner Plumbing",
+      "place_id": "ChIJMS0Zzfzm-kcRrofgE_ykHcY",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "joereiddawesplumbingservice": {
+      "name": "Joe Reid - Dawes Plumbing Service",
+      "place_id": "ChIJ29szL0uxm4gRugrW7_NheWw",
+      "rating": 4.9,
+      "total_reviews": 18,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "brianhardenplumbinginc": {
+      "name": "Brian Harden Plumbing Inc.",
+      "place_id": "ChIJ7U09VnK1m4gRzof1GJ1x-r4",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "aceplumbingsolutions": {
+      "name": "A.C.E. Plumbing Solutions",
+      "place_id": "ChIJ1SnXvb0WHCQRRRzL0uKBx6s",
+      "rating": 5,
+      "total_reviews": 25,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "qualityplumbingco": {
+      "name": "Quality Plumbing Co.",
+      "place_id": "ChIJqUsqKDvjiYgRMzj_18zTZ10",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "boydstunplumbingllc": {
+      "name": "Boydstun Plumbing LLC",
+      "place_id": "ChIJU2euNoRnYogRFJlGAQtnCqo",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "barnettplumbingllc": {
+      "name": "Barnett Plumbing, LLC",
+      "place_id": "ChIJtTDOR8ZJfYgRwDLojseuzrE",
+      "rating": 4.4,
+      "total_reviews": 61,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "morrisonplumbing": {
+      "name": "Morrison Plumbing",
+      "place_id": "ChIJlbD4yhVpiYgRIczjr_o8mo4",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "h2oworx": {
+      "name": "H2O Worx",
+      "place_id": "ChIJNy38tQc_iYgRoHAPtKsnFpk",
+      "rating": 3.7,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "leakprosofalandga": {
+      "name": "Leak Pros of Al & Ga",
+      "place_id": "ChIJi9TixeQ5OqcRgN3tEjSFHlo",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "harriscountyplumbing": {
+      "name": "Harris County Plumbing",
+      "place_id": "ChIJVWpYrItM84gR_r0ih6fLFoc",
+      "rating": 3.9,
+      "total_reviews": 14,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "kellycwilliamsplumbinginc": {
+      "name": "Kelly C. Williams Plumbing, Inc.",
+      "place_id": "ChIJkcb1yd-0jIgRRzV2S_ksF8I",
+      "rating": 4.7,
+      "total_reviews": 16,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "centralfireprotection": {
+      "name": "Central Fire Protection",
+      "place_id": "ChIJs1RV9ukeiYgR5aWQh3xeKYg",
+      "rating": 4.2,
+      "total_reviews": 10,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "simsplumbingandair": {
+      "name": "Sims plumbing & air",
+      "place_id": "ChIJy3S442VxYIgRXb4E0BOSSPQ",
+      "rating": 5,
+      "total_reviews": 27,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "tracyduncanplumbing": {
+      "name": "Tracy Duncan Plumbing",
+      "place_id": "ChIJWy7ix9B6iIgRyAoDfWxcxxQ",
+      "rating": 3,
+      "total_reviews": 7,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "stephenseibertplumbingllc": {
+      "name": "Stephen Seibert Plumbing, LLC",
+      "place_id": "ChIJT-y2-QVOGqgRfcbQLR1YWqw",
+      "rating": 5,
+      "total_reviews": 5,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rediworxdrainandsewercleaning": {
+      "name": "RediWorx Drain & Sewer Cleaning",
+      "place_id": "ChIJ0zzcH-hbkIgRE3ondVLfMNU",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "terrapincreekplumbingandsepticservicellc": {
+      "name": "Terrapin Creek Plumbing And Septic Service, LLC",
+      "place_id": "ChIJAVpioNljiogR56d4kzj5Jmk",
+      "rating": 4.4,
+      "total_reviews": 36,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dorseyplumbingllc": {
+      "name": "Dorsey Plumbing LLC",
+      "place_id": "ChIJeTIrzE1TrKMRCq-vILpE01A",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "affordablebackflowtestingservices": {
+      "name": "Affordable Backflow Testing Services",
+      "place_id": "ChIJF6jmAHgRiYgRR7WsyJzfN1w",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "northalabamadraincleaningetcllc": {
+      "name": "North Alabama Drain CLeaning,etc LLC",
+      "place_id": "ChIJC27IAOExfYgRX_0tx7yg7Hw",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "reliableusaplumbing": {
+      "name": "Reliable USA Plumbing",
+      "place_id": "ChIJY7l4avMPmogRI3BVzemsHyE",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "reliableusaplumbers": {
+      "name": "Reliable USA Plumbers",
+      "place_id": "ChIJvT1J8v9PmogRcAffq7b_pok",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "performanceplumbinginc": {
+      "name": "Performance Plumbing, Inc",
+      "place_id": "ChIJ5a-2RAcniYgRQxsl6C7Bk58",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "4gplumbinganddraincleaning": {
+      "name": "4G Plumbing and Drain Cleaning",
+      "place_id": "ChIJqe6cf3U1GAERrZ6pjst32HA",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "condocare": {
+      "name": "Condo Care",
+      "place_id": "ChIJaxofJLYEmogRgQHuMx7ncYQ",
+      "rating": 4.3,
+      "total_reviews": 11,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "wiseplumbingandgasllc": {
+      "name": "Wise Plumbing and Gas LLC",
+      "place_id": "ChIJR_n2VXXkgCkRTplRvnkaous",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "plumbworksllc": {
+      "name": "PlumbWorks LLC",
+      "place_id": "ChIJ1yk45xOXLq0RKDnc2GlfUIs",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dnsplumbingllc": {
+      "name": "DNS Plumbing LLC",
+      "place_id": "ChIJqVC9cVsmLA8R-hQ8-Eob-OI",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "alphaplumbersinc": {
+      "name": "Alpha Plumbers Inc",
+      "place_id": "ChIJNVITTC0dm4gRk-K2KS9nBo4",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "waterworksplumbinganddrainllc": {
+      "name": "WaterWorks Plumbing & Drain LLC",
+      "place_id": "ChIJkaa22MbdvIsRoM3u1UirX00",
+      "rating": 4.9,
+      "total_reviews": 28,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "professionalplumbinganddrain": {
+      "name": "Professional Plumbing and Drain",
+      "place_id": "ChIJc6N5z3-hSk0R3SFkp3CFKbQ",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "pikesplumbingandgas": {
+      "name": "Pike's Plumbing & Gas",
+      "place_id": "ChIJ57i3xJiQiYgR7MG10VClWZ8",
+      "rating": 4.6,
+      "total_reviews": 24,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "wolfplumbingservices": {
+      "name": "Wolf Plumbing Services",
+      "place_id": "ChIJIabfr7TGi4gRxxXnBfB9PVk",
+      "rating": 4.9,
+      "total_reviews": 13,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dixieservicesllc": {
+      "name": "Dixie Services LLC",
+      "place_id": "ChIJVVqRTn1fkIgRA2wM-dywlkQ",
+      "rating": 5,
+      "total_reviews": 7,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "veteransplumbing": {
+      "name": "Veteran's Plumbing",
+      "place_id": "ChIJm3IdRvUyzgURGeWkxmpxm2g",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "crowestrenchingandplumbing": {
+      "name": "Crowes trenching & plumbing",
+      "place_id": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+      "rating": 4.4,
+      "total_reviews": 7,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "queenhomeimprovementllc": {
+      "name": "Queen Home Improvement LLC",
+      "place_id": "ChIJ_YAQpSg_YIgRRuuQ_9puIhQ",
+      "rating": 4.5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "catsplumbing": {
+      "name": "Cats Plumbing",
+      "place_id": "ChIJjUIC1IYsXogREjU_SkjB_Uw",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "vestplumbing": {
+      "name": "Vest Plumbing",
+      "place_id": "ChIJF09EatdHiIgRGcgGB0NOmko",
+      "rating": 5,
+      "total_reviews": 20,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "yarbroughsgeneralcontractors": {
+      "name": "Yarbrough's General Contractors",
+      "place_id": "ChIJfy_Y4a9JiIgRBQ57b4xW_CE",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "marblecityplumbingllc": {
+      "name": "Marble City Plumbing, LLC",
+      "place_id": "ChIJJ5zrDKVPiYgRyNpt4HjGofs",
+      "rating": 5,
+      "total_reviews": 13,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "lkeplumbing": {
+      "name": "LKE Plumbing",
+      "place_id": "ChIJz4XjicP54m8RQoa7d7BJq6M",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "puddinplumbing": {
+      "name": "Puddin Plumbing",
+      "place_id": "ChIJPYhpkPJFigARAwHeMbfMfgg",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "simpleservicellc": {
+      "name": "Simple Service, LLC",
+      "place_id": "ChIJsQtuozkNiYgRzhO4ZZJJNA0",
+      "rating": 1,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "gfgcontractorllc": {
+      "name": "G F G Contractor LLC.",
+      "place_id": "ChIJVVVVVYyBjogRPK6CtV2Yv28",
+      "rating": 4.8,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rustybottoms": {
+      "name": "Rusty Bottoms",
+      "place_id": "ChIJ42PRSkDAx2ERAGfpfvSoO0c",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "unstoppabledrainandcompany": {
+      "name": "Unstoppable Drain & Company",
+      "place_id": "ChIJ18gSWitetaMRQkSPgnyDoSQ",
+      "rating": 5,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rousseausexcavatingandpipeservices": {
+      "name": "Rousseau's excavating & pipe services",
+      "place_id": "ChIJrVBO43QlTSERb2MDVmTFB7w",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "everyoneneedsplumbingandservice": {
+      "name": "Everyone Needs Plumbing and Service",
+      "place_id": "ChIJkfZyMw_BEgERQSiSiM-N5VQ",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rocketcityhomerepair": {
+      "name": "Rocket City Home Repair",
+      "place_id": "ChIJp86iXmow30cRTLbe4F_XGiQ",
+      "rating": 3,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "theflowdocplumbingservices": {
+      "name": "The Flow Doc Plumbing Services",
+      "place_id": "ChIJcd5FcjZDmogRyOZJUOqz_Oo",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "randcconstructionandrepairs": {
+      "name": "R&C Construction and Repairs",
+      "place_id": "ChIJ0zDmqNS7iogRfJfd73E7JQA",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "browningplumbing": {
+      "name": "Browning Plumbing",
+      "place_id": "ChIJk0KhesoZIQsRTMXoaAPLUxE",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "aaaseptictankserviceofcullmanllc": {
+      "name": "AAA Septic Tank Service of Cullman, LLC",
+      "place_id": "ChIJ7c2nkznKiYgR1brcYUuce_g",
+      "rating": 4.9,
+      "total_reviews": 33,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "baileyandsonsheatingcoolingandplumbing": {
+      "name": "Bailey & Son\u2019s Heating, Cooling, and Plumbing",
+      "place_id": "ChIJRRF2LI5RiYgRfrX3sC7zn6Q",
+      "rating": 4.6,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "onpointplumbing": {
+      "name": "On Point Plumbing",
+      "place_id": "ChIJBw1WvpTPi4gRyxUDmb6Bef0",
+      "rating": 5,
+      "total_reviews": 27,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "triplebplumbingllc": {
+      "name": "Triple B Plumbing, LLC.",
+      "place_id": "ChIJh7m_Fz-FYogRbsc8IkwOHko",
+      "rating": 4.2,
+      "total_reviews": 5,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "evansplumbinganddrainserviceinc": {
+      "name": "Evans Plumbing and Drain Service, Inc.",
+      "place_id": "ChIJUa3fYmSpm4gRVe10yrKmAtU",
+      "rating": 3.8,
+      "total_reviews": 35,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "blountplumbingservice": {
+      "name": "Blount Plumbing Service",
+      "place_id": "ChIJD2404eG9iYgRh9_q-odCfBI",
+      "rating": 3,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "tandlplumbingllc": {
+      "name": "T&L Plumbing LLC",
+      "place_id": "ChIJdWtaSqFz9YwRDZWVCVHNwbg",
+      "rating": 5,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "cagleplumbingsystems": {
+      "name": "Cagle Plumbing Systems",
+      "place_id": "ChIJAa4ntaCi7EoRqS2k8Ax3lJ0",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "cookandsonplumbingandseptic": {
+      "name": "Cook & Son Plumbing and septic",
+      "place_id": "ChIJYcRS8THniogRb6GFobyNlZI",
+      "rating": 2.3,
+      "total_reviews": 12,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "handhplumbinginc": {
+      "name": "H & H Plumbing Inc.",
+      "place_id": "ChIJwfxhzAhLYIgRpKzgckm_o-g",
+      "rating": 4.9,
+      "total_reviews": 44,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "littlesplumbingandproservices": {
+      "name": "Little's Plumbing and Pro Services",
+      "place_id": "ChIJ0dgLhS-QkkMRzAsa6Dgi8GY",
+      "rating": 5,
+      "total_reviews": 20,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "acmeplumbing": {
+      "name": "Acme Plumbing",
+      "place_id": "ChIJacwYVAtrCWMRSZ0_OLClP1E",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "ddandhservicesllc": {
+      "name": "DD&H SERVICES LLC",
+      "place_id": "ChIJk6Ohx1keiYgRlLMb5pxzGac",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "precisionplumbingllc": {
+      "name": "Precision Plumbing, LLC",
+      "place_id": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+      "rating": 3,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "ifitsplumbing": {
+      "name": "If It's Plumbing",
+      "place_id": "ChIJwf-T0sUUYogRzUR2EoiHh3I",
+      "rating": 3.7,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "kylesrodnrooter": {
+      "name": "Kyle's Rod-N Rooter",
+      "place_id": "ChIJXQrPdaaMkogRG2yd8I_iJ7o",
+      "rating": 4.7,
+      "total_reviews": 18,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "proscapesandservicesllc": {
+      "name": "Proscapes And Services LLC",
+      "place_id": "ChIJg-oODr_HqAsRxw0LploKYoM",
+      "rating": 5,
+      "total_reviews": 5,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "harrisonsplumbing": {
+      "name": "Harrisons Plumbing",
+      "place_id": "ChIJd1RkrPzJ7kMRxwfx8qatxCQ",
+      "rating": 4.8,
+      "total_reviews": 25,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "banksenvironmentalanddraincleaning": {
+      "name": "Banks Environmental and Drain Cleaning",
+      "place_id": "ChIJE_If4FgBi4gRsgzglNRPdY8",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "craigplumbingandelectrical": {
+      "name": "Craig Plumbing and Electrical",
+      "place_id": "ChIJVXayhTvvkYgR4RoREmjqffA",
+      "rating": 3.6,
+      "total_reviews": 16,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "sloanplumbinganddrainservice": {
+      "name": "Sloan Plumbing and Drain Service",
+      "place_id": "ChIJV5I0CTMHiYgR94Cu8YY0Wa8",
+      "rating": 5,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "chamblessplumbing": {
+      "name": "Chambless Plumbing",
+      "place_id": "ChIJuROHMiorh6cRKkyiwLlifLg",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jackssewerandplumbingservices": {
+      "name": "Jack's Sewer & Plumbing Services",
+      "place_id": "ChIJkYnN-tIYiYgRV_ZdwtWtqHo",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "tristatelandclearing": {
+      "name": "Tri-State Land Clearing",
+      "place_id": "ChIJrRHSdYt_kogRIZG_LEUA7LY",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "daviscompaniesplumbing": {
+      "name": "Davis Companies Plumbing",
+      "place_id": "ChIJC0f65ObniIgRzrBmtxKF-oY",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allinoneplumbinganddrainco": {
+      "name": "All In One Plumbing & Drain Co.",
+      "place_id": "ChIJobrQXTMxNmYRyzFNFPBWVtw",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "peckplumbing": {
+      "name": "Peck Plumbing",
+      "place_id": "ChIJRffU5ws7YogRR_gqnTEGuts",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allleakdetectionllc": {
+      "name": "All Leak Detection LLC",
+      "place_id": "ChIJV3COajMdiogRtcFqpBVVCB4",
+      "rating": 4.8,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "abelhomeservices": {
+      "name": "Abel Home Services",
+      "place_id": "ChIJz_1Jr9TRiYgR1PHnxueF-c4",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "pipersplumbing": {
+      "name": "Pipers Plumbing",
+      "place_id": "ChIJU6_IQ0Qti4gRhjT114TxHWE",
+      "rating": 5,
+      "total_reviews": 20,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "westgadraindoctors": {
+      "name": "West GA Drain Doctors",
+      "place_id": "ChIJF2ACZfMuiIgRYu37AnY_eDQ",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "patsplumbingllc": {
+      "name": "Pat's Plumbing LLC",
+      "place_id": "ChIJ1_NADoWGBkMRnlBQzXnSrQo",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "accurateheatingandairconditioning": {
+      "name": "Accurate Heating And Air Conditioning",
+      "place_id": "ChIJuzqxSaZMiIgRTDZhDsluNRo",
+      "rating": 4.4,
+      "total_reviews": 10,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "downsouthplumbingservices": {
+      "name": "Down South Plumbing Services",
+      "place_id": "ChIJ6Sn_5YIXxaMRqkDTJNDUN2o",
+      "rating": 5,
+      "total_reviews": 5,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "1draindoctorplumbingdraincleaning": {
+      "name": "1Drain Doctor plumbing/drain cleaning",
+      "place_id": "ChIJHytFhE3vhogR9n15ZPn13-E",
+      "rating": 4.1,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "ronsoldtimeplumbinginc": {
+      "name": "Ron's Old Time Plumbing, Inc.",
+      "place_id": "ChIJZ3dm8jDGjogRonOy_OYcCq8",
+      "rating": 4.3,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "mcremodelingconstructionllc": {
+      "name": "M.C Remodeling Construction LLC",
+      "place_id": "ChIJySJfUNcdiYgR1ols87zaWzE",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "mcrplumbinganddrain": {
+      "name": "MCR Plumbing and Drain",
+      "place_id": "ChIJtWMABpp6nIARRQWq7j9qaFA",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "mikesplumbingandelectricservice": {
+      "name": "Mike's Plumbing & Electric Service",
+      "place_id": "ChIJeUzmB1iKkogRmlLq5h8ybJI",
+      "rating": 4.2,
+      "total_reviews": 79,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "hamiltonservices": {
+      "name": "Hamilton Services",
+      "place_id": "ChIJuw4DZiJNmogRsFm2LeZNmq4",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "plumbingdog": {
+      "name": "Plumbing Dog",
+      "place_id": "ChIJ3zU7eWvTkaURB54Herf01mY",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "onecallservicestuscaloosaplumbing": {
+      "name": "One Call Services | Tuscaloosa Plumbing",
+      "place_id": "ChIJ45FDOfVDXyARRKuvgsFR0a0",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "practicalplumbing": {
+      "name": "Practical Plumbing",
+      "place_id": "ChIJ8VMgarFMkS8RqyP0BUKMSg8",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "southernhomesolutions": {
+      "name": "Southern Home Solutions",
+      "place_id": "ChIJQ_WiAERfKSoRY-qZWj84jnw",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "alloutplumbersllc": {
+      "name": "All Out Plumbers LLC",
+      "place_id": "ChIJtx6RsCUrNAYRPdM-62ctTGE",
+      "rating": 3.7,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "handcplumbingllc": {
+      "name": "H and C Plumbing LLC",
+      "place_id": "ChIJ2wJJi-Tzi4gRRgqJjT8A7bw",
+      "rating": 4.5,
+      "total_reviews": 28,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "budgetrooterandplumbing": {
+      "name": "Budget Rooter & Plumbing",
+      "place_id": "ChIJq6qqqpoRiYgR2atEHvt3XOY",
+      "rating": 5,
+      "total_reviews": 19,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "prestonsplumbinganddraincleaningservice": {
+      "name": "Preston's Plumbing and Drain Cleaning Service",
+      "place_id": "ChIJFcjSJte3i4gRxs0CV8C21xI",
+      "rating": 4.4,
+      "total_reviews": 14,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "byersplumbing": {
+      "name": "Byers Plumbing",
+      "place_id": "ChIJuzHfeBQWiYgRW7xZhcbEZSA",
+      "rating": 4.4,
+      "total_reviews": 36,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "patrickshomeservices": {
+      "name": "Patrick's Home Services",
+      "place_id": "ChIJuRKcvixJfYgRMWRsAIm9TdA",
+      "rating": 4,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "americasbestservicesllc": {
+      "name": "America's Best Services LLC",
+      "place_id": "ChIJczLxHB0IeK0RmrQeXiMWPh0",
+      "rating": 3,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "ronsoldtimeplumbing": {
+      "name": "Rons Old Time Plumbing",
+      "place_id": "ChIJq6qqqvqPjogRsErcd7JmEmY",
+      "rating": 4.6,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "educatedrooterandsepticatlanta": {
+      "name": "Educated Rooter & Septic Atlanta",
+      "place_id": "ChIJZVH9vCNZ9IgRaLJTdKWKdSY",
+      "rating": 4.9,
+      "total_reviews": 58,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "hallsplumbingservices": {
+      "name": "Hall's Plumbing Services",
+      "place_id": "ChIJAS1nXYq5m4gRepHHKTs5qAQ",
+      "rating": 5,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "southernshoresplumbingservices": {
+      "name": "Southern Shores Plumbing Services",
+      "place_id": "ChIJ_dD27rjE70YRqHC2bVn8FLw",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "onewayplumbingllc": {
+      "name": "One Way Plumbing LLC",
+      "place_id": "ChIJGbU8onNZ4QQRh6Z-px72w9o",
+      "rating": 5,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "smithandsonsseptictankservicesandplumbing": {
+      "name": "Smith And Sons Septic Tank Services & Plumbing",
+      "place_id": "ChIJQbEf30affYgRwa0y7jWyKqc",
+      "rating": 4.6,
+      "total_reviews": 10,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "akaplumbing": {
+      "name": "AKA Plumbing",
+      "place_id": "ChIJmXaYG5hBiogRiRPQe5O7wVg",
+      "rating": 4.7,
+      "total_reviews": 15,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "ingramplumbing": {
+      "name": "Ingram Plumbing",
+      "place_id": "ChIJGwEAp6xXmogRROzHMVaLml0",
+      "rating": 4,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "perfectpipingplumbinggasanddesign": {
+      "name": "Perfect Piping Plumbing Gas & Design",
+      "place_id": "ChIJz53mtu0JmogR6vob15l9ctI",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "brownsplumbingsolutions": {
+      "name": "Brown's Plumbing Solutions",
+      "place_id": "ChIJ0VVeS1ufkIgR8u7V91OiOOk",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "plumberdanservicesllc": {
+      "name": "Plumber Dan Services LLC",
+      "place_id": "ChIJW_irormBLygR8Xbd1hJwXUs",
+      "rating": 4.5,
+      "total_reviews": 25,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "veteranplumbingllc": {
+      "name": "Veteran Plumbing LLC",
+      "place_id": "ChIJ70j0OX8t9YgRKg0E6FTZP4c",
+      "rating": 5,
+      "total_reviews": 27,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "brooksideseptictankserviceinc": {
+      "name": "Brookside Septic Tank Service Inc",
+      "place_id": "ChIJNXlekSCbJ0ERjtG2r3D36CA",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "pipemastersplumbing": {
+      "name": "PipeMasters Plumbing",
+      "place_id": "ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "cochranbrothersplumbingandgas": {
+      "name": "Cochran Brothers Plumbing and Gas",
+      "place_id": "ChIJB3cKwZkCiC4Rpysr3_MXxWU",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allensallproservicesllc": {
+      "name": "Allens AllPro Services LLC",
+      "place_id": "ChIJKzv9Mw5X9IgR3qzjyIYeuSo",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "richardsonsearsservice": {
+      "name": "Richardson Sears service",
+      "place_id": "ChIJ7yTmO0qnSmARxsSinF092iI",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "kwoodplumbing": {
+      "name": "K-Wood Plumbing",
+      "place_id": "ChIJvdu-umEfiYgRKtzuuWW4wek",
+      "rating": 4.6,
+      "total_reviews": 14,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "scottsplumbing": {
+      "name": "Scott's Plumbing",
+      "place_id": "ChIJ5WDNMk4QiYgR_cilQamVFwE",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "topnotchplumbinganddraincleaningllc": {
+      "name": "Topnotch Plumbing & Drain Cleaning LLC",
+      "place_id": "ChIJ93oaF7wmJYkRdUy35K4ZOCM",
+      "rating": 5,
+      "total_reviews": 205,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "bishopsplumbingandservices": {
+      "name": "Bishop\u2019s Plumbing & Services",
+      "place_id": "ChIJm_5GBZ4NAYcR_QGT0CVJNyY",
+      "rating": 5,
+      "total_reviews": 5,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "sureflowplumbinganddrainllc": {
+      "name": "Sure Flow Plumbing and Drain LLC",
+      "place_id": "ChIJRz0CtwRhYogRstWc4J28Gds",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "doitallplumbingheatingandcoolingllc": {
+      "name": "Do It All Plumbing Heating and Cooling LLC",
+      "place_id": "ChIJ1W5d6ZFaxosRuZGMMm-SbxI",
+      "rating": 5,
+      "total_reviews": 16,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "giterdoneplumbing": {
+      "name": "Git'er Done Plumbing",
+      "place_id": "ChIJ7wP0kV7PiIgRyZrRAja3pgs",
+      "rating": 4.3,
+      "total_reviews": 18,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "aandbseptictankservices": {
+      "name": "A & B Septic Tank Services",
+      "place_id": "ChIJr9SLv2FgmogRF2bYeeINqqo",
+      "rating": 4.4,
+      "total_reviews": 14,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "muddybuddysplumbing": {
+      "name": "Muddy Buddy's Plumbing",
+      "place_id": "ChIJ7dye1ciLtowRDflOsW-s2Po",
+      "rating": 4.9,
+      "total_reviews": 246,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "lanceofalltrades": {
+      "name": "Lance of All Trades",
+      "place_id": "ChIJOU-3SHNH-24R968ZYSb7Gs4",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "vaughnssuperiorplumbingllc": {
+      "name": "Vaughn\u2019s Superior Plumbing LLC",
+      "place_id": "ChIJmWeGpa-Etg0R-Adzmhx9I3c",
+      "rating": 5,
+      "total_reviews": 11,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "championplumbingandremodeling": {
+      "name": "Champion Plumbing And Remodeling",
+      "place_id": "ChIJdzqroP9ziYgRf6mzg3TAtEU",
+      "rating": 4.8,
+      "total_reviews": 24,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "chrismayoplumbinganddrainservice": {
+      "name": "Chris Mayo Plumbing and Drain Service",
+      "place_id": "ChIJEeL0scsfiogRVoUdcyLv8rs",
+      "rating": 4.5,
+      "total_reviews": 16,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "truetriminstallationservices": {
+      "name": "True Trim Installation Services",
+      "place_id": "ChIJs6NOsy37hogRzZvj4PFzOQI",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "professionalplumbingservicellc": {
+      "name": "Professional Plumbing Service LLC",
+      "place_id": "ChIJJyRFa9WbjIgRh48m54XQHgk",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "gloryplumbinganddraincleaningservicesllc": {
+      "name": "Glory Plumbing and Drain Cleaning Services, Llc",
+      "place_id": "ChIJvWB2IN0ci4gR5cLLcxnI2Vo",
+      "rating": 5,
+      "total_reviews": 19,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "timstotal": {
+      "name": "Tim's Total",
+      "place_id": "ChIJWUkFdf7DkWURRqkLVKiqlco",
+      "rating": 1,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jwlawsonplumbing": {
+      "name": "J.W. Lawson Plumbing",
+      "place_id": "ChIJx3pEn1CviYgRjY8q67aFEdM",
+      "rating": 4.9,
+      "total_reviews": 184,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "qpiservicesinc": {
+      "name": "QPI Services Inc.",
+      "place_id": "ChIJU4YAj19aL2kRhiFox_-hseM",
+      "rating": 5,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rescuemeplumbingllc": {
+      "name": "Rescue Me Plumbing, LLC",
+      "place_id": "ChIJmxZ-6cCbjogRlWPxBqa3iNw",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "donerightplumbingservices": {
+      "name": "Done Right Plumbing Services",
+      "place_id": "ChIJ1zbsjW21i4gRGSpUK2-H-ss",
+      "rating": 4.1,
+      "total_reviews": 12,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jeffbrownsplumbing": {
+      "name": "Jeff Brown's Plumbing",
+      "place_id": "ChIJMUgoGYVlYogRYOBvRmJSAng",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "arevolutionllc": {
+      "name": "A Revolution LLC",
+      "place_id": "ChIJK7Y1_AaSkogRE83LswPEaTA",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "josephplumbingservices": {
+      "name": "Joseph Plumbing Services",
+      "place_id": "ChIJ_fxawXWASCAR1P2unkbAX94",
+      "rating": 4.7,
+      "total_reviews": 48,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rooterprosllc": {
+      "name": "Rooter Pros LLC",
+      "place_id": "ChIJP5MSd_jIFwQRLTTCYnIx6zI",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "happyhomerepairservice": {
+      "name": "Happy Home Repair Service",
+      "place_id": "ChIJLWBCCjtBkogRVHJzfmFUsYo",
+      "rating": 4.7,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "brookinvestmentpropertiesremodeling": {
+      "name": "Brook Investment Properties /Remodeling",
+      "place_id": "ChIJ9Wn7io96DAERCkpnuMKv_Pg",
+      "rating": 5,
+      "total_reviews": 7,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "onecallservicesinc": {
+      "name": "One Call Services Inc.",
+      "place_id": "ChIJvYyZkMMehogR95mcjNUr1uI",
+      "rating": 4.9,
+      "total_reviews": 148,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "innovativeplumbingsolutionsllc": {
+      "name": "Innovative Plumbing Solutions LLC",
+      "place_id": "ChIJQ3fLzbtxiYgRrTY5pY3eLak",
+      "rating": 4.9,
+      "total_reviews": 72,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "bamasbestmaintenanceandrepair": {
+      "name": "Bamas Best Maintenance & Repair",
+      "place_id": "ChIJ8WqZ0fG0YYgRUaskgN-pxfs",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "sandshvacandmorellc": {
+      "name": "S&S HVAC&More LLC",
+      "place_id": "ChIJW1wAvTt5kYgRmgBzMqHjerg",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "southernnsolutionsllc": {
+      "name": "Southernn Solutions LLC",
+      "place_id": "ChIJT6OIheRLiogRQc75SXUZ8FY",
+      "rating": 4.7,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "bobshandymanservice": {
+      "name": "Bob's Handyman Service",
+      "place_id": "ChIJR-52NbXxYYgRW4Fdh8UNFQc",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "flipporestorationandmaintenancellc": {
+      "name": "Flippo Restoration And Maintenance , LLC",
+      "place_id": "ChIJMSgr4iWNkogRXLX-wjRry2w",
+      "rating": 4.9,
+      "total_reviews": 42,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "gandsplumbingandelectric": {
+      "name": "G & S Plumbing and Electric",
+      "place_id": "ChIJkd0d2RrNjIgRbWgqqfNSNuw",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "deepsouthplumbingllc": {
+      "name": "Deep South Plumbing LLC",
+      "place_id": "ChIJo_ZehjgPmogRRw8z1kaa79I",
+      "rating": 5,
+      "total_reviews": 15,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jnlplumbinganddraincleaningllc": {
+      "name": "JNL Plumbing and drain cleaning LLC",
+      "place_id": "ChIJfdOG8T8JmogRDK58vX5gMSk",
+      "rating": 4.5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "johnshomeservices": {
+      "name": "John's Home Services",
+      "place_id": "ChIJVzmtcDIpfGoRYIjV_ofeQd8",
+      "rating": 4.9,
+      "total_reviews": 96,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jaysplumbingandhandymanservice": {
+      "name": "Jay's plumbing and handyman service",
+      "place_id": "ChIJ2_aWE_qFkYgRynnTKMLTkFI",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "boxcarthehandyman": {
+      "name": "boxcar the handyman",
+      "place_id": "ChIJC6rU5v8NYogRo5xDG3uSkN4",
+      "rating": 4.6,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "ltdrainandsmallrepair": {
+      "name": "LT Drain and Small Repair",
+      "place_id": "ChIJsfZoWHtFdwYRdQ8P-Vagj3w",
+      "rating": 5,
+      "total_reviews": 99,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "kandkcontractedservices": {
+      "name": "K&K Contracted Services",
+      "place_id": "ChIJn2KWscEpiogRvclFZyXlQG0",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "mamasboyplumbingandsepticllc": {
+      "name": "Mamas Boy Plumbing and Septic LLC",
+      "place_id": "ChIJJaCocz3Ji4gRT_Dns8UTehQ",
+      "rating": 4.8,
+      "total_reviews": 92,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "hatcherplumbing": {
+      "name": "Hatcher Plumbing",
+      "place_id": "ChIJ0V6tCxhlYogR8AZuZnv4I5Q",
+      "rating": 5,
+      "total_reviews": 7,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "hobbsplumbingllc": {
+      "name": "Hobbs Plumbing LLC",
+      "place_id": "ChIJi6nH7f_0jIgR1vNuF8-NhNQ",
+      "rating": 4.9,
+      "total_reviews": 47,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "coxplumbingsolutions": {
+      "name": "Cox Plumbing Solutions",
+      "place_id": "ChIJHQFmsCw1iYgRDMnSSMLiDZk",
+      "rating": 4.6,
+      "total_reviews": 18,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "cjplumbingandgas": {
+      "name": "CJ Plumbing and Gas",
+      "place_id": "ChIJRRTFpDEliYgRoGYsQD69k60",
+      "rating": 4.9,
+      "total_reviews": 156,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "shamrockhomerepairs": {
+      "name": "Shamrock Home Repairs",
+      "place_id": "ChIJYf1WWkQVYogRgSohpcRy2eI",
+      "rating": 3.3,
+      "total_reviews": 10,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "anythingplumbing": {
+      "name": "Anything Plumbing",
+      "place_id": "ChIJq6qqqnoMYogRj1ivk0BVK7M",
+      "rating": 4.9,
+      "total_reviews": 64,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "charlespicklesepticservice": {
+      "name": "Charles Pickle Septic Service",
+      "place_id": "ChIJYTBMYHr9iIgR2AeDcVvhEj0",
+      "rating": 3.8,
+      "total_reviews": 34,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "stainplumbingandconstructionllc": {
+      "name": "Stain Plumbing and Construction LLC",
+      "place_id": "ChIJ34ZNcEfoYogRb-lZ08V9Ye4",
+      "rating": 4.8,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "sandsplumbingservice": {
+      "name": "S&S Plumbing Service",
+      "place_id": "ChIJ6TcdO_8YiYgRykT_9o3BuKE",
+      "rating": 4.7,
+      "total_reviews": 95,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "lordsplumbingremodelingandhandymanservices": {
+      "name": "Lords plumbing, remodeling & handyman services",
+      "place_id": "ChIJKymItkgshogRXxrGSW2SPAA",
+      "rating": 4,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "tillmanplumbingandgas": {
+      "name": "Tillman Plumbing & Gas",
+      "place_id": "ChIJI4tiJ_IqiIgRlTB94ahA-n8",
+      "rating": 4.5,
+      "total_reviews": 11,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jtillmanplumbing": {
+      "name": "J. Tillman Plumbing",
+      "place_id": "ChIJBUwPfFcriIgR4GIpp9NEvEQ",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dynamicplumbingsolutionsllc": {
+      "name": "Dynamic Plumbing Solutions, LLC",
+      "place_id": "ChIJfYe73JE87awRFBPlEDIV7Mk",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "plumbpluscompany": {
+      "name": "Plumbplus Company",
+      "place_id": "ChIJ8SVDJrTOMKwR0LFCLICWFmw",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "angelplumbing": {
+      "name": "angelplumbing",
+      "place_id": "ChIJ7W9lIJxsYogRoQm1yGwO5Ys",
+      "rating": 4.4,
+      "total_reviews": 14,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jacksonpriceplumbingandgas": {
+      "name": "Jackson Price Plumbing and Gas",
+      "place_id": "ChIJT71OEVfdk0MRrvDCCJk76ak",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "thefixitman": {
+      "name": "The Fix It Man",
+      "place_id": "ChIJoTnIZqZcHYIRu1N3LeDBYJs",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "worleysplumbinganddraincleaning": {
+      "name": "Worley's Plumbing And Drain Cleaning",
+      "place_id": "ChIJDQvb5aL4kogR1xZuNSe6kdw",
+      "rating": 3.9,
+      "total_reviews": 47,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "skisplumbing": {
+      "name": "Ski\u2019s Plumbing",
+      "place_id": "ChIJZwC9KjWJkogRuhmgQphfkgo",
+      "rating": 5,
+      "total_reviews": 17,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "prestonplumbing": {
+      "name": "Preston Plumbing",
+      "place_id": "ChIJw8CCO4RglCkRQTC4UD3RDEM",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "pfcustom": {
+      "name": "PF Custom",
+      "place_id": "ChIJM6bzOxK58ogRzZkaXzKFUPQ",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dbplumbingllc": {
+      "name": "DB Plumbing LLC",
+      "place_id": "ChIJO8CJqJXPGCYRp1oJsCMjBwE",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "batesplumbingllc": {
+      "name": "Bates Plumbing LLC",
+      "place_id": "ChIJXayqj-rujIgRbAuWrpv1130",
+      "rating": 3.7,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jcplumbinganddrain": {
+      "name": "JC Plumbing and Drain",
+      "place_id": "ChIJ1w-81FabhaoRkFxcjdCvY_I",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "quickdrainplumbers": {
+      "name": "Quick Drain Plumbers",
+      "place_id": "ChIJUUbGd3wNiYgRknJo4xmPUUA",
+      "rating": 4,
+      "total_reviews": 12,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "goforthenterprises": {
+      "name": "Goforth Enterprises",
+      "place_id": "ChIJi8b0Z1B3iYgRr4cuUIRlpls",
+      "rating": 4.8,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dandcplumbing": {
+      "name": "D & C Plumbing",
+      "place_id": "ChIJYzb0-JIeiYgRe2qmBeM1WNE",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "tradelinkplumbing": {
+      "name": "TradeLink Plumbing",
+      "place_id": "ChIJqdWmInUmh6QRPGy95XywYso",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dayandnightplumbing": {
+      "name": "Day & Night Plumbing",
+      "place_id": "ChIJP616pFMdiYgR5BmpTcosmm8",
+      "rating": 1,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "aaaplumbing": {
+      "name": "AAA Plumbing",
+      "place_id": "ChIJd0LLkb2rNgYRZtx8ptPhIM8",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "alphaomegaplumbingllc": {
+      "name": "Alpha Omega Plumbing LLC",
+      "place_id": "ChIJXXuq9zqsi4gRQKMyQK0j2Zg",
+      "rating": 3,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "naborplumbinginc": {
+      "name": "Nabor Plumbing Inc",
+      "place_id": "ChIJr5PRjhJq9YgRS7612tZOX7o",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "parkersplumbing": {
+      "name": "Parkers Plumbing",
+      "place_id": "ChIJmRL0-yP2rosR_zGhUclRFXY",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jonbarnesplumbing": {
+      "name": "Jon Barnes Plumbing",
+      "place_id": "ChIJdx_5fANL84gRAZ0HAnv563A",
+      "rating": 4.6,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "georgebrotherscontracting": {
+      "name": "George Brothers' Contracting",
+      "place_id": "ChIJqVsZfr8084gRzQzlp63cz3M",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "reynoldsplumbingandgas": {
+      "name": "Reynolds Plumbing and Gas",
+      "place_id": "ChIJjwjKfA9XCIMR5oQe028sM7Y",
+      "rating": 5,
+      "total_reviews": 12,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "lakeithsplumbingandelectricllc": {
+      "name": "Lakeith's Plumbing & Electric LLC",
+      "place_id": "ChIJv04uAWPSVQcRjJwsj-_SN4M",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "alabamaplumbingcompanyllc": {
+      "name": "Alabama Plumbing Company LLC",
+      "place_id": "ChIJTRP9VVxWby0Rv8TwIhl0YMY",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "grahamplumbingrepair": {
+      "name": "Graham Plumbing Repair",
+      "place_id": "ChIJU43tre4TmogRL7dsNoUTbU8",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "quality1plumbing": {
+      "name": "Quality 1 Plumbing",
+      "place_id": "ChIJQ5F3O4PHpCkRrssheMAumzs",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "stewartplumbingllc": {
+      "name": "Stewart Plumbing LLC",
+      "place_id": "ChIJSdyCs8wEmogRDKHwslG01vg",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "southernwatersplumbingllc": {
+      "name": "Southern Waters Plumbing LLC",
+      "place_id": "ChIJ2XFFEfl4LGkRbBAiBhBQKTE",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dawesplumbingservice": {
+      "name": "Dawes Plumbing Service",
+      "place_id": "ChIJUSSg-6ixm4gRwArSm0A0_UY",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "aaabackflow": {
+      "name": "AAA Backflow",
+      "place_id": "ChIJK8IxFdQfiYgRka6bjYHa5OE",
+      "rating": 4.3,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "cravensplumbingspecialist": {
+      "name": "Craven's Plumbing Specialist",
+      "place_id": "ChIJ8fspae07sIwRYopz7Qg0_Zs",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "groceplumbing": {
+      "name": "Groce Plumbing",
+      "place_id": "ChIJJ5119z2zOwsR_AfTkkJcmvg",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "expressrooterplumbing": {
+      "name": "Express Rooter Plumbing",
+      "place_id": "ChIJxUUcGgaFYogRBcDHLBIyjHE",
+      "rating": 4.7,
+      "total_reviews": 55,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "alatenplumbingllc": {
+      "name": "Ala-Ten Plumbing LLC",
+      "place_id": "ChIJK23-Zj6YcG4RJe5KhoC1Kxg",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rooteremergencyplumber": {
+      "name": "Rooter Emergency Plumber",
+      "place_id": "ChIJO2BzFWNtYogRKdCgsjtsS1c",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "mikemergencyrepairservices": {
+      "name": "Mik Emergency Repair Services",
+      "place_id": "ChIJV8shntN3YogR-fIzFAtr9FA",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "cherokeeservicesplumbingco": {
+      "name": "Cherokee Services Plumbing Co.",
+      "place_id": "ChIJHWZb98VGjIgRrNVqAQQkruU",
+      "rating": 4.8,
+      "total_reviews": 38,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "a1coolingandheatingandplumbing": {
+      "name": "A-1 COOLING & HEATING & PLUMBING",
+      "place_id": "ChIJR4XtKuhtiYgRi4j3VhNZBQw",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "centralalabamaplumbing": {
+      "name": "Central Alabama Plumbing",
+      "place_id": "ChIJbWDbbRLhTQYRim0ZX3_b2gk",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allsouthplumbing": {
+      "name": "All South Plumbing",
+      "place_id": "ChIJd4Lxi2OWGaMRHzQHESA8eTM",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dallasplumbinginc": {
+      "name": "Dallas Plumbing INC",
+      "place_id": "ChIJRdlPS1MUe0MRj3DMTSsJ9dg",
+      "rating": 4.5,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "faithplumbingservices": {
+      "name": "Faith Plumbing Services",
+      "place_id": "ChIJqReQPqntjogRUARiTdp8MU4",
+      "rating": 4.8,
+      "total_reviews": 20,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rooterpro": {
+      "name": "Rooter Pro",
+      "place_id": "ChIJh4XR6zXNjIgRr1Drh1JESH4",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "focusemergencyrepairservices": {
+      "name": "Focus Emergency Repair Services",
+      "place_id": "ChIJQZh4TKuZYogRBc3mi-AM-_0",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "madisoncountyplumbers": {
+      "name": "Madison County Plumbers",
+      "place_id": "ChIJHXd4hqI9YogRk8Ho5veyM90",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "swanplumbing": {
+      "name": "Swan Plumbing",
+      "place_id": "ChIJq--Ub1zZYYgRL31jXJAg58k",
+      "rating": 4.1,
+      "total_reviews": 15,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "aplusrotorooter": {
+      "name": "A Plus Roto Rooter",
+      "place_id": "ChIJ2Z-O8oI9YIgRAkwCAxfAc9Y",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "tibbettsplumbinginc": {
+      "name": "Tibbetts Plumbing Inc",
+      "place_id": "ChIJwSI1E4jzhIgR1g6uEESwRgE",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allwayzplumbing": {
+      "name": "All Wayz Plumbing",
+      "place_id": "ChIJgyQRmNoPmogRazvQMEXNdIc",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "almspumpserviceinc": {
+      "name": "Alms Pump Service Inc",
+      "place_id": "ChIJV7z5dOwOmogR53dbAwvcE6A",
+      "rating": 4.5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "americanplumbingprofessionalsofswal": {
+      "name": "American Plumbing Professionals of SWAL",
+      "place_id": "ChIJsSgnP9dDmogRki1_AiyZX7M",
+      "rating": 1,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "sellersemergencyplumberrepair": {
+      "name": "Sellers Emergency Plumber Repair",
+      "place_id": "ChIJCdKySlBHi0URSwEuIQK96T0",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "fairemergencyhvacrepair": {
+      "name": "Fair Emergency HVAC Repair",
+      "place_id": "ChIJeTKZfmEbiYgR0vPqH0Uz2WU",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "nfinityservices": {
+      "name": "Nfinity Services",
+      "place_id": "ChIJTdlNKtFL9qUREKqQwnImuF8",
+      "rating": 5,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "topnotchmaintenanceservices": {
+      "name": "Top Notch Maintenance Services",
+      "place_id": "ChIJ-YySMcNrYogRiYXsa4OUKxM",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "theconstructionartists": {
+      "name": "The Construction Artists",
+      "place_id": "ChIJ0492c2rthogRiPpawgB8Og0",
+      "rating": 5,
+      "total_reviews": 7,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "homeworx": {
+      "name": "Homeworx",
+      "place_id": "ChIJce68Wq5CBwERoxOrUgi-93U",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "hdowensandsoncontractors": {
+      "name": "H.D. Owens & Son Contractors",
+      "place_id": "ChIJxTH-jQoaSq8R3UVimdHdlF4",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "shoalscreekhomeimprovements": {
+      "name": "Shoals Creek Home Improvements",
+      "place_id": "ChIJhz9Skjc3mq4R87fVIFSl8b8",
+      "rating": 5,
+      "total_reviews": 4,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "hamiltonrenovationsllc": {
+      "name": "Hamilton Renovations LLC",
+      "place_id": "ChIJe5BMXWHeZiMRq7PpIBstqvc",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "jayshomeimprovement": {
+      "name": "Jay's Home Improvement",
+      "place_id": "ChIJja101ZNrYogR8144Ftw2PGM",
+      "rating": 4.5,
+      "total_reviews": 35,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "plusremodelsllc": {
+      "name": "PLUS Remodels, LLC",
+      "place_id": "ChIJ03d8EYxs4kcRGIeKk8t7N-A",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "eanderenovations": {
+      "name": "E & E Renovations",
+      "place_id": "ChIJK5jCiD3_B0oRAVuHwqd0CYI",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "martinrenovation": {
+      "name": "Martin renovation",
+      "place_id": "ChIJbYsPRcP0a4wRCBneYShi78k",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "doneriterestorationshomerepairspecialist369blafayettestreetroanokealabama": {
+      "name": "Done Rite Restorations Home Repair Specialist 369 B Lafayette Street Roanoke Alabama",
+      "place_id": "ChIJa4Z5q3Iv-goRQVAqhavucCY",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "bandbtorchregulatorandrepairservicellc": {
+      "name": "B & B Torch Regulator and Repair Service LLC",
+      "place_id": "ChIJjViR6lCjiYgRcB7JunASUoQ",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "mandmpumpingandsepticrepair": {
+      "name": "M & M Pumping & Septic Repair",
+      "place_id": "ChIJjyHCB3nGjIgRRzglr7w_TbU",
+      "rating": 4.2,
+      "total_reviews": 9,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "alabamasepticservice": {
+      "name": "Alabama Septic Service",
+      "place_id": "ChIJkey3ShLXp0ARBguOnghSHqw",
+      "rating": 5,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rightawayrooter": {
+      "name": "Right-A-Way Rooter",
+      "place_id": "ChIJH1-X14aMkogRWd_Oxw4WUGo",
+      "rating": 3,
+      "total_reviews": 2,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "paytonssepticservices": {
+      "name": "PAYTON'S SEPTIC SERVICES",
+      "place_id": "ChIJifkFkZZVmogR2fjT6HET06M",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "weisslakesepticpumpersllc": {
+      "name": "Weiss Lake Septic Pumpers LLC",
+      "place_id": "ChIJc13qQxdhiogR0Brzlwg_TNc",
+      "rating": 5,
+      "total_reviews": 12,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "royalflushseptictankpumpingcompany": {
+      "name": "Royal Flush Septic Tank Pumping Company",
+      "place_id": "ChIJ26sTG-XOjIgRv3bDOm8PX_I",
+      "rating": 4.7,
+      "total_reviews": 58,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "harpersenvironmentalsepticservices": {
+      "name": "Harper's Environmental Septic Services",
+      "place_id": "ChIJT5yOIJTvjIgRiWnjYaZ3i2g",
+      "rating": 4.3,
+      "total_reviews": 19,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "ajssepticservicesllc": {
+      "name": "A J's Septic Services LLC",
+      "place_id": "ChIJQwdsGeNAiogRLdfThAyNLIo",
+      "rating": 4.9,
+      "total_reviews": 67,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "affordablesepticllc": {
+      "name": "Affordable Septic LLC",
+      "place_id": "ChIJ5cqQU123i4gRN8EjzgylvAo",
+      "rating": 4.2,
+      "total_reviews": 42,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "pickleseptictankandplumbing": {
+      "name": "Pickle Septic Tank and Plumbing",
+      "place_id": "ChIJT5nx4LIGiYgRTU1qzEcrars",
+      "rating": 4.7,
+      "total_reviews": 45,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "lawrencesepticservice": {
+      "name": "LAWRENCE SEPTIC SERVICE",
+      "place_id": "ChIJ2Sm99wNHjYgRkrVmNKVQDT4",
+      "rating": 4.6,
+      "total_reviews": 18,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "royalflush": {
+      "name": "Royal Flush",
+      "place_id": "ChIJ0wsSyIWzm4gR53VXhOhlTPo",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "crimesseptictankpumping": {
+      "name": "Crimes Septic Tank Pumping",
+      "place_id": "ChIJ8xArMPvo8ogRbi2izFifA7Q",
+      "rating": 5,
+      "total_reviews": 28,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "bskcsoilandsepticservicesllc": {
+      "name": "BSKC Soil and Septic Services, LLC",
+      "place_id": "ChIJhZJfGO-bjogRLQWuPpWxQM4",
+      "rating": 4.7,
+      "total_reviews": 37,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allprosepticservice": {
+      "name": "All-Pro Septic Service",
+      "place_id": "ChIJryrid7XFjIgRqrgY49VYQmA",
+      "rating": 4.9,
+      "total_reviews": 133,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "3rdgenerationseptic": {
+      "name": "3rd Generation Septic",
+      "place_id": "ChIJn4EsQpq1i4gRDJf2JpsbfOY",
+      "rating": 4.9,
+      "total_reviews": 93,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "walkersepticanddrain": {
+      "name": "Walker Septic & Drain",
+      "place_id": "ChIJKYIP8e27AgURcy1i-H_HkOo",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "septictankdeliveryservices": {
+      "name": "Septic Tank Delivery Services",
+      "place_id": "ChIJ4_LYQ66ahYgRqTeCsR8fjjg",
+      "rating": 5,
+      "total_reviews": 6,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "septicsolutions": {
+      "name": "Septic Solutions",
+      "place_id": "ChIJcfbg0NMFXIoRBOknDs1LBkc",
+      "rating": 5,
+      "total_reviews": 11,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "wynnconstructionllc": {
+      "name": "Wynn Construction llc",
+      "place_id": "ChIJrzMrUj1CsmwRMAhIuCm_r-c",
+      "rating": 5,
+      "total_reviews": 8,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allamericansepticandplumbing": {
+      "name": "All American Septic and plumbing",
+      "place_id": "ChIJ65nejtER_4ARuj5aedw5mLc",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "rogersseptic": {
+      "name": "Rogers Septic",
+      "place_id": "ChIJQe-jj6XvkYgRhrzzAVct03g",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "allnoneseptictankservice": {
+      "name": "ALL N ONE SEPTIC TANK SERVICE",
+      "place_id": "ChIJPQWySOFjiYgROuA3c9bdTDg",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "pickleplumbingandseptictankservice": {
+      "name": "Pickle Plumbing & Septic Tank Service",
+      "place_id": "ChIJA0OrW5L9iIgRYP_hHnMqAg8",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "dalessepticserviceinc": {
+      "name": "Dale's Septic Service Inc",
+      "place_id": "ChIJkVjTQYQWjIgREp_lsZIT6DM",
+      "rating": 5,
+      "total_reviews": 42,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "artisantile": {
+      "name": "Artisan Tile",
+      "place_id": "ChIJT6pmWrzjiIgRNS-AH1SH44U",
+      "rating": "",
+      "total_reviews": "",
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "richardrestoration": {
+      "name": "Richard Restoration",
+      "place_id": "ChIJHd33zBMpiogRaem6WI0-Rmw",
+      "rating": 4.8,
+      "total_reviews": 11,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "waterdamageserviceshuntsville": {
+      "name": "Water Damage Services Huntsville",
+      "place_id": "ChIJVVVVVXFrYogRnGdVlHMNuKo",
+      "rating": 2,
+      "total_reviews": 1,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "melsrestorationandremodeling": {
+      "name": "Mel's Restoration & Remodeling",
+      "place_id": "ChIJk5iKW-cYjYgRyvy5G0wCNSw",
+      "rating": 5,
+      "total_reviews": 5,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    },
+    "floodshieldrestorationanddisasterreliefllc": {
+      "name": "FloodShield Restoration & Disaster Relief LLC",
+      "place_id": "ChIJx021kvWS_ScRdO6kfIHjrwo",
+      "rating": 5,
+      "total_reviews": 3,
+      "scores": {
+        "photo_score": 0,
+        "facebook_score": 0
+      }
+    }
+  }
+}

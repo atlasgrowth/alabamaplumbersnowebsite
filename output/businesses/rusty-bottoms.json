@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "site_id": "rusty-bottoms",
+    "place_id": "ChIJ42PRSkDAx2ERAGfpfvSoO0c",
+    "google_id": "0x61c7c0404ad163e3:0x473ba8f47ee96700",
+    "owner_id": 105563583727898770140
+  },
+  "basic_info": {
+    "name": "Rusty Bottoms",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ42PRSkDAx2ERAGfpfvSoO0c&q=plumber,+36269,+Muscadine,+AL,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 404-425-3267",
+    "query": "plumber, 36269, Muscadine, AL, US",
+    "name_for_emails": "Rusty Bottoms",
+    "site": "",
+    "subtypes": "Plumber, Service establishment, Hot water system supplier",
+    "category": "Hot water system supplier",
+    "type": "Plumber",
+    "full_address": "",
+    "borough": "",
+    "street": "",
+    "city": "",
+    "postal_code": "",
+    "state": "",
+    "us_state": "",
+    "country": "",
+    "country_code": "",
+    "latitude": 33.763087,
+    "longitude": -84.8982899,
+    "h3": "8944ea6ac63ffff",
+    "time_zone": "America/New_York",
+    "area_service": "TRUE",
+    "rating": 5,
+    "reviews": 1,
+    "photos_count": 9,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipMHqBwtHQK4X0BFBNXVSpK2hvX7MTlmJhuHsMZu=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipMHqBwtHQK4X0BFBNXVSpK2hvX7MTlmJhuHsMZu=w1600-h1000-k-no",
+    "working_hours": "",
+    "business_status": "CLOSED_TEMPORARILY",
+    "about": "{}",
+    "logo": "https://lh4.googleusercontent.com/-uP_rW-bWSy8/AAAAAAAAAAI/AAAAAAAAAAA/gRUNChv0QZI/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Rusty Bottoms",
+    "owner_link": "https://www.google.com/maps/contrib/105563583727898770140",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#fca414",
+    "SecondaryColor": "#528cac"
+  },
+  "website_content": {
+    "aboutUs": "At Rusty Bottoms, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch service to our local community. With our extensive knowledge and specialized expertise, we tackle even the most complex plumbing issues with ease. From routine maintenance to emergency repairs, our team is equipped to handle all your residential and commercial plumbing needs.",
+    "whyChooseUs": {
+      "mainPitch": "Experience the peace of mind that comes with choosing a trusted and reliable local plumbing company.",
+      "sellingPoints": [
+        "Rapid response times for emergency situations, ensuring your plumbing issues are resolved promptly.",
+        "Highly trained and certified technicians with a deep understanding of the latest plumbing techniques and technologies.",
+        "Commitment to using only the highest-quality materials and equipment, ensuring long-lasting and efficient solutions."
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers and the available sources, here is the information that could be verified for the specific Alabama plumbing business named \"Rusty Bottoms\":\n\n## Business Information\n- **Alabama business registration/license details**: There is no specific information available from the sources provided about the business registration or license details of \"Rusty Bottoms\" in Alabama. To find this information, you would need to use the Alabama Secretary of State's Government Records Inquiry System, but the provided sources do not include this data[5].\n- **Physical location and service areas**: The Google Place ID and phone number suggest that \"Rusty Bottoms\" is located in Alabama, but the exact physical location and service areas are not specified in the provided sources.\n- **Hours and payment methods**: There is no information available on the business hours or payment methods for \"Rusty Bottoms\" from the provided sources.\n- **Years in operation**: The sources do not provide any information on how long \"Rusty Bottoms\" has been in operation.\n\n## Services & Specialties\n- **Types of services offered**: There is no detailed information available from the provided sources about the specific services offered by \"Rusty Bottoms\".\n- **Service areas covered**: As mentioned, the service areas are not specified.\n- **Emergency service availability**: There is no information available on whether \"Rusty Bottoms\" offers emergency services.\n- **Any listed prices or rates**: No pricing or rate information is available from the provided sources.\n\n## Customer Reviews & Reputation\n- **Review summaries with specific examples**: The only review mentioned has a 5-star rating but does not provide specific details about the services or experiences.\n  - Example: \"Rating: 5 (1 reviews)\" suggests a positive review, but the content of the review is not provided.\n- **BBB rating and status**: There is no information available from the provided sources regarding the BBB rating or status of \"Rusty Bottoms\".\n- **Common customer feedback themes**: With only one review and no detailed content, it is not possible to identify common customer feedback themes.\n- **Response to reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff\n- **Owner/management information**: The owner/business title is listed as \"Rusty Bottoms\", but there is no additional information about the owner's background or management experience.\n- **Staff qualifications**: There is no information available on the qualifications or professional certifications of the staff at \"Rusty Bottoms\".\n- **Professional certifications**: No information is provided on any professional certifications held by the owner or staff.\n\nGiven the limited information available from the sources, it appears that more specific details about \"Rusty Bottoms\" would need to be obtained directly from the business or through additional resources such as the Alabama Secretary of State's database or other local business directories.",
+  "review_trends": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "replacement",
+      "installation"
+    ],
+    "firstReviewDate": "2024-03-30",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  }
+}

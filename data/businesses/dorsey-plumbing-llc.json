@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "site_id": "dorsey-plumbing-llc",
+    "place_id": "ChIJeTIrzE1TrKMRCq-vILpE01A",
+    "google_id": "0xa3ac534dcc2b3279:0x50d344ba20afaf0a",
+    "owner_id": 116985018402723746304
+  },
+  "basic_info": {
+    "name": "Dorsey Plumbing LLC",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeTIrzE1TrKMRCq-vILpE01A&q=plumber,+36801,+Opelika,+AL,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 470-489-8841",
+    "query": "plumber, 36801, Opelika, AL, US",
+    "name_for_emails": "Dorsey Plumbing",
+    "site": "",
+    "subtypes": "Plumber, Service establishment",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "",
+    "borough": "",
+    "street": "",
+    "city": "",
+    "postal_code": "",
+    "state": "",
+    "us_state": "",
+    "country": "",
+    "country_code": "",
+    "latitude": 32.6803079,
+    "longitude": -85.485253,
+    "h3": "8944ee74c03ffff",
+    "time_zone": "America/Chicago",
+    "area_service": "TRUE",
+    "rating": 5,
+    "reviews": 2,
+    "photos_count": 6,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipPyCKraxpzahC9cvALxJtJTrmOZx22KYUjDZu2x=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPyCKraxpzahC9cvALxJtJTrmOZx22KYUjDZu2x=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Payments\": {\"Credit cards\": true}}",
+    "logo": "https://lh6.googleusercontent.com/-25pYWHqDxsk/AAAAAAAAAAI/AAAAAAAAAAA/iDpDj1Ac4GE/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Dorsey Plumbing LLC",
+    "owner_link": "https://www.google.com/maps/contrib/116985018402723746304",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#877777",
+    "SecondaryColor": "#777777"
+  },
+  "website_content": {
+    "aboutUs": "At Dorsey Plumbing LLC, we are a team of highly skilled and experienced plumbers dedicated to providing top-notch service to the Opelika community. Our expertise lies in tackling all types of plumbing issues, from routine maintenance to complex installations and repairs. With a focus on local service, we prioritize prompt response times and personalized attention to ensure your plumbing needs are met efficiently and effectively.",
+    "whyChooseUs": {
+      "mainPitch": "Unparalleled expertise and reliable service for all your plumbing needs in Opelika.",
+      "sellingPoints": [
+        "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
+        "Commitment to using high-quality materials and following industry best practices for long-lasting solutions.",
+        "Personalized service tailored to your specific requirements, ensuring your complete satisfaction."
+      ]
+    }
+  },
+  "research": "## Business Information:\n\n### Alabama Business Registration/License Details\n- Dorsey Plumbing LLC was registered in Alabama on October 17, 2024, as a domestic limited liability company. The entity ID number for this company is 001159022[5].\n\n### Physical Location and Service Areas\n- The business is located at 3706 Oak Bowery Rd, Opelika, AL 36801. However, specific service areas are not detailed in the available sources, but it is associated with the Opelika area[1][5].\n\n### Hours and Payment Methods\n- There is no specific information available on the business hours or payment methods for Dorsey Plumbing LLC from the provided sources.\n\n### Years in Operation\n- Dorsey Plumbing LLC has been operating for approximately 2 months and 24 days as of January 6, 2025[5].\n\n## Services & Specialties:\n\n### Types of Services Offered\n- Although the specific services are not detailed in the provided sources, it can be inferred that Dorsey Plumbing LLC offers typical plumbing services given its classification.\n\n### Service Areas Covered\n- As mentioned, the service area appears to be centered around Opelika, AL, but exact boundaries are not specified[1][5].\n\n### Emergency Service Availability\n- There is no explicit mention of emergency service availability in the provided sources.\n\n### Any Listed Prices or Rates\n- No specific prices or rates are listed in the available sources.\n\n## Customer Reviews & Reputation:\n\n### Review Summaries with Specific Examples\n- There are no customer reviews available specifically for Dorsey Plumbing LLC in Opelika, AL, from the provided sources. The reviews mentioned in one of the sources appear to be for a different business named Justin Dorsey Plumbing, which is not the same entity[3].\n\n### BBB Rating and Status\n- There is no BBB rating or status available for Dorsey Plumbing LLC as it is not listed with the Better Business Bureau in the provided sources.\n\n### Common Customer Feedback Themes\n- Since there are no reviews available for this specific business, common customer feedback themes cannot be determined.\n\n### Response to Reviews\n- There is no information on how the business responds to reviews as there are no reviews available for this specific entity.\n\n## Owner & Staff:\n\n### Owner/Management Information\n- The owner of Dorsey Plumbing LLC is Darrius Dorsey[1].\n\n### Staff Qualifications\n- There is no information available on the staff qualifications or professional certifications for Dorsey Plumbing LLC.\n\n### Professional Certifications\n- No specific professional certifications are mentioned for the owner or staff of Dorsey Plumbing LLC in the provided sources.",
+  "review_trends": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "2024-11-10",
+    "last30": 0,
+    "last60": 1,
+    "last90": 2,
+    "last180": 2,
+    "last365": 2
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "site_id": "rocket-city-home-repair",
+    "place_id": "ChIJp86iXmow30cRTLbe4F_XGiQ",
+    "google_id": "0x47df306a5ea2cea7:0x241ad75fe0deb64c",
+    "owner_id": 116919881963796167517
+  },
+  "basic_info": {
+    "name": "Rocket City Home Repair",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJp86iXmow30cRTLbe4F_XGiQ&q=plumber,+35767,+Ryland,+AL,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 256-755-2448",
+    "query": "plumber, 35767, Ryland, AL, US",
+    "name_for_emails": "Rocket City Home Repair",
+    "site": "",
+    "subtypes": "Plumber, Air conditioning repair service, Carpenter, Service establishment, Handyman/Handywoman/Handyperson, Painter, Property maintenance",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "",
+    "borough": "",
+    "street": "",
+    "city": "",
+    "postal_code": "",
+    "state": "",
+    "us_state": "",
+    "country": "",
+    "country_code": "",
+    "latitude": 34.733999,
+    "longitude": -86.6806655,
+    "h3": "892649ad8d3ffff",
+    "time_zone": "America/Chicago",
+    "area_service": "TRUE",
+    "rating": 3,
+    "reviews": 2,
+    "photos_count": 16,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipPHbaFI4uXQR_kRh7RX4_9HYJW2rFnxa4XDQ5DT=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPHbaFI4uXQR_kRh7RX4_9HYJW2rFnxa4XDQ5DT=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Service options\": {\"Online estimates\": true, \"Language assistance\": \"Arabic, English, Korean, Spanish\"}, \"Payments\": {\"Credit cards\": true, \"NFC mobile payments\": true}}",
+    "logo": "https://lh5.googleusercontent.com/-MxOFIrTTw10/AAAAAAAAAAI/AAAAAAAAAAA/LuLapGAz1jA/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Rocket City Home Repair",
+    "owner_link": "https://www.google.com/maps/contrib/116919881963796167517",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#4474e4",
+    "SecondaryColor": "#133585"
+  },
+  "website_content": {
+    "aboutUs": "At Rocket City Home Repair, we are a team of highly skilled and experienced professionals dedicated to providing top-notch home repair services to the residents of Huntsville and surrounding areas. Our expertise spans a wide range of home improvement projects, from minor repairs to major renovations. We take pride in our local presence and commitment to delivering exceptional service tailored to the unique needs of our community.",
+    "whyChooseUs": {
+      "mainPitch": "Unparalleled expertise and attention to detail for all your home repair needs.",
+      "sellingPoints": [
+        "Highly trained and certified technicians with a deep understanding of local building codes and regulations.",
+        "Comprehensive range of services, from plumbing and electrical work to carpentry and drywall repairs.",
+        "Commitment to using high-quality materials and implementing industry-best practices for long-lasting results."
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers and the search results, here is the detailed information about **Rocket City Home Repair** in Alabama:\n\n## Business Information:\n- **Alabama business registration/license details**: There is no specific information available in the provided sources regarding the business registration or license details of Rocket City Home Repair.\n- **Physical location and service areas**: The business is located at 2207 14th St SW, Huntsville, AL 35805-3551. However, the exact service areas are not specified in the sources provided[2].\n- **Hours and payment methods**: There is no information available on the hours of operation or payment methods for Rocket City Home Repair[2].\n- **Years in operation**: The BBB file for Rocket City Home Repair was opened on August 16, 2024, which suggests the business is relatively new, but the exact years in operation are not specified[2].\n\n## Services & Specialties:\n- **Types of services offered**: Rocket City Home Repair falls under the category of \"Home Improvement\" but does not specifically mention plumbing services. Instead, it likely offers general home repair services[2].\n- **Service areas covered**: The service areas are not explicitly stated, but it is based in Huntsville, AL[2].\n- **Emergency service availability**: There is no information available on whether Rocket City Home Repair offers emergency services[2].\n- **Any listed prices or rates**: No prices or rates are mentioned in the provided sources[2].\n\n## Customer Reviews & Reputation:\n- **Review summaries with specific examples**: There are limited reviews available for Rocket City Home Repair. The BBB rating is based on a few interactions, including a complaint about the business failing to respond to a complaint filed against it[2].\n  - The business has a BBB rating of D+, primarily due to the failure to respond to a complaint and the short length of time the business has been operating[2].\n- **BBB rating and status**: Rocket City Home Repair is not BBB accredited and has a D+ rating[2].\n- **Common customer feedback themes**: There is not enough data to identify common customer feedback themes, as the available reviews are very limited[2].\n- **Response to reviews**: There is no indication of responses to reviews from the business in the provided sources[2].\n\n## Owner & Staff:\n- **Owner/management information**: There is no specific information available about the owner or management of Rocket City Home Repair in the provided sources[2].\n- **Staff qualifications**: No details are provided regarding the qualifications or professional certifications of the staff[2].\n- **Professional certifications**: There is no information on any professional certifications held by the staff or owners of Rocket City Home Repair[2].\n\nIn summary, the information available for Rocket City Home Repair is limited, and it does not appear to be a plumbing-specific business but rather a general home improvement service.",
+  "review_trends": {
+    "ownerName": "Randal Collier",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "house painting",
+      "home repairs"
+    ],
+    "firstReviewDate": "2024-06-01",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 1,
+    "last365": 2
+  }
+}

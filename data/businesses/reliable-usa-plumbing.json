@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "site_id": "reliable-usa-plumbing",
+    "place_id": "ChIJY7l4avMPmogRI3BVzemsHyE",
+    "google_id": "0x889a0ff36a78b963:0x211face9cd557023",
+    "owner_id": 112627066185652723381
+  },
+  "basic_info": {
+    "name": "Reliable USA Plumbing",
+    "reviews_link": "",
+    "phone": "+1 251-304-9372",
+    "query": "plumber, 36555, Magnolia Springs, AL, US",
+    "name_for_emails": "Reliable Usa Plumbing",
+    "site": "",
+    "subtypes": "Plumber",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "817 W Laurel Ave, Foley, AL 36535",
+    "borough": "None",
+    "street": "817 W Laurel Ave",
+    "city": "Foley",
+    "postal_code": 36535,
+    "state": "Alabama",
+    "us_state": "Alabama",
+    "country": "United States of America",
+    "country_code": "US",
+    "latitude": 30.4063234,
+    "longitude": -87.6970535,
+    "h3": "894450c9aa3ffff",
+    "time_zone": "America/Chicago",
+    "area_service": "FALSE",
+    "rating": "",
+    "reviews": "",
+    "photos_count": 6,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipOFSsk7fqPDaBfy8uS9_PXNU0nWM7YomC2tJ3tl=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipOFSsk7fqPDaBfy8uS9_PXNU0nWM7YomC2tJ3tl=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Service options\": {\"Online estimates\": true, \"Language assistance\": \"English, Spanish\"}, \"Planning\": {\"Appointment required\": true}, \"Payments\": {\"Credit cards\": true}}",
+    "logo": "https://lh3.googleusercontent.com/-NoWlIKXL8Io/AAAAAAAAAAI/AAAAAAAAAAA/zL-KpP_7PNA/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Reliable USA Plumbing",
+    "owner_link": "https://www.google.com/maps/contrib/112627066185652723381",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#c41d34",
+    "SecondaryColor": "#656d94"
+  },
+  "website_content": {
+    "aboutUs": "Reliable USA Plumbing is a trusted local plumbing company serving Foley, Alabama, and the surrounding areas. Our team of highly skilled and certified professionals specializes in a wide range of plumbing services, from routine maintenance and repairs to complex installations and emergency services. We take pride in our expertise, attention to detail, and commitment to providing top-notch solutions tailored to your unique needs.",
+    "whyChooseUs": {
+      "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+      "sellingPoints": [
+        "Prompt and efficient service, with a focus on minimizing disruptions to your daily routine.",
+        "Comprehensive solutions backed by extensive training and the latest industry techniques.",
+        "Transparent pricing and a commitment to clear communication throughout the entire process."
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers and the search results, here is the information available for the specific Alabama plumbing business, Reliable USA Plumbing, located at 817 W Laurel Ave, Foley, AL 36535:\n\n## Business Information\n- **Alabama business registration/license details**: There is no specific information available in the provided sources regarding the Alabama business registration or license details for Reliable USA Plumbing.\n- **Physical location and service areas**: The business is located at 817 W Laurel Ave, Foley, AL 36535. However, the exact service areas are not specified in the provided sources.\n- **Hours and payment methods**: There is no detailed information available on the hours of operation or payment methods for Reliable USA Plumbing.\n- **Years in operation**: The sources do not provide information on how long Reliable USA Plumbing has been in operation.\n\n## Services & Specialties\n- **Types of services offered**: While the specific services offered by Reliable USA Plumbing are not detailed in the provided sources, typical plumbing services include drain cleaning, faucet repairs, water heater installations, and other plumbing-related tasks, as seen in similar businesses[1][4].\n- **Service areas covered**: As mentioned, the business is based in Foley, AL, but the exact service areas are not specified.\n- **Emergency service availability**: There is no information available indicating whether Reliable USA Plumbing offers emergency services.\n- **Any listed prices or rates**: No pricing or rate information is available for Reliable USA Plumbing in the provided sources.\n\n## Customer Reviews & Reputation\n- **Review summaries with specific examples**: There are no customer reviews or ratings available in the provided sources specifically for Reliable USA Plumbing at the given address.\n- **BBB rating and status**: The Better Business Bureau (BBB) listings provided do not include Reliable USA Plumbing at the specified address in Foley, AL[2][5].\n- **Common customer feedback themes**: Without specific reviews, it is not possible to identify common customer feedback themes.\n- **Response to reviews**: There is no information on how the business responds to customer reviews.\n\n## Owner & Staff\n- **Owner/management information**: The owner or management details for Reliable USA Plumbing are not provided in the sources.\n- **Staff qualifications**: There is no information available regarding the qualifications or professional certifications of the staff at Reliable USA Plumbing.\n- **Professional certifications**: No specific certifications or professional credentials are mentioned for the staff of Reliable USA Plumbing.\n\nGiven the lack of specific information in the provided sources, it appears that detailed data on Reliable USA Plumbing at 817 W Laurel Ave, Foley, AL 36535, is not readily available. To obtain more accurate and comprehensive information, additional sources such as the business's official website, local business directories, or direct contact with the business may be necessary.",
+  "review_trends": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  }
+}

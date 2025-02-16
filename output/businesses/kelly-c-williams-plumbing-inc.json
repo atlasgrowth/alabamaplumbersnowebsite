@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "site_id": "kelly-c-williams-plumbing-inc",
+    "place_id": "ChIJkcb1yd-0jIgRRzV2S_ksF8I",
+    "google_id": "0x888cb4dfc9f5c691:0xc2172cf94b763547",
+    "owner_id": 104458717726191357536
+  },
+  "basic_info": {
+    "name": "Kelly C. Williams Plumbing, Inc.",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkcb1yd-0jIgRRzV2S_ksF8I&q=plumber,+36851,+Cottonton,+AL,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 706-322-2159",
+    "query": "plumber, 36851, Cottonton, AL, US",
+    "name_for_emails": "Kelly C Williams Plumbing",
+    "site": "",
+    "subtypes": "Plumber",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "37 Fortson Rd, Fortson, GA 31808",
+    "borough": "Fortson",
+    "street": "37 Fortson Rd",
+    "city": "Fortson",
+    "postal_code": 31808,
+    "state": "Georgia",
+    "us_state": "Georgia",
+    "country": "United States of America",
+    "country_code": "US",
+    "latitude": 32.665036,
+    "longitude": -84.95871,
+    "h3": "8944c5b5833ffff",
+    "time_zone": "America/New_York",
+    "area_service": "FALSE",
+    "rating": 4.7,
+    "reviews": 16,
+    "photos_count": 5,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipPbjCOePRcRGMf8vg6-soPUGehWs8X3Hy4ui_Du=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPbjCOePRcRGMf8vg6-soPUGehWs8X3Hy4ui_Du=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Offerings\": {\"Repair services\": true}}",
+    "logo": "https://lh5.googleusercontent.com/-Q9YNdAfi1Y0/AAAAAAAAAAI/AAAAAAAAAAA/6zNZ3gMipME/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Kelly C. Williams Plumbing, Inc.",
+    "owner_link": "https://www.google.com/maps/contrib/104458717726191357536",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#4474e4",
+    "SecondaryColor": "#133585"
+  },
+  "website_content": {
+    "aboutUs": "With over 51 years of experience, Kelly C. Williams Plumbing, Inc. is a trusted local plumbing company serving the Fortson, GA area. Our team of highly skilled and certified professionals specializes in a wide range of plumbing services, from routine maintenance to complex installations and repairs. We take pride in our prompt response times and our ability to handle any plumbing emergency with expertise and efficiency.",
+    "whyChooseUs": {
+      "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+      "sellingPoints": [
+        "24/7 emergency service for prompt response to urgent plumbing issues",
+        "Fully licensed and insured for your protection and our accountability",
+        "Comprehensive plumbing solutions tailored to your specific needs"
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers, it appears there is a confusion because the business listed is not located in Alabama, but rather in Georgia.\n\n### Business Information:\n- **Location and Service Areas**: The business is located at 37 Fortson Rd, Fortson, GA 31808, and it does not operate in Alabama[2].\n- **Years in Operation**: The business has been in operation since 1974 and was incorporated on December 14, 2000[2].\n\n### Services & Specialties:\nSince the business is not in Alabama, the services and specialties listed are for the Georgia location:\n- **Types of Services Offered**: General plumbing services, but specific details are not provided for this location[2].\n- **Emergency Service Availability**: Not specified for this location, but reviews suggest they offer prompt and emergency services[3].\n\n### Customer Reviews & Reputation:\n- **Review Summaries**: Customers praise the business for its professionalism, prompt service, and fair pricing. Examples include quick responses to emergencies, thorough work, and reasonable prices[3].\n- **BBB Rating and Status**: The business is not BBB accredited and does not have a BBB rating due to insufficient information[2].\n- **Common Customer Feedback Themes**: Professionalism, prompt service, fair pricing, and excellent customer service[3].\n\n### Owner & Staff:\n- **Owner/Management Information**: Mr. Kelly Williams is the President and a key contact for the business[2].\n- **Staff Qualifications and Professional Certifications**: There is no specific information provided about staff qualifications or certifications for this business.\n\nGiven the business is located in Georgia and not Alabama, there is no Alabama-specific information available for Kelly C. Williams Plumbing, Inc. The details provided are for the Georgia-based business. If you are looking for information on a different business with a similar name in Alabama, additional identifiers would be necessary to locate the correct business.",
+  "review_trends": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [
+      "leak repair"
+    ],
+    "firstReviewDate": "2014-07-26",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 1
+  }
+}

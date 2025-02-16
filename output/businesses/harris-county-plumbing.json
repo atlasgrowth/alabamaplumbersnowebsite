@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "site_id": "harris-county-plumbing",
+    "place_id": "ChIJVWpYrItM84gR_r0ih6fLFoc",
+    "google_id": "0x88f34c8bac586a55:0x8716cba78722bdfe",
+    "owner_id": 103127533675178498968
+  },
+  "basic_info": {
+    "name": "Harris County Plumbing",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVWpYrItM84gR_r0ih6fLFoc&q=plumber,+36274,+Roanoke,+AL,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 706-406-8409",
+    "query": "plumber, 36274, Roanoke, AL, US",
+    "name_for_emails": "Harris County Plumbing",
+    "site": "",
+    "subtypes": "Plumber, Service establishment",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "",
+    "borough": "",
+    "street": "",
+    "city": "",
+    "postal_code": "",
+    "state": "",
+    "us_state": "",
+    "country": "",
+    "country_code": "",
+    "latitude": 33.0474435,
+    "longitude": -84.8635284,
+    "h3": "8944eac86b7ffff",
+    "time_zone": "America/New_York",
+    "area_service": "TRUE",
+    "rating": 3.9,
+    "reviews": 14,
+    "photos_count": 5,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipOcHPOhQtMHvLVG8qpaEQmBBeiSMw2BZ-p7N_r2=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipOcHPOhQtMHvLVG8qpaEQmBBeiSMw2BZ-p7N_r2=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Service options\": {\"Online estimates\": true}}",
+    "logo": "https://lh4.googleusercontent.com/-6-A9uM2FEWQ/AAAAAAAAAAI/AAAAAAAAAAA/lwDFEFXYiqw/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Harris County Plumbing",
+    "owner_link": "https://www.google.com/maps/contrib/103127533675178498968",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#116eb5",
+    "SecondaryColor": "#547db0"
+  },
+  "website_content": {
+    "aboutUs": "Harris County Plumbing is a trusted local plumbing company serving communities across Alabama. Our team of highly skilled and certified professionals specializes in a wide range of plumbing services, from routine maintenance and repairs to complex installations and emergency services. We take pride in our expertise, attention to detail, and commitment to delivering exceptional results for every project.",
+    "whyChooseUs": {
+      "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+      "sellingPoints": [
+        "Rapid response times for emergencies, ensuring your plumbing issues are addressed promptly.",
+        "Comprehensive solutions tailored to your specific needs, backed by our team's extensive training and expertise.",
+        "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers and the available sources, here is the information that could be verified for **Harris County Plumbing** in Alabama:\n\n## Business Information\n- **Alabama Business Registration/License Details**: To find specific details about the business registration or licenses, you would need to use the Alabama Secretary of State's Government Records Inquiry System. However, without direct access to this system in real-time, I cannot provide the exact registration or license details. You can search using the business name or other identifiers on the [Alabama Secretary of State's website][4].\n- **Physical Location and Service Areas**: The Google Place ID `ChIJVWpYrItM84gR_r0ih6fLFoc` suggests that Harris County Plumbing is located in Alabama, but the exact physical location is not specified in the provided sources. You can use Google Maps or the business's website (if available) to find the precise location and service areas.\n- **Hours and Payment Methods**: This information is not available in the provided sources. Typically, you would find this on the business's website, social media, or by contacting them directly.\n- **Years in Operation**: There is no information available in the provided sources regarding how long Harris County Plumbing has been in operation.\n\n## Services & Specialties\n- **Types of Services Offered**: While the specific services are not detailed in the provided sources, it is reasonable to assume that as a plumbing business, Harris County Plumbing would offer typical plumbing services such as drain clearing, pipe repairs, installation of plumbing fixtures, and other related services.\n- **Service Areas Covered**: The service areas are not explicitly stated, but it is likely they serve areas around their physical location in Alabama.\n- **Emergency Service Availability**: There is no information available on whether they offer emergency services.\n- **Prices or Rates**: No specific prices or rates are mentioned in the provided sources.\n\n## Customer Reviews & Reputation\n- **Review Summaries with Specific Examples**: With a rating of 3.9 based on 14 reviews, it indicates a generally positive reputation. However, without access to the specific reviews, I can only note that the rating suggests a mix of positive and possibly some negative feedback.\n- **BBB Rating and Status**: There is no information provided about their Better Business Bureau (BBB) rating or status.\n- **Common Customer Feedback Themes**: Without specific review content, it is not possible to identify common themes.\n- **Response to Reviews**: There is no information available on how the business responds to customer reviews.\n\n## Owner & Staff\n- **Owner/Management Information**: The owner or management details are not provided in the sources.\n- **Staff Qualifications**: There is no information available about the qualifications or professional certifications of the staff.\n- **Professional Certifications**: Similarly, there is no information on any professional certifications held by the staff or the business.\n\nTo gather more detailed and accurate information, it would be necessary to visit the business's website, contact them directly, or check local business directories and review platforms.",
+  "review_trends": {
+    "ownerName": "Parker",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "service call",
+      "water main repair",
+      "kitchen sink repair"
+    ],
+    "firstReviewDate": "2016-06-04",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  }
+}

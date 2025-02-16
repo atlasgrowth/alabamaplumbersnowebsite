@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "site_id": "pipers-plumbing",
+    "place_id": "ChIJU6_IQ0Qti4gRhjT114TxHWE",
+    "google_id": "0x888b2d4443c8af53:0x611df184d7f53486",
+    "owner_id": 110629508753798708174
+  },
+  "basic_info": {
+    "name": "Pipers Plumbing",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJU6_IQ0Qti4gRhjT114TxHWE&q=plumber,+36276,+Wadley,+AL,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 678-664-2017",
+    "query": "plumber, 36276, Wadley, AL, US",
+    "name_for_emails": "Pipers Plumbing",
+    "site": "",
+    "subtypes": "Plumber",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "318 Laurel Ln, Carrollton, GA 30116",
+    "borough": "None",
+    "street": "318 Laurel Ln",
+    "city": "Carrollton",
+    "postal_code": 30116,
+    "state": "Georgia",
+    "us_state": "Georgia",
+    "country": "United States of America",
+    "country_code": "US",
+    "latitude": 33.5259011,
+    "longitude": -85.0020055,
+    "h3": "8944ea730cbffff",
+    "time_zone": "America/New_York",
+    "area_service": "FALSE",
+    "rating": 5,
+    "reviews": 20,
+    "photos_count": 16,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipMAEOYdBm-K3zkIZx26s3MVyd1uwU7lj87fT-7r=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipMAEOYdBm-K3zkIZx26s3MVyd1uwU7lj87fT-7r=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"8AM-7PM\", \"Tuesday\": \"8AM-7PM\", \"Wednesday\": \"8AM-7PM\", \"Thursday\": \"8AM-7PM\", \"Friday\": \"8AM-7PM\", \"Saturday\": \"8AM-7PM\", \"Sunday\": \"8AM-7PM\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Service options\": {\"Onsite services\": true}, \"Offerings\": {\"Repair services\": true}, \"Planning\": {\"Appointment required\": true}, \"Payments\": {\"Credit cards\": true}}",
+    "logo": "https://lh3.googleusercontent.com/-MUBHpuD59E4/AAAAAAAAAAI/AAAAAAAAAAA/gZR6TJhy_Iw/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Pipers Plumbing",
+    "owner_link": "https://www.google.com/maps/contrib/110629508753798708174",
+    "facebook": "https://www.facebook.com/people/Pipers-Plumbing/100092243634921/",
+    "email_1": "pipers@pipersplumbing.org",
+    "PrimaryColor": "#4474e4",
+    "SecondaryColor": "#133585"
+  },
+  "website_content": {
+    "aboutUs": "Pipers Plumbing is a trusted local plumbing company serving Carrollton, GA and surrounding areas. Our team of highly skilled and certified plumbers specializes in residential and commercial plumbing services, including drain cleaning, water heater installation, and sewer line repair. We take pride in our expertise, prompt response times, and commitment to delivering top-notch service.",
+    "whyChooseUs": {
+      "mainPitch": "Experience the peace of mind that comes with choosing Carrollton's most reliable and knowledgeable plumbing experts.",
+      "sellingPoints": [
+        "24/7 emergency plumbing services for your urgent needs",
+        "State-of-the-art equipment and techniques for efficient and lasting solutions",
+        "Upfront pricing and transparent communication for a hassle-free experience"
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers, it appears there is a confusion because the address and other details point to a business located in Georgia, not Alabama.\n\n## Business Information:\n- The address provided, \"318 Laurel Ln, Carrollton, GA 30116,\" indicates that Pipers Plumbing is not located in Alabama but in Georgia. Therefore, it would not have an Alabama business registration or license.\n- **Physical location and service areas**: The business is located in Carrollton, GA, and serves areas in Georgia, not Alabama.\n- **Hours and payment methods**: There is no specific information available for a Pipers Plumbing in Alabama, as the provided details pertain to a Georgia-based business.\n- **Years in operation**: No information is available for an Alabama-based Pipers Plumbing.\n\n## Services & Specialties:\n- Since the business is in Georgia, the services and specialties mentioned would be relevant to that location, not Alabama.\n- **Types of services offered**, **service areas covered**, **emergency service availability**, and **prices or rates**: These details are not applicable to an Alabama-based business as the provided Pipers Plumbing is in Georgia[4].\n\n## Customer Reviews & Reputation:\n- The reviews and ratings provided are for the Georgia-based business and do not reflect any Alabama-based Pipers Plumbing.\n- **Review summaries with specific examples**, **BBB rating and status**, **common customer feedback themes**, and **response to reviews**: These are all related to the Georgia business and not applicable to an Alabama-based Pipers Plumbing.\n\n## Owner & Staff:\n- **Owner/management information**, **staff qualifications**, and **professional certifications**: Since there is no evidence of a Pipers Plumbing in Alabama, this information cannot be verified for an Alabama-based business.\n\nIn summary, the provided details do not match any Alabama-based plumbing business named Pipers Plumbing. The information pertains to a business located in Carrollton, Georgia.",
+  "review_trends": {
+    "ownerName": "Robby",
+    "ownerConfidence": 90,
+    "servicesMentioned": [
+      "leak repair",
+      "water heater",
+      "water pipe",
+      "toilet repair",
+      "water line"
+    ],
+    "firstReviewDate": "2023-06-22",
+    "last30": 1,
+    "last60": 1,
+    "last90": 1,
+    "last180": 2,
+    "last365": 8
+  }
+}

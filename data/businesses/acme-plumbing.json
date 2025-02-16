@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "site_id": "acme-plumbing",
+    "place_id": "ChIJacwYVAtrCWMRSZ0_OLClP1E",
+    "google_id": "0x63096b0b5418cc69:0x513fa5b0383f9d49",
+    "owner_id": 113760910896618056366
+  },
+  "basic_info": {
+    "name": "Acme Plumbing",
+    "reviews_link": "",
+    "phone": "+1 256-655-8322",
+    "query": "plumber, 35602, Decatur, AL, US",
+    "name_for_emails": "Acme Plumbing",
+    "site": "",
+    "subtypes": "Plumber, Drainage service, Service establishment",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "",
+    "borough": "",
+    "street": "",
+    "city": "",
+    "postal_code": "",
+    "state": "",
+    "us_state": "",
+    "country": "",
+    "country_code": "",
+    "latitude": 34.6244154,
+    "longitude": -87.0339244,
+    "h3": "89264939b57ffff",
+    "time_zone": "America/Chicago",
+    "area_service": "TRUE",
+    "rating": "",
+    "reviews": "",
+    "photos_count": "",
+    "photo": "",
+    "street_view": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{}",
+    "logo": "https://lh4.googleusercontent.com/-2Jm7GU50cIg/AAAAAAAAAAI/AAAAAAAAAAA/FJw2yfLn05c/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Acme Plumbing",
+    "owner_link": "https://www.google.com/maps/contrib/113760910896618056366",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#4474e4",
+    "SecondaryColor": "#133585"
+  },
+  "website_content": {
+    "aboutUs": "At Acme Plumbing, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch services to the residents of Hartselle, AL and surrounding areas. Our expertise spans a wide range of plumbing services, from emergency repairs and burst pipe fixes to water heater installations and drain cleaning. We specialize in residential plumbing, ensuring your home's plumbing systems operate efficiently and reliably.",
+    "whyChooseUs": {
+      "mainPitch": "Unparalleled expertise and prompt, reliable service for all your plumbing needs in Hartselle, AL.",
+      "sellingPoints": [
+        "Fully licensed and certified technicians with extensive knowledge of the latest plumbing techniques and technologies.",
+        "Rapid response times for emergency situations, ensuring your plumbing issues are resolved quickly and efficiently.",
+        "Comprehensive range of services, from routine maintenance to complex installations, all delivered with meticulous attention to detail."
+      ]
+    }
+  },
+  "research": "Here is the detailed information about Acme Plumbing in Alabama, based on the provided identifiers:\n\n## Business Information\n\n- **Alabama Business Registration/License Details**:\n  While the specific registration details are not provided in the sources, it is mentioned that plumbers in Alabama need to be licensed by the State of Alabama Plumbers & Gas Fitters Examining Board. However, the sources do not specify the license details for Acme Plumbing directly[1][5].\n\n- **Physical Location and Service Areas**:\n  Acme Plumbing is located at 1908 Pinehurst St SW, Hartselle, AL 35640. They serve the Hartselle, AL area[1][2].\n\n- **Hours and Payment Methods**:\n  The sources do not provide specific information about the business hours or payment methods used by Acme Plumbing.\n\n- **Years in Operation**:\n  The BBB file for Acme Plumbing was opened on May 12, 2020, indicating that the business has been operating for at least since then[1].\n\n## Services & Specialties\n\n- **Types of Services Offered**:\n  Acme Plumbing offers a variety of services including plumbing, emergency plumbing services, burst pipe repair, drain services, drain cleaning, faucet repair, bathroom plumbing, water heater repair, faucet installation, plumbing inspection, water leak detection, tankless water heater installation, and water softener installation[2].\n\n- **Service Areas Covered**:\n  They serve the Hartselle, AL area[1][2].\n\n- **Emergency Service Availability**:\n  Acme Plumbing provides emergency plumbing services, indicating they are available for urgent residential repairs[2].\n\n- **Any Listed Prices or Rates**:\n  There is no detailed pricing information provided in the sources, but one customer review mentions that they were charged the minimum price of $60 for a repair, which was significantly lower than a quote from another plumber[3].\n\n## Customer Reviews & Reputation\n\n- **Review Summaries with Specific Examples**:\n  Customers have praised Acme Plumbing for their professionalism, efficiency, and good communication. Examples include positive feedback from customers like Heather Gacina, who praised the prompt and professional service of technicians Eddie and Tyler, and N. Greer, who appreciated the quick and cost-effective repair of a shower handle and drain clearing without extra charge[3].\n\n- **BBB Rating and Status**:\n  Acme Plumbing is not a BBB Accredited Business but has an A+ BBB rating. To become accredited, a business must agree to BBB Standards for Trust and pass BBB's vetting process[1].\n\n- **Common Customer Feedback Themes**:\n  Common themes include professionalism, efficiency, good communication, and cost-effectiveness. Customers often mention that the technicians are knowledgeable, polite, and professional[3].\n\n- **Response to Reviews**:\n  There is no specific information on how Acme Plumbing responds to reviews, but the positive feedback suggests a good customer service approach.\n\n## Owner & Staff\n\n- **Owner/Management Information**:\n  The owner of Acme Plumbing is Mr. Joseph Slaton[1].\n\n- **Staff Qualifications**:\n  The sources do not provide detailed information about the staff's qualifications, but they are described as highly professional and knowledgeable in customer reviews[3].\n\n- **Professional Certifications**:\n  While the sources do not specify the professional certifications of the staff, it is implied that they are licensed and competent, given the positive feedback and the requirement for plumbers to be licensed in Alabama[1][3].",
+  "review_trends": {
+    "ownerName": "Unknown",
+    "ownerConfidence": 0,
+    "servicesMentioned": [],
+    "firstReviewDate": "N/A",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 0,
+    "last365": 0
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "site_id": "unstoppable-drain-and-company",
+    "place_id": "ChIJ18gSWitetaMRQkSPgnyDoSQ",
+    "google_id": "0xa3b55e2b5a12c8d7:0x24a1837c828f4442",
+    "owner_id": 106062605986692109969
+  },
+  "basic_info": {
+    "name": "Unstoppable Drain & Company",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ18gSWitetaMRQkSPgnyDoSQ&q=plumber,+36856,+Fort+Mitchell,+AL,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 706-570-1584",
+    "query": "plumber, 36856, Fort Mitchell, AL, US",
+    "name_for_emails": "Unstoppable Drain And Company",
+    "site": "",
+    "subtypes": "Plumber, Service establishment",
+    "category": "Plumber",
+    "type": "Plumber",
+    "full_address": "",
+    "borough": "",
+    "street": "",
+    "city": "",
+    "postal_code": "",
+    "state": "",
+    "us_state": "",
+    "country": "",
+    "country_code": "",
+    "latitude": 32.6017094,
+    "longitude": -84.8741234,
+    "h3": "8944c5a257bffff",
+    "time_zone": "America/New_York",
+    "area_service": "TRUE",
+    "rating": 5,
+    "reviews": 4,
+    "photos_count": 9,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipNp4CGBStrhfLIsu6wHDfQmpSvxfo89h6Bt9Jys=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipNp4CGBStrhfLIsu6wHDfQmpSvxfo89h6Bt9Jys=w1600-h1000-k-no",
+    "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Service options\": {\"Online estimates\": false}}",
+    "logo": "https://lh5.googleusercontent.com/-xDjKQhyQmL8/AAAAAAAAAAI/AAAAAAAAAAA/8lGcgs0aveA/s44-p-k-no-ns-nd/photo.jpg",
+    "verified": "TRUE",
+    "owner_title": "Unstoppable Drain & Company",
+    "owner_link": "https://www.google.com/maps/contrib/106062605986692109969",
+    "facebook": "",
+    "email_1": "",
+    "PrimaryColor": "#87777d",
+    "SecondaryColor": "#838181"
+  },
+  "website_content": {
+    "aboutUs": "Unstoppable Drain & Company is a premier plumbing service provider dedicated to delivering exceptional solutions for all your residential and commercial needs. Our highly skilled technicians are experts in their field, equipped with the latest tools and techniques to tackle even the most challenging plumbing issues. We take pride in our local presence and commitment to serving the communities in the Columbus, GA area with prompt, reliable, and affordable services.",
+    "whyChooseUs": {
+      "mainPitch": "Experience the ultimate peace of mind with our comprehensive plumbing expertise and unwavering commitment to customer satisfaction.",
+      "sellingPoints": [
+        "24/7 emergency services for immediate assistance when you need it most.",
+        "State-of-the-art equipment and advanced techniques to ensure efficient and long-lasting solutions.",
+        "Transparent pricing and upfront cost estimates, so you know exactly what to expect."
+      ]
+    }
+  },
+  "research": "Based on the provided identifiers and the search results, here is the information available for the specific Alabama plumbing business named \"Unstoppable Drain & Company\":\n\n## Business Information\n- **Alabama Business Registration/License Details**: There is no specific information available in the provided sources regarding the Alabama business registration or license details for Unstoppable Drain & Company. To obtain this information, you would need to contact the Alabama Secretary of State's Business Services division or check their database directly[1].\n- **Physical Location and Service Areas**: The provided sources do not indicate that Unstoppable Drain & Company is located in Alabama. The phone number and other details suggest it is actually based in Columbus, GA, not Alabama[2].\n- **Hours and Payment Methods**: No information is available for hours and payment methods specific to an Alabama location of Unstoppable Drain & Company, as it appears the business is not located in Alabama.\n- **Years in Operation**: There is no information available on the years in operation for an Alabama-based Unstoppable Drain & Company, as the business mentioned in the sources is located in Georgia.\n\n## Services & Specialties\n- Since the business identified is in Georgia and not Alabama, there is no specific information available for an Alabama-based Unstoppable Drain & Company regarding types of services offered, service areas covered, emergency service availability, or listed prices or rates.\n\n## Customer Reviews & Reputation\n- **Review Summaries with Specific Examples**: The reviews mentioned are for the Georgia-based business and not relevant to an Alabama location.\n- **BBB Rating and Status**: The BBB profile indicates that the Georgia-based Unstoppable Drain & Company is not BBB accredited[2].\n- **Common Customer Feedback Themes**: There is no relevant customer feedback for an Alabama-based business.\n- **Response to Reviews**: No information is available on how an Alabama-based Unstoppable Drain & Company would respond to reviews, as the business in question is in Georgia.\n\n## Owner & Staff\n- **Owner/Management Information**: The owner mentioned, Mr. Johnny Gallops, is associated with the Georgia-based business, not an Alabama location[2].\n- **Staff Qualifications**: There is no information available on the staff qualifications for an Alabama-based Unstoppable Drain & Company.\n- **Professional Certifications**: No information is available on professional certifications for an Alabama-based business with this name.\n\nGiven the details provided, it appears that there is no Alabama-based plumbing business named \"Unstoppable Drain & Company\" with the specified identifiers. The business with this name is located in Columbus, GA.",
+  "review_trends": {
+    "ownerName": "Johnny",
+    "ownerConfidence": 80,
+    "servicesMentioned": [
+      "unstopping drains",
+      "replacing tub and sink valves and pipes",
+      "drain cleaning"
+    ],
+    "firstReviewDate": "2023-04-21",
+    "last30": 0,
+    "last60": 0,
+    "last90": 0,
+    "last180": 2,
+    "last365": 3
+  }
+}
