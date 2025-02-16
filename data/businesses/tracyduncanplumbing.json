@@ -1,75 +1,75 @@
 {
-  "ids": {
-    "site_id": "tracy-duncan-plumbing",
-    "place_id": "ChIJWy7ix9B6iIgRyAoDfWxcxxQ",
-    "google_id": "0x88887ad0c7e22e5b:0x14c75c6c7d030ac8",
-    "owner_id": 100350700452767801929
-  },
-  "basic_info": {
-    "name": "Tracy Duncan Plumbing",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJWy7ix9B6iIgRyAoDfWxcxxQ&q=plumber,+35577,+Natural+Bridge,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 205-384-3820",
-    "query": "plumber, 35577, Natural Bridge, AL, US",
-    "name_for_emails": "Tracy Duncan Plumbing",
-    "site": "",
-    "subtypes": "Plumber",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "894 Old Zion Rd, Nauvoo, AL 35578",
-    "borough": "None",
-    "street": "894 Old Zion Rd",
-    "city": "Nauvoo",
-    "postal_code": 35578,
-    "state": "Alabama",
-    "us_state": "Alabama",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 33.9091361,
-    "longitude": -87.3897011,
-    "h3": "8944e902a0bffff",
-    "time_zone": "America/Chicago",
-    "area_service": "FALSE",
-    "rating": 3,
-    "reviews": 7,
-    "photos_count": 6,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipND-c6WCnRhP928tTq2hoY6jcgSWa6ft3t1jbqK=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipND-c6WCnRhP928tTq2hoY6jcgSWa6ft3t1jbqK=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh5.googleusercontent.com/-krb558k0crA/AAAAAAAAAAI/AAAAAAAAAAA/gxelIEEdG9I/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Tracy Duncan Plumbing",
-    "owner_link": "https://www.google.com/maps/contrib/100350700452767801929",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#c70505",
-    "SecondaryColor": "#8a7b78"
-  },
-  "website_content": {
-    "aboutUs": "At Tracy Duncan Plumbing, we are a team of highly skilled and licensed plumbers dedicated to providing top-notch service to the residents of Nauvoo and surrounding areas. With our extensive expertise and specialized training, we tackle even the most complex plumbing issues with ease. From gas line installations to water heater repairs and drain cleaning, our comprehensive range of services ensures your plumbing needs are met with precision and professionalism.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing company committed to delivering exceptional service and lasting solutions.",
-      "sellingPoints": [
-        "24/7 emergency plumbing services, ensuring prompt assistance whenever you need it most.",
-        "Flat-rate pricing system for transparent and upfront costs, eliminating any surprises.",
-        "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge efficiently."
-      ]
+    "ids": {
+        "site_id": "tracyduncanplumbing",
+        "place_id": "ChIJWy7ix9B6iIgRyAoDfWxcxxQ",
+        "google_id": "0x88887ad0c7e22e5b:0x14c75c6c7d030ac8",
+        "owner_id": 100350700452767801929
+    },
+    "basic_info": {
+        "name": "Tracy Duncan Plumbing",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJWy7ix9B6iIgRyAoDfWxcxxQ&q=plumber,+35577,+Natural+Bridge,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 205-384-3820",
+        "query": "plumber, 35577, Natural Bridge, AL, US",
+        "name_for_emails": "Tracy Duncan Plumbing",
+        "site": "",
+        "subtypes": "Plumber",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "894 Old Zion Rd, Nauvoo, AL 35578",
+        "borough": "None",
+        "street": "894 Old Zion Rd",
+        "city": "Nauvoo",
+        "postal_code": 35578,
+        "state": "Alabama",
+        "us_state": "Alabama",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 33.9091361,
+        "longitude": -87.3897011,
+        "h3": "8944e902a0bffff",
+        "time_zone": "America/Chicago",
+        "area_service": "FALSE",
+        "rating": 3,
+        "reviews": 7,
+        "photos_count": 6,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipND-c6WCnRhP928tTq2hoY6jcgSWa6ft3t1jbqK=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipND-c6WCnRhP928tTq2hoY6jcgSWa6ft3t1jbqK=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh5.googleusercontent.com/-krb558k0crA/AAAAAAAAAAI/AAAAAAAAAAA/gxelIEEdG9I/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Tracy Duncan Plumbing",
+        "owner_link": "https://www.google.com/maps/contrib/100350700452767801929",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#c70505",
+        "SecondaryColor": "#8a7b78"
+    },
+    "website_content": {
+        "aboutUs": "At Tracy Duncan Plumbing, we are a team of highly skilled and licensed plumbers dedicated to providing top-notch service to the residents of Nauvoo and surrounding areas. With our extensive expertise and specialized training, we tackle even the most complex plumbing issues with ease. From gas line installations to water heater repairs and drain cleaning, our comprehensive range of services ensures your plumbing needs are met with precision and professionalism.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing company committed to delivering exceptional service and lasting solutions.",
+            "sellingPoints": [
+                "24/7 emergency plumbing services, ensuring prompt assistance whenever you need it most.",
+                "Flat-rate pricing system for transparent and upfront costs, eliminating any surprises.",
+                "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge efficiently."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers and the available sources, here is the detailed information about Tracy Duncan Plumbing in Nauvoo, AL:\n\n## Business Information\n\n### Alabama Business Registration/License Details\nThere is no specific information available in the provided sources regarding the Alabama business registration or license details for Tracy Duncan Plumbing at the given address. For accurate and up-to-date information, you would need to consult the Alabama Department of Revenue or other relevant state databases[5].\n\n### Physical Location and Service Areas\n- **Physical Location**: 894 Old Zion Rd, Nauvoo, AL 35578\n- **Service Areas**: While the exact service areas are not specified in the provided sources, it is mentioned that similar businesses with the same name (though the address does not match) serve Jasper and surrounding areas. However, since the address provided is different, it is best to contact the business directly for their specific service areas[1][4].\n\n### Hours and Payment Methods\nThere is no information available in the provided sources regarding the business hours or payment methods for Tracy Duncan Plumbing at the given address.\n\n### Years in Operation\nThe sources do not provide information on how many years Tracy Duncan Plumbing has been in operation.\n\n## Services & Specialties\n\n### Types of Services Offered\nBased on a similar business with the same name but a different address, the services typically include:\n- **Gas Line Installation**\n- **Water Heater Repair and Replacement**\n- **Drain Cleaning**\n- **Emergency Plumbing Services**\nHowever, these services are confirmed for a different location, so it is advisable to contact the business directly to confirm their services[1][4].\n\n### Service Areas Covered\nAs mentioned earlier, the service areas are not specified for this exact location. It is recommended to contact the business for precise information.\n\n### Emergency Service Availability\nSimilar businesses with the same name offer 24/7 emergency plumbing services, but this needs to be confirmed for the specific location in Nauvoo, AL[1][4].\n\n### Any Listed Prices or Rates\nThere is no specific pricing information available for Tracy Duncan Plumbing at the given address. However, a similar business uses a flat-rate pricing system and offers various specials and discounts, such as $50 off any service, $75 off water heater installation, and more[2].\n\n## Customer Reviews & Reputation\n\n### Review Summaries with Specific Examples\nGiven the limited information, there are no detailed review summaries available for this specific business. However, it is mentioned that the business has a rating of 3 based on 7 reviews, but the content of these reviews is not provided.\n\n### BBB Rating and Status\nThere is no information available in the provided sources regarding the BBB rating or status for Tracy Duncan Plumbing at the given address.\n\n### Common Customer Feedback Themes\nNo specific customer feedback themes are available for this exact business.\n\n### Response to Reviews\nThere is no information on how the business responds to reviews.\n\n## Owner & Staff\n\n### Owner/Management Information\n- **Owner**: Tracy Duncan\nHowever, detailed management information is not available in the provided sources.\n\n### Staff Qualifications\n- The staff at similar businesses with the same name are described as licensed, insured, and highly trained to handle any plumbing issue. However, this needs to be confirmed for the specific location in Nauvoo, AL[1][4].\n\n### Professional Certifications\nThere is no specific information available regarding the professional certifications of the staff at Tracy Duncan Plumbing in Nauvoo, AL.\n\nGiven the discrepancies in the addresses and the lack of direct information for the specified business, it is crucial to contact Tracy Duncan Plumbing directly at +1 205-384-3820 or visit their physical location to obtain accurate and detailed information.",
+    "review_trends": {
+        "ownerName": "Unknown",
+        "ownerConfidence": 0,
+        "servicesMentioned": [
+            "emergency",
+            "repair"
+        ],
+        "firstReviewDate": "2016-08-27",
+        "last30": 0,
+        "last60": 1,
+        "last90": 1,
+        "last180": 1,
+        "last365": 2
     }
-  },
-  "research": "Based on the provided identifiers and the available sources, here is the detailed information about Tracy Duncan Plumbing in Nauvoo, AL:\n\n## Business Information\n\n### Alabama Business Registration/License Details\nThere is no specific information available in the provided sources regarding the Alabama business registration or license details for Tracy Duncan Plumbing at the given address. For accurate and up-to-date information, you would need to consult the Alabama Department of Revenue or other relevant state databases[5].\n\n### Physical Location and Service Areas\n- **Physical Location**: 894 Old Zion Rd, Nauvoo, AL 35578\n- **Service Areas**: While the exact service areas are not specified in the provided sources, it is mentioned that similar businesses with the same name (though the address does not match) serve Jasper and surrounding areas. However, since the address provided is different, it is best to contact the business directly for their specific service areas[1][4].\n\n### Hours and Payment Methods\nThere is no information available in the provided sources regarding the business hours or payment methods for Tracy Duncan Plumbing at the given address.\n\n### Years in Operation\nThe sources do not provide information on how many years Tracy Duncan Plumbing has been in operation.\n\n## Services & Specialties\n\n### Types of Services Offered\nBased on a similar business with the same name but a different address, the services typically include:\n- **Gas Line Installation**\n- **Water Heater Repair and Replacement**\n- **Drain Cleaning**\n- **Emergency Plumbing Services**\nHowever, these services are confirmed for a different location, so it is advisable to contact the business directly to confirm their services[1][4].\n\n### Service Areas Covered\nAs mentioned earlier, the service areas are not specified for this exact location. It is recommended to contact the business for precise information.\n\n### Emergency Service Availability\nSimilar businesses with the same name offer 24/7 emergency plumbing services, but this needs to be confirmed for the specific location in Nauvoo, AL[1][4].\n\n### Any Listed Prices or Rates\nThere is no specific pricing information available for Tracy Duncan Plumbing at the given address. However, a similar business uses a flat-rate pricing system and offers various specials and discounts, such as $50 off any service, $75 off water heater installation, and more[2].\n\n## Customer Reviews & Reputation\n\n### Review Summaries with Specific Examples\nGiven the limited information, there are no detailed review summaries available for this specific business. However, it is mentioned that the business has a rating of 3 based on 7 reviews, but the content of these reviews is not provided.\n\n### BBB Rating and Status\nThere is no information available in the provided sources regarding the BBB rating or status for Tracy Duncan Plumbing at the given address.\n\n### Common Customer Feedback Themes\nNo specific customer feedback themes are available for this exact business.\n\n### Response to Reviews\nThere is no information on how the business responds to reviews.\n\n## Owner & Staff\n\n### Owner/Management Information\n- **Owner**: Tracy Duncan\nHowever, detailed management information is not available in the provided sources.\n\n### Staff Qualifications\n- The staff at similar businesses with the same name are described as licensed, insured, and highly trained to handle any plumbing issue. However, this needs to be confirmed for the specific location in Nauvoo, AL[1][4].\n\n### Professional Certifications\nThere is no specific information available regarding the professional certifications of the staff at Tracy Duncan Plumbing in Nauvoo, AL.\n\nGiven the discrepancies in the addresses and the lack of direct information for the specified business, it is crucial to contact Tracy Duncan Plumbing directly at +1 205-384-3820 or visit their physical location to obtain accurate and detailed information.",
-  "review_trends": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [
-      "emergency",
-      "repair"
-    ],
-    "firstReviewDate": "2016-08-27",
-    "last30": 0,
-    "last60": 1,
-    "last90": 1,
-    "last180": 1,
-    "last365": 2
-  }
 }

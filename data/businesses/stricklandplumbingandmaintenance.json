@@ -1,81 +1,81 @@
 {
-  "ids": {
-    "site_id": "strickland-plumbing-and-maintenance",
-    "place_id": "ChIJTxBP5nIjiYgRbG-KkLQzTZw",
-    "google_id": "0x88892372e64f104f:0x9c4d33b4908a6f6c",
-    "owner_id": 106043857980628177993
-  },
-  "basic_info": {
-    "name": "Strickland Plumbing & Maintenance",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTxBP5nIjiYgRbG-KkLQzTZw&q=plumber,+35111,+Mc+Calla,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 205-368-0503",
-    "query": "plumber, 35111, Mc Calla, AL, US",
-    "name_for_emails": "Strickland Plumbing And Maintenance",
-    "site": "",
-    "subtypes": "Plumber, Service establishment, Home improvement store",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "",
-    "borough": "",
-    "street": "",
-    "city": "",
-    "postal_code": "",
-    "state": "",
-    "us_state": "",
-    "country": "",
-    "country_code": "",
-    "latitude": 33.4309505,
-    "longitude": -86.8413174,
-    "h3": "8944e83634fffff",
-    "time_zone": "America/Chicago",
-    "area_service": "TRUE",
-    "rating": 4.6,
-    "reviews": 16,
-    "photos_count": 5,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipOFkzjDhy_1qrg0o59cOZoYTAvptn2vo0ZGE7Yf=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipOFkzjDhy_1qrg0o59cOZoYTAvptn2vo0ZGE7Yf=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh3.googleusercontent.com/-Hbw7gww0joQ/AAAAAAAAAAI/AAAAAAAAAAA/Jfe49m_Yo-k/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Strickland Plumbing & Maintenance",
-    "owner_link": "https://www.google.com/maps/contrib/106043857980628177993",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#90493d",
-    "SecondaryColor": "#716e89"
-  },
-  "website_content": {
-    "aboutUs": "At Strickland Plumbing & Maintenance, we are a team of highly skilled and certified plumbing professionals dedicated to providing exceptional service to the residents of Pelham, Shelby County, and the Birmingham-Hoover region. Our expertise spans a wide range of plumbing services, from residential plumbing and renovations to commercial projects and specialized gas plumbing. With a commitment to quality workmanship and customer satisfaction, we strive to deliver tailored solutions that meet your unique plumbing needs.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with our reliable and efficient plumbing services, backed by our unwavering commitment to excellence.",
-      "sellingPoints": [
-        "Licensed and certified by the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring adherence to the highest industry standards.",
-        "Rapid response times and availability for emergency plumbing situations, minimizing disruptions and potential damage.",
-        "Comprehensive range of services, from routine maintenance to complex installations, all delivered with meticulous attention to detail."
-      ]
+    "ids": {
+        "site_id": "stricklandplumbingmaintenance",
+        "place_id": "ChIJTxBP5nIjiYgRbG-KkLQzTZw",
+        "google_id": "0x88892372e64f104f:0x9c4d33b4908a6f6c",
+        "owner_id": 106043857980628177993
+    },
+    "basic_info": {
+        "name": "Strickland Plumbing & Maintenance",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTxBP5nIjiYgRbG-KkLQzTZw&q=plumber,+35111,+Mc+Calla,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 205-368-0503",
+        "query": "plumber, 35111, Mc Calla, AL, US",
+        "name_for_emails": "Strickland Plumbing And Maintenance",
+        "site": "",
+        "subtypes": "Plumber, Service establishment, Home improvement store",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "",
+        "borough": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "us_state": "",
+        "country": "",
+        "country_code": "",
+        "latitude": 33.4309505,
+        "longitude": -86.8413174,
+        "h3": "8944e83634fffff",
+        "time_zone": "America/Chicago",
+        "area_service": "TRUE",
+        "rating": 4.6,
+        "reviews": 16,
+        "photos_count": 5,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOFkzjDhy_1qrg0o59cOZoYTAvptn2vo0ZGE7Yf=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipOFkzjDhy_1qrg0o59cOZoYTAvptn2vo0ZGE7Yf=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh3.googleusercontent.com/-Hbw7gww0joQ/AAAAAAAAAAI/AAAAAAAAAAA/Jfe49m_Yo-k/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Strickland Plumbing & Maintenance",
+        "owner_link": "https://www.google.com/maps/contrib/106043857980628177993",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#90493d",
+        "SecondaryColor": "#716e89"
+    },
+    "website_content": {
+        "aboutUs": "At Strickland Plumbing & Maintenance, we are a team of highly skilled and certified plumbing professionals dedicated to providing exceptional service to the residents of Pelham, Shelby County, and the Birmingham-Hoover region. Our expertise spans a wide range of plumbing services, from residential plumbing and renovations to commercial projects and specialized gas plumbing. With a commitment to quality workmanship and customer satisfaction, we strive to deliver tailored solutions that meet your unique plumbing needs.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with our reliable and efficient plumbing services, backed by our unwavering commitment to excellence.",
+            "sellingPoints": [
+                "Licensed and certified by the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring adherence to the highest industry standards.",
+                "Rapid response times and availability for emergency plumbing situations, minimizing disruptions and potential damage.",
+                "Comprehensive range of services, from routine maintenance to complex installations, all delivered with meticulous attention to detail."
+            ]
+        }
+    },
+    "research": "Here is the detailed information about Strickland Plumbing & Maintenance in Alabama, based on the provided identifiers:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: Strickland Plumbing & Maintenance is licensed by the State of Alabama Plumbers & Gas Fitters Examining Board. The license number is MPG-1034, with an expiration date of 12/31/2024[1].\n- **Physical Location and Service Areas**: The business is located at 1839 Chanbury Cir, Pelham, AL 35124, and it serves areas within Shelby County and the broader Birmingham-Hoover region[1][5].\n- **Hours and Payment Methods**: There is no specific information available on the business hours or payment methods. However, it is common for plumbing services to offer flexible hours, including emergency services.\n- **Years in Operation**: Strickland Plumbing & Maintenance has been in business since January 1, 2018, making it approximately 7 years in operation as of the current date[1].\n\n## Services & Specialties:\n- **Types of Services Offered**: The business provides a range of plumbing services, including residential plumbing, plumbing renovation, commercial plumbing, plumbing fixtures, plumbing and heating, and plumbing supplies. Specific services likely include pipe installation and repair, leak detection and repair, drain cleaning, and gas plumbing services, although these details are not explicitly mentioned in the Alabama-specific sources[1].\n- **Service Areas Covered**: The service areas include Pelham, AL, and surrounding regions within Shelby County and the Birmingham-Hoover area[1][5].\n- **Emergency Service Availability**: While not explicitly stated in the Alabama-specific sources, it is common for plumbing services to offer emergency services, given the nature of the industry.\n- **Prices or Rates**: There is no detailed pricing information available in the sources specific to this Alabama business[1].\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: Although the specific reviews for this business are not detailed in the sources, the business has a rating of 4.6 based on 16 reviews, indicating a generally positive customer feedback[Given in query details].\n- **BBB Rating and Status**: Strickland Plumbing & Maintenance is not a BBB Accredited Business. However, it has an A+ BBB rating, which is calculated based on various factors including complaint history, customer reviews, and business practices[1].\n- **Common Customer Feedback Themes**: While specific reviews are not provided, the overall positive rating suggests satisfaction with the services offered.\n- **Response to Reviews**: There is no information available on how the business responds to customer reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The business is owned by Mr. David Strickland, who is also listed as the principal contact and customer contact[1].\n- **Staff Qualifications**: There is no detailed information available on the staff qualifications or professional certifications beyond the owner's involvement.\n- **Professional Certifications**: The business holds a valid license from the State of Alabama Plumbers & Gas Fitters Examining Board, indicating that the owner and possibly other staff members are professionally certified in plumbing services[1].",
+    "review_trends": {
+        "ownerName": "David",
+        "ownerConfidence": 80,
+        "servicesMentioned": [
+            "commodes installation",
+            "faucets replacement",
+            "water leak repair",
+            "hot water heater replacement",
+            "toilet installation",
+            "kitchen sink faucet installation",
+            "gas tankless hot water heater installation",
+            "sink installation"
+        ],
+        "firstReviewDate": "2018-08-28",
+        "last30": 1,
+        "last60": 1,
+        "last90": 1,
+        "last180": 3,
+        "last365": 6
     }
-  },
-  "research": "Here is the detailed information about Strickland Plumbing & Maintenance in Alabama, based on the provided identifiers:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: Strickland Plumbing & Maintenance is licensed by the State of Alabama Plumbers & Gas Fitters Examining Board. The license number is MPG-1034, with an expiration date of 12/31/2024[1].\n- **Physical Location and Service Areas**: The business is located at 1839 Chanbury Cir, Pelham, AL 35124, and it serves areas within Shelby County and the broader Birmingham-Hoover region[1][5].\n- **Hours and Payment Methods**: There is no specific information available on the business hours or payment methods. However, it is common for plumbing services to offer flexible hours, including emergency services.\n- **Years in Operation**: Strickland Plumbing & Maintenance has been in business since January 1, 2018, making it approximately 7 years in operation as of the current date[1].\n\n## Services & Specialties:\n- **Types of Services Offered**: The business provides a range of plumbing services, including residential plumbing, plumbing renovation, commercial plumbing, plumbing fixtures, plumbing and heating, and plumbing supplies. Specific services likely include pipe installation and repair, leak detection and repair, drain cleaning, and gas plumbing services, although these details are not explicitly mentioned in the Alabama-specific sources[1].\n- **Service Areas Covered**: The service areas include Pelham, AL, and surrounding regions within Shelby County and the Birmingham-Hoover area[1][5].\n- **Emergency Service Availability**: While not explicitly stated in the Alabama-specific sources, it is common for plumbing services to offer emergency services, given the nature of the industry.\n- **Prices or Rates**: There is no detailed pricing information available in the sources specific to this Alabama business[1].\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: Although the specific reviews for this business are not detailed in the sources, the business has a rating of 4.6 based on 16 reviews, indicating a generally positive customer feedback[Given in query details].\n- **BBB Rating and Status**: Strickland Plumbing & Maintenance is not a BBB Accredited Business. However, it has an A+ BBB rating, which is calculated based on various factors including complaint history, customer reviews, and business practices[1].\n- **Common Customer Feedback Themes**: While specific reviews are not provided, the overall positive rating suggests satisfaction with the services offered.\n- **Response to Reviews**: There is no information available on how the business responds to customer reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The business is owned by Mr. David Strickland, who is also listed as the principal contact and customer contact[1].\n- **Staff Qualifications**: There is no detailed information available on the staff qualifications or professional certifications beyond the owner's involvement.\n- **Professional Certifications**: The business holds a valid license from the State of Alabama Plumbers & Gas Fitters Examining Board, indicating that the owner and possibly other staff members are professionally certified in plumbing services[1].",
-  "review_trends": {
-    "ownerName": "David",
-    "ownerConfidence": 80,
-    "servicesMentioned": [
-      "commodes installation",
-      "faucets replacement",
-      "water leak repair",
-      "hot water heater replacement",
-      "toilet installation",
-      "kitchen sink faucet installation",
-      "gas tankless hot water heater installation",
-      "sink installation"
-    ],
-    "firstReviewDate": "2018-08-28",
-    "last30": 1,
-    "last60": 1,
-    "last90": 1,
-    "last180": 3,
-    "last365": 6
-  }
 }

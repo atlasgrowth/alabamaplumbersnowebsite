@@ -1,82 +1,82 @@
 {
-  "ids": {
-    "site_id": "on-point-plumbing",
-    "place_id": "ChIJBw1WvpTPi4gRyxUDmb6Bef0",
-    "google_id": "0x888bcf94be560d07:0xfd7981be990315cb",
-    "owner_id": 105853592713938199752
-  },
-  "basic_info": {
-    "name": "On Point Plumbing",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBw1WvpTPi4gRyxUDmb6Bef0&q=plumber,+35135,+Riverside,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 205-405-6755",
-    "query": "plumber, 35135, Riverside, AL, US",
-    "name_for_emails": "On Point Plumbing",
-    "site": "",
-    "subtypes": "Plumber",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "61 Sterling Rd, Eastaboga, AL 36260",
-    "borough": "None",
-    "street": "61 Sterling Rd",
-    "city": "Eastaboga",
-    "postal_code": 36260,
-    "state": "Alabama",
-    "us_state": "Alabama",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 33.5646749,
-    "longitude": -86.0234426,
-    "h3": "8944e868aabffff",
-    "time_zone": "America/Chicago",
-    "area_service": "FALSE",
-    "rating": 5,
-    "reviews": 27,
-    "photos_count": 11,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipMpND568KnpQ_fauQTcvMD1qtL4nEudaK7shf7u=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipMpND568KnpQ_fauQTcvMD1qtL4nEudaK7shf7u=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh6.googleusercontent.com/-bDYPgewTyYI/AAAAAAAAAAI/AAAAAAAAAAA/19r8UST31uQ/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "On Point Plumbing",
-    "owner_link": "https://www.google.com/maps/contrib/105853592713938199752",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#4474e4",
-    "SecondaryColor": "#133585"
-  },
-  "website_content": {
-    "aboutUs": "On Point Plumbing is a full-service plumbing company serving the Eastaboga area and beyond. Our team of skilled professionals specializes in residential and commercial plumbing services, from routine maintenance and repairs to new construction projects. With a focus on prompt, reliable service and a commitment to excellence, we are your go-to local experts for all your plumbing needs.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing partner.",
-      "sellingPoints": [
-        "Prompt response times and reliable service, ensuring your plumbing issues are resolved efficiently.",
-        "Expertise in a wide range of plumbing services, from leak detection and repair to fixture installation and system upgrades.",
-        "Commitment to using the latest techniques and high-quality materials, ensuring long-lasting solutions."
-      ]
+    "ids": {
+        "site_id": "onpointplumbing",
+        "place_id": "ChIJBw1WvpTPi4gRyxUDmb6Bef0",
+        "google_id": "0x888bcf94be560d07:0xfd7981be990315cb",
+        "owner_id": 105853592713938199752
+    },
+    "basic_info": {
+        "name": "On Point Plumbing",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBw1WvpTPi4gRyxUDmb6Bef0&q=plumber,+35135,+Riverside,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 205-405-6755",
+        "query": "plumber, 35135, Riverside, AL, US",
+        "name_for_emails": "On Point Plumbing",
+        "site": "",
+        "subtypes": "Plumber",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "61 Sterling Rd, Eastaboga, AL 36260",
+        "borough": "None",
+        "street": "61 Sterling Rd",
+        "city": "Eastaboga",
+        "postal_code": 36260,
+        "state": "Alabama",
+        "us_state": "Alabama",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 33.5646749,
+        "longitude": -86.0234426,
+        "h3": "8944e868aabffff",
+        "time_zone": "America/Chicago",
+        "area_service": "FALSE",
+        "rating": 5,
+        "reviews": 27,
+        "photos_count": 11,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMpND568KnpQ_fauQTcvMD1qtL4nEudaK7shf7u=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipMpND568KnpQ_fauQTcvMD1qtL4nEudaK7shf7u=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh6.googleusercontent.com/-bDYPgewTyYI/AAAAAAAAAAI/AAAAAAAAAAA/19r8UST31uQ/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "On Point Plumbing",
+        "owner_link": "https://www.google.com/maps/contrib/105853592713938199752",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#4474e4",
+        "SecondaryColor": "#133585"
+    },
+    "website_content": {
+        "aboutUs": "On Point Plumbing is a full-service plumbing company serving the Eastaboga area and beyond. Our team of skilled professionals specializes in residential and commercial plumbing services, from routine maintenance and repairs to new construction projects. With a focus on prompt, reliable service and a commitment to excellence, we are your go-to local experts for all your plumbing needs.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing partner.",
+            "sellingPoints": [
+                "Prompt response times and reliable service, ensuring your plumbing issues are resolved efficiently.",
+                "Expertise in a wide range of plumbing services, from leak detection and repair to fixture installation and system upgrades.",
+                "Commitment to using the latest techniques and high-quality materials, ensuring long-lasting solutions."
+            ]
+        }
+    },
+    "research": "### Business Information:\n\n- **Alabama Business Registration/License Details**:\n  On Point Plumbing, LLC is registered in Alabama, with the registered agent listed as Steven S. Worthy. The business is located at 61 Sterling Road, Eastaboga, AL 36260[3].\n\n- **Physical Location and Service Areas**:\n  The physical location of On Point Plumbing is 61 Sterling Rd, Eastaboga, AL 36260. While the exact service areas are not explicitly stated, the business is known to serve customers in and around Eastaboga, and there are mentions of working on construction projects across the state[2][5].\n\n- **Hours and Payment Methods**:\n  On Point Plumbing operates from 7:00 a.m. to 7:00 p.m. from Monday to Friday and is closed on Saturdays and Sundays. The payment methods are not specified, but the business is described as having \"very reasonable rates\"[2][5].\n\n- **Years in Operation**:\n  The exact years in operation are not provided in the available sources, but the business has an established presence with multiple reviews and a strong customer base.\n\n### Services & Specialties:\n\n- **Types of Services Offered**:\n  On Point Plumbing is a full-service plumbing company that offers service calls, new residential and commercial construction, and various plumbing repairs. Services include fixing leaks, installing bathroom vanities, re-plumbing kitchen sinks, and installing disposals[2].\n\n- **Service Areas Covered**:\n  As mentioned, the business serves customers in and around Eastaboga and has been involved in construction projects across Alabama[2].\n\n- **Emergency Service Availability**:\n  While the sources do not explicitly mention emergency service availability, the business is praised for its prompt response and timely service, suggesting they may be available for urgent needs[2].\n\n- **Any Listed Prices or Rates**:\n  The sources do not provide specific prices or rates, but customers have noted that the business has \"very reasonable rates\"[2].\n\n### Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  On Point Plumbing has a 5-star rating with 27 reviews. Customers praise the business for its prompt service, professionalism, and reasonable prices. Examples include fixing a pinhole leak on PEC pipe, installing a bathroom vanity, and re-plumbing a kitchen sink. Customers also appreciate the friendly and helpful nature of the staff[2].\n\n- **BBB Rating and Status**:\n  There is no information available in the sources regarding a Better Business Bureau (BBB) rating or status.\n\n- **Common Customer Feedback Themes**:\n  Common themes include excellent customer service, professionalism, prompt response times, and reasonable prices[2].\n\n- **Response to Reviews**:\n  There is no information available on how the business responds to reviews, as the profile has not been claimed by the business owner or representative[2].\n\n### Owner & Staff:\n\n- **Owner/Management Information**:\n  The registered agent and presumably an owner or key figure in the business is Steven S. Worthy. Additionally, there is mention of Scott, who is likely a key staff member or another owner, and Jessica, who is involved in customer service[2][3].\n\n- **Staff Qualifications**:\n  The sources do not provide detailed information on the staff's qualifications or professional certifications. However, customers have praised the staff's expertise and professionalism in their work[2].\n\n- **Professional Certifications**:\n  There is no specific information available on professional certifications held by the staff or owners of On Point Plumbing[2][3][5].",
+    "review_trends": {
+        "ownerName": "Scott",
+        "ownerConfidence": 90,
+        "servicesMentioned": [
+            "pipe fix",
+            "bathroom vanity installation",
+            "leak repair",
+            "re-plumbing",
+            "disposal installation",
+            "dishwasher installation",
+            "waterlines rerouting",
+            "gas lines",
+            "clogged drain"
+        ],
+        "firstReviewDate": "2020-01-28",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 0
     }
-  },
-  "research": "### Business Information:\n\n- **Alabama Business Registration/License Details**:\n  On Point Plumbing, LLC is registered in Alabama, with the registered agent listed as Steven S. Worthy. The business is located at 61 Sterling Road, Eastaboga, AL 36260[3].\n\n- **Physical Location and Service Areas**:\n  The physical location of On Point Plumbing is 61 Sterling Rd, Eastaboga, AL 36260. While the exact service areas are not explicitly stated, the business is known to serve customers in and around Eastaboga, and there are mentions of working on construction projects across the state[2][5].\n\n- **Hours and Payment Methods**:\n  On Point Plumbing operates from 7:00 a.m. to 7:00 p.m. from Monday to Friday and is closed on Saturdays and Sundays. The payment methods are not specified, but the business is described as having \"very reasonable rates\"[2][5].\n\n- **Years in Operation**:\n  The exact years in operation are not provided in the available sources, but the business has an established presence with multiple reviews and a strong customer base.\n\n### Services & Specialties:\n\n- **Types of Services Offered**:\n  On Point Plumbing is a full-service plumbing company that offers service calls, new residential and commercial construction, and various plumbing repairs. Services include fixing leaks, installing bathroom vanities, re-plumbing kitchen sinks, and installing disposals[2].\n\n- **Service Areas Covered**:\n  As mentioned, the business serves customers in and around Eastaboga and has been involved in construction projects across Alabama[2].\n\n- **Emergency Service Availability**:\n  While the sources do not explicitly mention emergency service availability, the business is praised for its prompt response and timely service, suggesting they may be available for urgent needs[2].\n\n- **Any Listed Prices or Rates**:\n  The sources do not provide specific prices or rates, but customers have noted that the business has \"very reasonable rates\"[2].\n\n### Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  On Point Plumbing has a 5-star rating with 27 reviews. Customers praise the business for its prompt service, professionalism, and reasonable prices. Examples include fixing a pinhole leak on PEC pipe, installing a bathroom vanity, and re-plumbing a kitchen sink. Customers also appreciate the friendly and helpful nature of the staff[2].\n\n- **BBB Rating and Status**:\n  There is no information available in the sources regarding a Better Business Bureau (BBB) rating or status.\n\n- **Common Customer Feedback Themes**:\n  Common themes include excellent customer service, professionalism, prompt response times, and reasonable prices[2].\n\n- **Response to Reviews**:\n  There is no information available on how the business responds to reviews, as the profile has not been claimed by the business owner or representative[2].\n\n### Owner & Staff:\n\n- **Owner/Management Information**:\n  The registered agent and presumably an owner or key figure in the business is Steven S. Worthy. Additionally, there is mention of Scott, who is likely a key staff member or another owner, and Jessica, who is involved in customer service[2][3].\n\n- **Staff Qualifications**:\n  The sources do not provide detailed information on the staff's qualifications or professional certifications. However, customers have praised the staff's expertise and professionalism in their work[2].\n\n- **Professional Certifications**:\n  There is no specific information available on professional certifications held by the staff or owners of On Point Plumbing[2][3][5].",
-  "review_trends": {
-    "ownerName": "Scott",
-    "ownerConfidence": 90,
-    "servicesMentioned": [
-      "pipe fix",
-      "bathroom vanity installation",
-      "leak repair",
-      "re-plumbing",
-      "disposal installation",
-      "dishwasher installation",
-      "waterlines rerouting",
-      "gas lines",
-      "clogged drain"
-    ],
-    "firstReviewDate": "2020-01-28",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 0
-  }
 }

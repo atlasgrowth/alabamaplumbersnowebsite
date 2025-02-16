@@ -1,72 +1,72 @@
 {
-  "ids": {
-    "site_id": "h2o-worx",
-    "place_id": "ChIJNy38tQc_iYgRoHAPtKsnFpk",
-    "google_id": "0x88893f07b5fc2d37:0x991627abb40f70a0",
-    "owner_id": 101856477891097919550
-  },
-  "basic_info": {
-    "name": "H2O Worx",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNy38tQc_iYgRoHAPtKsnFpk&q=plumber,+35078,+Harpersville,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 205-964-5300",
-    "query": "plumber, 35078, Harpersville, AL, US",
-    "name_for_emails": "H2O Worx",
-    "site": "",
-    "subtypes": "Plumber, Service establishment",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "",
-    "borough": "",
-    "street": "",
-    "city": "",
-    "postal_code": "",
-    "state": "",
-    "us_state": "",
-    "country": "",
-    "country_code": "",
-    "latitude": 33.4309505,
-    "longitude": -86.8413174,
-    "h3": "8944e83634fffff",
-    "time_zone": "America/Chicago",
-    "area_service": "TRUE",
-    "rating": 3.7,
-    "reviews": 3,
-    "photos_count": 5,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipPvShib0g6HJEn6Gy43WgE481IzQQ1kbsPsMJ1O=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPvShib0g6HJEn6Gy43WgE481IzQQ1kbsPsMJ1O=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh4.googleusercontent.com/-X-eXCLqK8Zs/AAAAAAAAAAI/AAAAAAAAAAA/cjVZ1pRXUPY/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "H2O Worx",
-    "owner_link": "https://www.google.com/maps/contrib/101856477891097919550",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#4474e4",
-    "SecondaryColor": "#133585"
-  },
-  "website_content": {
-    "aboutUs": "At H2O Worx, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch services to our local community. With our extensive expertise and commitment to excellence, we specialize in a wide range of plumbing solutions, from routine maintenance and repairs to complex installations and renovations. Our local presence and in-depth knowledge of the area allow us to deliver tailored services that meet the unique needs of our customers.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with choosing a trusted and reliable plumbing partner.",
-      "sellingPoints": [
-        "Prompt and efficient service, with a focus on minimizing disruptions to your daily routine.",
-        "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
-        "Commitment to using high-quality materials and adhering to industry best practices, ensuring long-lasting and durable solutions."
-      ]
+    "ids": {
+        "site_id": "h2oworx",
+        "place_id": "ChIJNy38tQc_iYgRoHAPtKsnFpk",
+        "google_id": "0x88893f07b5fc2d37:0x991627abb40f70a0",
+        "owner_id": 101856477891097919550
+    },
+    "basic_info": {
+        "name": "H2O Worx",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNy38tQc_iYgRoHAPtKsnFpk&q=plumber,+35078,+Harpersville,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 205-964-5300",
+        "query": "plumber, 35078, Harpersville, AL, US",
+        "name_for_emails": "H2O Worx",
+        "site": "",
+        "subtypes": "Plumber, Service establishment",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "",
+        "borough": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "us_state": "",
+        "country": "",
+        "country_code": "",
+        "latitude": 33.4309505,
+        "longitude": -86.8413174,
+        "h3": "8944e83634fffff",
+        "time_zone": "America/Chicago",
+        "area_service": "TRUE",
+        "rating": 3.7,
+        "reviews": 3,
+        "photos_count": 5,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPvShib0g6HJEn6Gy43WgE481IzQQ1kbsPsMJ1O=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipPvShib0g6HJEn6Gy43WgE481IzQQ1kbsPsMJ1O=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh4.googleusercontent.com/-X-eXCLqK8Zs/AAAAAAAAAAI/AAAAAAAAAAA/cjVZ1pRXUPY/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "H2O Worx",
+        "owner_link": "https://www.google.com/maps/contrib/101856477891097919550",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#4474e4",
+        "SecondaryColor": "#133585"
+    },
+    "website_content": {
+        "aboutUs": "At H2O Worx, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch services to our local community. With our extensive expertise and commitment to excellence, we specialize in a wide range of plumbing solutions, from routine maintenance and repairs to complex installations and renovations. Our local presence and in-depth knowledge of the area allow us to deliver tailored services that meet the unique needs of our customers.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with choosing a trusted and reliable plumbing partner.",
+            "sellingPoints": [
+                "Prompt and efficient service, with a focus on minimizing disruptions to your daily routine.",
+                "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
+                "Commitment to using high-quality materials and adhering to industry best practices, ensuring long-lasting and durable solutions."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers and the search results, here is the information available for the specific Alabama plumbing business, H2O Worx:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: There is no specific information available in the provided sources regarding the business registration or license details of H2O Worx. For detailed registration information, you would need to check the Alabama Secretary of State's Government Records Inquiry System or other state business registries[4].\n- **Physical Location and Service Areas**: The Google Place ID and phone number suggest that H2O Worx is located in Alabama, but the exact physical location is not specified in the provided sources. The service areas are also not detailed.\n- **Hours and Payment Methods**: There is no information available on the business hours or payment methods for H2O Worx.\n- **Years in Operation**: The duration of operation for H2O Worx is not provided in the available sources.\n\n## Services & Specialties:\n- **Types of Services Offered**: The specific services offered by H2O Worx are not detailed in the provided sources. However, given it is a plumbing business, it likely includes typical plumbing services such as repairs, installations, and maintenance.\n- **Service Areas Covered**: The service areas are not specified.\n- **Emergency Service Availability**: There is no information indicating whether H2O Worx offers emergency services.\n- **Any Listed Prices or Rates**: No pricing or rate information is available for H2O Worx.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: With a rating of 3.7 based on 3 reviews, the reviews are limited and not detailed in the provided sources. There are no specific examples available.\n- **BBB Rating and Status**: There is no information indicating that H2O Worx is listed with the Better Business Bureau (BBB) or its rating and status.\n- **Common Customer Feedback Themes**: Without access to the actual reviews, common feedback themes cannot be determined.\n- **Response to Reviews**: There is no information on how H2O Worx responds to customer reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner or management details for H2O Worx are not provided in the available sources.\n- **Staff Qualifications**: There is no information available regarding the qualifications or certifications of the staff at H2O Worx.\n- **Professional Certifications**: No details on professional certifications held by the staff or owner of H2O Worx are available.\n\nGiven the lack of specific information in the provided sources, it is recommended to check additional resources such as the business's official website, social media, or direct contact with the business for more detailed information.",
+    "review_trends": {
+        "ownerName": "Unknown",
+        "ownerConfidence": 0,
+        "servicesMentioned": [],
+        "firstReviewDate": "2020-10-07",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 1
     }
-  },
-  "research": "Based on the provided identifiers and the search results, here is the information available for the specific Alabama plumbing business, H2O Worx:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: There is no specific information available in the provided sources regarding the business registration or license details of H2O Worx. For detailed registration information, you would need to check the Alabama Secretary of State's Government Records Inquiry System or other state business registries[4].\n- **Physical Location and Service Areas**: The Google Place ID and phone number suggest that H2O Worx is located in Alabama, but the exact physical location is not specified in the provided sources. The service areas are also not detailed.\n- **Hours and Payment Methods**: There is no information available on the business hours or payment methods for H2O Worx.\n- **Years in Operation**: The duration of operation for H2O Worx is not provided in the available sources.\n\n## Services & Specialties:\n- **Types of Services Offered**: The specific services offered by H2O Worx are not detailed in the provided sources. However, given it is a plumbing business, it likely includes typical plumbing services such as repairs, installations, and maintenance.\n- **Service Areas Covered**: The service areas are not specified.\n- **Emergency Service Availability**: There is no information indicating whether H2O Worx offers emergency services.\n- **Any Listed Prices or Rates**: No pricing or rate information is available for H2O Worx.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: With a rating of 3.7 based on 3 reviews, the reviews are limited and not detailed in the provided sources. There are no specific examples available.\n- **BBB Rating and Status**: There is no information indicating that H2O Worx is listed with the Better Business Bureau (BBB) or its rating and status.\n- **Common Customer Feedback Themes**: Without access to the actual reviews, common feedback themes cannot be determined.\n- **Response to Reviews**: There is no information on how H2O Worx responds to customer reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner or management details for H2O Worx are not provided in the available sources.\n- **Staff Qualifications**: There is no information available regarding the qualifications or certifications of the staff at H2O Worx.\n- **Professional Certifications**: No details on professional certifications held by the staff or owner of H2O Worx are available.\n\nGiven the lack of specific information in the provided sources, it is recommended to check additional resources such as the business's official website, social media, or direct contact with the business for more detailed information.",
-  "review_trends": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
-    "firstReviewDate": "2020-10-07",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 1
-  }
 }

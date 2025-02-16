@@ -1,72 +1,72 @@
 {
-  "ids": {
-    "site_id": "triple-b-plumbing-llc",
-    "place_id": "ChIJh7m_Fz-FYogRbsc8IkwOHko",
-    "google_id": "0x8862853f17bfb987:0x4a1e0e4c223cc76e",
-    "owner_id": 116535215356645881779
-  },
-  "basic_info": {
-    "name": "Triple B Plumbing, LLC.",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh7m_Fz-FYogRbsc8IkwOHko&q=plumber,+35601,+Decatur,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 256-808-8355",
-    "query": "plumber, 35601, Decatur, AL, US",
-    "name_for_emails": "Triple B Plumbing",
-    "site": "",
-    "subtypes": "Plumber",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "1629 4th Ave SE, Decatur, AL 35601",
-    "borough": "None",
-    "street": "1629 4th Ave SE",
-    "city": "Decatur",
-    "postal_code": 35601,
-    "state": "Alabama",
-    "us_state": "Alabama",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 34.5818767,
-    "longitude": -86.9834452,
-    "h3": "8926492a02fffff",
-    "time_zone": "America/Chicago",
-    "area_service": "FALSE",
-    "rating": 4.2,
-    "reviews": 5,
-    "photos_count": 11,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipPgzbt7jKsHbQr9PoqONPaZQtAd0xkexTDmxGvC=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPgzbt7jKsHbQr9PoqONPaZQtAd0xkexTDmxGvC=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{\"Service options\": {\"Onsite services\": true}, \"Offerings\": {\"Repair services\": true}, \"Payments\": {\"Credit cards\": true}}",
-    "logo": "https://lh4.googleusercontent.com/-ccw5euoLf9Y/AAAAAAAAAAI/AAAAAAAAAAA/P4ob_1_8Bqw/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Triple B Plumbing, LLC.",
-    "owner_link": "https://www.google.com/maps/contrib/116535215356645881779",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#304274",
-    "SecondaryColor": "#58698c"
-  },
-  "website_content": {
-    "aboutUs": "At Triple B Plumbing, LLC, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch services to the residents of Decatur and surrounding areas. Our expertise spans a wide range of plumbing solutions, from residential repairs and installations to commercial projects. We specialize in drain cleaning, water heater replacements, and comprehensive plumbing system maintenance, ensuring your home or business runs smoothly.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing company committed to delivering exceptional service and lasting solutions.",
-      "sellingPoints": [
-        "Fully licensed and insured technicians with extensive training and expertise in the latest plumbing techniques and technologies.",
-        "Prompt and reliable service, with a commitment to arriving on time and completing projects efficiently without compromising quality.",
-        "Transparent pricing and upfront cost estimates, ensuring you know exactly what to expect before any work begins."
-      ]
+    "ids": {
+        "site_id": "triplebplumbingllc",
+        "place_id": "ChIJh7m_Fz-FYogRbsc8IkwOHko",
+        "google_id": "0x8862853f17bfb987:0x4a1e0e4c223cc76e",
+        "owner_id": 116535215356645881779
+    },
+    "basic_info": {
+        "name": "Triple B Plumbing, LLC.",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh7m_Fz-FYogRbsc8IkwOHko&q=plumber,+35601,+Decatur,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 256-808-8355",
+        "query": "plumber, 35601, Decatur, AL, US",
+        "name_for_emails": "Triple B Plumbing",
+        "site": "",
+        "subtypes": "Plumber",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "1629 4th Ave SE, Decatur, AL 35601",
+        "borough": "None",
+        "street": "1629 4th Ave SE",
+        "city": "Decatur",
+        "postal_code": 35601,
+        "state": "Alabama",
+        "us_state": "Alabama",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 34.5818767,
+        "longitude": -86.9834452,
+        "h3": "8926492a02fffff",
+        "time_zone": "America/Chicago",
+        "area_service": "FALSE",
+        "rating": 4.2,
+        "reviews": 5,
+        "photos_count": 11,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPgzbt7jKsHbQr9PoqONPaZQtAd0xkexTDmxGvC=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipPgzbt7jKsHbQr9PoqONPaZQtAd0xkexTDmxGvC=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{\"Service options\": {\"Onsite services\": true}, \"Offerings\": {\"Repair services\": true}, \"Payments\": {\"Credit cards\": true}}",
+        "logo": "https://lh4.googleusercontent.com/-ccw5euoLf9Y/AAAAAAAAAAI/AAAAAAAAAAA/P4ob_1_8Bqw/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Triple B Plumbing, LLC.",
+        "owner_link": "https://www.google.com/maps/contrib/116535215356645881779",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#304274",
+        "SecondaryColor": "#58698c"
+    },
+    "website_content": {
+        "aboutUs": "At Triple B Plumbing, LLC, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch services to the residents of Decatur and surrounding areas. Our expertise spans a wide range of plumbing solutions, from residential repairs and installations to commercial projects. We specialize in drain cleaning, water heater replacements, and comprehensive plumbing system maintenance, ensuring your home or business runs smoothly.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing company committed to delivering exceptional service and lasting solutions.",
+            "sellingPoints": [
+                "Fully licensed and insured technicians with extensive training and expertise in the latest plumbing techniques and technologies.",
+                "Prompt and reliable service, with a commitment to arriving on time and completing projects efficiently without compromising quality.",
+                "Transparent pricing and upfront cost estimates, ensuring you know exactly what to expect before any work begins."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers and the available sources, here is the detailed information about Triple B Plumbing, LLC in Decatur, Alabama:\n\n## Business Information\n\n- **Alabama Business Registration/License Details**:\n  While the specific license details for Triple B Plumbing, LLC are not provided in the sources, it is important to note that plumbing businesses in Alabama must comply with state and local licensing requirements. For instance, plumbers in Alabama need to be licensed through the Alabama Plumbers and Gas Fitters Examining Board[4].\n\n- **Physical Location and Service Areas**:\n  The business is located at 1629 4th Ave SE, Decatur, AL 35601. However, the specific service areas are not detailed in the available sources.\n\n- **Hours and Payment Methods**:\n  The hours of operation and payment methods for Triple B Plumbing, LLC are not specified in the provided sources.\n\n- **Years in Operation**:\n  There is no information available on the exact years of operation for Triple B Plumbing, LLC from the given sources.\n\n## Services & Specialties\n\n- **Types of Services Offered**:\n  Although the specific services offered by Triple B Plumbing, LLC in Decatur are not detailed in the sources, typical plumbing services include residential and commercial plumbing, drain cleaning, water heater installation, and other related services.\n\n- **Service Areas Covered**:\n  As mentioned, the service areas are not explicitly stated, but it is likely they serve the Decatur area and possibly surrounding regions.\n\n- **Emergency Service Availability**:\n  There is no information available on whether Triple B Plumbing, LLC offers emergency services.\n\n- **Prices or Rates**:\n  No pricing or rate information is provided in the sources.\n\n## Customer Reviews & Reputation\n\n- **Review Summaries with Specific Examples**:\n  With a rating of 4.2 from 5 reviews, the business appears to have a positive reputation, but specific review summaries or examples are not available from the given sources.\n\n- **BBB Rating and Status**:\n  There is no BBB accreditation or rating information available for Triple B Plumbing, LLC in the provided sources.\n\n- **Common Customer Feedback Themes**:\n  Without access to specific reviews, common customer feedback themes cannot be determined.\n\n- **Response to Reviews**:\n  There is no information on how the business responds to customer reviews.\n\n## Owner & Staff\n\n- **Owner/Management Information**:\n  The owner or management details for Triple B Plumbing, LLC are not provided in the sources.\n\n- **Staff Qualifications**:\n  There is no information available on the qualifications or certifications of the staff.\n\n- **Professional Certifications**:\n  Given the lack of specific information, professional certifications held by the staff or owner cannot be verified.\n\nTo obtain more detailed and accurate information about Triple B Plumbing, LLC, it would be necessary to consult additional sources such as the business's official website, direct contact with the business, or local business directories.",
+    "review_trends": {
+        "ownerName": "Unknown",
+        "ownerConfidence": 0,
+        "servicesMentioned": [],
+        "firstReviewDate": "2021-05-05",
+        "last30": 0,
+        "last60": 1,
+        "last90": 1,
+        "last180": 1,
+        "last365": 3
     }
-  },
-  "research": "Based on the provided identifiers and the available sources, here is the detailed information about Triple B Plumbing, LLC in Decatur, Alabama:\n\n## Business Information\n\n- **Alabama Business Registration/License Details**:\n  While the specific license details for Triple B Plumbing, LLC are not provided in the sources, it is important to note that plumbing businesses in Alabama must comply with state and local licensing requirements. For instance, plumbers in Alabama need to be licensed through the Alabama Plumbers and Gas Fitters Examining Board[4].\n\n- **Physical Location and Service Areas**:\n  The business is located at 1629 4th Ave SE, Decatur, AL 35601. However, the specific service areas are not detailed in the available sources.\n\n- **Hours and Payment Methods**:\n  The hours of operation and payment methods for Triple B Plumbing, LLC are not specified in the provided sources.\n\n- **Years in Operation**:\n  There is no information available on the exact years of operation for Triple B Plumbing, LLC from the given sources.\n\n## Services & Specialties\n\n- **Types of Services Offered**:\n  Although the specific services offered by Triple B Plumbing, LLC in Decatur are not detailed in the sources, typical plumbing services include residential and commercial plumbing, drain cleaning, water heater installation, and other related services.\n\n- **Service Areas Covered**:\n  As mentioned, the service areas are not explicitly stated, but it is likely they serve the Decatur area and possibly surrounding regions.\n\n- **Emergency Service Availability**:\n  There is no information available on whether Triple B Plumbing, LLC offers emergency services.\n\n- **Prices or Rates**:\n  No pricing or rate information is provided in the sources.\n\n## Customer Reviews & Reputation\n\n- **Review Summaries with Specific Examples**:\n  With a rating of 4.2 from 5 reviews, the business appears to have a positive reputation, but specific review summaries or examples are not available from the given sources.\n\n- **BBB Rating and Status**:\n  There is no BBB accreditation or rating information available for Triple B Plumbing, LLC in the provided sources.\n\n- **Common Customer Feedback Themes**:\n  Without access to specific reviews, common customer feedback themes cannot be determined.\n\n- **Response to Reviews**:\n  There is no information on how the business responds to customer reviews.\n\n## Owner & Staff\n\n- **Owner/Management Information**:\n  The owner or management details for Triple B Plumbing, LLC are not provided in the sources.\n\n- **Staff Qualifications**:\n  There is no information available on the qualifications or certifications of the staff.\n\n- **Professional Certifications**:\n  Given the lack of specific information, professional certifications held by the staff or owner cannot be verified.\n\nTo obtain more detailed and accurate information about Triple B Plumbing, LLC, it would be necessary to consult additional sources such as the business's official website, direct contact with the business, or local business directories.",
-  "review_trends": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
-    "firstReviewDate": "2021-05-05",
-    "last30": 0,
-    "last60": 1,
-    "last90": 1,
-    "last180": 1,
-    "last365": 3
-  }
 }

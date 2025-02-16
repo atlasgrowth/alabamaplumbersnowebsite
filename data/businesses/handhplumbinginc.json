@@ -1,80 +1,80 @@
 {
-  "ids": {
-    "site_id": "h-and-h-plumbing-inc",
-    "place_id": "ChIJwfxhzAhLYIgRpKzgckm_o-g",
-    "google_id": "0x88604b08cc61fcc1:0xe8a3bf4972e0aca4",
-    "owner_id": 108306294805974129786
-  },
-  "basic_info": {
-    "name": "H & H Plumbing Inc.",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwfxhzAhLYIgRpKzgckm_o-g&q=plumber,+35774,+Trenton,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 706-657-5710",
-    "query": "plumber, 35774, Trenton, AL, US",
-    "name_for_emails": "H And H Plumbing",
-    "site": "",
-    "subtypes": "Plumber",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "84 Michaels Rd, Trenton, GA 30752",
-    "borough": "None",
-    "street": "84 Michaels Rd",
-    "city": "Trenton",
-    "postal_code": 30752,
-    "state": "Georgia",
-    "us_state": "Georgia",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 34.8390571,
-    "longitude": -85.5643096,
-    "h3": "8944cdc1667ffff",
-    "time_zone": "America/New_York",
-    "area_service": "FALSE",
-    "rating": 4.9,
-    "reviews": 44,
-    "photos_count": 12,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipPc_sfyyL9H_9uTbcF8mXHe6GVy8c6DCQUjPBAp=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPc_sfyyL9H_9uTbcF8mXHe6GVy8c6DCQUjPBAp=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"7:30AM-6PM\", \"Tuesday\": \"7:30AM-6PM\", \"Wednesday\": \"7:30AM-7:30PM\", \"Thursday\": \"7:30AM-6PM\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{\"Payments\": {\"Credit cards\": true}}",
-    "logo": "https://lh3.googleusercontent.com/-4NZBaQ2UjrE/AAAAAAAAAAI/AAAAAAAAAAA/K2eJ9uDcZ_c/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "H & H Plumbing Inc.",
-    "owner_link": "https://www.google.com/maps/contrib/108306294805974129786",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#7fb24c",
-    "SecondaryColor": "#ac5c6c"
-  },
-  "website_content": {
-    "aboutUs": "Our expert plumbing team specializes in comprehensive residential and commercial services across Northwest Georgia and Southeast Tennessee. With a focus on new construction, remodeling projects, drain cleaning, and video camera inspections, we deliver top-notch solutions tailored to your unique needs. Backed by extensive local experience, we prioritize quality workmanship and exceptional customer service.",
-    "whyChooseUs": {
-      "mainPitch": "Reliable and skilled plumbing solutions for all your residential and commercial needs.",
-      "sellingPoints": [
-        "Highly trained technicians with expertise in a wide range of plumbing services, from new installations to complex repairs.",
-        "Commitment to using the latest techniques and equipment to ensure efficient and long-lasting results.",
-        "Personalized service tailored to your specific requirements, with a focus on clear communication and customer satisfaction."
-      ]
+    "ids": {
+        "site_id": "hhplumbinginc",
+        "place_id": "ChIJwfxhzAhLYIgRpKzgckm_o-g",
+        "google_id": "0x88604b08cc61fcc1:0xe8a3bf4972e0aca4",
+        "owner_id": 108306294805974129786
+    },
+    "basic_info": {
+        "name": "H & H Plumbing Inc.",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwfxhzAhLYIgRpKzgckm_o-g&q=plumber,+35774,+Trenton,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 706-657-5710",
+        "query": "plumber, 35774, Trenton, AL, US",
+        "name_for_emails": "H And H Plumbing",
+        "site": "",
+        "subtypes": "Plumber",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "84 Michaels Rd, Trenton, GA 30752",
+        "borough": "None",
+        "street": "84 Michaels Rd",
+        "city": "Trenton",
+        "postal_code": 30752,
+        "state": "Georgia",
+        "us_state": "Georgia",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 34.8390571,
+        "longitude": -85.5643096,
+        "h3": "8944cdc1667ffff",
+        "time_zone": "America/New_York",
+        "area_service": "FALSE",
+        "rating": 4.9,
+        "reviews": 44,
+        "photos_count": 12,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPc_sfyyL9H_9uTbcF8mXHe6GVy8c6DCQUjPBAp=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipPc_sfyyL9H_9uTbcF8mXHe6GVy8c6DCQUjPBAp=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"7:30AM-6PM\", \"Tuesday\": \"7:30AM-6PM\", \"Wednesday\": \"7:30AM-7:30PM\", \"Thursday\": \"7:30AM-6PM\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{\"Payments\": {\"Credit cards\": true}}",
+        "logo": "https://lh3.googleusercontent.com/-4NZBaQ2UjrE/AAAAAAAAAAI/AAAAAAAAAAA/K2eJ9uDcZ_c/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "H & H Plumbing Inc.",
+        "owner_link": "https://www.google.com/maps/contrib/108306294805974129786",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#7fb24c",
+        "SecondaryColor": "#ac5c6c"
+    },
+    "website_content": {
+        "aboutUs": "Our expert plumbing team specializes in comprehensive residential and commercial services across Northwest Georgia and Southeast Tennessee. With a focus on new construction, remodeling projects, drain cleaning, and video camera inspections, we deliver top-notch solutions tailored to your unique needs. Backed by extensive local experience, we prioritize quality workmanship and exceptional customer service.",
+        "whyChooseUs": {
+            "mainPitch": "Reliable and skilled plumbing solutions for all your residential and commercial needs.",
+            "sellingPoints": [
+                "Highly trained technicians with expertise in a wide range of plumbing services, from new installations to complex repairs.",
+                "Commitment to using the latest techniques and equipment to ensure efficient and long-lasting results.",
+                "Personalized service tailored to your specific requirements, with a focus on clear communication and customer satisfaction."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers, it appears there is a confusion because the address and phone number given point to a business located in Georgia, not Alabama. Here is the clarification and the relevant information available for the business with the given details, which is not an Alabama-based business:\n\n## Business Information:\n- The business identified by the address \"84 Michaels Rd, Trenton, GA 30752\" and phone number \"+1 706-657-5710\" is not registered or located in Alabama. It is actually located in Georgia.\n- Since it is not an Alabama business, there are no Alabama business registration or license details available for this specific entity.\n- **Physical Location and Service Areas**: The business is located in Trenton, GA, and serves areas in Georgia, not Alabama[3].\n- **Hours and Payment Methods**: There is no specific information available on the hours of operation or payment methods for this business from the provided sources.\n- **Years in Operation**: The business in Georgia has been in operation since August 1, 2002[3].\n\n## Services & Specialties:\n- **Types of Services Offered**: The business offers residential and commercial plumbing services, including new construction, remodeling projects, cleaning of sewer drains, and video camera sewer inspections[3].\n- **Service Areas Covered**: The service areas are in Georgia, specifically around Trenton and possibly other parts of Southeast Tennessee & Northwest Georgia[3].\n- **Emergency Service Availability**: There is no specific information available on emergency service availability.\n- **Prices or Rates**: No listed prices or rates are available from the provided sources.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: The business has a 4.9 rating based on 44 reviews, but the specific examples or summaries of these reviews are not provided in the sources.\n- **BBB Rating and Status**: The business is not BBB accredited and has an A+ rating, though the BBB does not have sufficient information to fully rate the business[3].\n- **Common Customer Feedback Themes**: There is no detailed information on common customer feedback themes from the provided sources.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner of the business is Mr. Brian Hawkins[3].\n- **Staff Qualifications**: There is no detailed information available on the qualifications of the staff.\n- **Professional Certifications**: There is no specific information available on professional certifications held by the staff or owner.\n\nGiven the provided details, this business is not located in Alabama, and therefore, does not meet the criteria for the specific Alabama plumbing business you are researching.",
+    "review_trends": {
+        "ownerName": "Brian",
+        "ownerConfidence": 80,
+        "servicesMentioned": [
+            "leak repair",
+            "faucet replacement",
+            "water heater repair",
+            "water heater replacement",
+            "pipe repair",
+            "drain cleaning",
+            "sewer line repair"
+        ],
+        "firstReviewDate": "2017-03-13",
+        "last30": 2,
+        "last60": 2,
+        "last90": 3,
+        "last180": 3,
+        "last365": 6
     }
-  },
-  "research": "Based on the provided identifiers, it appears there is a confusion because the address and phone number given point to a business located in Georgia, not Alabama. Here is the clarification and the relevant information available for the business with the given details, which is not an Alabama-based business:\n\n## Business Information:\n- The business identified by the address \"84 Michaels Rd, Trenton, GA 30752\" and phone number \"+1 706-657-5710\" is not registered or located in Alabama. It is actually located in Georgia.\n- Since it is not an Alabama business, there are no Alabama business registration or license details available for this specific entity.\n- **Physical Location and Service Areas**: The business is located in Trenton, GA, and serves areas in Georgia, not Alabama[3].\n- **Hours and Payment Methods**: There is no specific information available on the hours of operation or payment methods for this business from the provided sources.\n- **Years in Operation**: The business in Georgia has been in operation since August 1, 2002[3].\n\n## Services & Specialties:\n- **Types of Services Offered**: The business offers residential and commercial plumbing services, including new construction, remodeling projects, cleaning of sewer drains, and video camera sewer inspections[3].\n- **Service Areas Covered**: The service areas are in Georgia, specifically around Trenton and possibly other parts of Southeast Tennessee & Northwest Georgia[3].\n- **Emergency Service Availability**: There is no specific information available on emergency service availability.\n- **Prices or Rates**: No listed prices or rates are available from the provided sources.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: The business has a 4.9 rating based on 44 reviews, but the specific examples or summaries of these reviews are not provided in the sources.\n- **BBB Rating and Status**: The business is not BBB accredited and has an A+ rating, though the BBB does not have sufficient information to fully rate the business[3].\n- **Common Customer Feedback Themes**: There is no detailed information on common customer feedback themes from the provided sources.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner of the business is Mr. Brian Hawkins[3].\n- **Staff Qualifications**: There is no detailed information available on the qualifications of the staff.\n- **Professional Certifications**: There is no specific information available on professional certifications held by the staff or owner.\n\nGiven the provided details, this business is not located in Alabama, and therefore, does not meet the criteria for the specific Alabama plumbing business you are researching.",
-  "review_trends": {
-    "ownerName": "Brian",
-    "ownerConfidence": 80,
-    "servicesMentioned": [
-      "leak repair",
-      "faucet replacement",
-      "water heater repair",
-      "water heater replacement",
-      "pipe repair",
-      "drain cleaning",
-      "sewer line repair"
-    ],
-    "firstReviewDate": "2017-03-13",
-    "last30": 2,
-    "last60": 2,
-    "last90": 3,
-    "last180": 3,
-    "last365": 6
-  }
 }

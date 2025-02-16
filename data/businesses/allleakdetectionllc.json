@@ -1,75 +1,75 @@
 {
-  "ids": {
-    "site_id": "all-leak-detection-llc",
-    "place_id": "ChIJV3COajMdiogRtcFqpBVVCB4",
-    "google_id": "0x888a1d336a8e7057:0x1e085515a46ac1b5",
-    "owner_id": 115259780927595445018
-  },
-  "basic_info": {
-    "name": "All Leak Detection LLC",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV3COajMdiogRtcFqpBVVCB4&q=plumber,+35990,+Walnut+Grove,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 256-738-5625",
-    "query": "plumber, 35990, Walnut Grove, AL, US",
-    "name_for_emails": "All Leak Detection",
-    "site": "",
-    "subtypes": "Plumber",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "16 Winter Fir, Albertville, AL 35950",
-    "borough": "None",
-    "street": "16 Winter Fir",
-    "city": "Albertville",
-    "postal_code": 35950,
-    "state": "Alabama",
-    "us_state": "Alabama",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 34.2403079,
-    "longitude": -86.2250799,
-    "h3": "8944eb0721bffff",
-    "time_zone": "America/Chicago",
-    "area_service": "FALSE",
-    "rating": 4.8,
-    "reviews": 9,
-    "photos_count": 16,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipOaRPcHkhqGBTLWWEIioRoARWxHVdFNzcnzsph8=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipOaRPcHkhqGBTLWWEIioRoARWxHVdFNzcnzsph8=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh4.googleusercontent.com/-kylUZobf47Y/AAAAAAAAAAI/AAAAAAAAAAA/8DYf-Pqz7NI/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "All Leak Detection LLC",
-    "owner_link": "https://www.google.com/maps/contrib/115259780927595445018",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#297bb3",
-    "SecondaryColor": "#5788a1"
-  },
-  "website_content": {
-    "aboutUs": "At All Leak Detection LLC, we are the premier leak detection specialists serving Albertville and the surrounding areas of northern Alabama. Our team of highly trained professionals utilizes state-of-the-art equipment and techniques to accurately pinpoint leaks in residential and commercial properties, pools, and spas. With our expertise and local knowledge, we provide efficient and reliable solutions tailored to your specific needs.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with our proven leak detection expertise and commitment to exceptional customer service.",
-      "sellingPoints": [
-        "Cutting-edge technology and advanced methods for precise leak detection, minimizing property damage and saving you time and money.",
-        "Highly trained and certified technicians dedicated to delivering accurate results and effective solutions for all your leak detection needs.",
-        "Personalized service tailored to your specific requirements, ensuring a seamless experience from start to finish."
-      ]
+    "ids": {
+        "site_id": "allleakdetectionllc",
+        "place_id": "ChIJV3COajMdiogRtcFqpBVVCB4",
+        "google_id": "0x888a1d336a8e7057:0x1e085515a46ac1b5",
+        "owner_id": 115259780927595445018
+    },
+    "basic_info": {
+        "name": "All Leak Detection LLC",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV3COajMdiogRtcFqpBVVCB4&q=plumber,+35990,+Walnut+Grove,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 256-738-5625",
+        "query": "plumber, 35990, Walnut Grove, AL, US",
+        "name_for_emails": "All Leak Detection",
+        "site": "",
+        "subtypes": "Plumber",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "16 Winter Fir, Albertville, AL 35950",
+        "borough": "None",
+        "street": "16 Winter Fir",
+        "city": "Albertville",
+        "postal_code": 35950,
+        "state": "Alabama",
+        "us_state": "Alabama",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 34.2403079,
+        "longitude": -86.2250799,
+        "h3": "8944eb0721bffff",
+        "time_zone": "America/Chicago",
+        "area_service": "FALSE",
+        "rating": 4.8,
+        "reviews": 9,
+        "photos_count": 16,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOaRPcHkhqGBTLWWEIioRoARWxHVdFNzcnzsph8=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipOaRPcHkhqGBTLWWEIioRoARWxHVdFNzcnzsph8=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh4.googleusercontent.com/-kylUZobf47Y/AAAAAAAAAAI/AAAAAAAAAAA/8DYf-Pqz7NI/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "All Leak Detection LLC",
+        "owner_link": "https://www.google.com/maps/contrib/115259780927595445018",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#297bb3",
+        "SecondaryColor": "#5788a1"
+    },
+    "website_content": {
+        "aboutUs": "At All Leak Detection LLC, we are the premier leak detection specialists serving Albertville and the surrounding areas of northern Alabama. Our team of highly trained professionals utilizes state-of-the-art equipment and techniques to accurately pinpoint leaks in residential and commercial properties, pools, and spas. With our expertise and local knowledge, we provide efficient and reliable solutions tailored to your specific needs.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with our proven leak detection expertise and commitment to exceptional customer service.",
+            "sellingPoints": [
+                "Cutting-edge technology and advanced methods for precise leak detection, minimizing property damage and saving you time and money.",
+                "Highly trained and certified technicians dedicated to delivering accurate results and effective solutions for all your leak detection needs.",
+                "Personalized service tailored to your specific requirements, ensuring a seamless experience from start to finish."
+            ]
+        }
+    },
+    "research": "Given the specific identifiers provided for All Leak Detection LLC, here is the information that could be gathered from the available sources and other potential sources that might be relevant:\n\n## Business Information\n\n### Alabama Business Registration/License Details\nTo find detailed registration and license information, you would typically need to check with the Alabama Secretary of State's office or the Alabama State Licensing Board for Contractors. However, the provided sources do not include this specific information. You can visit the Alabama Secretary of State's website or contact the relevant licensing board to obtain the registration and licensing details for All Leak Detection LLC[4].\n\n### Physical Location and Service Areas\n- **Physical Location**: 16 Winter Fir, Albertville, AL 35950.\n- **Service Areas**: While the exact service areas are not specified in the provided sources, it is reasonable to assume that All Leak Detection LLC serves the surrounding areas of Albertville, AL, and possibly other parts of northern Alabama.\n\n### Hours and Payment Methods\nThe provided sources do not specify the business hours or payment methods for All Leak Detection LLC. This information would typically be found on the business's website, Google My Business listing, or by contacting the business directly.\n\n### Years in Operation\nThe sources do not provide information on how long All Leak Detection LLC has been in operation. This detail would need to be obtained directly from the business or through a business registry.\n\n## Services & Specialties\n\n### Types of Services Offered\n- Given the name and typical services offered by leak detection companies, All Leak Detection LLC likely provides services such as:\n  - Leak detection for residential and commercial properties\n  - Pool and spa leak detection\n  - Water leak detection\n  - Repair services for detected leaks\n\n### Service Areas Covered\nAs mentioned, the service areas are likely to include Albertville, AL, and surrounding regions, but exact details are not provided.\n\n### Emergency Service Availability\nThe sources do not specify whether All Leak Detection LLC offers emergency services. This would need to be confirmed through the business's website or by contacting them directly.\n\n### Any Listed Prices or Rates\nThere is no information available in the provided sources regarding the prices or rates of All Leak Detection LLC. This information would typically be found on the business's website or by contacting them directly.\n\n## Customer Reviews & Reputation\n\n### Review Summaries with Specific Examples\n- With a rating of 4.8 from 9 reviews, customers generally praise the professionalism, effectiveness, and customer service of All Leak Detection LLC. However, specific review summaries are not available in the provided sources. You would need to check review platforms like Google Reviews or other local review sites for detailed feedback.\n\n### BBB Rating and Status\nThe provided sources do not include information about the Better Business Bureau (BBB) rating or status for All Leak Detection LLC. You would need to check the BBB website for this information.\n\n### Common Customer Feedback Themes\nWhile specific themes are not detailed in the provided sources, common feedback for leak detection services often includes praise for:\n  - Professionalism\n  - Effectiveness in detecting leaks\n  - Good customer service\n  - Reasonable pricing\n\n### Response to Reviews\nThere is no information available on how All Leak Detection LLC responds to customer reviews, as this would typically be observed on review platforms where the business interacts with customers.\n\n## Owner & Staff\n\n### Owner/Management Information\nThe provided sources do not include specific information about the owner or management of All Leak Detection LLC. This information would need to be obtained directly from the business or through a business registry.\n\n### Staff Qualifications\nThere is no information available on the qualifications or professional certifications of the staff at All Leak Detection LLC. This would typically be found on the business's website or by contacting them directly.\n\n### Professional Certifications\nNo specific professional certifications are mentioned in the provided sources. To verify any certifications, you would need to check with the business directly or look for certifications listed on their website or other professional profiles.",
+    "review_trends": {
+        "ownerName": "John",
+        "ownerConfidence": 80,
+        "servicesMentioned": [
+            "plumbing",
+            "leak detection"
+        ],
+        "firstReviewDate": "2019-09-23",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 2
     }
-  },
-  "research": "Given the specific identifiers provided for All Leak Detection LLC, here is the information that could be gathered from the available sources and other potential sources that might be relevant:\n\n## Business Information\n\n### Alabama Business Registration/License Details\nTo find detailed registration and license information, you would typically need to check with the Alabama Secretary of State's office or the Alabama State Licensing Board for Contractors. However, the provided sources do not include this specific information. You can visit the Alabama Secretary of State's website or contact the relevant licensing board to obtain the registration and licensing details for All Leak Detection LLC[4].\n\n### Physical Location and Service Areas\n- **Physical Location**: 16 Winter Fir, Albertville, AL 35950.\n- **Service Areas**: While the exact service areas are not specified in the provided sources, it is reasonable to assume that All Leak Detection LLC serves the surrounding areas of Albertville, AL, and possibly other parts of northern Alabama.\n\n### Hours and Payment Methods\nThe provided sources do not specify the business hours or payment methods for All Leak Detection LLC. This information would typically be found on the business's website, Google My Business listing, or by contacting the business directly.\n\n### Years in Operation\nThe sources do not provide information on how long All Leak Detection LLC has been in operation. This detail would need to be obtained directly from the business or through a business registry.\n\n## Services & Specialties\n\n### Types of Services Offered\n- Given the name and typical services offered by leak detection companies, All Leak Detection LLC likely provides services such as:\n  - Leak detection for residential and commercial properties\n  - Pool and spa leak detection\n  - Water leak detection\n  - Repair services for detected leaks\n\n### Service Areas Covered\nAs mentioned, the service areas are likely to include Albertville, AL, and surrounding regions, but exact details are not provided.\n\n### Emergency Service Availability\nThe sources do not specify whether All Leak Detection LLC offers emergency services. This would need to be confirmed through the business's website or by contacting them directly.\n\n### Any Listed Prices or Rates\nThere is no information available in the provided sources regarding the prices or rates of All Leak Detection LLC. This information would typically be found on the business's website or by contacting them directly.\n\n## Customer Reviews & Reputation\n\n### Review Summaries with Specific Examples\n- With a rating of 4.8 from 9 reviews, customers generally praise the professionalism, effectiveness, and customer service of All Leak Detection LLC. However, specific review summaries are not available in the provided sources. You would need to check review platforms like Google Reviews or other local review sites for detailed feedback.\n\n### BBB Rating and Status\nThe provided sources do not include information about the Better Business Bureau (BBB) rating or status for All Leak Detection LLC. You would need to check the BBB website for this information.\n\n### Common Customer Feedback Themes\nWhile specific themes are not detailed in the provided sources, common feedback for leak detection services often includes praise for:\n  - Professionalism\n  - Effectiveness in detecting leaks\n  - Good customer service\n  - Reasonable pricing\n\n### Response to Reviews\nThere is no information available on how All Leak Detection LLC responds to customer reviews, as this would typically be observed on review platforms where the business interacts with customers.\n\n## Owner & Staff\n\n### Owner/Management Information\nThe provided sources do not include specific information about the owner or management of All Leak Detection LLC. This information would need to be obtained directly from the business or through a business registry.\n\n### Staff Qualifications\nThere is no information available on the qualifications or professional certifications of the staff at All Leak Detection LLC. This would typically be found on the business's website or by contacting them directly.\n\n### Professional Certifications\nNo specific professional certifications are mentioned in the provided sources. To verify any certifications, you would need to check with the business directly or look for certifications listed on their website or other professional profiles.",
-  "review_trends": {
-    "ownerName": "John",
-    "ownerConfidence": 80,
-    "servicesMentioned": [
-      "plumbing",
-      "leak detection"
-    ],
-    "firstReviewDate": "2019-09-23",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 2
-  }
 }

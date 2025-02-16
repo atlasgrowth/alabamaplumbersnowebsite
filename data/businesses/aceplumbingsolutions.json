@@ -1,74 +1,74 @@
 {
-  "ids": {
-    "site_id": "ace-plumbing-solutions",
-    "place_id": "ChIJ1SnXvb0WHCQRRRzL0uKBx6s",
-    "google_id": "0x241c16bdbdd729d5:0xabc781e2d2cb1c45",
-    "owner_id": 105706093729290984912
-  },
-  "basic_info": {
-    "name": "A.C.E. Plumbing Solutions",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1SnXvb0WHCQRRRzL0uKBx6s&q=plumber,+36477,+Samson,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 850-865-9607",
-    "query": "plumber, 36477, Samson, AL, US",
-    "name_for_emails": "A C E Plumbing Solutions",
-    "site": "",
-    "subtypes": "Plumber, Service establishment",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "",
-    "borough": "",
-    "street": "",
-    "city": "",
-    "postal_code": "",
-    "state": "",
-    "us_state": "",
-    "country": "",
-    "country_code": "",
-    "latitude": 30.6044959,
-    "longitude": -86.32263,
-    "h3": "8944e522a47ffff",
-    "time_zone": "America/Chicago",
-    "area_service": "TRUE",
-    "rating": 5,
-    "reviews": 25,
-    "photos_count": 5,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipNrDpAY_Oj90ySO6fsk6IoONqsQYJe1KJdbS-53=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipNrDpAY_Oj90ySO6fsk6IoONqsQYJe1KJdbS-53=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{\"Payments\": {\"Credit cards\": true}}",
-    "logo": "https://lh4.googleusercontent.com/-dqH2g87lSps/AAAAAAAAAAI/AAAAAAAAAAA/CkHxosl1J5g/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "A.C.E. Plumbing Solutions",
-    "owner_link": "https://www.google.com/maps/contrib/105706093729290984912",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#757d89",
-    "SecondaryColor": "#747584"
-  },
-  "website_content": {
-    "aboutUs": "A.C.E. Plumbing Solutions is a trusted local plumbing company serving communities across Alabama. Our team of highly skilled and certified plumbers specializes in a wide range of residential and commercial plumbing services, from routine maintenance and repairs to complex installations and emergency services. With a deep commitment to excellence and customer satisfaction, we leverage the latest techniques and equipment to deliver reliable, efficient solutions tailored to your unique needs.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with choosing A.C.E. Plumbing Solutions, where our expertise and dedication ensure your plumbing issues are resolved promptly and professionally.",
-      "sellingPoints": [
-        "Rapid response times and 24/7 emergency availability, ensuring your plumbing emergencies are addressed without delay.",
-        "Highly trained and certified technicians with extensive knowledge of the latest plumbing codes and regulations, guaranteeing compliant and safe solutions.",
-        "Commitment to using top-quality materials and cutting-edge equipment, ensuring long-lasting and efficient plumbing systems for your home or business."
-      ]
+    "ids": {
+        "site_id": "aceplumbingsolutions",
+        "place_id": "ChIJ1SnXvb0WHCQRRRzL0uKBx6s",
+        "google_id": "0x241c16bdbdd729d5:0xabc781e2d2cb1c45",
+        "owner_id": 105706093729290984912
+    },
+    "basic_info": {
+        "name": "A.C.E. Plumbing Solutions",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1SnXvb0WHCQRRRzL0uKBx6s&q=plumber,+36477,+Samson,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 850-865-9607",
+        "query": "plumber, 36477, Samson, AL, US",
+        "name_for_emails": "A C E Plumbing Solutions",
+        "site": "",
+        "subtypes": "Plumber, Service establishment",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "",
+        "borough": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "us_state": "",
+        "country": "",
+        "country_code": "",
+        "latitude": 30.6044959,
+        "longitude": -86.32263,
+        "h3": "8944e522a47ffff",
+        "time_zone": "America/Chicago",
+        "area_service": "TRUE",
+        "rating": 5,
+        "reviews": 25,
+        "photos_count": 5,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipNrDpAY_Oj90ySO6fsk6IoONqsQYJe1KJdbS-53=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipNrDpAY_Oj90ySO6fsk6IoONqsQYJe1KJdbS-53=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{\"Payments\": {\"Credit cards\": true}}",
+        "logo": "https://lh4.googleusercontent.com/-dqH2g87lSps/AAAAAAAAAAI/AAAAAAAAAAA/CkHxosl1J5g/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "A.C.E. Plumbing Solutions",
+        "owner_link": "https://www.google.com/maps/contrib/105706093729290984912",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#757d89",
+        "SecondaryColor": "#747584"
+    },
+    "website_content": {
+        "aboutUs": "A.C.E. Plumbing Solutions is a trusted local plumbing company serving communities across Alabama. Our team of highly skilled and certified plumbers specializes in a wide range of residential and commercial plumbing services, from routine maintenance and repairs to complex installations and emergency services. With a deep commitment to excellence and customer satisfaction, we leverage the latest techniques and equipment to deliver reliable, efficient solutions tailored to your unique needs.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with choosing A.C.E. Plumbing Solutions, where our expertise and dedication ensure your plumbing issues are resolved promptly and professionally.",
+            "sellingPoints": [
+                "Rapid response times and 24/7 emergency availability, ensuring your plumbing emergencies are addressed without delay.",
+                "Highly trained and certified technicians with extensive knowledge of the latest plumbing codes and regulations, guaranteeing compliant and safe solutions.",
+                "Commitment to using top-quality materials and cutting-edge equipment, ensuring long-lasting and efficient plumbing systems for your home or business."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers and the search results, here is the detailed information available for **A.C.E. Plumbing Solutions** in Alabama:\n\n## Business Information\n- **Alabama business registration/license details**: There is no specific information available in the provided sources regarding the business registration or license details of A.C.E. Plumbing Solutions. However, it is likely that the business would need to comply with Alabama's business license requirements, which include a privilege license administered by the Alabama Department of Revenue or at the local level[5].\n- **Physical location and service areas**: The exact physical location of A.C.E. Plumbing Solutions is not specified in the provided sources. However, the Google Place ID suggests it is based in Alabama, but the precise city or address is not given.\n- **Hours and payment methods**: There is no information available on the business hours or payment methods for A.C.E. Plumbing Solutions.\n- **Years in operation**: The duration of operation for A.C.E. Plumbing Solutions is not provided in the available sources.\n\n## Services & Specialties\n- **Types of services offered**: While the specific services are not detailed in the provided sources, plumbing businesses typically offer services such as plumbing repairs, installations, drain cleaning, water heater services, and other related plumbing work.\n- **Service areas covered**: The service areas are not explicitly stated, but it is implied to be within Alabama, given the business's location.\n- **Emergency service availability**: There is no information available on whether A.C.E. Plumbing Solutions offers emergency services.\n- **Any listed prices or rates**: No pricing or rate information is available for A.C.E. Plumbing Solutions.\n\n## Customer Reviews & Reputation\n- **Review summaries with specific examples**: The business has a 5-star rating based on 25 reviews, but the specific content of these reviews is not provided in the sources.\n- **BBB rating and status**: There is no information in the provided sources indicating whether A.C.E. Plumbing Solutions is BBB accredited or its BBB rating.\n- **Common customer feedback themes**: Without access to the specific reviews, common feedback themes cannot be determined.\n- **Response to reviews**: There is no information available on how the business responds to customer reviews.\n\n## Owner & Staff\n- **Owner/management information**: The owner or management details for A.C.E. Plumbing Solutions are not provided in the available sources.\n- **Staff qualifications**: There is no information on the qualifications or professional certifications of the staff at A.C.E. Plumbing Solutions.\n- **Professional certifications**: No details are available regarding any professional certifications held by the owner or staff.\n\nGiven the lack of specific information in the provided sources, it is recommended to visit the business's official website, contact them directly, or check local business directories for more detailed information.",
+    "review_trends": {
+        "ownerName": "Austin",
+        "ownerConfidence": 80,
+        "servicesMentioned": [
+            "plumbing"
+        ],
+        "firstReviewDate": "2024-09-15",
+        "last30": 7,
+        "last60": 12,
+        "last90": 18,
+        "last180": 27,
+        "last365": 27
     }
-  },
-  "research": "Based on the provided identifiers and the search results, here is the detailed information available for **A.C.E. Plumbing Solutions** in Alabama:\n\n## Business Information\n- **Alabama business registration/license details**: There is no specific information available in the provided sources regarding the business registration or license details of A.C.E. Plumbing Solutions. However, it is likely that the business would need to comply with Alabama's business license requirements, which include a privilege license administered by the Alabama Department of Revenue or at the local level[5].\n- **Physical location and service areas**: The exact physical location of A.C.E. Plumbing Solutions is not specified in the provided sources. However, the Google Place ID suggests it is based in Alabama, but the precise city or address is not given.\n- **Hours and payment methods**: There is no information available on the business hours or payment methods for A.C.E. Plumbing Solutions.\n- **Years in operation**: The duration of operation for A.C.E. Plumbing Solutions is not provided in the available sources.\n\n## Services & Specialties\n- **Types of services offered**: While the specific services are not detailed in the provided sources, plumbing businesses typically offer services such as plumbing repairs, installations, drain cleaning, water heater services, and other related plumbing work.\n- **Service areas covered**: The service areas are not explicitly stated, but it is implied to be within Alabama, given the business's location.\n- **Emergency service availability**: There is no information available on whether A.C.E. Plumbing Solutions offers emergency services.\n- **Any listed prices or rates**: No pricing or rate information is available for A.C.E. Plumbing Solutions.\n\n## Customer Reviews & Reputation\n- **Review summaries with specific examples**: The business has a 5-star rating based on 25 reviews, but the specific content of these reviews is not provided in the sources.\n- **BBB rating and status**: There is no information in the provided sources indicating whether A.C.E. Plumbing Solutions is BBB accredited or its BBB rating.\n- **Common customer feedback themes**: Without access to the specific reviews, common feedback themes cannot be determined.\n- **Response to reviews**: There is no information available on how the business responds to customer reviews.\n\n## Owner & Staff\n- **Owner/management information**: The owner or management details for A.C.E. Plumbing Solutions are not provided in the available sources.\n- **Staff qualifications**: There is no information on the qualifications or professional certifications of the staff at A.C.E. Plumbing Solutions.\n- **Professional certifications**: No details are available regarding any professional certifications held by the owner or staff.\n\nGiven the lack of specific information in the provided sources, it is recommended to visit the business's official website, contact them directly, or check local business directories for more detailed information.",
-  "review_trends": {
-    "ownerName": "Austin",
-    "ownerConfidence": 80,
-    "servicesMentioned": [
-      "plumbing"
-    ],
-    "firstReviewDate": "2024-09-15",
-    "last30": 7,
-    "last60": 12,
-    "last90": 18,
-    "last180": 27,
-    "last365": 27
-  }
 }

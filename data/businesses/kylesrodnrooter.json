@@ -1,78 +1,78 @@
 {
-  "ids": {
-    "site_id": "kyle's-rod-n-rooter",
-    "place_id": "ChIJXQrPdaaMkogRG2yd8I_iJ7o",
-    "google_id": "0x88928ca675cf0a5d:0xba27e28ff09d6c1b",
-    "owner_id": 105240352265621109868
-  },
-  "basic_info": {
-    "name": "Kyle's Rod-N Rooter",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXQrPdaaMkogRG2yd8I_iJ7o&q=plumber,+36314,+Black,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 334-794-1384",
-    "query": "plumber, 36314, Black, AL, US",
-    "name_for_emails": "Kyles Rod N Rooter",
-    "site": "",
-    "subtypes": "Plumber, Septic system service",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "2139 County Line Rd, Dothan, AL 36305",
-    "borough": "None",
-    "street": "2139 County Line Rd",
-    "city": "Dothan",
-    "postal_code": 36305,
-    "state": "Alabama",
-    "us_state": "Alabama",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 31.1980975,
-    "longitude": -85.5152186,
-    "h3": "8944e15440fffff",
-    "time_zone": "America/Chicago",
-    "area_service": "FALSE",
-    "rating": 4.7,
-    "reviews": 18,
-    "photos_count": 13,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipPt77rxZ2bf-wZjYDAflGSgKsVTwgqiXk_XVgN_=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPt77rxZ2bf-wZjYDAflGSgKsVTwgqiXk_XVgN_=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh4.googleusercontent.com/-KaimPMXhh2Y/AAAAAAAAAAI/AAAAAAAAAAA/KlL2cgPu2Bc/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Kyle's Rod-N Rooter",
-    "owner_link": "https://www.google.com/maps/contrib/105240352265621109868",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#146cb4",
-    "SecondaryColor": "#5f97b4"
-  },
-  "website_content": {
-    "aboutUs": "Kyle's Rod-N Rooter is a trusted local plumbing and septic service provider in the Dothan, Alabama area. Our team of skilled professionals specializes in septic tank pumping, installation, and construction, as well as sewer system maintenance, drain cleaning, and grease trap cleaning. With a focus on quality workmanship and exceptional customer service, we are committed to delivering reliable solutions for all your plumbing and septic needs.",
-    "whyChooseUs": {
-      "mainPitch": "Reliable and efficient plumbing and septic solutions from a team of local experts.",
-      "sellingPoints": [
-        "Comprehensive range of services, including septic tank installation, sewer system maintenance, and drain cleaning.",
-        "Prompt and professional emergency response for urgent plumbing and septic issues.",
-        "Fully licensed and insured, adhering to all state and local regulations for your peace of mind."
-      ]
+    "ids": {
+        "site_id": "kylesrodnrooter",
+        "place_id": "ChIJXQrPdaaMkogRG2yd8I_iJ7o",
+        "google_id": "0x88928ca675cf0a5d:0xba27e28ff09d6c1b",
+        "owner_id": 105240352265621109868
+    },
+    "basic_info": {
+        "name": "Kyle's Rod-N Rooter",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXQrPdaaMkogRG2yd8I_iJ7o&q=plumber,+36314,+Black,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 334-794-1384",
+        "query": "plumber, 36314, Black, AL, US",
+        "name_for_emails": "Kyles Rod N Rooter",
+        "site": "",
+        "subtypes": "Plumber, Septic system service",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "2139 County Line Rd, Dothan, AL 36305",
+        "borough": "None",
+        "street": "2139 County Line Rd",
+        "city": "Dothan",
+        "postal_code": 36305,
+        "state": "Alabama",
+        "us_state": "Alabama",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 31.1980975,
+        "longitude": -85.5152186,
+        "h3": "8944e15440fffff",
+        "time_zone": "America/Chicago",
+        "area_service": "FALSE",
+        "rating": 4.7,
+        "reviews": 18,
+        "photos_count": 13,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPt77rxZ2bf-wZjYDAflGSgKsVTwgqiXk_XVgN_=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipPt77rxZ2bf-wZjYDAflGSgKsVTwgqiXk_XVgN_=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh4.googleusercontent.com/-KaimPMXhh2Y/AAAAAAAAAAI/AAAAAAAAAAA/KlL2cgPu2Bc/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Kyle's Rod-N Rooter",
+        "owner_link": "https://www.google.com/maps/contrib/105240352265621109868",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#146cb4",
+        "SecondaryColor": "#5f97b4"
+    },
+    "website_content": {
+        "aboutUs": "Kyle's Rod-N Rooter is a trusted local plumbing and septic service provider in the Dothan, Alabama area. Our team of skilled professionals specializes in septic tank pumping, installation, and construction, as well as sewer system maintenance, drain cleaning, and grease trap cleaning. With a focus on quality workmanship and exceptional customer service, we are committed to delivering reliable solutions for all your plumbing and septic needs.",
+        "whyChooseUs": {
+            "mainPitch": "Reliable and efficient plumbing and septic solutions from a team of local experts.",
+            "sellingPoints": [
+                "Comprehensive range of services, including septic tank installation, sewer system maintenance, and drain cleaning.",
+                "Prompt and professional emergency response for urgent plumbing and septic issues.",
+                "Fully licensed and insured, adhering to all state and local regulations for your peace of mind."
+            ]
+        }
+    },
+    "research": "## Business Information:\n\n### Alabama Business Registration/License Details\n- Kyle's Rod-N Rooter is a corporation that has been in business since September 27, 2000. It is incorporated and has been operating for 24 years as of the current date[1][2].\n- The business would need to comply with the City of Dothan's business licensing requirements, which include registering the business structure, obtaining a Federal Employer Identification Number (FEIN) if applicable, and ensuring the business activity is allowed in the specified zoning district[5].\n\n### Physical Location and Service Areas\n- The business is located at 2139 County Line Rd, Dothan, AL 36305, in Houston County[1][2].\n\n### Hours and Payment Methods\n- There is no specific information available on the business hours, but given the nature of the services provided, it is likely they offer flexible or emergency hours. For payment methods, it is typical for such services to accept various forms of payment, but specific details are not provided[1][2].\n\n### Years in Operation\n- Kyle's Rod-N Rooter has been in operation since September 27, 2000, making it 24 years old as of the current date[1][2].\n\n## Services & Specialties:\n\n### Types of Services Offered\n- The business provides a range of services including:\n  - Septic Tank Pumping\n  - Septic Tank Installation\n  - Sewer Systems\n  - Septic System Construction\n  - Porta Potty Rental\n  - Waste Disposal\n  - Grease Trap Cleaning\n  - Cesspool Pumping\n  - Drain cleaning services[1][2].\n\n### Service Areas Covered\n- The business serves the Dothan, Alabama area, specifically in Houston County[1][2].\n\n### Emergency Service Availability\n- While the sources do not explicitly state 24/7 emergency service availability, the nature of the services suggests that they may offer emergency or urgent services given the critical nature of septic and drainage issues[1][2].\n\n### Any Listed Prices or Rates\n- There is no detailed pricing information available in the sources. Customers are advised to contact the business directly for job quotes and operating hours[1][2].\n\n## Customer Reviews & Reputation:\n\n### Review Summaries with Specific Examples\n- The business has a 4.7 rating based on 18 reviews, indicating a positive reputation. However, specific review examples are not provided in the sources. On EcoHome.co, it is mentioned that the business has a 4.9 rating, but the reviews themselves are not detailed[1][4].\n\n### BBB Rating and Status\n- Kyle's Rod-N Rooter is not a BBB Accredited Business. The BBB does not have sufficient information to issue a rating on this business[1].\n\n### Common Customer Feedback Themes\n- Although specific themes are not detailed in the provided sources, the high rating suggests general customer satisfaction with the services provided.\n\n### Response to Reviews\n- There is no information available on how the business responds to customer reviews.\n\n## Owner & Staff:\n\n### Owner/Management Information\n- The owner of Kyle's Rod-N Rooter is Mr. Kyle Smith. He is also listed as the principal and customer contact for the business[1].\n\n### Staff Qualifications\n- There is no specific information available on the qualifications or certifications of the staff beyond the owner's involvement.\n\n### Professional Certifications\n- The business is associated with the State of Alabama Plumbers & Gas Fitters Examining Board, suggesting that they comply with state regulations and certifications for plumbing and septic services[1].",
+    "review_trends": {
+        "ownerName": "Unknown",
+        "ownerConfidence": 0,
+        "servicesMentioned": [
+            "plumbing leak",
+            "unclogged drain",
+            "main line unstoped",
+            "leaks in bathroom",
+            "pipe cleaning"
+        ],
+        "firstReviewDate": "2013-09-09",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 1
     }
-  },
-  "research": "## Business Information:\n\n### Alabama Business Registration/License Details\n- Kyle's Rod-N Rooter is a corporation that has been in business since September 27, 2000. It is incorporated and has been operating for 24 years as of the current date[1][2].\n- The business would need to comply with the City of Dothan's business licensing requirements, which include registering the business structure, obtaining a Federal Employer Identification Number (FEIN) if applicable, and ensuring the business activity is allowed in the specified zoning district[5].\n\n### Physical Location and Service Areas\n- The business is located at 2139 County Line Rd, Dothan, AL 36305, in Houston County[1][2].\n\n### Hours and Payment Methods\n- There is no specific information available on the business hours, but given the nature of the services provided, it is likely they offer flexible or emergency hours. For payment methods, it is typical for such services to accept various forms of payment, but specific details are not provided[1][2].\n\n### Years in Operation\n- Kyle's Rod-N Rooter has been in operation since September 27, 2000, making it 24 years old as of the current date[1][2].\n\n## Services & Specialties:\n\n### Types of Services Offered\n- The business provides a range of services including:\n  - Septic Tank Pumping\n  - Septic Tank Installation\n  - Sewer Systems\n  - Septic System Construction\n  - Porta Potty Rental\n  - Waste Disposal\n  - Grease Trap Cleaning\n  - Cesspool Pumping\n  - Drain cleaning services[1][2].\n\n### Service Areas Covered\n- The business serves the Dothan, Alabama area, specifically in Houston County[1][2].\n\n### Emergency Service Availability\n- While the sources do not explicitly state 24/7 emergency service availability, the nature of the services suggests that they may offer emergency or urgent services given the critical nature of septic and drainage issues[1][2].\n\n### Any Listed Prices or Rates\n- There is no detailed pricing information available in the sources. Customers are advised to contact the business directly for job quotes and operating hours[1][2].\n\n## Customer Reviews & Reputation:\n\n### Review Summaries with Specific Examples\n- The business has a 4.7 rating based on 18 reviews, indicating a positive reputation. However, specific review examples are not provided in the sources. On EcoHome.co, it is mentioned that the business has a 4.9 rating, but the reviews themselves are not detailed[1][4].\n\n### BBB Rating and Status\n- Kyle's Rod-N Rooter is not a BBB Accredited Business. The BBB does not have sufficient information to issue a rating on this business[1].\n\n### Common Customer Feedback Themes\n- Although specific themes are not detailed in the provided sources, the high rating suggests general customer satisfaction with the services provided.\n\n### Response to Reviews\n- There is no information available on how the business responds to customer reviews.\n\n## Owner & Staff:\n\n### Owner/Management Information\n- The owner of Kyle's Rod-N Rooter is Mr. Kyle Smith. He is also listed as the principal and customer contact for the business[1].\n\n### Staff Qualifications\n- There is no specific information available on the qualifications or certifications of the staff beyond the owner's involvement.\n\n### Professional Certifications\n- The business is associated with the State of Alabama Plumbers & Gas Fitters Examining Board, suggesting that they comply with state regulations and certifications for plumbing and septic services[1].",
-  "review_trends": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [
-      "plumbing leak",
-      "unclogged drain",
-      "main line unstoped",
-      "leaks in bathroom",
-      "pipe cleaning"
-    ],
-    "firstReviewDate": "2013-09-09",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 1
-  }
 }

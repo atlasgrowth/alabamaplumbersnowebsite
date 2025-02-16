@@ -1,79 +1,79 @@
 {
-  "ids": {
-    "site_id": "condo-care",
-    "place_id": "ChIJaxofJLYEmogRgQHuMx7ncYQ",
-    "google_id": "0x889a04b6241f1a6b:0x8471e71e33ee0181",
-    "owner_id": 100829021224713190220
-  },
-  "basic_info": {
-    "name": "Condo Care",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaxofJLYEmogRgQHuMx7ncYQ&q=plumber,+36555,+Magnolia+Springs,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 251-504-2337",
-    "query": "plumber, 36555, Magnolia Springs, AL, US",
-    "name_for_emails": "Condo Care",
-    "site": "",
-    "subtypes": "Plumber, Appliance repair service, Electrician, Service establishment, Handyman/Handywoman/Handyperson, Property maintenance, Small appliance repair service",
-    "category": "Property maintenance",
-    "type": "Plumber",
-    "full_address": "",
-    "borough": "",
-    "street": "",
-    "city": "",
-    "postal_code": "",
-    "state": "",
-    "us_state": "",
-    "country": "",
-    "country_code": "",
-    "latitude": "",
-    "longitude": "",
-    "h3": "",
-    "time_zone": "America/Chicago",
-    "area_service": "TRUE",
-    "rating": 4.3,
-    "reviews": 11,
-    "photos_count": 7,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipO0wUaaCe4yHHX9Us5oT-RJjcxzRsXoUb4bk2I3=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipO0wUaaCe4yHHX9Us5oT-RJjcxzRsXoUb4bk2I3=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh4.googleusercontent.com/-0ResDJ7u8-Q/AAAAAAAAAAI/AAAAAAAAAAA/52_OGsjy9jA/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Condo Care",
-    "owner_link": "https://www.google.com/maps/contrib/100829021224713190220",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#4474e4",
-    "SecondaryColor": "#133585"
-  },
-  "website_content": {
-    "aboutUs": "Condo Care is a premier maintenance company serving the Gulf Coast region of Alabama, specializing in keeping condos in pristine condition for property management companies. Our team of skilled professionals takes pride in delivering exceptional service, ensuring every condo under our care meets the highest standards of cleanliness and functionality for a seamless rental experience.",
-    "whyChooseUs": {
-      "mainPitch": "Unparalleled expertise in condo maintenance for the Gulf Shores and Orange Beach areas.",
-      "sellingPoints": [
-        "Comprehensive condo maintenance services tailored to the unique needs of coastal properties.",
-        "Rapid response times and efficient service calls to minimize downtime and maximize rental revenue.",
-        "Meticulous attention to detail, ensuring every condo is thoroughly inspected and maintained to exceed expectations."
-      ]
+    "ids": {
+        "site_id": "condocare",
+        "place_id": "ChIJaxofJLYEmogRgQHuMx7ncYQ",
+        "google_id": "0x889a04b6241f1a6b:0x8471e71e33ee0181",
+        "owner_id": 100829021224713190220
+    },
+    "basic_info": {
+        "name": "Condo Care",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaxofJLYEmogRgQHuMx7ncYQ&q=plumber,+36555,+Magnolia+Springs,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 251-504-2337",
+        "query": "plumber, 36555, Magnolia Springs, AL, US",
+        "name_for_emails": "Condo Care",
+        "site": "",
+        "subtypes": "Plumber, Appliance repair service, Electrician, Service establishment, Handyman/Handywoman/Handyperson, Property maintenance, Small appliance repair service",
+        "category": "Property maintenance",
+        "type": "Plumber",
+        "full_address": "",
+        "borough": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "us_state": "",
+        "country": "",
+        "country_code": "",
+        "latitude": "",
+        "longitude": "",
+        "h3": "",
+        "time_zone": "America/Chicago",
+        "area_service": "TRUE",
+        "rating": 4.3,
+        "reviews": 11,
+        "photos_count": 7,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipO0wUaaCe4yHHX9Us5oT-RJjcxzRsXoUb4bk2I3=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipO0wUaaCe4yHHX9Us5oT-RJjcxzRsXoUb4bk2I3=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh4.googleusercontent.com/-0ResDJ7u8-Q/AAAAAAAAAAI/AAAAAAAAAAA/52_OGsjy9jA/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Condo Care",
+        "owner_link": "https://www.google.com/maps/contrib/100829021224713190220",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#4474e4",
+        "SecondaryColor": "#133585"
+    },
+    "website_content": {
+        "aboutUs": "Condo Care is a premier maintenance company serving the Gulf Coast region of Alabama, specializing in keeping condos in pristine condition for property management companies. Our team of skilled professionals takes pride in delivering exceptional service, ensuring every condo under our care meets the highest standards of cleanliness and functionality for a seamless rental experience.",
+        "whyChooseUs": {
+            "mainPitch": "Unparalleled expertise in condo maintenance for the Gulf Shores and Orange Beach areas.",
+            "sellingPoints": [
+                "Comprehensive condo maintenance services tailored to the unique needs of coastal properties.",
+                "Rapid response times and efficient service calls to minimize downtime and maximize rental revenue.",
+                "Meticulous attention to detail, ensuring every condo is thoroughly inspected and maintained to exceed expectations."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers and the search results, here is the detailed information available for the specific Alabama business named \"Condo Care\":\n\n## Business Information:\n- **Alabama Business Registration/License Details**: There is no specific information available in the provided sources regarding the business registration or license details of Condo Care in Alabama. For this information, you would need to consult the Alabama Secretary of State's Government Records Inquiry System or other official state databases[4].\n- **Physical Location and Service Areas**: Condo Care is mentioned to be operating in the Gulf Coast region of Alabama, specifically with references to Gulf Shores and Orange Beach[3].\n- **Hours and Payment Methods**: There is no detailed information available on the hours of operation or payment methods for Condo Care.\n- **Years in Operation**: The exact years of operation are not specified in the provided sources.\n\n## Services & Specialties:\n- **Types of Services Offered**: Condo Care is described as a maintenance company, but the specific services mentioned are related to condo maintenance rather than plumbing. The services include keeping condos in rentable condition and performing service calls for property management companies[3].\n  - There is no indication that Condo Care offers plumbing services.\n- **Service Areas Covered**: The service areas include Gulf Shores and Orange Beach in Alabama[3].\n- **Emergency Service Availability**: There is no mention of emergency service availability for Condo Care.\n- **Prices or Rates**: No pricing or rate information is provided.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**:\n  - Reviews indicate a mixed experience. One former employee described the company as \"family-oriented\" and \"generous and fair,\" while another former employee highlighted high turnover rates, lack of COVID protections, and issues with overtime pay[3].\n  - A supervisor praised the family-oriented nature of the business and enjoyed working with family members[3].\n- **BBB Rating and Status**: There is no information available in the provided sources regarding the BBB rating or status of Condo Care.\n- **Common Customer Feedback Themes**:\n  - Positive feedback includes a family-oriented environment and generous treatment of employees.\n  - Negative feedback includes high turnover rates, lack of COVID protections, and issues with overtime pay.\n- **Response to Reviews**: There is no information available on how the company responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner is not specifically named in the provided sources, but it is mentioned that it is a family business[3].\n- **Staff Qualifications**: There is no detailed information available on the qualifications of the staff.\n- **Professional Certifications**: No information is provided regarding professional certifications of the staff.\n\nGiven the information, it appears that Condo Care is not a plumbing business but rather a condo maintenance company, and the provided details do not align with the typical services and specialties of a plumbing contractor.",
+    "review_trends": {
+        "ownerName": "Dan",
+        "ownerConfidence": 80,
+        "servicesMentioned": [
+            "cleaning",
+            "fixing leak",
+            "maintenance",
+            "repairing dishwasher",
+            "repairing sliding glass door",
+            "appliance repair"
+        ],
+        "firstReviewDate": "2016-12-27",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 0
     }
-  },
-  "research": "Based on the provided identifiers and the search results, here is the detailed information available for the specific Alabama business named \"Condo Care\":\n\n## Business Information:\n- **Alabama Business Registration/License Details**: There is no specific information available in the provided sources regarding the business registration or license details of Condo Care in Alabama. For this information, you would need to consult the Alabama Secretary of State's Government Records Inquiry System or other official state databases[4].\n- **Physical Location and Service Areas**: Condo Care is mentioned to be operating in the Gulf Coast region of Alabama, specifically with references to Gulf Shores and Orange Beach[3].\n- **Hours and Payment Methods**: There is no detailed information available on the hours of operation or payment methods for Condo Care.\n- **Years in Operation**: The exact years of operation are not specified in the provided sources.\n\n## Services & Specialties:\n- **Types of Services Offered**: Condo Care is described as a maintenance company, but the specific services mentioned are related to condo maintenance rather than plumbing. The services include keeping condos in rentable condition and performing service calls for property management companies[3].\n  - There is no indication that Condo Care offers plumbing services.\n- **Service Areas Covered**: The service areas include Gulf Shores and Orange Beach in Alabama[3].\n- **Emergency Service Availability**: There is no mention of emergency service availability for Condo Care.\n- **Prices or Rates**: No pricing or rate information is provided.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**:\n  - Reviews indicate a mixed experience. One former employee described the company as \"family-oriented\" and \"generous and fair,\" while another former employee highlighted high turnover rates, lack of COVID protections, and issues with overtime pay[3].\n  - A supervisor praised the family-oriented nature of the business and enjoyed working with family members[3].\n- **BBB Rating and Status**: There is no information available in the provided sources regarding the BBB rating or status of Condo Care.\n- **Common Customer Feedback Themes**:\n  - Positive feedback includes a family-oriented environment and generous treatment of employees.\n  - Negative feedback includes high turnover rates, lack of COVID protections, and issues with overtime pay.\n- **Response to Reviews**: There is no information available on how the company responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner is not specifically named in the provided sources, but it is mentioned that it is a family business[3].\n- **Staff Qualifications**: There is no detailed information available on the qualifications of the staff.\n- **Professional Certifications**: No information is provided regarding professional certifications of the staff.\n\nGiven the information, it appears that Condo Care is not a plumbing business but rather a condo maintenance company, and the provided details do not align with the typical services and specialties of a plumbing contractor.",
-  "review_trends": {
-    "ownerName": "Dan",
-    "ownerConfidence": 80,
-    "servicesMentioned": [
-      "cleaning",
-      "fixing leak",
-      "maintenance",
-      "repairing dishwasher",
-      "repairing sliding glass door",
-      "appliance repair"
-    ],
-    "firstReviewDate": "2016-12-27",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 0
-  }
 }

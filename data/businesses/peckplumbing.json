@@ -1,72 +1,72 @@
 {
-  "ids": {
-    "site_id": "peck-plumbing",
-    "place_id": "ChIJRffU5ws7YogRR_gqnTEGuts",
-    "google_id": "0x88623b0be7d4f745:0xdbba06319d2af847",
-    "owner_id": 101965854743287776855
-  },
-  "basic_info": {
-    "name": "Peck Plumbing",
-    "reviews_link": "",
-    "phone": "+1 256-379-3560",
-    "query": "plumber, 35671, Tanner, AL, US",
-    "name_for_emails": "Peck Plumbing",
-    "site": "",
-    "subtypes": "Plumber",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "770 New Market Rd, New Market, AL 35761",
-    "borough": "None",
-    "street": "770 New Market Rd",
-    "city": "New Market",
-    "postal_code": 35761,
-    "state": "Alabama",
-    "us_state": "Alabama",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 34.9261602,
-    "longitude": -86.4549049,
-    "h3": "892649b5c23ffff",
-    "time_zone": "America/Chicago",
-    "area_service": "FALSE",
-    "rating": "",
-    "reviews": "",
-    "photos_count": 15,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipOcRuMC8OilOVytmk1Onoba3ZwEGs2FGRCdZ7Vw=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipOcRuMC8OilOVytmk1Onoba3ZwEGs2FGRCdZ7Vw=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{\"Service options\": {\"Onsite services\": true, \"Online estimates\": false, \"Language assistance\": \"English\"}}",
-    "logo": "https://lh4.googleusercontent.com/-XMvBJ1N8u1Y/AAAAAAAAAAI/AAAAAAAAAAA/z6X3A-o6N7Q/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Peck Plumbing",
-    "owner_link": "https://www.google.com/maps/contrib/101965854743287776855",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#4474e4",
-    "SecondaryColor": "#133585"
-  },
-  "website_content": {
-    "aboutUs": "Peck Plumbing is a trusted local plumbing service provider based in New Market, Alabama. Our team of skilled and certified professionals specializes in a wide range of plumbing repair services, from fixing leaky faucets and pipes to clearing clogged drains. With a focus on delivering exceptional workmanship and customer satisfaction, we are committed to serving the plumbing needs of our community.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
-      "sellingPoints": [
-        "Prompt and efficient service, ensuring your plumbing issues are resolved quickly and effectively.",
-        "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
-        "Commitment to using high-quality materials and providing long-lasting solutions for your plumbing needs."
-      ]
+    "ids": {
+        "site_id": "peckplumbing",
+        "place_id": "ChIJRffU5ws7YogRR_gqnTEGuts",
+        "google_id": "0x88623b0be7d4f745:0xdbba06319d2af847",
+        "owner_id": 101965854743287776855
+    },
+    "basic_info": {
+        "name": "Peck Plumbing",
+        "reviews_link": "",
+        "phone": "+1 256-379-3560",
+        "query": "plumber, 35671, Tanner, AL, US",
+        "name_for_emails": "Peck Plumbing",
+        "site": "",
+        "subtypes": "Plumber",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "770 New Market Rd, New Market, AL 35761",
+        "borough": "None",
+        "street": "770 New Market Rd",
+        "city": "New Market",
+        "postal_code": 35761,
+        "state": "Alabama",
+        "us_state": "Alabama",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 34.9261602,
+        "longitude": -86.4549049,
+        "h3": "892649b5c23ffff",
+        "time_zone": "America/Chicago",
+        "area_service": "FALSE",
+        "rating": "",
+        "reviews": "",
+        "photos_count": 15,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOcRuMC8OilOVytmk1Onoba3ZwEGs2FGRCdZ7Vw=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipOcRuMC8OilOVytmk1Onoba3ZwEGs2FGRCdZ7Vw=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{\"Service options\": {\"Onsite services\": true, \"Online estimates\": false, \"Language assistance\": \"English\"}}",
+        "logo": "https://lh4.googleusercontent.com/-XMvBJ1N8u1Y/AAAAAAAAAAI/AAAAAAAAAAA/z6X3A-o6N7Q/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Peck Plumbing",
+        "owner_link": "https://www.google.com/maps/contrib/101965854743287776855",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#4474e4",
+        "SecondaryColor": "#133585"
+    },
+    "website_content": {
+        "aboutUs": "Peck Plumbing is a trusted local plumbing service provider based in New Market, Alabama. Our team of skilled and certified professionals specializes in a wide range of plumbing repair services, from fixing leaky faucets and pipes to clearing clogged drains. With a focus on delivering exceptional workmanship and customer satisfaction, we are committed to serving the plumbing needs of our community.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+            "sellingPoints": [
+                "Prompt and efficient service, ensuring your plumbing issues are resolved quickly and effectively.",
+                "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
+                "Commitment to using high-quality materials and providing long-lasting solutions for your plumbing needs."
+            ]
+        }
+    },
+    "research": "### Business Information:\n\n#### Alabama Business Registration/License Details\nTo obtain specific details about Peck Plumbing's business registration or license, you would need to contact the Alabama Plumbers and Gas Fitters Examining Board or use their forms for verification. However, the provided sources do not include direct access to this specific information. You can use the \"Request for Verification of Alabama license/registration\" form from the Alabama Plumbers and Gas Fitters Examining Board to inquire about their licensing status[1].\n\n#### Physical Location and Service Areas\nPeck Plumbing is located at 770 New Market Rd, New Market, AL 35761. The service area appears to be focused around New Market and possibly surrounding areas in northern Alabama, although the exact service area is not explicitly stated in the sources[3][5].\n\n#### Hours and Payment Methods\nThe sources provided do not specify the business hours or payment methods for Peck Plumbing. You would need to contact the business directly for this information.\n\n#### Years in Operation\nThere is no information available in the provided sources regarding how many years Peck Plumbing has been in operation.\n\n### Services & Specialties:\n\n#### Types of Services Offered\nPeck Plumbing specializes in various aspects of plumbing repair, including fixing leaky faucets and pipes, clearing clogged drains, and addressing other pipe-related issues[3][5].\n\n#### Service Areas Covered\nAs mentioned, the service area is centered around New Market, AL, but the exact extent of their service area is not detailed.\n\n#### Emergency Service Availability\nThere is no specific information in the sources indicating whether Peck Plumbing offers emergency services.\n\n#### Prices or Rates\nThe sources do not provide any information on the prices or rates for Peck Plumbing's services.\n\n### Customer Reviews & Reputation:\n\n#### Review Summaries with Specific Examples\nThere are no detailed review summaries or specific examples provided in the sources. To get a comprehensive view of customer reviews, you would need to check review platforms like Google Reviews, Yelp, or the Better Business Bureau (BBB).\n\n#### BBB Rating and Status\nThere is no information available in the sources regarding Peck Plumbing's BBB rating or status.\n\n#### Common Customer Feedback Themes\nWithout access to specific reviews, it is not possible to identify common customer feedback themes.\n\n#### Response to Reviews\nThere is no information on how Peck Plumbing responds to customer reviews.\n\n### Owner & Staff:\n\n#### Owner/Management Information\nThe sources do not provide detailed information about the owner or management of Peck Plumbing beyond the business name and contact details.\n\n#### Staff Qualifications\nThere is no information available regarding the qualifications or certifications of the staff at Peck Plumbing.\n\n#### Professional Certifications\nTo verify professional certifications, you would need to contact the Alabama Plumbers and Gas Fitters Examining Board or request this information directly from the business[1].\n\nGiven the limited information available from the sources, it is recommended to contact Peck Plumbing directly or check additional review and business listing platforms for more detailed information.",
+    "review_trends": {
+        "ownerName": "Unknown",
+        "ownerConfidence": 0,
+        "servicesMentioned": [],
+        "firstReviewDate": "N/A",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 0
     }
-  },
-  "research": "### Business Information:\n\n#### Alabama Business Registration/License Details\nTo obtain specific details about Peck Plumbing's business registration or license, you would need to contact the Alabama Plumbers and Gas Fitters Examining Board or use their forms for verification. However, the provided sources do not include direct access to this specific information. You can use the \"Request for Verification of Alabama license/registration\" form from the Alabama Plumbers and Gas Fitters Examining Board to inquire about their licensing status[1].\n\n#### Physical Location and Service Areas\nPeck Plumbing is located at 770 New Market Rd, New Market, AL 35761. The service area appears to be focused around New Market and possibly surrounding areas in northern Alabama, although the exact service area is not explicitly stated in the sources[3][5].\n\n#### Hours and Payment Methods\nThe sources provided do not specify the business hours or payment methods for Peck Plumbing. You would need to contact the business directly for this information.\n\n#### Years in Operation\nThere is no information available in the provided sources regarding how many years Peck Plumbing has been in operation.\n\n### Services & Specialties:\n\n#### Types of Services Offered\nPeck Plumbing specializes in various aspects of plumbing repair, including fixing leaky faucets and pipes, clearing clogged drains, and addressing other pipe-related issues[3][5].\n\n#### Service Areas Covered\nAs mentioned, the service area is centered around New Market, AL, but the exact extent of their service area is not detailed.\n\n#### Emergency Service Availability\nThere is no specific information in the sources indicating whether Peck Plumbing offers emergency services.\n\n#### Prices or Rates\nThe sources do not provide any information on the prices or rates for Peck Plumbing's services.\n\n### Customer Reviews & Reputation:\n\n#### Review Summaries with Specific Examples\nThere are no detailed review summaries or specific examples provided in the sources. To get a comprehensive view of customer reviews, you would need to check review platforms like Google Reviews, Yelp, or the Better Business Bureau (BBB).\n\n#### BBB Rating and Status\nThere is no information available in the sources regarding Peck Plumbing's BBB rating or status.\n\n#### Common Customer Feedback Themes\nWithout access to specific reviews, it is not possible to identify common customer feedback themes.\n\n#### Response to Reviews\nThere is no information on how Peck Plumbing responds to customer reviews.\n\n### Owner & Staff:\n\n#### Owner/Management Information\nThe sources do not provide detailed information about the owner or management of Peck Plumbing beyond the business name and contact details.\n\n#### Staff Qualifications\nThere is no information available regarding the qualifications or certifications of the staff at Peck Plumbing.\n\n#### Professional Certifications\nTo verify professional certifications, you would need to contact the Alabama Plumbers and Gas Fitters Examining Board or request this information directly from the business[1].\n\nGiven the limited information available from the sources, it is recommended to contact Peck Plumbing directly or check additional review and business listing platforms for more detailed information.",
-  "review_trends": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [],
-    "firstReviewDate": "N/A",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 0
-  }
 }

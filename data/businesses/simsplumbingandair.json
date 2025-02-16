@@ -1,78 +1,78 @@
 {
-  "ids": {
-    "site_id": "sims-plumbing-and-air",
-    "place_id": "ChIJy3S442VxYIgRXb4E0BOSSPQ",
-    "google_id": "0x88607165e3b874cb:0xf4489213d004be5d",
-    "owner_id": 110997790776830184740
-  },
-  "basic_info": {
-    "name": "Sims plumbing & air",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy3S442VxYIgRXb4E0BOSSPQ&q=plumber,+35979,+Higdon,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 423-777-6155",
-    "query": "plumber, 35979, Higdon, AL, US",
-    "name_for_emails": "Sims Plumbing And Air",
-    "site": "",
-    "subtypes": "Plumber, Service establishment, Heating contractor",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "",
-    "borough": "",
-    "street": "",
-    "city": "",
-    "postal_code": "",
-    "state": "",
-    "us_state": "",
-    "country": "",
-    "country_code": "",
-    "latitude": 35.0330499,
-    "longitude": -85.2220409,
-    "h3": "8944cd5b237ffff",
-    "time_zone": "America/New_York",
-    "area_service": "TRUE",
-    "rating": 5,
-    "reviews": 27,
-    "photos_count": 5,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipN1AoaxH1SrOWdQobF8hE9UfohhSwOs5KCZEXQG=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipN1AoaxH1SrOWdQobF8hE9UfohhSwOs5KCZEXQG=w1600-h1000-k-no",
-    "working_hours": "",
-    "business_status": "OPERATIONAL",
-    "about": "{}",
-    "logo": "https://lh4.googleusercontent.com/-uxhkCAE3fK0/AAAAAAAAAAI/AAAAAAAAAAA/AshaKKr-ibM/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Sims plumbing & air",
-    "owner_link": "https://www.google.com/maps/contrib/110997790776830184740",
-    "facebook": "https://www.facebook.com/simsplumbingair/",
-    "email_1": "anthony@simsplumbingair.com",
-    "PrimaryColor": "#0606fc",
-    "SecondaryColor": "#7c7c7c"
-  },
-  "website_content": {
-    "aboutUs": "Sims Plumbing & Air is a trusted local plumbing company serving communities across Alabama. Our team of highly skilled and certified plumbers specializes in comprehensive plumbing solutions, from routine maintenance and repairs to complex installations. With a focus on exceptional service and expertise, we are committed to providing top-notch workmanship and ensuring your plumbing systems operate efficiently and reliably.",
-    "whyChooseUs": {
-      "mainPitch": "Experience the peace of mind that comes with choosing a plumbing partner dedicated to delivering outstanding results.",
-      "sellingPoints": [
-        "Highly trained and certified technicians with extensive knowledge of the latest plumbing techniques and technologies.",
-        "Prompt and reliable service, with a commitment to arriving on time and completing projects efficiently.",
-        "Comprehensive solutions tailored to your specific needs, ensuring your plumbing systems function optimally."
-      ]
+    "ids": {
+        "site_id": "simsplumbingair",
+        "place_id": "ChIJy3S442VxYIgRXb4E0BOSSPQ",
+        "google_id": "0x88607165e3b874cb:0xf4489213d004be5d",
+        "owner_id": 110997790776830184740
+    },
+    "basic_info": {
+        "name": "Sims plumbing & air",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy3S442VxYIgRXb4E0BOSSPQ&q=plumber,+35979,+Higdon,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 423-777-6155",
+        "query": "plumber, 35979, Higdon, AL, US",
+        "name_for_emails": "Sims Plumbing And Air",
+        "site": "",
+        "subtypes": "Plumber, Service establishment, Heating contractor",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "",
+        "borough": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "us_state": "",
+        "country": "",
+        "country_code": "",
+        "latitude": 35.0330499,
+        "longitude": -85.2220409,
+        "h3": "8944cd5b237ffff",
+        "time_zone": "America/New_York",
+        "area_service": "TRUE",
+        "rating": 5,
+        "reviews": 27,
+        "photos_count": 5,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipN1AoaxH1SrOWdQobF8hE9UfohhSwOs5KCZEXQG=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipN1AoaxH1SrOWdQobF8hE9UfohhSwOs5KCZEXQG=w1600-h1000-k-no",
+        "working_hours": "",
+        "business_status": "OPERATIONAL",
+        "about": "{}",
+        "logo": "https://lh4.googleusercontent.com/-uxhkCAE3fK0/AAAAAAAAAAI/AAAAAAAAAAA/AshaKKr-ibM/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Sims plumbing & air",
+        "owner_link": "https://www.google.com/maps/contrib/110997790776830184740",
+        "facebook": "https://www.facebook.com/simsplumbingair/",
+        "email_1": "anthony@simsplumbingair.com",
+        "PrimaryColor": "#0606fc",
+        "SecondaryColor": "#7c7c7c"
+    },
+    "website_content": {
+        "aboutUs": "Sims Plumbing & Air is a trusted local plumbing company serving communities across Alabama. Our team of highly skilled and certified plumbers specializes in comprehensive plumbing solutions, from routine maintenance and repairs to complex installations. With a focus on exceptional service and expertise, we are committed to providing top-notch workmanship and ensuring your plumbing systems operate efficiently and reliably.",
+        "whyChooseUs": {
+            "mainPitch": "Experience the peace of mind that comes with choosing a plumbing partner dedicated to delivering outstanding results.",
+            "sellingPoints": [
+                "Highly trained and certified technicians with extensive knowledge of the latest plumbing techniques and technologies.",
+                "Prompt and reliable service, with a commitment to arriving on time and completing projects efficiently.",
+                "Comprehensive solutions tailored to your specific needs, ensuring your plumbing systems function optimally."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers and the available sources, here is the information that could be verified for **Sims Plumbing & Air** in Alabama:\n\n## Business Information\n- **Alabama Business Registration/License Details**: Plumbing contractors in Alabama are required to have a State of Alabama Master Certification Card from the State of Alabama's Plumbers and Gas Fitters Examining Board, as well as a county business license. However, specific details about Sims Plumbing & Air's registration or licenses are not available in the provided sources[5].\n- **Physical Location and Service Areas**: The exact physical location of Sims Plumbing & Air is not specified in the provided sources. However, it is mentioned in the context of Alabama, suggesting it operates within the state.\n- **Hours and Payment Methods**: There is no information available on the hours of operation or payment methods for Sims Plumbing & Air.\n- **Years in Operation**: The duration of operation for Sims Plumbing & Air is not provided in the sources.\n\n## Services & Specialties\n- **Types of Services Offered**: While the specific services offered by Sims Plumbing & Air are not detailed in the provided sources, plumbing contractors generally offer services such as plumbing repairs, installations, and maintenance.\n- **Service Areas Covered**: The service areas are not explicitly stated, but it is implied to be within Alabama.\n- **Emergency Service Availability**: There is no information available on whether Sims Plumbing & Air offers emergency services.\n- **Prices or Rates**: No pricing information is available for Sims Plumbing & Air.\n\n## Customer Reviews & Reputation\n- **Review Summaries with Specific Examples**: There are no specific review summaries available for Sims Plumbing & Air in the provided sources. However, the business is noted to have a 5-star rating based on 27 reviews, though the content of these reviews is not detailed.\n- **BBB Rating and Status**: The business named \"Sims Plumbing & Electric\" (which might be a similar but not exact match) in Newton, AL, is not BBB accredited and has an A- rating. However, this does not confirm if it is the same business as Sims Plumbing & Air[2].\n- **Common Customer Feedback Themes**: Without access to the specific reviews, common feedback themes cannot be identified.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff\n- **Owner/Management Information**: The owner or management details for Sims Plumbing & Air are not provided in the sources.\n- **Staff Qualifications**: There is no information available on the qualifications of the staff.\n- **Professional Certifications**: It is expected that the staff would hold necessary certifications such as the State of Alabama Master Certification Card for plumbers, but this is not explicitly confirmed for Sims Plumbing & Air[5].\n\nGiven the lack of specific information in the sources, it is recommended to check the business's official website, contact them directly, or use other local business directories for more detailed and accurate information.",
+    "review_trends": {
+        "ownerName": "Anthony",
+        "ownerConfidence": 100,
+        "servicesMentioned": [
+            "plumbing repairs",
+            "water heater",
+            "shower repair",
+            "drain clearing",
+            "air conditioner"
+        ],
+        "firstReviewDate": "2019-08-23",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 0
     }
-  },
-  "research": "Based on the provided identifiers and the available sources, here is the information that could be verified for **Sims Plumbing & Air** in Alabama:\n\n## Business Information\n- **Alabama Business Registration/License Details**: Plumbing contractors in Alabama are required to have a State of Alabama Master Certification Card from the State of Alabama's Plumbers and Gas Fitters Examining Board, as well as a county business license. However, specific details about Sims Plumbing & Air's registration or licenses are not available in the provided sources[5].\n- **Physical Location and Service Areas**: The exact physical location of Sims Plumbing & Air is not specified in the provided sources. However, it is mentioned in the context of Alabama, suggesting it operates within the state.\n- **Hours and Payment Methods**: There is no information available on the hours of operation or payment methods for Sims Plumbing & Air.\n- **Years in Operation**: The duration of operation for Sims Plumbing & Air is not provided in the sources.\n\n## Services & Specialties\n- **Types of Services Offered**: While the specific services offered by Sims Plumbing & Air are not detailed in the provided sources, plumbing contractors generally offer services such as plumbing repairs, installations, and maintenance.\n- **Service Areas Covered**: The service areas are not explicitly stated, but it is implied to be within Alabama.\n- **Emergency Service Availability**: There is no information available on whether Sims Plumbing & Air offers emergency services.\n- **Prices or Rates**: No pricing information is available for Sims Plumbing & Air.\n\n## Customer Reviews & Reputation\n- **Review Summaries with Specific Examples**: There are no specific review summaries available for Sims Plumbing & Air in the provided sources. However, the business is noted to have a 5-star rating based on 27 reviews, though the content of these reviews is not detailed.\n- **BBB Rating and Status**: The business named \"Sims Plumbing & Electric\" (which might be a similar but not exact match) in Newton, AL, is not BBB accredited and has an A- rating. However, this does not confirm if it is the same business as Sims Plumbing & Air[2].\n- **Common Customer Feedback Themes**: Without access to the specific reviews, common feedback themes cannot be identified.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff\n- **Owner/Management Information**: The owner or management details for Sims Plumbing & Air are not provided in the sources.\n- **Staff Qualifications**: There is no information available on the qualifications of the staff.\n- **Professional Certifications**: It is expected that the staff would hold necessary certifications such as the State of Alabama Master Certification Card for plumbers, but this is not explicitly confirmed for Sims Plumbing & Air[5].\n\nGiven the lack of specific information in the sources, it is recommended to check the business's official website, contact them directly, or use other local business directories for more detailed and accurate information.",
-  "review_trends": {
-    "ownerName": "Anthony",
-    "ownerConfidence": 100,
-    "servicesMentioned": [
-      "plumbing repairs",
-      "water heater",
-      "shower repair",
-      "drain clearing",
-      "air conditioner"
-    ],
-    "firstReviewDate": "2019-08-23",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 0
-  }
 }

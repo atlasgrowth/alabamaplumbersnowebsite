@@ -1,75 +1,75 @@
 {
-  "ids": {
-    "site_id": "simple-service-llc",
-    "place_id": "ChIJsQtuozkNiYgRzhO4ZZJJNA0",
-    "google_id": "0x88890d39a36e0bb1:0xd34499265b813ce",
-    "owner_id": 106253222244848244782
-  },
-  "basic_info": {
-    "name": "Simple Service, LLC",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsQtuozkNiYgRzhO4ZZJJNA0&q=plumber,+35147,+Sterrett,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 205-577-6339",
-    "query": "plumber, 35147, Sterrett, AL, US",
-    "name_for_emails": "Simple Service",
-    "site": "",
-    "subtypes": "Plumber, Drainage service, Service establishment, Excavating contractor, Gas logs supplier, Gasfitter, Water damage restoration service, Water testing service",
-    "category": "Plumber",
-    "type": "Plumber",
-    "full_address": "",
-    "borough": "",
-    "street": "",
-    "city": "",
-    "postal_code": "",
-    "state": "",
-    "us_state": "",
-    "country": "",
-    "country_code": "",
-    "latitude": 46.423669,
-    "longitude": -129.9427086,
-    "h3": "8928e9c8573ffff",
-    "time_zone": "America/Chicago",
-    "area_service": "TRUE",
-    "rating": 1,
-    "reviews": 2,
-    "photos_count": 9,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipPSAszoTfnxij_e7wqVcb-6B-fAg785OSJdanAv=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPSAszoTfnxij_e7wqVcb-6B-fAg785OSJdanAv=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-3PM\", \"Sunday\": \"Closed\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{\"Service options\": {\"Online estimates\": true}}",
-    "logo": "https://lh5.googleusercontent.com/-EmOvWo1d9eY/AAAAAAAAAAI/AAAAAAAAAAA/giftcO-W2w0/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Simple Service, LLC",
-    "owner_link": "https://www.google.com/maps/contrib/106253222244848244782",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#c88c34",
-    "SecondaryColor": "#a48663"
-  },
-  "website_content": {
-    "aboutUs": "Simple Service, LLC is a premier plumbing company serving the local Odenville area. Our team of licensed and certified professionals specializes in a wide range of services, including plumbing renovation, sewer cleaning, water leak detection, and tankless water heater installation. With our expertise and commitment to quality, we provide tailored solutions to meet your unique plumbing needs.",
-    "whyChooseUs": {
-      "mainPitch": "Reliable and efficient plumbing solutions from trusted local experts.",
-      "sellingPoints": [
-        "Fully licensed and certified by the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring compliance and expertise.",
-        "Comprehensive range of services, from residential plumbing repairs to commercial water supply system installations.",
-        "Personalized attention and tailored solutions to address your specific plumbing requirements."
-      ]
+    "ids": {
+        "site_id": "simpleservicellc",
+        "place_id": "ChIJsQtuozkNiYgRzhO4ZZJJNA0",
+        "google_id": "0x88890d39a36e0bb1:0xd34499265b813ce",
+        "owner_id": 106253222244848244782
+    },
+    "basic_info": {
+        "name": "Simple Service, LLC",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsQtuozkNiYgRzhO4ZZJJNA0&q=plumber,+35147,+Sterrett,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 205-577-6339",
+        "query": "plumber, 35147, Sterrett, AL, US",
+        "name_for_emails": "Simple Service",
+        "site": "",
+        "subtypes": "Plumber, Drainage service, Service establishment, Excavating contractor, Gas logs supplier, Gasfitter, Water damage restoration service, Water testing service",
+        "category": "Plumber",
+        "type": "Plumber",
+        "full_address": "",
+        "borough": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "us_state": "",
+        "country": "",
+        "country_code": "",
+        "latitude": 46.423669,
+        "longitude": -129.9427086,
+        "h3": "8928e9c8573ffff",
+        "time_zone": "America/Chicago",
+        "area_service": "TRUE",
+        "rating": 1,
+        "reviews": 2,
+        "photos_count": 9,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPSAszoTfnxij_e7wqVcb-6B-fAg785OSJdanAv=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipPSAszoTfnxij_e7wqVcb-6B-fAg785OSJdanAv=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-3PM\", \"Sunday\": \"Closed\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{\"Service options\": {\"Online estimates\": true}}",
+        "logo": "https://lh5.googleusercontent.com/-EmOvWo1d9eY/AAAAAAAAAAI/AAAAAAAAAAA/giftcO-W2w0/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Simple Service, LLC",
+        "owner_link": "https://www.google.com/maps/contrib/106253222244848244782",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#c88c34",
+        "SecondaryColor": "#a48663"
+    },
+    "website_content": {
+        "aboutUs": "Simple Service, LLC is a premier plumbing company serving the local Odenville area. Our team of licensed and certified professionals specializes in a wide range of services, including plumbing renovation, sewer cleaning, water leak detection, and tankless water heater installation. With our expertise and commitment to quality, we provide tailored solutions to meet your unique plumbing needs.",
+        "whyChooseUs": {
+            "mainPitch": "Reliable and efficient plumbing solutions from trusted local experts.",
+            "sellingPoints": [
+                "Fully licensed and certified by the State of Alabama Plumbers & Gas Fitters Examining Board, ensuring compliance and expertise.",
+                "Comprehensive range of services, from residential plumbing repairs to commercial water supply system installations.",
+                "Personalized attention and tailored solutions to address your specific plumbing requirements."
+            ]
+        }
+    },
+    "research": "Here is the detailed information about Simple Service, LLC, based on the provided identifiers and verified sources:\n\n## Business Information:\n\n- **Alabama Business Registration/License Details**:\n  - Simple Service, LLC is licensed by the State of Alabama Plumbers & Gas Fitters Examining Board with license numbers MP-2929 and APP-7993[1].\n- **Physical Location and Service Areas**:\n  - The business is located at 1425 Cedar Creek Rd, Odenville, AL 35120-7117. However, the specific service areas are not detailed in the source, but it is implied to serve the local region around Odenville[1].\n- **Hours and Payment Methods**:\n  - The source does not specify the business hours or payment methods.\n- **Years in Operation**:\n  - Simple Service, LLC has been in business since September 2, 1995, and as of the current date, it has been operating for 29 years. The business was incorporated on June 15, 2010[1].\n\n## Services & Specialties:\n\n- **Types of Services Offered**:\n  - The business provides a wide range of services including plumbing renovation, sewer cleaning, water leak detectors, sewer contractors, water heater repair, appliance installation, heat pumps, tankless water heaters, commercial plumbing, water mitigation, water softener supplies, leak detection, water well pumps, propane gas plumbing, plumbing fixtures, pump service, sewer inspection, water well services, water supply systems, pumping contractors, water heater installation, plumbing plans, water heater parts, pump supplies, gas fittings, pump repair, and water remediation[1].\n- **Service Areas Covered**:\n  - While the specific service areas are not detailed, it is inferred to include the local region around Odenville, AL.\n- **Emergency Service Availability**:\n  - There is no explicit mention of 24-hour emergency service availability in the provided source.\n- **Any Listed Prices or Rates**:\n  - No prices or rates are listed in the source.\n\n## Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  - The source does not provide detailed review summaries or specific examples. However, it mentions that the business has a BBB rating but does not include customer reviews from the BBB site[1].\n- **BBB Rating and Status**:\n  - Simple Service, LLC is not a BBB Accredited Business but has an A+ BBB rating[1].\n- **Common Customer Feedback Themes**:\n  - There is no detailed customer feedback available in the provided source.\n- **Response to Reviews**:\n  - There is no information on how the business responds to reviews.\n\n## Owner & Staff:\n\n- **Owner/Management Information**:\n  - The owner of Simple Service, LLC is Mr. John Samples. Mr. Robert Kelley serves as the Office Manager[1].\n- **Staff Qualifications**:\n  - The source does not provide detailed information on the qualifications of the staff.\n- **Professional Certifications**:\n  - The business holds licenses from the State of Alabama Plumbers & Gas Fitters Examining Board, indicating that the plumbers are certified and licensed professionals[1].",
+    "review_trends": {
+        "ownerName": "Unknown",
+        "ownerConfidence": 0,
+        "servicesMentioned": [
+            "tub installation",
+            "leak repair"
+        ],
+        "firstReviewDate": "2023-03-10",
+        "last30": 0,
+        "last60": 0,
+        "last90": 1,
+        "last180": 1,
+        "last365": 1
     }
-  },
-  "research": "Here is the detailed information about Simple Service, LLC, based on the provided identifiers and verified sources:\n\n## Business Information:\n\n- **Alabama Business Registration/License Details**:\n  - Simple Service, LLC is licensed by the State of Alabama Plumbers & Gas Fitters Examining Board with license numbers MP-2929 and APP-7993[1].\n- **Physical Location and Service Areas**:\n  - The business is located at 1425 Cedar Creek Rd, Odenville, AL 35120-7117. However, the specific service areas are not detailed in the source, but it is implied to serve the local region around Odenville[1].\n- **Hours and Payment Methods**:\n  - The source does not specify the business hours or payment methods.\n- **Years in Operation**:\n  - Simple Service, LLC has been in business since September 2, 1995, and as of the current date, it has been operating for 29 years. The business was incorporated on June 15, 2010[1].\n\n## Services & Specialties:\n\n- **Types of Services Offered**:\n  - The business provides a wide range of services including plumbing renovation, sewer cleaning, water leak detectors, sewer contractors, water heater repair, appliance installation, heat pumps, tankless water heaters, commercial plumbing, water mitigation, water softener supplies, leak detection, water well pumps, propane gas plumbing, plumbing fixtures, pump service, sewer inspection, water well services, water supply systems, pumping contractors, water heater installation, plumbing plans, water heater parts, pump supplies, gas fittings, pump repair, and water remediation[1].\n- **Service Areas Covered**:\n  - While the specific service areas are not detailed, it is inferred to include the local region around Odenville, AL.\n- **Emergency Service Availability**:\n  - There is no explicit mention of 24-hour emergency service availability in the provided source.\n- **Any Listed Prices or Rates**:\n  - No prices or rates are listed in the source.\n\n## Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  - The source does not provide detailed review summaries or specific examples. However, it mentions that the business has a BBB rating but does not include customer reviews from the BBB site[1].\n- **BBB Rating and Status**:\n  - Simple Service, LLC is not a BBB Accredited Business but has an A+ BBB rating[1].\n- **Common Customer Feedback Themes**:\n  - There is no detailed customer feedback available in the provided source.\n- **Response to Reviews**:\n  - There is no information on how the business responds to reviews.\n\n## Owner & Staff:\n\n- **Owner/Management Information**:\n  - The owner of Simple Service, LLC is Mr. John Samples. Mr. Robert Kelley serves as the Office Manager[1].\n- **Staff Qualifications**:\n  - The source does not provide detailed information on the qualifications of the staff.\n- **Professional Certifications**:\n  - The business holds licenses from the State of Alabama Plumbers & Gas Fitters Examining Board, indicating that the plumbers are certified and licensed professionals[1].",
-  "review_trends": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [
-      "tub installation",
-      "leak repair"
-    ],
-    "firstReviewDate": "2023-03-10",
-    "last30": 0,
-    "last60": 0,
-    "last90": 1,
-    "last180": 1,
-    "last365": 1
-  }
 }

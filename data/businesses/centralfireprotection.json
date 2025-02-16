@@ -1,75 +1,75 @@
 {
-  "ids": {
-    "site_id": "central-fire-protection",
-    "place_id": "ChIJs1RV9ukeiYgR5aWQh3xeKYg",
-    "google_id": "0x88891ee9f65554b3:0x88295e7c8790a5e5",
-    "owner_id": 116337938529317186970
-  },
-  "basic_info": {
-    "name": "Central Fire Protection",
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs1RV9ukeiYgR5aWQh3xeKYg&q=plumber,+35061,+Dolomite,+AL,+US&authuser=0&hl=en&gl=US",
-    "phone": "+1 205-315-9767",
-    "query": "plumber, 35061, Dolomite, AL, US",
-    "name_for_emails": "Central Fire Protection",
-    "site": "",
-    "subtypes": "Plumber, Fire protection consultant, Fire protection service, Fire protection system supplier, Security service, Security system supplier",
-    "category": "Security service",
-    "type": "Plumber",
-    "full_address": "41 W Park Cir, Birmingham, AL 35211",
-    "borough": "Sand Ridge",
-    "street": "41 W Park Cir",
-    "city": "Birmingham",
-    "postal_code": 35211,
-    "state": "Alabama",
-    "us_state": "Alabama",
-    "country": "United States of America",
-    "country_code": "US",
-    "latitude": 33.4591727,
-    "longitude": -86.8424058,
-    "h3": "8944e834567ffff",
-    "time_zone": "America/Chicago",
-    "area_service": "FALSE",
-    "rating": 4.2,
-    "reviews": 10,
-    "photos_count": 5,
-    "photo": "https://lh5.googleusercontent.com/p/AF1QipMPiDnA3qQUopnUoMbjqecEKHXoqKfnavKkXXHa=w800-h500-k-no",
-    "street_view": "https://lh5.googleusercontent.com/p/AF1QipMPiDnA3qQUopnUoMbjqecEKHXoqKfnavKkXXHa=w1600-h1000-k-no",
-    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
-    "business_status": "OPERATIONAL",
-    "about": "{\"Accessibility\": {\"Wheelchair accessible entrance\": true, \"Wheelchair accessible parking lot\": true}}",
-    "logo": "https://lh6.googleusercontent.com/-pxvk22GxU18/AAAAAAAAAAI/AAAAAAAAAAA/0xh0s1ocY_E/s44-p-k-no-ns-nd/photo.jpg",
-    "verified": "TRUE",
-    "owner_title": "Central Fire Protection",
-    "owner_link": "https://www.google.com/maps/contrib/116337938529317186970",
-    "facebook": "",
-    "email_1": "",
-    "PrimaryColor": "#4474e4",
-    "SecondaryColor": "#133585"
-  },
-  "website_content": {
-    "aboutUs": "Central Fire Protection is a leading provider of fire safety solutions in Birmingham and the surrounding areas. Our team of experts specializes in the design, installation, and maintenance of advanced fire alarm systems, security systems, and specialized hazard protection equipment. With a deep commitment to local service and cutting-edge technology, we ensure your property is safeguarded against potential threats.",
-    "whyChooseUs": {
-      "mainPitch": "Unparalleled expertise in fire safety and protection for your peace of mind.",
-      "sellingPoints": [
-        "Comprehensive solutions tailored to your specific needs, from design to implementation.",
-        "Highly trained technicians with specialized certifications in fire alarm systems and hazard mitigation.",
-        "Prompt and reliable emergency response, ensuring your safety is our top priority."
-      ]
+    "ids": {
+        "site_id": "centralfireprotection",
+        "place_id": "ChIJs1RV9ukeiYgR5aWQh3xeKYg",
+        "google_id": "0x88891ee9f65554b3:0x88295e7c8790a5e5",
+        "owner_id": 116337938529317186970
+    },
+    "basic_info": {
+        "name": "Central Fire Protection",
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs1RV9ukeiYgR5aWQh3xeKYg&q=plumber,+35061,+Dolomite,+AL,+US&authuser=0&hl=en&gl=US",
+        "phone": "+1 205-315-9767",
+        "query": "plumber, 35061, Dolomite, AL, US",
+        "name_for_emails": "Central Fire Protection",
+        "site": "",
+        "subtypes": "Plumber, Fire protection consultant, Fire protection service, Fire protection system supplier, Security service, Security system supplier",
+        "category": "Security service",
+        "type": "Plumber",
+        "full_address": "41 W Park Cir, Birmingham, AL 35211",
+        "borough": "Sand Ridge",
+        "street": "41 W Park Cir",
+        "city": "Birmingham",
+        "postal_code": 35211,
+        "state": "Alabama",
+        "us_state": "Alabama",
+        "country": "United States of America",
+        "country_code": "US",
+        "latitude": 33.4591727,
+        "longitude": -86.8424058,
+        "h3": "8944e834567ffff",
+        "time_zone": "America/Chicago",
+        "area_service": "FALSE",
+        "rating": 4.2,
+        "reviews": 10,
+        "photos_count": 5,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMPiDnA3qQUopnUoMbjqecEKHXoqKfnavKkXXHa=w800-h500-k-no",
+        "street_view": "https://lh5.googleusercontent.com/p/AF1QipMPiDnA3qQUopnUoMbjqecEKHXoqKfnavKkXXHa=w1600-h1000-k-no",
+        "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+        "business_status": "OPERATIONAL",
+        "about": "{\"Accessibility\": {\"Wheelchair accessible entrance\": true, \"Wheelchair accessible parking lot\": true}}",
+        "logo": "https://lh6.googleusercontent.com/-pxvk22GxU18/AAAAAAAAAAI/AAAAAAAAAAA/0xh0s1ocY_E/s44-p-k-no-ns-nd/photo.jpg",
+        "verified": "TRUE",
+        "owner_title": "Central Fire Protection",
+        "owner_link": "https://www.google.com/maps/contrib/116337938529317186970",
+        "facebook": "",
+        "email_1": "",
+        "PrimaryColor": "#4474e4",
+        "SecondaryColor": "#133585"
+    },
+    "website_content": {
+        "aboutUs": "Central Fire Protection is a leading provider of fire safety solutions in Birmingham and the surrounding areas. Our team of experts specializes in the design, installation, and maintenance of advanced fire alarm systems, security systems, and specialized hazard protection equipment. With a deep commitment to local service and cutting-edge technology, we ensure your property is safeguarded against potential threats.",
+        "whyChooseUs": {
+            "mainPitch": "Unparalleled expertise in fire safety and protection for your peace of mind.",
+            "sellingPoints": [
+                "Comprehensive solutions tailored to your specific needs, from design to implementation.",
+                "Highly trained technicians with specialized certifications in fire alarm systems and hazard mitigation.",
+                "Prompt and reliable emergency response, ensuring your safety is our top priority."
+            ]
+        }
+    },
+    "research": "Based on the provided identifiers, here is the detailed information about Central Fire Protection, Inc. in Birmingham, Alabama:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: Central Fire Protection, Inc. is not specifically listed as a plumbing contractor in the provided sources. Instead, it is identified as a fire safety equipment company. There is no mention of plumbing licenses or registrations for this business.\n- **Physical Location and Service Areas**: The business is located at 41 W Park Cir, Birmingham, AL 35211. The service area appears to be centered around Birmingham and possibly other parts of Central and South Alabama, though specific service areas are not detailed[2][3].\n- **Hours and Payment Methods**: The sources do not provide specific information on the business hours or payment methods.\n- **Years in Operation**: Central Fire Protection, Inc. has been in operation since at least 1997, as indicated by the date the BBB file was opened[3].\n\n## Services & Specialties:\n- **Types of Services Offered**: Central Fire Protection, Inc. specializes in fire safety equipment, including sales, design, installation, and service/inspections of fire alarm/security systems, and special hazards projects[2][3].\n- **Service Areas Covered**: While the exact service areas are not specified, it is implied to include at least the Birmingham area and possibly broader regions within Central and South Alabama.\n- **Emergency Service Availability**: There is no explicit mention of emergency service availability, but given the nature of their services, it is likely they offer some form of emergency response.\n- **Prices or Rates**: No specific prices or rates are listed in the provided sources.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: The business has a 4.2-star rating based on 10 reviews, but the sources do not provide specific examples or summaries of these reviews.\n- **BBB Rating and Status**: Central Fire Protection, Inc. is not BBB accredited, but it has an A+ BBB rating[3].\n- **Common Customer Feedback Themes**: There is no detailed information on common customer feedback themes.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The president of Central Fire Protection, Inc. is Mr. Dan (DJ) Dotson. Other key personnel include Jerry L. Rouse as Vice-President, and various department heads such as Allen Buckner for Special Hazards, Adam Reeves for Inspections, and John Sharit for Fire Alarm & Security[2][3].\n- **Staff Qualifications**: The sources do not provide detailed information on the staff's qualifications or professional certifications.\n- **Professional Certifications**: There is no specific information on professional certifications held by the staff members, although their roles suggest they are qualified in their respective fields.",
+    "review_trends": {
+        "ownerName": "Unknown",
+        "ownerConfidence": 0,
+        "servicesMentioned": [
+            "fire sprinkler",
+            "alarm"
+        ],
+        "firstReviewDate": "2016-06-25",
+        "last30": 0,
+        "last60": 0,
+        "last90": 0,
+        "last180": 0,
+        "last365": 0
     }
-  },
-  "research": "Based on the provided identifiers, here is the detailed information about Central Fire Protection, Inc. in Birmingham, Alabama:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: Central Fire Protection, Inc. is not specifically listed as a plumbing contractor in the provided sources. Instead, it is identified as a fire safety equipment company. There is no mention of plumbing licenses or registrations for this business.\n- **Physical Location and Service Areas**: The business is located at 41 W Park Cir, Birmingham, AL 35211. The service area appears to be centered around Birmingham and possibly other parts of Central and South Alabama, though specific service areas are not detailed[2][3].\n- **Hours and Payment Methods**: The sources do not provide specific information on the business hours or payment methods.\n- **Years in Operation**: Central Fire Protection, Inc. has been in operation since at least 1997, as indicated by the date the BBB file was opened[3].\n\n## Services & Specialties:\n- **Types of Services Offered**: Central Fire Protection, Inc. specializes in fire safety equipment, including sales, design, installation, and service/inspections of fire alarm/security systems, and special hazards projects[2][3].\n- **Service Areas Covered**: While the exact service areas are not specified, it is implied to include at least the Birmingham area and possibly broader regions within Central and South Alabama.\n- **Emergency Service Availability**: There is no explicit mention of emergency service availability, but given the nature of their services, it is likely they offer some form of emergency response.\n- **Prices or Rates**: No specific prices or rates are listed in the provided sources.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: The business has a 4.2-star rating based on 10 reviews, but the sources do not provide specific examples or summaries of these reviews.\n- **BBB Rating and Status**: Central Fire Protection, Inc. is not BBB accredited, but it has an A+ BBB rating[3].\n- **Common Customer Feedback Themes**: There is no detailed information on common customer feedback themes.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The president of Central Fire Protection, Inc. is Mr. Dan (DJ) Dotson. Other key personnel include Jerry L. Rouse as Vice-President, and various department heads such as Allen Buckner for Special Hazards, Adam Reeves for Inspections, and John Sharit for Fire Alarm & Security[2][3].\n- **Staff Qualifications**: The sources do not provide detailed information on the staff's qualifications or professional certifications.\n- **Professional Certifications**: There is no specific information on professional certifications held by the staff members, although their roles suggest they are qualified in their respective fields.",
-  "review_trends": {
-    "ownerName": "Unknown",
-    "ownerConfidence": 0,
-    "servicesMentioned": [
-      "fire sprinkler",
-      "alarm"
-    ],
-    "firstReviewDate": "2016-06-25",
-    "last30": 0,
-    "last60": 0,
-    "last90": 0,
-    "last180": 0,
-    "last365": 0
-  }
 }
