@@ -1,34 +1,45 @@
 import os
 import json
 import shutil
+import re
+
+def clean_filename(name):
+    """Convert filename to clean lowercase with no special characters"""
+    return ''.join(c.lower() for c in name if c.isalnum())
 
 def update_repo_structure():
     print("Starting repository update...")
 
-    # Create data directory structure if it doesn't exist
-    os.makedirs('data/businesses', exist_ok=True)
+    # Create fresh data directories
+    if os.path.exists('data'):
+        shutil.rmtree('data')
+    os.makedirs('data/businesses')
 
-    # Move files to correct structure
-    if os.path.exists('output/metadata.json'):
-        shutil.copy('output/metadata.json', 'data/metadata.json')
-        print("Copied metadata.json to data/")
-
-    # Copy all business files
+    # First clean business filenames
     business_count = 0
     for filename in os.listdir('output/businesses'):
         if filename.endswith('.json'):
-            shutil.copy(
-                f'output/businesses/{filename}',
-                f'data/businesses/{filename}'
-            )
-            business_count += 1
+            # Clean the filename
+            old_path = f'output/businesses/{filename}'
+            new_filename = clean_filename(filename.replace('.json', '')) + '.json'
+            new_path = f'data/businesses/{new_filename}'
 
-    print(f"Copied {business_count} business files to data/businesses/")
-    print("\nRepository structure updated!")
-    print("\nNow you can:")
-    print("1. Use 'git add .' to stage all changes")
-    print("2. Use 'git commit -m \"Update repository structure\"' to commit")
-    print("3. Use 'git push' to push changes")
+            # Copy with new filename
+            shutil.copy(old_path, new_path)
+            business_count += 1
+            print(f"Copied {filename} → {new_filename}")
+
+    # Copy metadata
+    if os.path.exists('output/metadata.json'):
+        shutil.copy('output/metadata.json', 'data/metadata.json')
+        print("Copied metadata.json")
+
+    print(f"\nRepository structure updated!")
+    print(f"Processed {business_count} business files")
+    print("\nNow run:")
+    print("git add .")
+    print("git commit -m \"Update repository structure with clean filenames\"")
+    print("git push")
 
 if __name__ == "__main__":
     update_repo_structure()
